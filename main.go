@@ -4,11 +4,21 @@ import (
 	"fmt"
 )
 
-func main() {
-	cspath := "citeseer_ie/constraintOut"
-	papers, err := LoadCiteSeerPapers(cspath)
+type testResult struct {
+	Precision float32
+	Recall float32
+}
+
+func (this *testResult) f1() float32 {
+	return 2 * this.Precision * this.Recall / (this.Precision + this.Recall)
+}
+
+func testOnDataset(path string) (testResult, error) {
+	var testRes testResult
+
+	papers, err := LoadCiteSeerPapers(path)
 	if err != nil {
-		panic(err)
+		return testRes, err
 	}
 
 	result := MatchPapers(papers)
@@ -27,9 +37,29 @@ func main() {
 		}
 	}
 
-	precision := TP / (TP + FP)
-	recall := TP / float32(len(actual))
-	f1 := 2 * precision * recall / (precision + recall)
+	testRes.Precision = TP / (TP + FP)
+	testRes.Recall = TP / float32(len(actual))
 
-	fmt.Println(precision, recall, f1)
+	return testRes, nil
+}
+
+func main() {
+	cspaths := []string{"constraintOut", "faceOut", "reasoningOut", "reinforcementOut"}
+
+	var totalPrecision, totalRecall, totalF1 float32
+
+	for _, path := range cspaths {
+		result, err := testOnDataset("citeseer_ie/" + path)
+		if err != nil {
+			panic(err)
+		}
+
+		totalPrecision += result.Precision
+		totalRecall += result.Recall
+		totalF1 += result.f1()
+
+		fmt.Println(result.Precision, result.Recall, result.f1())
+	}
+
+	fmt.Print(totalPrecision / 4, totalRecall / 4, totalF1 / 4)
 }
