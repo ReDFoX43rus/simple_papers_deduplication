@@ -1,65 +1,72 @@
 package main
 
 import (
+	"database/sql"
+	"strconv"
+
+	_ "github.com/go-sql-driver/mysql"
+	"github.com/jmoiron/sqlx"
+
 	"fmt"
 )
 
-type testResult struct {
-	Precision float32
-	Recall float32
+type DBPaper struct {
+	ID sql.NullInt64 `db:"id"`
+
+	Title sql.NullString `db:"title"`
+	Year  sql.NullInt64  `db:"year"`
+
+	Authors []string
 }
 
-func (this *testResult) f1() float32 {
-	return 2 * this.Precision * this.Recall / (this.Precision + this.Recall)
+type AuthorsAndPapers struct {
+	PaperID  int64 `db:"paper_id"`
+	AuthorID int64 `db:"author_id"`
 }
 
-func testOnDataset(path string) (testResult, error) {
-	var testRes testResult
-
-	papers, err := LoadCiteSeerPapers(path)
-	if err != nil {
-		return testRes, err
-	}
-
-	result := MatchPapers(papers)
-	actual := MatchPapersByMeta(papers)
-
-	var TP, FP float32
-
-	for _, r := range result {
-		p1 := r.Paper1
-		p2 := r.Paper2
-
-		if p1.Cluster == p2.Cluster {
-			TP++
-		} else {
-			FP++
-		}
-	}
-
-	testRes.Precision = TP / (TP + FP)
-	testRes.Recall = TP / float32(len(actual))
-
-	return testRes, nil
+type Author struct {
+	FirstName sql.NullString `db:"first_name"`
+	LastName  sql.NullString `db:"last_name"`
+	Middle    sql.NullString `db:"middle"`
 }
 
 func main() {
-	cspaths := []string{"constraintOut", "faceOut", "reasoningOut", "reinforcementOut"}
-
-	var totalPrecision, totalRecall, totalF1 float32
-
-	for _, path := range cspaths {
-		result, err := testOnDataset("citeseer_ie/" + path)
-		if err != nil {
-			panic(err)
-		}
-
-		totalPrecision += result.Precision
-		totalRecall += result.Recall
-		totalF1 += result.f1()
-
-		fmt.Println(result.Precision, result.Recall, result.f1())
+	db, err := sqlx.Connect("mysql", "springuser:123@(localhost:3306)/miniscopus?charset=utf8")
+	if err != nil {
+		panic(err)
 	}
 
-	fmt.Print(totalPrecision / 4, totalRecall / 4, totalF1 / 4)
+	papers := []DBPaper{}
+	db.Select(&papers, "SELECT id, title, year FROM papers LIMIT 10")
+
+	papers = fetchAuthors(db, papers)
+
+	fmt.Println(papers)
+}
+
+func fetchAuthors(db *sqlx.DB, papers []DBPaper) []DBPaper {
+	for j := 0; j < len(papers); j++ {
+		ids := []AuthorsAndPapers{}
+
+		db.Select(&ids, "SELECT * FROM authors_linked_to_papers WHERE paper_id=?", papers[j].ID.Int64)
+
+		if len(ids) == 0 {
+			continue
+		}
+
+		authors := []Author{}
+		where := "id=" + strconv.FormatInt(ids[0].AuthorID, 10)
+
+		for i := 1; i < len(ids); i++ {
+			where = where + " OR " + "id=" + strconv.FormatInt(ids[i].AuthorID, 10)
+		}
+
+		db.Select(&authors, "SELECT first_name, last_name, middle FROM authors WHERE " + where)
+
+		for _, author := range authors {
+			papers[j].Authors = append(papers[j].Authors, author.FirstName.String+" "+author.Middle.String+" "+author.LastName.String)
+		}
+	}
+
+	return papers
 }

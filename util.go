@@ -82,37 +82,36 @@ func nameMatch(initials1, initials2 []string, threshold float64) bool {
 	return float64(counter)/math.Max(float64(len1), float64(len2)) >= threshold
 }
 
-// IsPapersMatch returns true if papers match, false otherwise
-func IsPapersMatch(paper1, paper2 CiteSeerPaper, thresholdYear, thresholdEditDistancePercentage int, thresholdName float64) bool {
+func IsPapersMatchCS(paper1, paper2 CiteSeerPaper, thresholdYear, thresholdEditDistancePercentage int, thresholdName float64) bool {
 	yearRegexp := regexp.MustCompile("\\d{4}")
 
 	year1str := yearRegexp.FindString(paper1.Year)
 	year2str := yearRegexp.FindString(paper2.Year)
 
-	if year1str != "" && year2str != "" {
-		year1, err1 := strconv.Atoi(year1str)
-		year2, err2 := strconv.Atoi(year2str)
+	year1, _ := strconv.Atoi(year1str)
+	year2, _ := strconv.Atoi(year2str)
 
-		if err1 != nil || err2 != nil || absDiffInt(year1, year2) > thresholdYear {
-			return false
-		}
+	return IsPapersMatch(paper1.Title, paper2.Title, paper1.Authors, paper2.Authors, year1, year2, thresholdYear, thresholdEditDistancePercentage, thresholdName)
+}
+
+// IsPapersMatch returns true if papers match, false otherwise
+func IsPapersMatch(title1, title2 string, authors1, authors2 []string, year1, year2 int, thresholdYear, thresholdEditDistancePercentage int, thresholdName float64) bool {
+	if year1 != 0 && year2 != 0 && absDiffInt(year1, year2) > thresholdYear {
+		return false
 	}
-
-	/* authors1 := getAuthors(paper1.Author)
-	authors2 := getAuthors(paper2.Author) */
 
 	initials1 := []string{}
 	initials2 := []string{}
 
-	for _, author := range paper1.Authors {
+	for _, author := range authors1 {
 		initials1 = append(initials1, nameToInitials(author))
 	}
 
-	for _, author := range paper2.Authors {
+	for _, author := range authors2 {
 		initials2 = append(initials2, nameToInitials(author))
 	}
 
-	maxDiff := minInt(len(paper1.Title), len(paper2.Title))
+	maxDiff := minInt(len(title1), len(title2))
 	if maxDiff > 10 {
 		maxDiff = maxDiff * thresholdEditDistancePercentage / 100
 	} else if maxDiff > thresholdEditDistancePercentage/10 && thresholdEditDistancePercentage/10 != 0 {
@@ -120,34 +119,11 @@ func IsPapersMatch(paper1, paper2 CiteSeerPaper, thresholdYear, thresholdEditDis
 	}
 
 	if nameMatch(initials1, initials2, thresholdName) &&
-		levenshtein.ComputeDistance(paper1.Title, paper2.Title) <= maxDiff {
-		/* if paper1.Meta == "fahlman1990a" && paper2.Meta == "fahlman1990b" {
-			fmt.Println(paper1, paper2)
-		} */
+		levenshtein.ComputeDistance(title1, title2) <= maxDiff {
 		return true
 	}
 
 	return false
-}
-
-func getAuthors(raw string) []string {
-	if strings.Contains(raw, "., ") {
-		raw := strings.ReplaceAll(raw, "and ", ",. ")
-		return strings.Split(raw, ",. ")
-	}
-
-	raw = strings.ReplaceAll(raw, "and ", ", ")
-	return strings.Split(raw, ", ")
-}
-
-func clearAuthors(authors []string) []string {
-	len := len(authors)
-
-	for i := 0; i < len; i++ {
-		authors[i] = strings.ReplaceAll(authors[i], "and ", "")
-	}
-
-	return authors
 }
 
 func absDiffInt(a, b int) int {

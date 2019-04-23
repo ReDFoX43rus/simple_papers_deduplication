@@ -15,7 +15,7 @@ func MatchPapers(papers []CiteSeerPaper) []CSMatchResult {
 		for j := i + 1; j < len; j++ {
 			paper2 := papers[j]
 
-			if IsPapersMatch(paper1, paper2, 1, 10, 0.8) {
+			if IsPapersMatchCS(paper1, paper2, 1, 10, 0.8) {
 				result = append(result, CSMatchResult{paper1, paper2})
 			}
 		}
