@@ -40,9 +40,6 @@ func iniSim(a, b string) bool {
 	alast := a[len1-1]
 	blast := b[len2-1]
 
-	// asecond := a[1]
-	// bsecond := b[1]
-
 	var asecond, bsecond byte
 
 	if len1 < 2 {
