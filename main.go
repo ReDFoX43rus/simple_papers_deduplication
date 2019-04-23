@@ -1,74 +1,52 @@
 package main
 
 import (
-	"database/sql"
-	"strconv"
-
-	_ "github.com/go-sql-driver/mysql"
-	"github.com/jmoiron/sqlx"
-
 	"fmt"
+	"net/http"
+	"sync/atomic"
 )
 
-type DBPaper struct {
-	ID sql.NullInt64 `db:"id"`
+var taskRunning int32
 
-	Title sql.NullString `db:"title"`
-	Year  sql.NullInt64  `db:"year"`
-
-	Authors []string
+func runTask(){
+	atomic.StoreInt32(&taskRunning, 1)
+	MatchAngMergePapers()
+	atomic.StoreInt32(&taskRunning, 0)
 }
 
-type AuthorsAndPapers struct {
-	PaperID  int64 `db:"paper_id"`
-	AuthorID int64 `db:"author_id"`
+func HelpHandler(w http.ResponseWriter, r *http.Request){
+	fmt.Fprintln(w, "Use /start to start match-merge process, use /check to check if process is running")
 }
 
-type Author struct {
-	FirstName sql.NullString `db:"first_name"`
-	LastName  sql.NullString `db:"last_name"`
-	Middle    sql.NullString `db:"middle"`
+func StartTaskHandler(w http.ResponseWriter, r *http.Request) {
+	tr := atomic.LoadInt32(&taskRunning)
+	if tr == 0 {
+		go runTask()
+		fmt.Fprintln(w, "Task run!")
+		return
+	}
+
+	fmt.Fprintln(w, "Task is already running")
+}
+
+func IsTaskRunningHandler(w http.ResponseWriter, r *http.Request) {
+	tr := atomic.LoadInt32(&taskRunning)
+
+	if tr == 0 {
+		fmt.Fprintln(w, "Task isn't running")
+		return
+	}
+
+	fmt.Fprintln(w, "Task is running now")
 }
 
 func main() {
-	db, err := sqlx.Connect("mysql", "springuser:123@(localhost:3306)/miniscopus?charset=utf8")
+	http.HandleFunc("/start", StartTaskHandler)
+	http.HandleFunc("/check", IsTaskRunningHandler)
+	http.HandleFunc("/", HelpHandler)
+
+	err := http.ListenAndServe(":9303", nil)
 	if err != nil {
 		panic(err)
 	}
-
-	papers := []DBPaper{}
-	db.Select(&papers, "SELECT id, title, year FROM papers")
-
-	papers = fetchAuthors(db, papers)
-
-	matchResult := MatchDBPapers(papers)
-
-	fmt.Println(matchResult)
-}
-
-func fetchAuthors(db *sqlx.DB, papers []DBPaper) []DBPaper {
-	for j := 0; j < len(papers); j++ {
-		ids := []AuthorsAndPapers{}
-
-		db.Select(&ids, "SELECT * FROM authors_linked_to_papers WHERE paper_id=?", papers[j].ID.Int64)
-
-		if len(ids) == 0 {
-			continue
-		}
-
-		authors := []Author{}
-		where := "id=" + strconv.FormatInt(ids[0].AuthorID, 10)
-
-		for i := 1; i < len(ids); i++ {
-			where = where + " OR " + "id=" + strconv.FormatInt(ids[i].AuthorID, 10)
-		}
-
-		db.Select(&authors, "SELECT first_name, last_name, middle FROM authors WHERE "+where)
-
-		for _, author := range authors {
-			papers[j].Authors = append(papers[j].Authors, author.FirstName.String+" "+author.Middle.String+" "+author.LastName.String)
-		}
-	}
-
-	return papers
 }
