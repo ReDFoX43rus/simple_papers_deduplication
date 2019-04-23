@@ -37,11 +37,13 @@ func main() {
 	}
 
 	papers := []DBPaper{}
-	db.Select(&papers, "SELECT id, title, year FROM papers LIMIT 10")
+	db.Select(&papers, "SELECT id, title, year FROM papers")
 
 	papers = fetchAuthors(db, papers)
 
-	fmt.Println(papers)
+	matchResult := MatchDBPapers(papers)
+
+	fmt.Println(matchResult)
 }
 
 func fetchAuthors(db *sqlx.DB, papers []DBPaper) []DBPaper {
@@ -61,7 +63,7 @@ func fetchAuthors(db *sqlx.DB, papers []DBPaper) []DBPaper {
 			where = where + " OR " + "id=" + strconv.FormatInt(ids[i].AuthorID, 10)
 		}
 
-		db.Select(&authors, "SELECT first_name, last_name, middle FROM authors WHERE " + where)
+		db.Select(&authors, "SELECT first_name, last_name, middle FROM authors WHERE "+where)
 
 		for _, author := range authors {
 			papers[j].Authors = append(papers[j].Authors, author.FirstName.String+" "+author.Middle.String+" "+author.LastName.String)
