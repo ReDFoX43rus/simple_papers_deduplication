@@ -1,0 +1,2056 @@
+<meta reference_no="1" cluster_no="1" true_id="689"></meta>
+
+<authors><author> D. McDermott</author> and<author> J. Doyle</author>.</authors><title> Non-monotonic Reasoning I. </title><journal>Artificial Intelligence, </journal><volume>13: </volume><pages>41-72, </pages><date>1980.</date>
+
+<meta reference_no="2" cluster_no="2" true_id="571"></meta>
+
+<authors><author> Aditya K. Ghose</author> and<author> Randy Goebel</author>.</authors><title> Default reasoning as belief change: A rationale. </title><booktitle>In Proc. of the 2nd Pacific Rim Int'l Conf. on AI, </booktitle><date>1992.</date>
+
+<meta reference_no="3" cluster_no="3" true_id="681"></meta>
+
+<authors><author> M. Shanahan</author>.</authors><title> Towards a calculus for temporal and qualitative reasoning. </title><booktitle>In Proceedings of AAAI Symposium, </booktitle><location>Stanford, </location><date>1991, 1991.</date>
+
+<meta reference_no="4" cluster_no="4" true_id="574"></meta>
+
+<authors><author> R. Brachman</author>.</authors><title> "Reducing" classic to Practice: Knowledge Representation Theory Meets Reality. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><date>October 1992.</date>
+
+<meta reference_no="5" cluster_no="5" true_id="555"></meta>
+
+<authors><author>Allen, J.</author></authors><date> 1991. </date><title>Planning as temporal reasoning. </title><booktitle>In Proceedings of the Second International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><pages>3-14.</pages>
+
+<meta reference_no="6" cluster_no="6" true_id="550"></meta>
+
+<authors><author> H. Katsuno</author> and<author> A. Mendelzon</author>.</authors><title> On the difference between updating a knowledge base and revising it. </title><booktitle>In Proc. 2nd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 387-394, </pages><date>1991.</date>
+
+<meta reference_no="7" cluster_no="7" true_id="477"></meta>
+
+<authors><author> Smith, B C</author>,</authors><date> (1986), </date><title>Varieties of self-reference. </title><booktitle>In Theoretical Aspects of Reasoning about Knowledge, </booktitle><pages>p. 19-43, </pages><publisher>Morgan Kaufmann, </publisher><location>Los Altos, CA.</location>
+
+<meta reference_no="8" cluster_no="8" true_id="677"></meta>
+
+<authors><author>Kwok, A.D.,</author><author> Norrie, D.H.,</author></authors><title> Integrating Multiple Reasoning in Intelligent Agent System, </title><journal>Integrated Computer-Aided Engineering, </journal><volume>1(2), </volume><pages>pp. 83-90, </pages><date>1993a.</date>
+
+<meta reference_no="9" cluster_no="8" true_id="677"></meta>
+
+<authors><author> A.D. Kwok</author> and<author> D.H. Norrie</author>,</authors><title> Integrating multiple reasoning in intelligent agent systems, </title><journal>Integrated ComputerAided Engineering, </journal><volume>vol. 1, no. 2 </volume><pages>pp. 83-90, </pages><date>1993.</date>
+
+<meta reference_no="10" cluster_no="9" true_id="743"></meta>
+
+<authors><author> S. Russell</author> and<author> E. Wefald</author>.</authors><title> Principles of Metareasoning. </title><journal>Artificial Intelligence, </journal><volume>49:</volume><pages>361-395, </pages><date>1991.</date>
+
+<meta reference_no="11" cluster_no="9" true_id="743"></meta>
+
+<authors><author>Russell, S.</author> and<author> Wefald, E.</author></authors><date> (1991). </date><title>Principles of Metareasoning. </title><journal>Artificial Intelligence, </journal><volume>49:</volume><pages>361-395.</pages>
+
+<meta reference_no="12" cluster_no="10" true_id="695"></meta>
+
+<authors><author> Wlodek Zadrozny</author>.</authors><title> Reasoning with background knowledge - a three-level theory. </title><journal>Computational Intelligence, </journal><volume>10(2), </volume><date>1994. </date><note>To appear.</note>
+
+<meta reference_no="13" cluster_no="11" true_id="512"></meta>
+
+<authors><author> Marc B. Vilain</author> and<author> Henry A. Kautz</author>.</authors><title> Constraint propagation algorithms for temporal reasoning. </title><booktitle>In Proceedings of the 5th National Conference of the American Association for Artificial Intelligence, </booktitle><pages>pages 377-</pages>
+
+<meta reference_no="14" cluster_no="11" true_id="513"></meta>
+
+<O>21. </O><authors><author>VILAIN, M.</author>,<author> KAUTZ, H.</author>, and<author> VAN BEEK, P.</author></authors><title> Constraint propagation algorithms for temporal reasoning: A revised report. </title><editor>In Weld and de Kleer .</editor><note> Revised version of a paper that appeared </note><booktitle>in Proceedings of AAAI 1986, </booktitle><pages>pp. 377-382.</pages>
+
+<meta reference_no="15" cluster_no="12" true_id="469"></meta>
+
+<authors><author> Alfonso Gerevini</author> and<author> Lenhart Schubert</author>.</authors><title> Efficient temporal reasoning through timegraphs. </title><booktitle>In Proceedings of the 13th International Joint Conference on Artificial Intelligence, </booktitle><pages>pages 648-654, </pages><location>Chambery, France, </location><date>August 1993.</date>
+
+<meta reference_no="16" cluster_no="13" true_id="514"></meta>
+
+<authors><author> Peter van Beek</author> and<author> Dennis W. Manchak</author>.</authors><title> The design and experimental analysis of algorithms for temporal reasoning. </title><journal>Journal of Artificial Intelligence Research, </journal><volume>4:</volume><pages>1-18, </pages><date>1996.</date><O>  16</O>
+
+<meta reference_no="17" cluster_no="14" true_id="521"></meta>
+
+<authors><author>Lacher, R. C.</author>,<author> Hruska, S. I.</author>, and<author> Kuncicky, D. C.</author></authors><date> (1991), </date><title>Expert networks: a neural network connection to symbolic reasoning systems, </title><booktitle>Proceedings FLAIRS 91 </booktitle><editor>(M. B. Fishman, ed.), </editor><institution>Florida AI Research Society, </institution><location>St. Petersburg, FL, </location><pages>pp. 12-16.</pages>
+
+<meta reference_no="18" cluster_no="15" true_id="563"></meta>
+
+<authors><author> Alvaro del Val</author>.</authors><title> Computing Knowledge Base Updates. </title><booktitle>In Proceedings of the Third International  Conference on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 740-750, </pages><date>1992.</date>
+
+<meta reference_no="19" cluster_no="16" true_id="676"></meta>
+
+<authors><author>Stallman, R. M.</author>, and<author> Sussman, G. J.</author></authors><date> 1977. </date><title>Forward reasoning and dependency-directed backtracking in a system for computer-aided circuit analysis. </title><journal>Artificial Intelligence </journal><volume>9:</volume><pages>135 - 196.</pages>
+
+<meta reference_no="20" cluster_no="17" true_id="734"></meta>
+
+<title>Reasoning, </title><journal>American Economic Review (Papers and Proceedings) </journal><volume>84. </volume><authors><author>Bereiter C</author> and<author> M Scardamalia </author></authors><date>(1993), </date><title>Surpassing Ourselves:</title>
+
+<meta reference_no="21" cluster_no="18" true_id="655"></meta>
+
+<authors><author>Wess, S.</author>, and<author> Globig, C.</author></authors><date> 1993. </date><title>Case-based and symbolic classification | a case study |. </title><editor>In Wess, S.; Althoff, K.-D.; and Richer, M. M., eds., </editor><booktitle>Topics in Case-Based Reasoning(EWCBR-93), </booktitle><pages>76-91.</pages>
+
+<meta reference_no="22" cluster_no="19" true_id="680"></meta>
+
+<O>34. </O><authors><author>A. S. Rao</author> and<author> M. P. Georgeff</author>.</authors><title> Modeling rational agents within a BDI-architecture. </title><booktitle>In Proceedings of Knowledge Representation and Reasoning, </booktitle><pages>pages 473-484, </pages><date>1991.</date>
+
+<meta reference_no="23" cluster_no="20" true_id="733"></meta>
+
+<authors><author> Stellan Ohlsson</author>.</authors><title> Induced strategy shifts in spatial reasoning. </title><journal>Acta Psychologica, </journal><volume>57:4767, </volume><date>1984.</date>
+
+<meta reference_no="24" cluster_no="21" true_id="459"></meta>
+
+<authors><author> B. Williams</author> and<author> J. Cagan</author>.</authors><title> Activity analysis: The qualitative analysis of stationary points for optimal reasoning. </title><booktitle>In Proceedings of the Twelfth National Conference on Artificial Intelligence, </booktitle><location>Seattle, Washington., </location><date>1994.</date>
+
+<meta reference_no="25" cluster_no="22" true_id="624"></meta>
+
+<authors><author> S. Hanks</author> and<author> D. McDermott</author>.</authors><title> Default reasoning, nonmonotonic logics and the frame problem. </title><booktitle>In Proceedings of AAAI-86, </booktitle><pages>pages 328-333, </pages><date>1986.</date>
+
+<meta reference_no="26" cluster_no="23" true_id="741"></meta>
+
+<authors><author>Winston, P. H.</author></authors><date> (1980). </date><title>Learning and reasoning by analogy, </title><journal>Communications of ACM </journal><volume> 23(12): </volume><pages>689-703.</pages>
+
+<meta reference_no="27" cluster_no="23" true_id="741"></meta>
+
+<authors><author>Winston, P. H.</author></authors><date> (1980) </date><title>Learning and reasoning by analogy. </title><journal>Communications of the ACM, </journal><pages>pages 689703.</pages>
+
+<meta reference_no="28" cluster_no="24" true_id="559"></meta>
+
+<authors><author> A.M. Richter</author>,<author> S. Weiss</author>.</authors><title> Similarity, uncertainty and case-based reasoning in PATDEX. </title><editor>In R.S. Boyer (ed.): </editor><booktitle>Automated reasoning, essays in honour of Woody Bledsoe. </booktitle><publisher>Kluwer, </publisher><date>1991, </date><pages>pp. 249-265.</pages>
+
+<meta reference_no="29" cluster_no="25" true_id="483"></meta>
+
+<authors><author> Stanfill, C.</author> and<author> Waltz, D.</author></authors><date> (1988). </date><title>The memory-based reasoning paradigm. </title><booktitle>In Proc. of a Workshop on Case-Based Reasoning, </booktitle><location>San Mateo CA: </location><publisher>Morgan Kaufmann. </publisher><pages>pp: 414-424.</pages>
+
+<meta reference_no="30" cluster_no="26" true_id="562"></meta>
+
+<authors><author>Freundschuh, S.M.</author></authors><date> (1992). </date><title>Is there a relationship between spatial cognition and environmental patterns. </title><booktitle>Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. </booktitle><editor>Frank, A.U., Campari, I., & Formentini, U. (Eds.). </editor><location>Berlin: </location><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="31" cluster_no="27" true_id="530"></meta>
+
+<O>6. </O><authors><author>J. L. Crowley</author>.</authors><title> Mathematical foundations of navigation an perception for an autonomous mobile robot. </title><editor>In L. Dorst, editor, </editor><booktitle>Reasoning with Uncertainty in Robotics. </booktitle><publisher>Springer Verlag, </publisher><date>1996.</date>
+
+<meta reference_no="32" cluster_no="27" true_id="530"></meta>
+
+<authors><author>Crowley, J.</author></authors><date> (1995). </date><title>Mathematical Foundations of Navigation and Perception for an Autonomous Mobile Robot. </title><pages>Pages 9-51</pages><note> of: </note><booktitle>Proceedings of the International Workshop on Reasoning with Uncertainty in Robotics. </booktitle><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="33" cluster_no="28" true_id="497"></meta>
+
+<authors><author> Russell, S.</author> and<author> Wefald, E.</author></authors><date> 1989. </date><title>"Principles of Metareasoning". </title><booktitle>the 1st International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pp. 400-411.</pages>
+
+<meta reference_no="34" cluster_no="28" true_id="497"></meta>
+
+<authors><author> S. Russell</author> and<author> E. Wefald</author>,</authors><title> Principles of Metareasoning, </title><booktitle>Proceedings of the First International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><location>Toronto, Ontario, Canada, </location><date>May 1989, </date><pages>pp. 400411.</pages>
+
+<meta reference_no="35" cluster_no="29" true_id="749"></meta>
+
+<authors><author>Fox, S.</author> &<author> Leake, D.B.</author></authors><date> (1995). </date><title>Modeling case-based planning for repairing reasoning failures. </title><booktitle>In Working Notes of the AAAI-95 Spring Symposium on Representing Mental States and Mechanisms. </booktitle><publisher>AAAI Press, </publisher><date>March.</date>
+
+<meta reference_no="36" cluster_no="30" true_id="553"></meta>
+
+<authors><author> Arcos, J. L.</author>, and<author> Plaza, E.</author></authors><date> (1993), </date><title>A Reflective Architecture for Integrated Memory-based Learning and Reasoning, </title><editor>In S. Wess, K.D. Althoff, M.M. Richter (Eds.), </editor><booktitle>Topics in Case-Based Reasoning. Lecture Notes in Artificial Intelligence, </booktitle><volume>837,</volume><pages> p. 289</pages>
+
+<meta reference_no="37" cluster_no="31" true_id="542"></meta>
+
+<authors><author>Farquhar, A.</author>;<author> Kuipers, B.</author>;<author> Rickel, J.</author>;<author> Throop, D.</author>; and<author> The Qualitative Reasoning Group.</author></authors><date> 1991. </date><title>QSIM: The program and its use. </title><tech>Technical Report AI90123, </tech><institution>Artificial  Intelligence Laboratory, University of Texas at Austin, </institution><location>Austin, Texas 78712.</location>
+
+<meta reference_no="38" cluster_no="32" true_id="493"></meta>
+
+<authors><author> H. R. Berenji</author>,</authors><title> Refinement of Approximate Reasoning-Based Controllers by Reinforcement Learning, </title><booktitle>in: Proceedings of the Eighth International Machine Learning Workshop, </booktitle><location>Evanston, IL</location><date> (1991), </date><pages>475479.</pages>
+
+<meta reference_no="39" cluster_no="32" true_id="493"></meta>
+
+<authors><author>Berenji, H. R.</author></authors><date> (1991). </date><title>Refinement of approximate reasoning-based controllers by reinforcement learning. </title><booktitle>Proceedings of the Eighth International Machine Learning Workshop </booktitle><pages>(pp. 475-479). </pages><location>Evanston, IL: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="40" cluster_no="33" true_id="601"></meta>
+
+<authors><author>Pask, G.</author></authors><date> (1975).</date><title> Conversation, Cognition and Learning. </title><location>Amsterdam, </location><publisher>Elsevier.</publisher><authors><author>  Peirce, C.S. </author></authors><date>(1898). </date><title>Reasoning and the Logic of Things. </title><location>Cambridge, Massachusetts, </location><publisher>Harvard University Press.</publisher>
+
+<meta reference_no="41" cluster_no="34" true_id="505"></meta>
+
+<authors><author>Kolodner, J. L.</author></authors><date> (1984); </date><title>Retrieval and Organizational Strategies in Conceptual Memory: A computer model;</title><publisher> Lawrence Erlbaum Associates, Publishers, </publisher><location>Hillsdale, NJ. </location><authors><author> Kolodner, J. L. </author></authors><note>(to appear); </note><booktitle>Case-Based Reasoning; </booktitle><publisher>Morgan Kaufmann Publishers.</publisher>
+
+<meta reference_no="42" cluster_no="35" true_id="474"></meta>
+
+<authors><author>Sacks, E.</author></authors><date> 1987. </date><title>Hierarchical reasoning about inequalities. </title><booktitle>In Proceedings of the Sixth National Conference on Artificial Intelligence, </booktitle><pages>649654. </pages><location>Los Altos, CA: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="43" cluster_no="36" true_id="691"></meta>
+
+<authors><author> D. Poole</author>.</authors><title> A logical framework for default reasoning. </title><journal>Artifical Intelligence, </journal><volume>36(1):</volume><pages>27-47, </pages><date>1988.</date>
+
+<meta reference_no="44" cluster_no="36" true_id="691"></meta>
+
+<authors><author> David Poole</author>.</authors><title> A logical framework for default reasoning. </title><journal>Artificial Intelligence, </journal><volume>36:</volume><pages>27-47, </pages><date>1988.</date>
+
+<meta reference_no="45" cluster_no="37" true_id="579"></meta>
+
+<authors><author>Crawford, J. M.</author>, and<author> Kuipers, B. J.</author></authors><date> 1991. </date><title>ALL: formalizing acess-limited reasoning. </title><editor>In Sowa, J., ed., </editor><booktitle>Principles of Semantic Networks. </booktitle><location>San Mateo, CA: </location><publisher>Morgan Kaufman. </publisher><pages>299330.</pages>
+
+<meta reference_no="46" cluster_no="38" true_id="618"></meta>
+
+<authors><author> J. Elgot-Drapkin</author> and<author> D. Perlis</author>.</authors><title> Reasoning situated in time I: Basic concepts. </title><journal>Journal of Experimental and Theoretical Artificial Intelligence, </journal><volume>2(1):</volume><pages>75-98, </pages><date>1990.</date>
+
+<meta reference_no="47" cluster_no="39" true_id="715"></meta>
+
+<authors><author> B. Nebel</author>.</authors><title> Computational properties of qualitative spatial reasoning: First results. </title><booktitle>In KI'95, LNCS 981, </booktitle><pages>pp.233-244, </pages><location>Springer, </location><date>1995.</date>
+
+<meta reference_no="48" cluster_no="40" true_id="720"></meta>
+
+<authors><author> B. Bennett</author>.</authors><title> Spatial reasoning with propositional logic. </title><booktitle>In Proc. KR'94, </booktitle><publisher>Morgan Kaufmann, </publisher><date>1994.</date>
+
+<meta reference_no="49" cluster_no="41" true_id="518"></meta>
+
+<authors><author> E. Pednault</author>.</authors><title> ADL: Exploring the middle ground between STRIPS and the situation calculus. </title><booktitle>In Proc. 1st Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 324332, </pages><date>1989.</date>
+
+<meta reference_no="50" cluster_no="41" true_id="518"></meta>
+
+<authors><author>Pednault, E.</author></authors><date> 1989. </date><title>ADL: Exploring the middle ground between STRIPS and the situation calculus. </title><booktitle>In Proc. 1st Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>324-332.</pages>
+
+<meta reference_no="51" cluster_no="42" true_id="467"></meta>
+
+<authors><author> Donald P. McKay</author> and<author> Stuart C. Shapiro</author>.</authors><title> Using active connection graphs for reasoning with recursive rules. </title><booktitle>In Proceedings of the Seventh International Joint Conference on Artificial Intelligence, </booktitle><pages>pages 368-374. </pages><publisher>Morgan Kaufmann, </publisher><O>S</O>
+
+<meta reference_no="52" cluster_no="43" true_id="610"></meta>
+
+<authors><author> M. Li</author> and<author> P. Vitanyi</author>.</authors><title> Inductive reasoning and Kolmogorov complexity. </title><journal>J. Computer and System Sciences, </journal><volume>44(2):</volume><pages>343-384, </pages><date>1992.</date>
+
+<meta reference_no="53" cluster_no="43" true_id="610"></meta>
+
+<authors><author> Ming Li</author> and<author> Paul M. B. Vitanyi</author>.</authors><title> Inductive reasoning and kolmogorov complexity. </title><journal>Journal of Computer and System Sciences, </journal><volume>44:</volume><pages>342-384, </pages><date>1992.</date>
+
+<meta reference_no="54" cluster_no="44" true_id="709"></meta>
+
+<authors><author> J.M. Crawford</author>.</authors><title> A theoretical analysis of reasoning by symmetry in first-order logic. </title><booktitle>In AAAI Workshop on Tractable Reasoning, </booktitle><date>1992.</date>
+
+<meta reference_no="55" cluster_no="45" true_id="660"></meta>
+
+<authors><author>Aamodt, A.</author> and<author> Plaza, E.</author></authors><title> Case-Based Reasoning: Foundational issues, methodological variations, and system approaches, </title><journal>AI Communications, </journal><volume>Vol.7, No.1,</volume><date> March (1994) </date><pages>39-59.</pages>
+
+<meta reference_no="56" cluster_no="45" true_id="660"></meta>
+
+<authors><author> A. Aamodt</author> and<author> E. Plaza</author>,</authors><title> Case-Based Reasoning: Foundational issues, methodological variations, and system approaches, </title><journal>AI Communications, </journal><volume>Vol.7, No.1, </volume><date>March (1994) </date><pages>39-59.</pages>
+
+<meta reference_no="57" cluster_no="45" true_id="660"></meta>
+
+<authors><author> Agnar Aamodt</author>,<author> Enric Plaza</author>.</authors><title> Case-Based Reasoning: Foundational Issues, Methodological Variations, and System Approaches. </title><journal>AI Communications, </journal><volume>Vol .7, No.1 </volume><date>March 1994, </date><pages>pp. 39-59.</pages>
+
+<meta reference_no="58" cluster_no="45" true_id="660"></meta>
+
+<authors><author> A. Aamodt</author>,<author> E. Plaza</author></authors><title>: Case-Based Reasoning: Foundational issues, current state, and future trends, </title><journal>AI Communications , </journal><date>March 1994, </date><pages>pp 39-59.</pages>
+
+<meta reference_no="59" cluster_no="46" true_id="667"></meta>
+
+<authors><author>Reyle, U.</author></authors><date> (1995). </date><title>On reasoning with ambiguities. </title><booktitle>In Proceedings of EACL</booktitle>
+
+<meta reference_no="60" cluster_no="47" true_id="466"></meta>
+
+<authors><author> Fahiem Bacchus</author>,<author> Adam Grove</author>,<author> Joseph Y. Halpern</author>, and<author> Daphne Koller</author>.</authors><title> Statistical foundations for default reasoning. </title><booktitle>In Proceedings of the 13th International Joint Conference on Artificial Intelligence(IJCAI-93), </booktitle><pages>pages 563-569, </pages><O>Chamber</O>
+
+<meta reference_no="61" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author>, &<author> Waltz, D.</author></authors><date> (1986). </date><title>Toward memory-based reasoning. </title><journal>Communications of the ACM, </journal><volume>29 (12), </volume><pages>1213-1228.</pages>
+
+<meta reference_no="62" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author> &<author> Waltz, D.</author></authors><date> (1986) </date><title>"Toward Memory-based Reasoning." </title><journal>Communications of the ACM </journal><volume>29, 12, </volume><pages>pp. 1213-1228.</pages>
+
+<meta reference_no="63" cluster_no="48" true_id="507"></meta>
+
+<authors><author> C. W. Stanfill</author> and<author> D. Waltz</author>.</authors><title> Toward memory-based reasoning. </title><journal>Communications of the ACM, </journal><volume>29:12, </volume><pages>1213-1228, </pages><date>1986.</date>
+
+<meta reference_no="64" cluster_no="48" true_id="507"></meta>
+
+<authors><author> C. Stanfill</author> and<author> D. Waltz</author>.</authors><title> Toward memory-based reasoning. </title><journal>Communications of the ACM, </journal><volume>29:</volume><pages>1213-1228, </pages><date>1986.</date>
+
+<meta reference_no="65" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author>, &<author> Waltz, D.</author></authors><date> (1986). </date><title>Toward memory-based reasoning. </title><journal>Communications of the ACM, </journal><volume>29, </volume><pages>1213-1228.</pages>
+
+<meta reference_no="66" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author>, &<author> Waltz, D.</author></authors><date> (1986). </date><title>Toward memory-based reasoning. </title><journal>Communications of the Association for Computing Machinery, </journal><volume>29, </volume><pages>1213-1228.</pages>
+
+<meta reference_no="67" cluster_no="48" true_id="507"></meta>
+
+<authors><author> C. Stanfill</author> and<author> D. Waltz</author>,</authors><title> Toward memory-based reasoning. </title><journal>Communications of the Association for Computing Machinery, </journal><volume>29, </volume><pages>1213-1228, </pages><date>1986.</date>
+
+<meta reference_no="68" cluster_no="48" true_id="507"></meta>
+
+<authors><author> Craig Stanfill</author> and<author> David Waltz</author>.</authors><title> Toward memory-based reasoning. </title><journal>Communication of ACM, </journal><volume>29:</volume><pages>1213-1229, </pages><date>1986.</date>
+
+<meta reference_no="69" cluster_no="48" true_id="507"></meta>
+
+<O>26. </O><authors><author>Waltz D. </author><author>Stanfill C.</author></authors><title> Toward memory-based reasoning. </title><journal>Communications of the ACM, </journal><volume>29, </volume><pages>1213-1228, </pages><date>1992.</date>
+
+<meta reference_no="70" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author>, and<author> Waltz, D.</author></authors><date> 1986. </date><title>Toward memorybased reasoning. </title><journal>Communications of the ACM </journal><volume>29(12):</volume><pages>1213-1228.</pages>
+
+<meta reference_no="71" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author>, and<author> Waltz, D.</author></authors><date> 1986. </date><title>Toward MemoryBased Reasoning. </title><journal>Communications of the ACM </journal><volume>29(12):</volume><pages>1213-1228.</pages>
+
+<meta reference_no="72" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author> &<author> Waltz, D.</author></authors><date> (1986). </date><title>Toward memorybased reasoning. </title><journal>Communications of the ACM, </journal><volume>29 (12), </volume><pages>1213-1228.</pages>
+
+<meta reference_no="73" cluster_no="48" true_id="507"></meta>
+
+<authors><author>Stanfill, C.</author> and<author> D. L. Waltz</author>.</authors><title> Toward Memory-based Reasoning. </title><journal>Communications of the ACM, </journal><volume>Vol. 29, 12, </volume><date>1986.</date>
+
+<meta reference_no="74" cluster_no="48" true_id="507"></meta>
+
+<authors><author> C. Stanfill</author> and<author> D. Waltz</author>.</authors><title> Towards memory-based reasoning. </title><journal>Communications of the ACM, </journal><volume>29(12):</volume><pages>12131228, </pages><date>December 1986.</date>
+
+<meta reference_no="75" cluster_no="48" true_id="507"></meta>
+
+<authors><author> Stanfill, C.</author> &<author> Waltz, D.</author></authors><title>: Toward Memory-Based Reasoning. </title><journal>CACM, </journal><volume>Vol.29, No.12 </volume><date>(1991) </date><pages>185-192.</pages>
+
+<meta reference_no="76" cluster_no="48" true_id="507"></meta>
+
+<authors><author> Stanfill, C.</author> &<author> Waltz, D.</author></authors><title>: Toward Memory-Based Reasoning. </title><journal>CACM, </journal><volume>Vol.29, No.12 </volume><date>(1991) </date><pages>185-192.</pages>
+
+<meta reference_no="77" cluster_no="48" true_id="507"></meta>
+
+<O>14. </O><authors><author>Stanfill, C.</author> &<author> Waltz, D.</author></authors><title>: Toward Memory-Based Reasoning. </title><journal>CACM, </journal><volume>Vol.29, No.12 </volume><date>(1991) </date><pages>185-192.</pages>
+
+<meta reference_no="78" cluster_no="48" true_id="507"></meta>
+
+<O>13. </O><authors><author>Stanfill, C.</author> and<author> Waltz, D.</author></authors><title>: Toward Memory-Based Reasoning. </title><journal>CACM, </journal><volume>Vol.29, No.12 </volume><date>(1991) </date><pages>185-192.</pages>
+
+<meta reference_no="79" cluster_no="48" true_id="507"></meta>
+
+<authors><author> C. Stanll</author> and<author> D. Waltz</author>.</authors><title> Towards memorybased reasoning. </title><journal>Communications of the ACM, </journal><volume>29(12):</volume><pages>12131228, </pages><date>1986.</date>
+
+<meta reference_no="80" cluster_no="49" true_id="503"></meta>
+
+<booktitle>In Inside Case-based Reasoning,</booktitle><editor> C.K. Riesbeck and R. C. Schank, eds.</editor><pages> (pp. 319392). </pages><publisher>Lawrence Erlbaum Associates, </publisher><location>Hillsdale, N.J.</location>
+
+<meta reference_no="81" cluster_no="50" true_id="616"></meta>
+
+<authors><author> P. Bonissone</author> and<author> P. Halverson</author>,</authors><title> "Time-Constrained Reasoning under Uncertainty," </title><journal>The Journal of Real-Time Systems, </journal><volume>vol. 2, </volume><publisher>Kluwer Academic Publishers, </publisher><pages>pp. 25-45, </pages><date>1990.</date>
+
+<meta reference_no="82" cluster_no="51" true_id="560"></meta>
+
+<authors><author> K P Jantke</author></authors><date> (1993), </date><title>Nonstandard concepts of similarity in case-based reasoning. </title><booktitle>Proceedings of the 17th Annual Conference of the "Gesellllschaft fr Klassifikation e.V.".</booktitle><location> Kaiserslautern, </location><title>March 1993. </title><publisher>Springer Verlag.</publisher>
+
+<meta reference_no="83" cluster_no="52" true_id="597"></meta>
+
+<authors><author>Shastri, L.</author> and<author> Ajjanagadde, V.</author></authors><date> (1993). </date><title>From simple associations to systematic reasoning: A connectionist representation of rules, variables, and dynamic bindings using temporal synchrony. </title><booktitle>Behavioral and Brain Sciences, </booktitle><volume>16.</volume>
+
+<meta reference_no="84" cluster_no="53" true_id="672"></meta>
+
+<authors><author> R. Patil</author>,<author> R. Fikes</author>,<author> P. Patel-Schneider</author>,<author> D. McKay</author>,<author> T. Finin</author>,<author> T. Gruber</author>, and<author> R. Neches</author>.</authors><title> The DARPA Knowledge Sharing Effort: Progress Report. </title><booktitle>In Proceedings of the Third International Conference on Principles of Knowledge Representation and Reasoning,</booktitle>
+
+<meta reference_no="85" cluster_no="53" true_id="672"></meta>
+
+<authors><author>Patil, R.</author>;<author> Fikes, R.</author>;<author> Patel-Schneider, P.</author>;<author> McKay, D.</author>;<author> Finin, T.</author>;<author> Gruber, T.</author>; and<author> Neches, R.</author></authors><date> 1992. </date><title>The DARPA knowledge sharing effort: Progress report. </title><booktitle>In Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Confere</booktitle>
+
+<meta reference_no="86" cluster_no="53" true_id="672"></meta>
+
+<authors><author> R. Patil</author>,<author> R. Fikes</author>,<author> P. Patel-Schneider</author>,<author> D. McKay</author>,<author> T. Finin</author>,<author> T. Gruber</author>, and<author> R. Neches</author>.</authors><title> The DARPA knowledge sharing effort: Progress report. </title><booktitle>In Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Conference, No</booktitle>
+
+<meta reference_no="87" cluster_no="53" true_id="672"></meta>
+
+<authors><author> R. S. Patil</author>,<author> R. E. Fikes</author>,<author> P. F. Patel-Schneider</author>,<author> D. McKay</author>,<author> T. Finin</author>,<author> T. R. Gruber</author>, &<author> R. Neches</author>.</authors><title> The DARPA Knowledge Sharing Effort: Progress report. </title><booktitle>Principles of Knowledge Representation and Reasoning: Proceedings of the Third International Confere</booktitle>
+
+<meta reference_no="88" cluster_no="53" true_id="672"></meta>
+
+<authors><author> R. Patil</author>,<author> R. Fikes</author>,<author> P. Patel-Schneider</author>,<author> D. McKay</author>,<author> T. Finin</author>,<author> T. Gruber</author>, and<author> R. Neches</author>.</authors><title> The DARPA knowledge sharing effort: Progress report. </title><editor>In B. Nebel, C. Rich, and W. Swartout, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proc. of</booktitle>
+
+<meta reference_no="89" cluster_no="53" true_id="672"></meta>
+
+<authors><author>R. Patil</author>,<author> R. Fikes</author>,<author> P. Patel-Schneider</author>,<author> D. McKay</author>,<author> T. Finin</author>,<author> T. Gruber</author>, and<author> R. Neches</author>.</authors><title> The DARPA knowledge sharing effort: Progress report. </title><editor>In B. Nebel, C. Rich, and W. Swartout, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proceedings o</booktitle>
+
+<meta reference_no="90" cluster_no="53" true_id="672"></meta>
+
+<authors><author> R. Patil</author>,<author> R. Fikes</author>,<author> P. Patel-Schneider</author>,<author> D. McKay</author>,<author> T. Finin</author>,<author> T. Gruber</author>, and<author> R. Neches</author>.</authors><title> The DARPA Knowledge Sharing Effort: Progress report. </title><editor>In B. Nebel, C. Rich, and W. Swartout, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proc. of</booktitle>
+
+<meta reference_no="91" cluster_no="54" true_id="648"></meta>
+
+<authors><author>Dean, T.</author>, &<author> Kanazawa, K.</author></authors><date> (1989). </date><title>A model for reasoning about causality and persistence. </title><journal>Computational Intelligence, </journal><volume>5, </volume><pages>142-150. </pages><authors><author> Dechter, R.</author></authors><note> (in press). </note><title>Bucket elimination: A unifying framework for probabilistic inference. </title><editor>In M. I. Jordan (Ed.), </editor><booktitle>Learning</booktitle>
+
+<meta reference_no="92" cluster_no="54" true_id="648"></meta>
+
+<authors><author> Dean, Thomas</author> and<author> Kanazawa, Keiji</author></authors><date> 1989. </date><title>A model for reasoning about persistence and causation. </title><journal>Computational Intelligence </journal><volume>5(3):</volume><pages>142-150.</pages>
+
+<meta reference_no="93" cluster_no="55" true_id="659"></meta>
+
+<authors><author> Grimnes, M.</author>,<author> Aamodt, A.</author>,</authors><title> A two layer case-based reasoning architecture for medical image understanding, </title><booktitle>in Proccedings of EWCBR, </booktitle><date>1996</date>
+
+<meta reference_no="94" cluster_no="56" true_id="485"></meta>
+
+<booktitle>CBR-91,Proceedings from the Case-Based Reasoning Workshop, </booktitle><location>Washington D.C., </location><date>May 8-10, 1991. </date><note>Sponsored by DARPA. </note><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="95" cluster_no="57" true_id="504"></meta>
+
+<authors><author> M.L. Maher</author>,<author> M. Balachandran</author> and<author> D. Zhang</author>,</authors><title> Case-Based Reasoning in Design, </title><publisher>Lawrence Erlbaum, </publisher><location>Hillsdale, NJ, </location><date>1995.</date>
+
+<meta reference_no="96" cluster_no="57" true_id="504"></meta>
+
+<authors><author>Maher, M. L.</author>,<author> M. B. Balachandran,</author> &<author> D. M. Zhang</author></authors><date> (1995). </date><title>Case-Based Reasoning in Design. </title><location>Hillsdale, NJ: </location><publisher>Lawrence Erlbaum Associates.</publisher>
+
+<meta reference_no="97" cluster_no="57" true_id="504"></meta>
+
+<authors><author>Maher, M. L.</author>,<author> Balachandran, M. B.</author> &<author> Zhang, D.</author></authors><date> (1995). </date><title>Case-Based Reasoning in Design, </title><publisher>Lawrence Erlbaum, </publisher><location>Hillsdale, NJ.</location>
+
+<meta reference_no="98" cluster_no="58" true_id="697"></meta>
+
+<authors><author> Peter van Beek</author> and<author> Robin Cohen</author>.</authors><title> Exact and approximate reasoning about temporal relations. </title><journal>Computational Intelligence, </journal><volume>6:</volume><pages>132-144, </pages><date>1990.</date>
+
+<meta reference_no="99" cluster_no="59" true_id="658"></meta>
+
+<authors><author> B. Leng</author>,<author> B. Buchanan</author>, and<author> H. Nicholas</author>.</authors><title> Protein secondary structure prediction using two-level case-based reasoning. </title><journal>In J. of Computational Biology, </journal><pages>pages 25-38, </pages><date>1994.</date>
+
+<meta reference_no="100" cluster_no="60" true_id="723"></meta>
+
+<authors><author> Adam Farquhar</author>.</authors><title> Focusing atms-based diagnosis and prediction. </title><booktitle>In Proceedings of the Model-Based Reasoning Workshop at IJCAI-89, </booktitle><date>1989.</date>
+
+<meta reference_no="101" cluster_no="61" true_id="523"></meta>
+
+<authors><author> S. Zilberstein</author>.</authors><title> "Meta-Level Control of Approximate Reasoning: A Decision Theoretic Approach." </title><note>To appear </note><booktitle>in Proceedings of the Eighth International Symposium on Methodologies for Intelligent Systems, </booktitle><location>Charlotte, North Carolina, </location><date>October 1994. </date><note>Will be a</note>
+
+<meta reference_no="102" cluster_no="62" true_id="580"></meta>
+
+<authors><author> Glenn Shafer</author> and<author> Judea Pearl</author>.</authors><title> Readings in Uncertain Reasoning. </title><publisher>Morgan  Kaufmann, </publisher><location>San Mateo, CA, </location><date>1990.</date>
+
+<meta reference_no="103" cluster_no="63" true_id="725"></meta>
+
+<authors><author>Alshawi, H.</author>,<author> Carter, D.</author>,<author> Crouch, R.</author>,<author> Pulman, S.</author>,<author> Rayner, M.</author> &<author> Smith, A.</author></authors><date> (1992). </date><title>CLARE: A Contextual Reasoning and Cooperative Response Framework for the Core Language Engine. </title><location>Cambridge, UK:</location><institution> SRI International.</institution><authors><author> Briscoe, E.</author>,<author> Grover, C.</author>,<author> Boguraev, B.</author> &<author> Carro</author></authors>
+
+<meta reference_no="104" cluster_no="64" true_id="490"></meta>
+
+<authors><author> Minton, S.</author>,<author> Drummond, M.</author>,<author> Bresina, J.</author>, and<author> Philips, A. </author></authors><title>Total Order vs. Partial Order Planning: Factors Influencing Performance. </title><booktitle>In Proc. of the Third International Conference on Principles of Knowledge Representation and Reasoning.</booktitle>
+
+<meta reference_no="105" cluster_no="65" true_id="690"></meta>
+
+<authors><author>Reiter, R.</author>,</authors><title> A logic for default reasoning. </title><volume>13, </volume><pages>pp. 81132, </pages><date>1980.</date>
+
+<meta reference_no="106" cluster_no="66" true_id="615"></meta>
+
+<authors><author> Francesco Ricci</author>.</authors><title> Constraint reasoning with learning automata. </title><journal>International Journal of Intelligent Systems, </journal><volume>9(12):</volume><pages>1059-1082, </pages><date>December 1994.</date>
+
+<meta reference_no="107" cluster_no="67" true_id="736"></meta>
+
+<authors><author>Bauer, M.</author></authors><date> 1994a. </date><title>Integrating Probabilistic Reasoning into Plan Recognition. </title><booktitle>In Proceedings of the 11th European</booktitle>
+
+<meta reference_no="108" cluster_no="68" true_id="577"></meta>
+
+<authors><author>Levesque, H. J.</author> and<author> Brachman, R. J.</author></authors><date> (1985). </date><title>A fundamental tradeoff in knowledge representation and reasoning. </title><editor>In Brachman, R. J. and Levesque, H. J., editors, </editor><booktitle>Readings in Knowledge Representation, </booktitle><volume>chapter 4, </volume><pages>pages 41-70. </pages><publisher>Morgan Kaufmann, </publisher><location>San Mateo.</location>
+
+<meta reference_no="109" cluster_no="69" true_id="740"></meta>
+
+<authors><author> R. Reiter</author>.</authors><title> Nonmonotonic reasoning. </title><booktitle>Annual Review of Computer Science, </booktitle><date>1987.</date>
+
+<meta reference_no="110" cluster_no="70" true_id="567"></meta>
+
+<authors><author> M. Haraguchi</author> and<author> S. Arikawa</author>.</authors><title> Reasoning by Analogy as a Partial Identity between Mo dels. </title><editor>In K.P. Jantke, editor, </editor><journal>Analogical and Inductive Inference, </journal><volume>volume 265 </volume><journal>of Lecture Notes in Computer Science, </journal><pages>pages 61-87. </pages><publisher>Springer-Verlag, </publisher><location>New York, </location><date>1987.</date>
+
+<meta reference_no="111" cluster_no="71" true_id="614"></meta>
+
+<authors><author>Gaines, B.R.</author></authors><date> 1993b. </date><title>Modeling practical reasoning. </title><journal>International Journal of Intelligent Systems </journal><volume>8(1) </volume><pages>51-70.</pages>
+
+<meta reference_no="112" cluster_no="72" true_id="596"></meta>
+
+<authors><author>Rymon, R.</author></authors><date> 1992. </date><title>Search through systematic set enumeration. </title><booktitle>In Proceedings of the Third International Conference on Principles of Knowledge Representation and Reasoning.</booktitle>
+
+<meta reference_no="113" cluster_no="72" true_id="596"></meta>
+
+<authors><author>Rymon, R.</author></authors><date> 1992. </date><title>Search through systematic set enumeration. </title><booktitle>In Proceedings of the Third International Conference on Principles of Knowledge Representation and Reasoning.</booktitle>
+
+<meta reference_no="114" cluster_no="72" true_id="596"></meta>
+
+<authors><author>Rymon, R.</author></authors><date> 1992. </date><title>Search through systematic set enumeration. </title><booktitle>In Proceedings of the Third International Conference on Principles of Knowledge Representation and Reasoning.</booktitle>
+
+<meta reference_no="115" cluster_no="73" true_id="688"></meta>
+
+<authors><author> J. McCarthy</author>.</authors><title> Circumscription - a form of non-monotonic reasoning. </title><journal>Artificial Intelligence, </journal><volume>13(1,2):</volume><pages>27-39, </pages><date>April 1980.</date>
+
+<meta reference_no="116" cluster_no="74" true_id="631"></meta>
+
+<authors><author> R. Sun</author>.</authors><title> A two-level hybrid architecture for structuring knowledge for commonsense reasoning. </title><editor>In R. Sun and L.A. Bookman, editors, </editor><booktitle>Computational Architectures Integrating Neural and Symbolic Processing. </booktitle><publisher>Kluwer, </publisher><location>Boston, </location><date>1995.</date>
+
+<meta reference_no="117" cluster_no="75" true_id="712"></meta>
+
+<authors><author> A.J. Ayer</author>,</authors><title> The origins of pragmatism. </title><note>Ch. 3, </note><booktitle>Pierces philosophy of science, A. The three kinds of reasoning. </booktitle><publisher>Freeman, Cooper & Co., </publisher><date>1968. </date><pages>63-80.</pages>
+
+<meta reference_no="118" cluster_no="76" true_id="583"></meta>
+
+<authors><author>Stru, P.</author></authors><date> 1990. </date><title>Problems of interval-based qualitative reasoning. </title><editor>In Weld, D., and de Kleer, J., eds., </editor><booktitle>Qualitative Reasoning about Physical Systems. </booktitle><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="119" cluster_no="77" true_id="701"></meta>
+
+<O>10. </O><authors><author>F.F. Ingrand</author>,<author> M.P. Georgeff</author>, and<author> A.S. Rao</author>.</authors><title> An architecture for real-time reasoning andsystem control. </title><journal>IEEE Expert, </journal><volume>7(6):3444, </volume><date>1992.</date>
+
+<meta reference_no="120" cluster_no="78" true_id="730"></meta>
+
+<authors><author>Egenhofer, M.</author> and<author> Al-Taha, K. K.</author></authors><date> (1992). </date><title>Reasoning about gradual changes of topological</title>
+
+<meta reference_no="121" cluster_no="78" true_id="730"></meta>
+
+<authors><author>Egenhofer, M. J.</author> and<author> Al-Taha, K. K.</author></authors><date> (1992). </date><title>Reasoning about gradual changes of topological</title>
+
+<meta reference_no="122" cluster_no="78" true_id="730"></meta>
+
+<authors><author>Egenhofer, M. J.</author> and<author> Al-Taha, K. K.</author></authors><date> (1992). </date><title>Reasoning about gradual changes of</title>
+
+<meta reference_no="123" cluster_no="78" true_id="730"></meta>
+
+<O>7. </O><authors><author>EGENHOFER, M.</author> and<author> AL-TAHA, K. K.</author></authors><title> Reasoning about gradual changes of topological relationships. </title><editor>In Frank et al. , </editor><pages>pages 196-219.</pages>
+
+<meta reference_no="124" cluster_no="79" true_id="502"></meta>
+
+<authors><author> Roger Schank</author></authors><title>: Explanation; a first pass. </title><editor>In J.L. Kolodner, C.K. Riesbeck (eds.): </editor><booktitle>Experience, memory and reasoning. </booktitle><publisher>Lawrence Erlbaum, </publisher><date>1986. </date><pages>pp. 139-165.</pages>
+
+<meta reference_no="125" cluster_no="80" true_id="714"></meta>
+
+<O>17. </O><authors><author>HERNANDEZ, D.</author> and<author> ZIMMERMANN, K.</author></authors><title> Default reasoning and the qualitative representation of spatial knowledge. </title><note>In preparation, </note><date>1992.</date>
+
+<meta reference_no="126" cluster_no="80" true_id="714"></meta>
+
+<authors><author>Hernandez, D.</author> and<author> Zimmermann, K.</author></authors><date> (1992). </date><title>Default reasoning and the qualitative representation of spatial knowledge. </title><note>In preparation.</note>
+
+<meta reference_no="127" cluster_no="81" true_id="462"></meta>
+
+<authors><author>Schwartz, D. G.</author></authors><date> (1989). </date><title>Outline of a naive semantics for reasoning with qualitative linguistic information. </title><editor>In Sridharan, N. S., editor, </editor><booktitle>Proceedings of the Eleventh International Joint Conference on Artificial Intelligence, </booktitle><location>Detroit, MI, </location><volume>Volume 2, </volume><pages>pages 1</pages>
+
+<meta reference_no="128" cluster_no="82" true_id="638"></meta>
+
+<authors><author> Jonathan J. King</author>.</authors><title> Query Optimization by Semantic Reasoning. </title><tech>PhD thesis, </tech><institution>Stanford  University, Department of Computer Science, </institution><date>1981.</date>
+
+<meta reference_no="129" cluster_no="82" true_id="638"></meta>
+
+<authors><author> Jonathan Jay King</author>.</authors><title> Query Optimization by Semantic Reasoning. </title><tech>PhD thesis, </tech><institution>Stanford University, Department of Computer Science, </institution><date>1981.</date><O>  30</O>
+
+<meta reference_no="130" cluster_no="82" true_id="638"></meta>
+
+<authors><author>King, J. J.</author></authors><date> 1981. </date><title>Query Optimization by Semantic Reasoning. </title><tech>Ph.D. Dissertation, </tech><institution>Stanford University, Department of Computer Science.</institution>
+
+<meta reference_no="131" cluster_no="82" true_id="638"></meta>
+
+<authors><author>King, J. J.</author></authors><date> (1981). </date><title>Query Optimization by Semantic Reasoning. </title><tech>Ph.D. Dissertation, </tech><institution>Stanford University, Department of Computer Science.</institution>
+
+<meta reference_no="132" cluster_no="82" true_id="638"></meta>
+
+<authors><author>King, J. J.</author></authors><date> 1981. </date><title>Query Optimization by Semantic Reasoning. </title><tech>Ph.D. Dissertation, </tech><institution>Stanford University, Department of Computer Science.</institution>
+
+<meta reference_no="133" cluster_no="82" true_id="638"></meta>
+
+<authors><author>King, J. J.</author></authors><date> 1981. </date><title>Query Optimization by Semantic Reasoning. </title><tech>Ph.D. Dissertation, </tech><institution>Stanford University, Department of Computer Science.</institution>
+
+<meta reference_no="134" cluster_no="82" true_id="640"></meta>
+
+<authors><author> King, J. J.</author></authors><date> (1981). </date><title>Query optimization by semantic reasoning. </title><tech>Technical Report STAN-CS-81-857, </tech><institution>Stanford University.</institution>
+
+<meta reference_no="135" cluster_no="83" true_id="737"></meta>
+
+<authors><author> F. Ricci</author> and<author> P. Avesani</author>.</authors><title> Learning a local similarity metric for case-based reasoning. </title><booktitle>In Proceedings of the First International Conference on Case-Based Reasoning, </booktitle><location>Sesimbra, Portugal, </location><date>1995. </date><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="136" cluster_no="83" true_id="737"></meta>
+
+<authors><author>Ricci, F.</author>, &<author> Avesani, P.</author></authors><date> (1995). </date><title>Learning a local similarity metric for case-based reasoning. </title><note>To appear </note><booktitle>in Proceedings of the First International Conference on CaseBased Reasoning. </booktitle><location>Sesimbra, Portugal: </location><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="137" cluster_no="83" true_id="737"></meta>
+
+<authors><author>Ricci, F.</author> and<author> Avesani, P.</author></authors><date> (1995). </date><title>Learning a local similarity metric for case-based reasoning. </title><booktitle>In Proceedings of the international conference on case-based reasoning (ICCBR-95), </booktitle><location>Sesimbra, Portugal.</location>
+
+<meta reference_no="138" cluster_no="83" true_id="737"></meta>
+
+<authors><author> Francesco Ricci</author> and<author> Paolo Avesani</author>.</authors><title> Learning a local similarity metric for casebased reasoning. </title><booktitle>In International Conference on Case-Based Reasoning (ICCBR-95), </booktitle><location>Sesimbra, Portugal, </location><date>Oct. 23-26, 1995.</date>
+
+<meta reference_no="139" cluster_no="84" true_id="634"></meta>
+
+<authors><author> R. E. Neapolitan</author>,</authors><title> Probabilistic Reasoning in Expert Systems. </title><location>New York NY.: </location><publisher>John Wiley & Sons, </publisher><date>1990.</date>
+
+<meta reference_no="140" cluster_no="85" true_id="619"></meta>
+
+<authors><author> Jim Sanborn</author>,<author> B. Bloom</author>, and<author> D. McGrath</author>.</authors><title> A Situated Reasoning Architecture for Spacebased Repair and Replace Tasks, </title><booktitle>In !989 Goddard Conference on Space Applications of ARtificial Intelligence, </booktitle><location>Greenbelt, MD. </location><tech>NASA Pub # 3033.</tech>
+
+<meta reference_no="141" cluster_no="86" true_id="711"></meta>
+
+<authors><author> W. W. Bledsoe</author>.</authors><title> Challenge problems in elementary calculus. </title><journal>Journal of Automated Reasoning, </journal><volume>(6):</volume><pages>341-359, </pages><date>1990.</date>
+
+<meta reference_no="142" cluster_no="87" true_id="606"></meta>
+
+<authors><author>Etzioni, O.</author>, <author>Golden, K.</author>, and<author> Weld, D.</author></authors><date> 1994. </date><title>Tractable closed-world reasoning with updates. </title><booktitle>In Proc. 4th Int. Conf. on Principles of Knowledge Representation and Reasoning.</booktitle>
+
+<meta reference_no="143" cluster_no="87" true_id="606"></meta>
+
+<O>33. </O><authors><author>O. Etzioni</author>,<author> K. Golden</author>, and<author> D. Weld</author>.</authors><title> Tractable closed-world reasoning with updates. </title><booktitle>In Proceedings of the Fourth International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><date>1994.</date>
+
+<meta reference_no="144" cluster_no="87" true_id="606"></meta>
+
+<authors><author> O. Etzioni</author>,<author> K. Golden</author>, and<author> D. Weld</author>.</authors><title> Tractable closed-world reasoning with updates. </title><booktitle>In Proc. 4th Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 178-189, </pages><date>June 1994.</date>
+
+<meta reference_no="145" cluster_no="87" true_id="606"></meta>
+
+<authors><author> Oren Etzioni</author>,<author> Keith Golden</author>, and<author> Daniel Weld</author>.</authors><title> Tractable closed world reasoning with updates. </title><booktitle>In Proceedings of 4th International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><date>1994.</date>
+
+<meta reference_no="146" cluster_no="87" true_id="606"></meta>
+
+<authors><author> O. Etzioni</author>,<author> K. Golden</author>, and<author> D. Weld</author>.</authors><title> Tractable closed-world reasoning with updates. </title><booktitle>In Proc. 4th Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 178-189, </pages><location>San Francisco, CA, </location><date>June 1994. </date><publisher>Morgan Kaufmann.</publisher><O>  33</O>
+
+<meta reference_no="147" cluster_no="88" true_id="652"></meta>
+
+<authors><author>Smyth, B.</author>, and<author> Keane, M. T.</author></authors><date> 1995. </date><title>Remembering to forget a competence-preserving case deletion policy for case-based reasoning. </title><booktitle>In Proc. of IJCAI-95, </booktitle><pages>377382.</pages>
+
+<meta reference_no="148" cluster_no="89" true_id="651"></meta>
+
+<authors><author>William W. Cohen</author> and<author> Haym Hirsh</author>.</authors><title> Learning the classic description logic: Theoretical and experimental results. </title><editor>In Erik Sandewall Jon Doyle and Pietro Torasso, editors, </editor><booktitle>Priciples of Knowledege Representation And Reasoning. </booktitle><booktitle>Proceedings of the Fourth Intern</booktitle>
+
+<meta reference_no="149" cluster_no="90" true_id="603"></meta>
+
+<authors><author> S. Amarel</author>.</authors><title> On representations of problems of reasoning about actions. </title><editor>In D. Michie, editor, </editor><journal>Machine Intelligence</journal><volume> 3, </volume><pages>pages 131 - 171. </pages><publisher>American Elsevier, </publisher><location>New York, NY, </location><date>1968.</date>
+
+<meta reference_no="150" cluster_no="90" true_id="603"></meta>
+
+<authors><author>Amarel, S.</author></authors><date> (1968), </date><title>On Representations of Problems of Reasoning about Actions, </title><editor>in D. Michie, ed., </editor><journal>Machine Intelligence</journal><volume> 3, </volume><location>Edinburgh: </location><publisher>Edinburgh University Press, </publisher><pages>pp. 131171.</pages>
+
+<meta reference_no="151" cluster_no="91" true_id="683"></meta>
+
+<authors><author> G. Brajnik</author> and<author> C. Tasso.</author></authors><title> A Flexible Tool for Developing User Modeling Applications with Nonmonotonic Reasoning Capabilities. </title><booktitle>In Proc. of the Third International Workshop on User Modeling, </booktitle><pages>pages 4266, </pages><location>Dagstuhl, Germany, </location><date>1992.</date>
+
+<meta reference_no="152" cluster_no="91" true_id="683"></meta>
+
+<authors><author> G. Brajnik</author> and<author> C. Tasso.</author></authors><title> A Flexible Tool for Developing User Modeling Applications with Nonmonotonic Reasoning Capabilities. </title><booktitle>In Proc. of the Third International Workshop on User Modeling, </booktitle><pages>pages 4266, </pages><location>Dagstuhl, Germany, </location><date>1992.</date>
+
+<meta reference_no="153" cluster_no="92" true_id="473"></meta>
+
+<authors><author> U. M. Schwuttke</author> and<author> L. Gasser</author>,</authors><title> Realtime Metareasoning with Dynamic Tradeoff Evaluation, </title><booktitle>Proceedings of the National Conference on Artificial Intelligence, </booktitle><location>San Jose, CA, </location><date>July 1992, </date><pages>pp. 500506.</pages>
+
+<meta reference_no="154" cluster_no="93" true_id="724"></meta>
+
+<authors><author> J. Pearl</author>.</authors><title> Probabilistic semantics for nonmonotonic reasoning: A survey. </title><booktitle>In KR-89, </booktitle><date>1989.</date>
+
+<meta reference_no="155" cluster_no="94" true_id="592"></meta>
+
+<authors><author> Martin C. Golumbic</author> and<author> Ron Shamir</author>.</authors><title> Complexity and algorithms for reasoning about time: A graph-theoretic approach. </title><journal>Journal of the Association for Computing Machinery, </journal><volume>40(5):</volume><pages>1128-1133, </pages><date>November 1993.</date>
+
+<meta reference_no="156" cluster_no="95" true_id="561"></meta>
+
+<authors><author>Golledge, R.G.</author></authors><date> (1992). </date><title>Do people understand spatial concepts: The case of firstorder primitives. </title><booktitle>Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. </booktitle><editor>Frank, A.U., Campari, I., & Formentini, U. (Eds.). </editor><location>Berlin: </location><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="157" cluster_no="96" true_id="598"></meta>
+
+<authors><author>Shastri, L.</author></authors><date> (1993). </date><title>A computational model of tractable reasoning: Taking inspiration from</title>
+
+<meta reference_no="158" cluster_no="97" true_id="692"></meta>
+
+<authors><author> R. Simmons</author>,</authors><title> Combining Associational and Causal Reasoning to Solve Interpretation and Planning Problems, </title><tech>Technical Report, </tech><institution>MIT Artificial Intelligence Laboratory, </institution><date>1988.</date>
+
+<meta reference_no="159" cluster_no="98" true_id="588"></meta>
+
+<O>4. </O><authors><author>Gregg Collins</author>,<author> Lawrence Birnbaum</author>, <author>Bruce Krulwich</author>, and <author>Michael Freed</author>.</authors><title> A modelbased approach to learning from planning failures. </title><booktitle>In Notes of the 1991 AAAI Workshop on Model-Based Reasoning. AAAI, </booktitle><date>1991.</date>
+
+<meta reference_no="160" cluster_no="99" true_id="599"></meta>
+
+<authors><author> Fahiem Bacchus</author>.</authors><title> Representing and Reasoning with Probabilistic Knowledge. </title><tech>PhD  thesis, </tech><institution>University of Alberta, </institution><location>Edmonton, Alta., Canada, </location><date>1988. </date><note>Also available from </note><publisher>MIT Press, </publisher><date> 1990.</date>
+
+<meta reference_no="161" cluster_no="100" true_id="566"></meta>
+
+<O>6. </O><authors><author>EGENHOFER, M.</author></authors><title> Reasoning about binary topological relations. </title><journal>In Second Symposium on Large Spatial Databases, </journal><volume>volume 525 </volume><journal>of Lecture Notes in Computer Science. </journal><publisher>Springer-Verlag, </publisher><date>1991.</date>
+
+<meta reference_no="162" cluster_no="100" true_id="566"></meta>
+
+<authors><author>Egenhofer, M. J.</author></authors><date> (1991). </date><title>Reasoning about binary topological relations. </title><editor>In Gunther, O. and Schek, H.-J., editors, </editor><journal>Advances in Spatial Databases, Second Symposium on Large Spatial Databases, </journal><volume>Volume 525 </volume><journal>of Lecture Notes in Computer Science, </journal><pages>pages 143-160. </pages><O>S</O>
+
+<meta reference_no="163" cluster_no="100" true_id="566"></meta>
+
+<authors><author>Egenhofer, M. J.</author></authors><date> (1991). </date><title>Reasoning about binary topological relations. </title><journal>In Second Symposium on Large Spatial Databases, </journal><volume>Vol. 525 </volume><journal>of Lecture Notes in Computer Science. </journal><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="164" cluster_no="100" true_id="566"></meta>
+
+<authors><author> M.J. Egenhofer</author>.</authors><title> Reasoning about binary topological relations. </title><booktitle>In Proc. SSD'91, LNCS 525, </booktitle><pages>pp.143160. </pages><publisher>Springer, </publisher><date>1991.</date>
+
+<meta reference_no="165" cluster_no="101" true_id="690"></meta>
+
+<authors><author> Raymond Reiter</author>.</authors><title> A logic for default reasoning. </title><journal>Artificial Intelligence, </journal><volume>13(1 and 2):</volume><pages>81-132, </pages><date>1980.</date><O>  23</O>
+
+<meta reference_no="166" cluster_no="102" true_id="639"></meta>
+
+<authors><author> T. R. Gruber</author>.</authors><title> An ontology for engineering mathematics. </title><editor>In Jon Doyle, Piero Torasso, & Erik Sandewall, Ed., </editor><booktitle>Fourth International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><institution>Gustav Stresemann Institut,</institution><location> Bonn, Germany, </location><publisher>Morgan Kauf</publisher>
+
+<meta reference_no="167" cluster_no="103" true_id="650"></meta>
+
+<authors><author>Schnattinger, K.</author>;<author> Hahn, U.</author>; and<author> Klenner, M.</author></authors><date> 1995. </date><title>Terminological meta-reasoning by reification and multiple contexts. </title><booktitle>In Proc. EPIA'95, </booktitle><pages>1-16. </pages><authors><author> Soderland, S.</author>;<author> Fisher, D.</author>;<author> Aseltine, J.</author><author>; and </author><author>Lehnert, W.</author></authors>
+
+<meta reference_no="168" cluster_no="104" true_id="511"></meta>
+
+<authors><author> T. Nishida</author> and<author> S. Doshita</author>.</authors><title> Reasoning about discontinuous change. </title><booktitle>In Proc. of the Sixth National Conference on Artificial Intelligence, </booktitle><pages>pages 643648, </pages><date>1987.</date>
+
+<meta reference_no="169" cluster_no="105" true_id="587"></meta>
+
+<authors><author> Nado, B.</author>,<author> Van Baalen, J</author>,<author> Fikes, R.</author></authors><title> JOSIE: An integration of specialized representation and reasoning tools. Working notes. </title><booktitle>AAAI Spring Symposium Series.</booktitle><date> March, 1991.</date>
+
+<meta reference_no="170" cluster_no="106" true_id="699"></meta>
+
+<authors><author> S. Lee</author> and<author> Y. Shin</author>.</authors><title> Assembly planning based on geometric reasoning. </title><journal>Computers and Graphics, </journal><volume>14(2):</volume><pages>237-250, </pages><date>1990.</date>
+
+<meta reference_no="171" cluster_no="106" true_id="699"></meta>
+
+<authors><author> S. Lee</author> and<author> Y. Shin</author>.</authors><title> Assembly planning based on geometric reasoning. </title><journal>Computers and Graphics, </journal><volume>14(2):</volume><pages>237-250, </pages><date>1990.</date>
+
+<meta reference_no="172" cluster_no="107" true_id="544"></meta>
+
+<authors><author>Veloso, M. M.</author></authors><date> 1992. </date><title>Learning by Analogical Reasoning in General Problem Solving. </title><tech>Ph.D. Dissertation, </tech><institution>School of Computer Science, Carnegie Mellon University, </institution><location>Pittsburgh, PA. </location><note>Available as </note><tech>technical report CMU-CS-92-174.</tech>
+
+<meta reference_no="173" cluster_no="107" true_id="544"></meta>
+
+<authors><author> Veloso, M. M.</author></authors><date> (1992). </date><title>Learning by Analogical Reasoning in General Problem Solving. </title><tech>PhD thesis, </tech><institution>School of Computer Science, Carnegie Mellon University, </institution><location>Pittsburgh, PA. </location><note>Available as </note><tech>technical report CMU-CS-92-174.</tech>
+
+<meta reference_no="174" cluster_no="108" true_id="527"></meta>
+
+<authors><author>I. B. Turksen</author>,<author> Z. Zhong</author></authors><date> (1988). </date><title>An approximate analogical reasoning approach based on similarity measures. </title><journal>Trans. on Systems, Man and Cybernetics.</journal>
+
+<meta reference_no="175" cluster_no="109" true_id="674"></meta>
+
+<authors><author> Kuipers, B.</author></authors><date> 1993. </date><title>Reasoning with qualitative models. </title><journal>Artificial Intelligence </journal><volume>59:</volume><pages>125-132.</pages>
+
+<meta reference_no="176" cluster_no="110" true_id="744"></meta>
+
+<authors><author> P. Brazdil</author> and<author> P. Clark</author>.</authors><title> Learning from imperfect data. </title><note>In </note><editor>P. Brazdil and K. Konolige, editors, </editor><booktitle>Machine Learning, Metareasoning, and Logic. </booktitle><publisher>Kluwer,</publisher><location> Boston, </location><date>1990.</date>
+
+<meta reference_no="177" cluster_no="111" true_id="501"></meta>
+
+<authors><author>Drummond, M.</author></authors><date> 1989. </date><title>Situated control rules. </title><booktitle>In Proceedings of the First International Conference on Knowledge Representation and Reasoning.</booktitle>
+
+<meta reference_no="178" cluster_no="111" true_id="501"></meta>
+
+<authors><author> Drummond, Mark </author></authors><date>1989. </date><title>Situated control rules. </title><editor>In Brachman, Ronald J.; Levesque, Hector J.; and Reiter, Raymond, editors</editor><date> 1989,</date><booktitle> Proceedings of the First International Conference on Principles of Knowledge Representation and Reasoning. </booktitle><publisher>Morga</publisher>
+
+<meta reference_no="179" cluster_no="111" true_id="501"></meta>
+
+<authors><author> Drummond, M.</author></authors><title> Situated Control Rules. </title><booktitle>Proc. of the First International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pp. 103-113, </pages><location>Toronto, Canada, </location><date>1989.</date>
+
+<meta reference_no="180" cluster_no="111" true_id="501"></meta>
+
+<authors><author> Drummond, M.</author></authors><date> 1989. </date><title>Situated Control Rules. </title><booktitle>Proceedings of Conference on Principles of Knowledge Representation and Reasoning, </booktitle><location>Toronto, Canada.</location>
+
+<meta reference_no="181" cluster_no="112" true_id="520"></meta>
+
+<authors><author>Kuncicky, D. C.</author></authors><date> (1991), </date><title>Isomorphism of Reasoning Systems with Applications to Autonomous Knowledge Acquisition. </title><tech>PhD Dissertation </tech><note>(R. C. Lacher, Major Professor), </note><institution>Florida State University, </institution><location>Tallahassee, FL.</location>
+
+<meta reference_no="182" cluster_no="113" true_id="669"></meta>
+
+<authors><author>Cohn, A. G.</author>,<author> Cui, Z.</author>, and<author> Randell, D. A.</author></authors><date> (1992). </date><title>Logical and computational aspects of spatial reasoning. </title><editor>In Pribbenow, S. and Schlieder, C. (Eds.), </editor><booktitle>Spatial Concepts: Connecting Cognitive Theories with Formal Representations. ECAI-92 Workshop.</booktitle>
+
+<meta reference_no="183" cluster_no="113" true_id="669"></meta>
+
+<authors><author>Cohn, A. G.</author>,<author> Cui, Z.</author>, and<author> Randell, D. A.</author></authors><date> (1992). </date><title>Logical and computational aspects of spatial reasoning. </title><editor>In Pribbenow, S. and Schlieder, C. (Eds.), </editor><booktitle>Spatial Concepts: Connecting Cognitive Theories with Formal Representations. ECAI-92 Workshop.</booktitle>
+
+<meta reference_no="184" cluster_no="113" true_id="669"></meta>
+
+<O>4. </O><authors><author>COHN, A. G.</author>,<author> CUI, Z.</author>, and<author> RANDELL, D. A.</author></authors><title> Logical and computational aspects of spatial reasoning. </title><editor>In PRIBBENOW, S. and SCHLIEDER, C., editors, </editor><booktitle>Spatial Concepts: Connecting Cognitive Theories with Formal Representations. ECAI-92 Workshop, </booktitle><date>Aug. 1992.</date>
+
+<meta reference_no="185" cluster_no="114" true_id="599"></meta>
+
+<authors><author> F. Bacchus</author>.</authors><title> Representing and Reasoning With Probabilistic Knowledge. </title><publisher>MIT Press, </publisher><date>1990.</date>
+
+<meta reference_no="186" cluster_no="114" true_id="599"></meta>
+
+<authors><author> F. Bacchus</author>.</authors><title> Representing and Reasoning with Probabilistic Knowledge. </title><publisher>MIT Press, </publisher><date>1990.</date>
+
+<meta reference_no="187" cluster_no="115" true_id="670"></meta>
+
+<authors><author> C. Freksa</author>.</authors><title> Qualitative spatial reasoning. </title><editor>In D. Mark and A. Frank, editors, </editor><booktitle>Cognitive and Linguistic Aspects of Geographic Space, </booktitle><institution>NATO Advanced Studies Institute. </institution><publisher>Kluwer, </publisher><location>Dordrecht, </location><date>1990.</date>
+
+<meta reference_no="188" cluster_no="116" true_id="558"></meta>
+
+<authors><author> A. Aamodt</author></authors><title>: Explanation-driven case-based reasoning, </title><editor>In S. Wess, K. Althoff, M. Richter (eds.):</editor><booktitle>Topics in Case-based reasoning. </booktitle><publisher>Springer Verlag, </publisher><date>1994, </date><pages>pp 274-288.</pages>
+
+<meta reference_no="189" cluster_no="116" true_id="558"></meta>
+
+<authors><author> A. Aamodt</author>,</authors><title> Explanation-driven case-based reasoning, </title><editor>in: S. Wess, K. Althoff, M. Richter (eds.):</editor><booktitle>Topics in Case-based reasoning. </booktitle><publisher>Springer Verlag, </publisher><date>1994, </date><pages>pp 274-288.</pages>
+
+<meta reference_no="190" cluster_no="116" true_id="558"></meta>
+
+<authors><author> Aamodt, A.,</author></authors><title> Explanation-driven case-based reasoning, </title><editor>In S. Wess, K. Althoff, M. Richter (eds.): </editor><booktitle>Topics in Case-based reasoning. </booktitle><publisher>Springer Verlag, </publisher><date>1994. </date><pages>pp 274-288.</pages>
+
+<meta reference_no="191" cluster_no="116" true_id="557"></meta>
+
+<booktitle>Case-based reasoning. </booktitle><publisher>Springer Verlag</publisher><date>, 1994, </date><pages>pp 274-288.</pages>
+
+<meta reference_no="192" cluster_no="117" true_id="503"></meta>
+
+<O>11.</O><authors><author> Reisbech, C. </author>&<author> Schank, R.</author></authors><title>: Inside the Case-Based Reasoning, </title><publisher>Lawrence Elbaum Associates </publisher><date>(1990).</date>
+
+<meta reference_no="193" cluster_no="117" true_id="503"></meta>
+
+<authors><author>Riesbeck, C. K.</author> and<author> R. S. Schank</author>.</authors><title> Inside Case-based Reasoning. </title><location>Hillsdale, NJ: </location><publisher>Erlbaum Assoc., </publisher><date>1989.</date>
+
+<meta reference_no="194" cluster_no="117" true_id="503"></meta>
+
+<authors><author> C. K. Riesbeck</author> and<author> R. S. Schank</author>.</authors><title> Inside case based reasoning. </title><location>Hillsdale, NJ: </location><publisher>Lawrence Earlbaum Assoc., </publisher><date>1989.</date>
+
+<meta reference_no="195" cluster_no="117" true_id="503"></meta>
+
+<authors><author> C. Riesbeck</author>,<author> R. Schank</author>.</authors><title> Inside Case-Based Reasoning. </title><publisher>Lawrence Erlbaum Associates, </publisher><location>New Jersey, </location><date>1989.</date>
+
+<meta reference_no="196" cluster_no="117" true_id="503"></meta>
+
+<authors><author> C. Riesbeck</author> and<author> R. Schank</author>,</authors><title> Inside Case-based reasoning. </title><publisher>(Lawrence Erlbaum, </publisher><date>1989).</date>
+
+<meta reference_no="197" cluster_no="117" true_id="503"></meta>
+
+<authors><author>Reisbeck, C. K.</author>, and<author> Schank, R. C.</author></authors><date> (1989). </date><title>Inside Case-Based Reasoning. </title><location>Hillsdale: </location><publisher>Lawerence Erlbaum Associates.</publisher>
+
+<meta reference_no="198" cluster_no="117" true_id="503"></meta>
+
+<authors><author> Reisbech, C. &</author><author> Schank, R.</author></authors><title>: Inside the Case-Based Reasoning, </title><publisher>Lawrence Elbaum Associates </publisher><date>(1990).</date>
+
+<meta reference_no="199" cluster_no="117" true_id="503"></meta>
+
+<O>9. </O><authors><author>Reisbech</author><author>, C. and Schank, R.</author></authors><title>: Inside the Case-Based Reasoning, Lawrence Elbaum Associates </title><date>(1990).</date>
+
+<meta reference_no="200" cluster_no="117" true_id="503"></meta>
+
+<authors><author> Reisbech, C.</author> &<author> Schank, R.</author></authors><title>: Inside the Case-Based Reasoning, </title><publisher>Lawrence Elbaum Associates </publisher><date>(1990).</date>
+
+<meta reference_no="201" cluster_no="118" true_id="739"></meta>
+
+<authors><author>Costantini, S.</author>, and<author> Lanzarone, G.A.</author>,</authors><title> Metalevel negation and nonmonotonic reasoning. </title><O>1, </O><pages>pp. 111140, </pages><date>1994.</date>
+
+<meta reference_no="202" cluster_no="119" true_id="708"></meta>
+
+<authors><author>Schirra, J. R. J.</author></authors><date> (1992). </date><title>Connecting visual and verbal space: Preliminary considerations concerning the concept `mental image'.</title><booktitle> In 4th European Workshop "Semantics of Time, Space and Movement and SpatioTemporal Reasoning",</booktitle><location> Chateau de Bonas, France.</location>
+
+<meta reference_no="203" cluster_no="120" true_id="663"></meta>
+
+<authors><author>Allen, B.P</author>,</authors><title> Case-based reasoning: Business applications, </title><journal>Communication of the ACM </journal><volume>37 (3), </volume><date>1994, </date><pages>40-44.</pages>
+
+<meta reference_no="204" cluster_no="121" true_id="546"></meta>
+
+<authors><author> R. Letz</author>,<author> J. Schumann</author>,<author> S. Bayerl</author>, and<author> W. Bibel</author>.</authors><title> SETHEO: A HighPerformance Theorem Prover. </title><journal>Journal of Automated Reasoning, </journal><volume>8(2):</volume><pages>183-212, </pages><date>1992.</date>
+
+<meta reference_no="205" cluster_no="121" true_id="546"></meta>
+
+<authors><author> R. Letz</author>,<author> J. Schumann</author>,<author> S. Bayerl</author>, and<author> W. Bibel</author>.</authors><title> SETHEO, A High-Performance Theorem Prover. </title><note>to appear </note><journal>in Journal of Automated Reasoning, </journal><date>1991. </date><note>available as </note><tech>Technical Report TUM-I9008</tech><note> from </note><institution>Technical University Munich.</institution>
+
+<meta reference_no="206" cluster_no="121" true_id="546"></meta>
+
+<authors><author> R. Letz</author>,<author> J. Schumann</author>,<author> S. Bayerl</author>, and<author> W. Bibel</author>.</authors><title> SETHEO, A High-Performance  13  Theorem Prover. </title><note>to appear </note><journal>in Journal of Automated Reasoning, </journal><date>1991. </date><note>available as </note><tech>Technical Report TUM-I9008</tech><note> from </note><institution>Technical University Munich.</institution>
+
+<meta reference_no="207" cluster_no="122" true_id="458"></meta>
+
+<authors><author>Rajagopalan, R.</author></authors><date> 1994. </date><title>A model for integrated qualitative spatial and dynamic reasoning about physical systems. </title><booktitle>In Proceedings of the Twelfth National Conference on Artificial Intelligence.</booktitle>
+
+<meta reference_no="208" cluster_no="123" true_id="500"></meta>
+
+<authors><author> Robert Wilensky</author>.</authors><title> Some problems and proposals for knowledge representation. </title><editor>In Janet L. Kolodner and Christopher K. Riebeck, editors, </editor><booktitle>Experience, Memory, and Reasoning, </booktitle><pages>pages 15-28. </pages><publisher>Lawrence Erlbaum Associates, </publisher><location>New Jersey, </location><date>1986.</date>
+
+<meta reference_no="209" cluster_no="124" true_id="661"></meta>
+
+<authors><author> M. V. Nagendraprasad</author>,<author> S. E. Lander</author>, and<author> V. R. Lesser</author>,</authors><title> "Retrieval and Reasoning in Distributed Case Based Systems", </title><date>January 1994, </date><note>Unpublished working paper.</note>
+
+<meta reference_no="210" cluster_no="125" true_id="506"></meta>
+
+<authors><author>Masand, B.</author>;<author> Linoff, G.</author>; and<author> Waltz, D.</author></authors><date> 1992. </date><title>Classifying news stories using memory based reasoning. </title><booktitle>In Proceedings of ACM/SIGIR, </booktitle><pages>59-65. </pages><authors><author> McCune, B.</author>;<author> Tong, R.</author>;<author> Dean, J.</author>; and<author> Shapiro, D.</author></authors>
+
+<meta reference_no="211" cluster_no="125" true_id="506"></meta>
+
+<authors><author> B. Masand</author>,<author> G. Linoff</author>, and<author> D. Waltz</author>.</authors><title> Classifying news stories using memory based reasoning. </title><booktitle>In Proceedings of the 15th Annual ACM/SIGIR Conference, </booktitle><pages>pages 59-65, </pages><date>1992.</date>
+
+<meta reference_no="212" cluster_no="125" true_id="506"></meta>
+
+<authors><author>Masand, B.</author>;<author> Linoff, G.</author>; and<author> Waltz, D.</author></authors><date> 1992. </date><title>Classifying news stories using memory based reasoning. </title><booktitle>In 15th Ann Int ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 92), </booktitle><pages>59-64.</pages>
+
+<meta reference_no="213" cluster_no="125" true_id="506"></meta>
+
+<authors><author> Brij Masand</author>,<author> Gordon Linoff</author>, and<author> David Waltz</author>.</authors><title> Classifying news stories using memory based reasoning. </title><booktitle>In SIGIR, </booktitle><pages>pages 5965, 1992.</pages>
+
+<meta reference_no="214" cluster_no="125" true_id="506"></meta>
+
+<authors><author>Masand, B.</author>;<author> Linoff, G.</author>; and<author> Waltz, D.</author></authors><date> 1992. </date><title>Classifying News Stories unsing Memory Based Reasoning. </title><booktitle>In Proc. of the 15th SIGIR.</booktitle>
+
+<meta reference_no="215" cluster_no="126" true_id="735"></meta>
+
+<authors><author>Levy, A. Y.</author></authors><date> 1993. </date><title>Irrelevance Reasoning in Knowledge Based Systems. </title><tech>Ph.D. Dissertation, </tech><institution>Stanford University.</institution>
+
+<meta reference_no="216" cluster_no="127" true_id="710"></meta>
+
+<authors><author> J.-L. Lassez</author> and<author> K. Marriott</author>.</authors><title> Explicit representation of terms defined by counter examples. </title><journal>Journal of Automated Reasoning, </journal><volume>3:</volume><pages>301-317, </pages><date>1987.</date>
+
+<meta reference_no="217" cluster_no="128" true_id="509"></meta>
+
+<authors><author> C. W. Stanfill.</author></authors><title> Memory-based reasoning applied to English pronunciation. </title><booktitle>Proceedings AAAI-87, </booktitle><location>Seattle, WA, </location><pages>577-581, </pages><date>1987.</date>
+
+<meta reference_no="218" cluster_no="128" true_id="509"></meta>
+
+<authors><author>Stanfill, C.</author></authors><date> (1987). </date><title>Memory-based reasoning applied to English pronunciation. </title><booktitle>In Proceedings of the Sixth National Conference on Artificial Intelligence, </booktitle><pages>pp. 577-581.</pages>
+
+<meta reference_no="219" cluster_no="129" true_id="662"></meta>
+
+<authors><author>Gabbay, D.</author>, and<author> Ohlbach, H. J.</author></authors><date> 1992. </date><title>Quantifier elimination in second-order predicate logic. </title><editor>In Nebel, B.; Rich, C.; and Swartout, W., eds., </editor><booktitle>Principles of KnowledgeRepresentation and Reasoning: Proc. of the Third International Conference (KR'92). </booktitle><publisher>San Mat</publisher>
+
+<meta reference_no="220" cluster_no="129" true_id="662"></meta>
+
+<authors><author> D. Gabbay</author> and<author> H. J. Ohlbach</author>.</authors><title> Quantifier Elimination in Second-Order Predicate Logic. </title><editor>In B. Nebel, C. Rich, and W. Swartout, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proc. of the Third International Confere</booktitle>
+
+<meta reference_no="221" cluster_no="129" true_id="662"></meta>
+
+<authors><author>D. Gabbay</author> and<author> H. J. Ohlbach</author></authors><title>: Quantifier Elimination in Second-Order Predicate Logic. </title><editor>In B. Nebel, C. Rich, and W. Swartout, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proc. of the Third International Conference (KR'92), </booktitle><pages>pages 425-435.</pages>
+
+<meta reference_no="222" cluster_no="129" true_id="662"></meta>
+
+<authors><author> D. Gabbay</author> and<author> H. J. Ohlbach</author>.</authors><title> Quantifier elimination in second-order predicate logic. </title><editor>In B. Nebel, C. Rich, and W. Swartout, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proc. of the Third InternationalConference (KR'92), </booktitle><pages>pages 42</pages>
+
+<meta reference_no="223" cluster_no="130" true_id="554"></meta>
+
+<authors><author> Brner, K</author></authors><date> (1994), </date><title>Structural similarity as a guidance in case-based design. </title><editor>In S Wess, K D Althoff, M M Richter (Eds.) </editor><booktitle>Topics in Case-Based Reasoning, Lecture Notes in Artificial Intelligence, </booktitle><volume>Vol. 837, </volume><pages>p.197-208. </pages><publisher>Springer-Verlag</publisher><date> 1994.</date>
+
+<meta reference_no="224" cluster_no="131" true_id="633"></meta>
+
+<authors><author> Sun, R.</author></authors><date> 1994. </date><title>Integrating Rules and Connectionism for Robust Commonsense Reasoning, </title><publisher>John Wiley and Sons. Inc.</publisher>
+
+<meta reference_no="225" cluster_no="132" true_id="498"></meta>
+
+<authors><author> Abu-Hakima, S.</author> and<author> Brezillon, P.</author>,</authors><title> Principles for the application of context in diagnostic problem solving,</title><booktitle> in Working notes of the IJCAI-95 workshop on Modelling context in knowledge representation and reasoning, </booktitle><editor>eds. Brezillon, P. and Ab</editor>
+
+<meta reference_no="226" cluster_no="133" true_id="742"></meta>
+
+<authors><author> O. Raiman</author>.</authors><title> Order of magnitude reasoning. </title><journal>Artificial Intelligence, </journal><volume>51(1-3):</volume><pages>1138,</pages><date> 1991.</date>
+
+<meta reference_no="227" cluster_no="134" true_id="713"></meta>
+
+<authors><author> Pawlak, Z.</author></authors><date> (1991). </date><title>Rough sets: Theoretical Aspects of Reasoning About Data. </title><publisher>Kluwer Academic, </publisher><location>Dordrecht, The Netherlands.</location>
+
+<meta reference_no="228" cluster_no="134" true_id="713"></meta>
+
+<authors><author> Zdzislaw Pawlak</author>.</authors><title> Rough Sets: Theoretical aspects of Reasoning about Data. </title><publisher>Kluwer, </publisher><location> Boston, MA, </location><date>1991.</date>
+
+<meta reference_no="229" cluster_no="135" true_id="484-2"></meta>
+
+<authors><author> Karl Branting</author></authors><title>: The role of explanations in reasoning from legal precedents. </title><editor>In: Janet Kolodner (ed.): </editor><booktitle>Case based reasoning. Proceedings from a workshop, </booktitle><location>Clearwater Beach, Florida, </location><date>May 1988. </date><publisher>Morgan Kaufmann Publ. </publisher><pages>pp. 94-103.</pages>
+
+<meta reference_no="230" cluster_no="136" true_id="684"></meta>
+
+<O>14. </O><authors><author>GUESGEN, H.-W.</author></authors><title> Spatial reasoning based on Allen's temporal logic. </title><tech>Technical Report TR-89-049, </tech><institution>ICSI,</institution><location> Berkeley, CA, </location><date>Aug. 1989.</date>
+
+<meta reference_no="231" cluster_no="136" true_id="684"></meta>
+
+<authors><author>Guesgen, H.-W.</author></authors><date> (1989). </date><title>Spatial reasoning based on Allen's temporal logic. </title><tech>Technical Report TR-89-049, </tech><institution>ICSI,</institution><location> Berkeley, CA.</location>
+
+<meta reference_no="232" cluster_no="136" true_id="684"></meta>
+
+<authors><author> H.-W. Guesgen</author>.</authors><title> Spatial reasoning based on Allen's temporal logic. </title><tech>Technical report, </tech><institution>ICSI,</institution><location> Berkeley, CA, </location><date>Aug. 1989.</date>
+
+<meta reference_no="233" cluster_no="137" true_id="678"></meta>
+
+<authors><author> M. Ishii</author>,<author> T. Tomiyama</author>, and<author> H. Yoshikawa</author>,</authors><title> A synthetic reasoning method for conceptual design. </title><institution>Department of Precision Mechanical Engineering, The University of Tokyo. </institution><date>1993.</date>
+
+<meta reference_no="234" cluster_no="138" true_id="685"></meta>
+
+<authors><author> C. Freksa</author>.</authors><title> Temporal reasoning based on semi-intervals. </title><tech>Technical Report TR-90-016, </tech><institution>ICSI,</institution><location> Berkeley, CA, </location><date>Apr. 1990.</date>
+
+<meta reference_no="235" cluster_no="139" true_id="703"></meta>
+
+<authors><author>Harmon, P.</author></authors><date> (1992): </date><title>Case-based reasoning III, </title><journal>Intelligent Software Strategies, </journal><volume>VIII (1).</volume>
+
+<meta reference_no="236" cluster_no="140" true_id="468"></meta>
+
+<O>35. </O><authors><author>Anand S. Rao</author> and<author> Michael P. Georgeff</author>.</authors><title> An abstract architecture for rational agents. </title><booktitle>In Proceedings of the Third Intenatinal Conference on Principles of Knowledge Representation and Reasoning (KR '92), </booktitle><pages>pages 439-449, </pages><location>Cambridge, Massachusetts,</location><date> October</date>
+
+<meta reference_no="237" cluster_no="141" true_id="472"></meta>
+
+<authors><author> A. R. Golding</author> and<author> P. S. Rosenbloom</author>.</authors><title> Improving rule-based systems through Case-Based Reasoning. </title><booktitle>Proceedings AAAI-91, </booktitle><location>Menlo Park, CA, </location><pages>22-27,</pages><date> 1991.</date>
+
+<meta reference_no="238" cluster_no="141" true_id="472"></meta>
+
+<authors><author> A. R. Golding</author> and<author> P. S. Rosenbloom</author>.</authors><title> Improving rule-based systems through case-based reasoning. </title><booktitle>In Proceedings of the Ninth National Conference on Artificial Intelligence, </booktitle><pages>pages 22-27, </pages><location>Anaheim, CA, </location><date>July 1991.</date>
+
+<meta reference_no="239" cluster_no="142" true_id="656"></meta>
+
+<authors><author> K.-D. Althoff</author>,<author> R. Bergmann</author>,<author> F. Maurer</author>,<author> S. Wess</author>,<author> M. Manago</author>,<author> E. Auriol</author>,<author> N. Conruyt</author>,<author> R. Traphner</author>,<author> M. Braeuer</author>,<author> S. Dittrich</author>,</authors><date> (1993). </date><title>Integrating Inductive and Case-Based Technologies for Classification and Diagnostic Reasoning. </title><booktitle>In: E.</booktitle>
+
+<meta reference_no="240" cluster_no="143" true_id="465"></meta>
+
+<authors><author>Kim, J.</author>, &<author> Pearl, J.</author></authors><date> (1983). </date><title>A computational model for causal and diagnostic reasoning in inference engines. </title><booktitle>In Proc. of the Eighth International Joint Conference on Artificial Intelligence, </booktitle><pages>pp.</pages>
+
+<meta reference_no="241" cluster_no="144" true_id="525"></meta>
+
+<authors><author> H. Nawab</author>,<author> V. Lesser</author>,<author> E. Milios</author>,</authors><title> "Diagnosis Using the Underlying Theory of a Signal Processing System," </title><journal>IEEE Transactions on Systems, Man and Cybernetics. Special Issue on Diagnostic Reasoning. </journal><date>May/June 1987.</date>
+
+<meta reference_no="242" cluster_no="145" true_id="590"></meta>
+
+<authors><author> T.R. Davies</author> and<author> S.J. Russell</author>.</authors><title> A logical approach to reasoning by analogy. </title><booktitle>In Proceedings of IJCAI-87, </booktitle><pages>pages 264-270, </pages><location>Milan, Italy, </location><pages>August 23-28 1987.</pages>
+
+<meta reference_no="243" cluster_no="146" true_id="522"></meta>
+
+<authors><author> C. Perneel</author>,<author> J.-M. Renders</author>,<author> J.-M. Themlin</author>, and<author> M. Acheroy</author>,</authors><title> "Fuzzy reasoning and neural networks for decision making problems in uncertain environments," </title><booktitle>in Proceedings of the Third IEEE Conference on Fuzzy Systems, </booktitle><volume>vol. II, </volume><pages>pp. 1111-1125, </pages><date>1994.</date>
+
+<meta reference_no="244" cluster_no="147" true_id="668"></meta>
+
+<O>7. </O><authors><author>M. Denecker</author>,<author> L. Missiaen</author>, and<author> M. Bruynooghe</author>.</authors><title> Temporal reasoning with abductive event calculus. </title><booktitle>In Proceedings of ECAI 92, </booktitle><location>Vienna, </location><date>1992.</date>
+
+<meta reference_no="245" cluster_no="147" true_id="668"></meta>
+
+<authors><author> M. Denecker</author>,<author> L. Missiaen</author>, and<author> M. Bruynooghe</author>.</authors><title> Temporal reasoning with abductive event calculus. </title><booktitle>In Proceedings of ECAI 92, </booktitle><location>Vienna, </location><date>1992.</date>
+
+<meta reference_no="246" cluster_no="148" true_id="582"></meta>
+
+<authors><author>Forbus, K.</author></authors><date> 1990. </date><title>The qualitative process engine. </title><editor>In Weld, D., and de Kleer, J., eds., </editor><booktitle>Readings in Qualitative Reasoning about Physical Systems. </booktitle><location>Los Altos, CA: </location><publisher>Morgan Kaufman.</publisher>
+
+<meta reference_no="247" cluster_no="148" true_id="582"></meta>
+
+<authors><author> Kenneth Forbus</author>.</authors><title> The qualitative process engine. </title><editor>In J. de Kleer D. Weld, editor, </editor><booktitle>Readings in Qualitative Reasoning. </booktitle><publisher>Morgan Kaufmann, </publisher><date>1980.</date>
+
+<meta reference_no="248" cluster_no="149" true_id="717"></meta>
+
+<authors><author> Bernhard Nebel</author>.</authors><title> Reasoning and Revision in Hybrid Representation Systems. </title><publisher>Springer-Verlag, </publisher><note>first edition, </note><date>1990.</date>
+
+<meta reference_no="249" cluster_no="150" true_id="706"></meta>
+
+<authors><author>DAndrade, R. G.</author></authors><date> (1991). </date><title>Culturally Based Reasoning. </title><editor>In A. Gellatly, & D. Rogers (Ed.), </editor><booktitle>Cognition and Social Worlds </booktitle><location>Oxford: </location><publisher>Clarendon Press.</publisher>
+
+<meta reference_no="250" cluster_no="150" true_id="706"></meta>
+
+<authors><author>DAndrade, R. G.</author></authors><date> (1991), </date><title>Culturally Based Reasoning, </title><editor>in A. Gellatly and D. Rogers, ed., </editor><booktitle>Cognition and Social Worlds, </booktitle><location>Oxford: </location><publisher>Clarendon Press,</publisher>
+
+<meta reference_no="251" cluster_no="151" true_id="748"></meta>
+
+<authors><author> R. Bisio</author> and<author> F. Malabocchia</author>.</authors><title> Cost Estimation of Software Projects through Case-Based Reasoning. </title><booktitle>Proc. of the 1st Int. Conf. on Case-Based Reasoning, ICCBR-95, </booktitle><date>1995.</date>
+
+<meta reference_no="252" cluster_no="152" true_id="694"></meta>
+
+<authors><author>Ohko, T.</author>, and<author> Anzai, Y.</author></authors><date> 1995. </date><title>A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning. </title><booktitle>In Abridged Proc. of the 6th International Conference on Human-Computer Interaction(HCI'95), </booktitle><O>12.</O>
+
+<meta reference_no="253" cluster_no="152" true_id="694"></meta>
+
+<authors><author> Takuya Ohko</author> and<author> Yuichiro Anzai</author>.</authors><title> A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning. </title><booktitle>In Abridged Proc. of the 6th International Conference on Human-Computer Interaction(HCI'95), </booktitle><note>page</note>
+
+<meta reference_no="254" cluster_no="153" true_id="591"></meta>
+
+<O>21. </O><authors><author>S. Sripada</author>.</authors><title> A metalogical programming approach to reasoning about time in knowledge bases. </title><booktitle>In Proceedings of IJCAI 93, </booktitle><date>1993.</date>
+
+<meta reference_no="255" cluster_no="154" true_id="675"></meta>
+
+<authors><author>Horacek, H.</author></authors><date> 1990. </date><title>Reasoning with uncertainty in computer chess. </title><journal>Artificial Intelligence </journal><volume>43:</volume><pages>37-56.</pages>
+
+<meta reference_no="256" cluster_no="155" true_id="549"></meta>
+
+<authors><author> V.S. Subrahmanian</author>,<author> S. Adali</author>,<author> A. Brink</author>,<author> R. Emery</author>,<author> J. Lu</author>,<author> A. Rajput</author>,<author> T. Rogers</author>,<author> R. Ross</author>, and<author> C. Ward</author>.</authors><title> HERMES: A heterogeneous reasoning and mediator system. </title><tech>Technical report, </tech><institution>University of Maryland, </institution><date>1995.</date><O>  25</O>
+
+<meta reference_no="257" cluster_no="156" true_id="573"></meta>
+
+<authors><author> D. Etherington</author>,<author> S. Kraus</author>, and <author>D. Perlis</author>.</authors><title> Nonmonotonicity and the scope of reasoning: Preliminary report. </title><booktitle>In Proc. 8th Nat. Conf. on A.I., </booktitle><pages>pages 600-607, </pages><date>July 1990.</date>
+
+<meta reference_no="258" cluster_no="157" true_id="578"></meta>
+
+<authors><author> James F. Allen</author>.</authors><title> Temporal reasoning and planning. </title><editor>In James F. Allen, Henry A. Kautz, Richard N. Pelavin, and Josh D. Tenenberg, editors</editor><booktitle>, Reasoning about Plans, chapter 1, </booktitle><pages>pages 1-67. </pages><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA, </location><date>1991.</date>
+
+<meta reference_no="259" cluster_no="158" true_id="534"></meta>
+
+<authors><author>Farquhar, A.</author>, and<author> Brajnik, G.</author></authors><date> 1994. </date><title>A semi-quantitiative physics compiler. </title><booktitle>In Proceedings of the Eighth International Workshop on Qualitative Reasoning.</booktitle>
+
+<meta reference_no="260" cluster_no="159" true_id="637"></meta>
+
+<authors><author> D. Weld</author>.</authors><title> Reasoning about model accuracy. </title><tech>Technical Report 91-05-02, </tech><institution>Department of Computer Science and Engineering, University of Washington, </institution><location>Seattle, WA,</location>
+
+<meta reference_no="261" cluster_no="160" true_id="489"></meta>
+
+<authors><author> Karl Branting</author>.</authors><title> Exploiting the complementarity of rules and precedents with reciprocity and fairness. </title><booktitle>In: Proceedings from the Case-Based Reasoning Workshop 1991,</booktitle><location> Washington DC, </location><date>May 1991. </date><note>DARPA. </note><publisher>Morgan Kaufmann, </publisher><date>1991. </date><pages>pp 39-50.</pages>
+
+<meta reference_no="262" cluster_no="160" true_id="489"></meta>
+
+<O>Branting-91 </O><authors><author>Karl Branting</author></authors><title>: Exploiting the complementaryity of rules and precedents with reciprocity and fairness. </title><booktitle>In: Proceedings from the Case-Based Reasoning Workshop 1991, </booktitle><location>Washington DC, </location><date>May 1991. </date><note>Sponsored by</note>
+
+<meta reference_no="263" cluster_no="161" true_id="556"></meta>
+
+<authors><author> Bunke, H</author> and<author> Messmer, B T</author></authors><date> (1994), </date><title>Similarity measures for structured representations. </title><editor>In S Wess, K D Althoff, M M Richter (Eds.) </editor><booktitle>Topics in Case-Based Reasoning, </booktitle><pages>p. 106-118. </pages><journal>Lecture Notes in Artificial Intelligence </journal><volume>837, </volume><publisher>Springer Verlag.</publisher>
+
+<meta reference_no="264" cluster_no="162" true_id="552"></meta>
+
+<authors><author>Schmitt, G. N.</author></authors><date> (1993). </date><title>Case-based reasoning in an integrated design and construction system, </title><booktitle>Management of Information Technology for Construction, World Scientic Publishing Co. Pte. Ltd,  EVOLVING REPRESENTATIONS OF DESIGN CASES 27  </booktitle><location>Singapore, </location><pages>pp. 45346</pages>
+
+<meta reference_no="265" cluster_no="163" true_id="475"></meta>
+
+<title>epistemic properties. </title><editor>In J. Halpern, ed., </editor><booktitle>Proceedings of the 1986 Conference on Theoretical Aspects of Reasoning about Knowledge, </booktitle><publisher>Morgan Kaufmann, </publisher><location>Los Altos, CA, </location><pages>8398.</pages>
+
+<meta reference_no="266" cluster_no="164" true_id="582"></meta>
+
+<O>22. </O><editor>WELD, D. S. and DE KLEER, J., editors.</editor><title> Readings in Qualitative Reasoning about Physical Systems. </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA, </location><date>1990.</date>
+
+<meta reference_no="267" cluster_no="165" true_id="451"></meta>
+
+<authors><author> P. Langley</author> and<author> S. Sage</author>.</authors><title> Oblivious decision trees and abstract cases. </title><booktitle>In Proceedings of the 1994 AAAI Workshop on CaseBased Reasoning, </booktitle><pages>pages 113-117, </pages><location>Seattle, CA, </location><date>1994. </date><publisher>AAAI Press.</publisher>
+
+<meta reference_no="268" cluster_no="165" true_id="451"></meta>
+
+<authors><author>Langley, P.</author> &<author> Sage, S.</author></authors><date> (1994b), </date><title>Oblivious decision trees and abstract cases, </title><booktitle>in Working Notes of the AAAI-94 Workshop on Case-Based Reasoning, </booktitle><publisher>AAAI Press, </publisher><location>Seattle, </location><pages>pp. 113-117.</pages>
+
+<meta reference_no="269" cluster_no="165" true_id="451"></meta>
+
+<authors><author>Langley, P.</author>, and<author> Sage, S.</author></authors><date> 1994. </date><title>Oblivious decision trees and abstract cases. </title><booktitle>In Working Notes of the AAAI94 Workshop on Case-Based Reasoning. </booktitle><note>In press.</note>
+
+<meta reference_no="270" cluster_no="165" true_id="451"></meta>
+
+<authors><author> P. Langley</author>,<author> S. Sage</author>,</authors><title> Oblivious Decision Trees and Abstract Cases, </title><note>to be presented at </note><booktitle>the AAAI94Workshop on Case-Based Reasoning, </booktitle><location>Seattle, WA., </location><date>1994.</date>
+
+<meta reference_no="271" cluster_no="166" true_id="461"></meta>
+
+<authors><author> B. Kuipers</author>,<author> Y. Byun</author>.</authors><title> A robust, qualitative method for robot spatial reasoning. </title><booktitle>In Proceedings Sixth National Conference on Artificial Intelligence AAAI-88, </booktitle><pages>pp. 774-779, </pages><date>1988.</date>
+
+<meta reference_no="272" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl, J.</author></authors><date> (1988). </date><title>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA.</location>
+
+<meta reference_no="273" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl, J.</author></authors><date> 1988. </date><title>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA.</location>
+
+<meta reference_no="274" cluster_no="167" true_id="480"></meta>
+
+<authors><author> Judea Pearl</author>.</authors><title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA, </location><date>1988.</date>
+
+<meta reference_no="275" cluster_no="167" true_id="480"></meta>
+
+<authors><author> Pearl, J.</author></authors><date> 1988. </date><title>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><location>San Mateo, California: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="276" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl, J.</author></authors><date> (1988). </date><title>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, </title><location>San Mateo, CA: </location><publisher>Morgan Kaufmannn.</publisher>
+
+<meta reference_no="277" cluster_no="167" true_id="480"></meta>
+
+<authors><author> J. Pearl</author>,</authors><title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><publisher>Morgan Kaufmann Publishers, Inc. </publisher><location>San Mateo, California, </location><date>1988.</date>
+
+<meta reference_no="278" cluster_no="167" true_id="480"></meta>
+
+<authors><author> Pearl, Judea</author></authors><date> 1988. </date><title>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, California.</location>
+
+<meta reference_no="279" cluster_no="167" true_id="480"></meta>
+
+<O>27. </O><authors><author>Judea Pearl</author>.</authors><title> Probabilistic Reasoning in Intelligent Systems : Networks of Plausible Inference. </title><publisher>Morgan Kaufmann, </publisher><date>1988.</date>
+
+<meta reference_no="280" cluster_no="167" true_id="480"></meta>
+
+<authors><author> Judea Pearl</author>.</authors><title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><publisher>Morgan Kaufmann, </publisher><date>1988.</date>
+
+<meta reference_no="281" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl, J.</author></authors><date> (1988). </date><title>Probabilistic Reasoning in Intelligent Systems : Networks of Plausible Inference. </title><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="282" cluster_no="167" true_id="480"></meta>
+
+<authors><author> J. Pearl</author>,</authors><title> Probabilistic Reasoning in Intelligent Systems : Networks of Plausible Inference. </title><publisher>Morgan Kaufmann, </publisher><date>1988.</date>
+
+<meta reference_no="283" cluster_no="167" true_id="480"></meta>
+
+<authors><author> J. Pearl</author>.</authors><title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><publisher>Morgan-Kaufmann, </publisher><date>1988.</date>
+
+<meta reference_no="284" cluster_no="167" true_id="480"></meta>
+
+<authors><author> J. Pearl</author>.</authors><title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. </title><journal>Morgan Kaufmann, </journal><date>1988.</date><O>  36</O>
+
+<meta reference_no="285" cluster_no="167" true_id="480"></meta>
+
+<authors><author> J. Pearl</author>,</authors><title> Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference, </title><publisher>Morgan Kaufman, </publisher><date>1988.</date>
+
+<meta reference_no="286" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl, J.</author></authors><date> (1988). </date><title>Probabilistic Reasoning in Intelligent Systems. </title><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="287" cluster_no="167" true_id="480"></meta>
+
+<authors><author> J. Pearl</author>.</authors><title> Probabilistic Reasoning in Intelligent Systems. </title><publisher>Morgan Kaufmann, </publisher><date>1988.</date>
+
+<meta reference_no="288" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl J.</author></authors><date> (1988). </date><title>Probabilistic reasoning in intelligent systems. </title><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="289" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl, J.</author></authors><date> (1988). </date><title>Probabilistic Reasoning in Intelligent Systems. </title><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="290" cluster_no="167" true_id="480"></meta>
+
+<authors><author> Judea Pearl</author>.</authors><title> Probabilistic Reasoning in Intelligent Systems. </title><publisher>Morgan Kaufmann, </publisher><date>1988.</date>
+
+<meta reference_no="291" cluster_no="167" true_id="480"></meta>
+
+<authors><author>Pearl, J.</author></authors><date> (1988), </date><title>Probabilistic Reasoning in Intelligent Systems, </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA.</location>
+
+<meta reference_no="292" cluster_no="167" true_id="480"></meta>
+
+<authors><author> J. Pearl</author>,</authors><title> Probabilistic Reasoning in Intelligent Systems. </title><location>San Mateo CA.: </location><publisher>Morgan Kaufmann, </publisher><date>1988.</date>
+
+<meta reference_no="293" cluster_no="168" true_id="491"></meta>
+
+<authors><author> T. Cain</author>,<author> M. J. Pazzani</author>, and<author> G. Silverstein</author>.</authors><title> Using domain knowledge to influence similarity judgments. </title><booktitle>In Proceedings of the Case-Based Reasoning Workshop, </booktitle><pages>pages 191-199, </pages><location>Washington, DC, </location><date>1991. </date><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="294" cluster_no="168" true_id="491"></meta>
+
+<authors><author>Cain, T.</author>,<author> Pazzani, M. J.</author>, and<author> Silverstein, G</author>.</authors><date> (1991) </date><title>Using domain knowledge to influence similarity judgements. </title><booktitle>Proceedings of the Case-Based Reasoning Workshop, </booktitle><date>(pp. 191 - 198). </date><location>Washington, D.C., U.S.A.</location>
+
+<meta reference_no="295" cluster_no="168" true_id="491"></meta>
+
+<authors><author>Cain, T.</author>,<author> Pazzani, M. J.</author>, &<author> Silverstein, G</author>.</authors><date> (1991). </date><title>Using domain knowledge to influence similarity judgement. </title><booktitle>In Proceedings of the Case-Based Reasoning Workshop </booktitle><pages>(pp. 191-202). </pages><location>Washington, DC: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="296" cluster_no="169" true_id="517"></meta>
+
+<authors><author> O. Etzioni</author>,<author> S. Hanks</author>, <author>D. Weld</author>,<author> D. Draper</author>,<author> N. Lesh</author>, and<author> M. Williamson</author>.</authors><title> An Approach to Planning with Incomplete Information. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><location>San Francisco, CA, </location><date>October 1992. </date><publisher>Morgan Kaufma</publisher>
+
+<meta reference_no="297" cluster_no="169" true_id="517"></meta>
+
+<authors><author> O. Etzioni</author>,<author> S. Hanks</author>,<author> D. Weld</author>,<author> D. Draper</author>,<author> N. Lesh</author>, and<author> M. Williamson</author>.</authors><title> An Approach to Planning with Incomplete Information. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><location>San Francisco, CA, </location><date>October 1992. </date><publisher>Morgan Kaufma</publisher>
+
+<meta reference_no="298" cluster_no="169" true_id="517"></meta>
+
+<authors><author> O. Etzioni</author>,<author> S. Hanks</author>,<author> D. Weld</author>,<author> D. Draper</author>,<author> N. Lesh</author>, and<author> M. Williamson.</author></authors><title> An Approach to Planning with Incomplete Information. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><location>San Francisco, CA, </location><date>October 1992. </date><publisher>Morgan Kaufm</publisher>
+
+<meta reference_no="299" cluster_no="169" true_id="517"></meta>
+
+<authors><author> O. Etzioni</author>,<author> S. Hanks</author>,<author> D. Weld</author>,<author> D. Draper</author>,<author> N. Lesh</author>, and<author> M. Williamson</author>.</authors><title> An Approach to Planning with Incomplete Information. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><date>October 1992. </date><note>Available via FTP from pub/ai/ a</note>
+
+<meta reference_no="300" cluster_no="169" true_id="517"></meta>
+
+<authors><author>Etzioni, O.</author>,<author> Hanks, S.</author>,<author> Weld, D.</author>,<author> Draper, D.</author>,<author> Lesh, N.</author>, and<author> Williamson, M.</author></authors><date> 1992. </date><title>An Approach to Planning with Incomplete Information. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning. </booktitle><note>Available via FTP from pub/ai/ at cs.wa</note>
+
+<meta reference_no="301" cluster_no="169" true_id="517"></meta>
+
+<authors><author> O. Etzioni</author>,<author> S. Hanks</author>,<author> D. Weld</author>,<author> D. Draper</author>,<author> N. Lesh</author>, and<author> M. Williamson</author>.</authors><title> An approach to planning with incomplete information. </title><booktitle>In Proceedings of the Third International Conference on Principles of Knowledge representation and reasoning, </booktitle><pages>pages 115-125, </pages><O>Sa</O>
+
+<meta reference_no="302" cluster_no="169" true_id="517"></meta>
+
+<authors><author> Oren Etzioni</author>,<author> Steven Hanks</author>,<author> Daniel Weld</author>,<author> Neal Lesh</author>, and<author> Michael Williamson.</author></authors><title> An approach to planning with incomplete information. </title><booktitle>In Proceedings of the Third International Conference on Knowledge Representation and Reasoning, </booktitle><location>Boston, MA, </location><date>1992.</date>
+
+<meta reference_no="303" cluster_no="170" true_id="653"></meta>
+
+<O>8. </O><authors><author>Yaakov Kerner</author>.</authors><title> Case-based evaluation in computer chess. </title><booktitle>In Proceedings of the European Workshop of Case-Based Reasoning. </booktitle><publisher>Springer-Verlag, </publisher><date>1994.</date>
+
+<meta reference_no="304" cluster_no="171" true_id="729"></meta>
+
+<authors><author>Yoon, K.B.</author> and<author> Coyne, R.D.</author></authors><date> (1992). </date><title>Reasoning about spatial constraints, </title><journal>Environment and Planning B </journal><volume>19: </volume><pages>243-266.</pages>
+
+<meta reference_no="305" cluster_no="172" true_id="547"></meta>
+
+<authors><author> B. Fronhofer</author> and<author> F. Kurfess</author>.</authors><title> Cooperative Competition: A Modest Proposal Concerning the Use of Multi-Processor Systems for Automated Reasoning. </title><tech>Technical Report ATP-74-VII-87, </tech><institution>Institut fur Informatik, Technische Universitat Munchen, </institution><date>1987.</date>
+
+<meta reference_no="306" cluster_no="172" true_id="547"></meta>
+
+<authors><author> B. Fronhofer</author> and<author> F. Kurfess</author>.</authors><title> Cooperative competition: A modest proposal concerning the use of multi-processor systems for automated reasoning. </title><tech>Technical Report ATP-74-VII-87, </tech><institution>Institut fur Informatik, Technische Universitat Munchen, </institution><date>1987.</date>
+
+<meta reference_no="307" cluster_no="173" true_id="621"></meta>
+
+<authors><author>Conry, S. E.</author>,<author> MacIntosh, D. J.</author> and<author> Meyer, R. A.</author></authors><date> 1990. </date><title>DARES: A Distributed Automated REasoning System. </title><booktitle>In Proceedings of the Eighth National Conference on Artificial Intelligence, </booktitle><pages>78-85. </pages><publisher>AAAI Press.</publisher>
+
+<meta reference_no="308" cluster_no="173" true_id="621"></meta>
+
+<authors><author>Conry, S. E.</author>,<author> MacIntosh, D. J.</author> &<author> Meyer, R. A.</author></authors><date> (1990). </date><title>DARES: A Distributed Automated REasoning System. </title><booktitle>In Proceedings of the Eighth National Conference on Artificial Intelligence. </booktitle><publisher>AAAI Press, </publisher><pages>78-85.</pages>
+
+<meta reference_no="309" cluster_no="173" true_id="621"></meta>
+
+<authors><author>Conry, Susan E.</author>;<author> MacIntosh, Douglas J.</author>; and<author> Meyer, Robert A.</author></authors><date> 1990. </date><title>DARES: A Distributed Automated REasoning System. </title><booktitle>In Proceedings of the Eighth National Conference on Artificial Intelligence. </booktitle><pages>78-85.</pages>
+
+<meta reference_no="310" cluster_no="174" true_id="585"></meta>
+
+<authors><author> O. Raiman</author> and<author> J. de Kleer</author>.</authors><title> A Minimality Maintenance System. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 532-538, </pages><date>October 1992.</date>
+
+<meta reference_no="311" cluster_no="175" true_id="481"></meta>
+
+<authors><author>Hammond, K.</author></authors><date> (1988); </date><title>Opportunistic Memory: Storing and Recalling Suspended Goals; </title><booktitle>Proceedings of the Workshop on Case-Based Reasoning (DARPA); </booktitle><publisher>Morgan Kaufmann Publishers, Inc., </publisher><location>San Mateo, CA.</location>
+
+<meta reference_no="312" cluster_no="176" true_id="482"></meta>
+
+<authors><author>Kolodner, J. L.</author></authors><date> 1993. </date><title>Case-Based Reasoning. </title><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="313" cluster_no="176" true_id="482"></meta>
+
+<authors><author> J. L. Kolodner</author>,</authors><title> Case-Based Reasoning. </title><publisher>Morgan Kaufmann, </publisher><date>1993.</date>
+
+<meta reference_no="314" cluster_no="176" true_id="482"></meta>
+
+<authors><author> J. Kolodner</author>,</authors><title> Case-based reasoning </title><publisher>(Morgan Kaufmann, </publisher><date>1993).</date>
+
+<meta reference_no="315" cluster_no="176" true_id="482"></meta>
+
+<authors><author> Janet L. Kolodner</author>.</authors><title> Case-Based Reasoning. </title><publisher>Morgan Kaufmann, </publisher><date>1993.</date>
+
+<meta reference_no="316" cluster_no="176" true_id="482"></meta>
+
+<authors><author> Janet L. Kolodner</author>.</authors><title> Case-Based Reasoning. </title><publisher>Morgan Kaufmann, </publisher><date>1993.</date>
+
+<meta reference_no="317" cluster_no="176" true_id="482"></meta>
+
+<authors><author> J. Kolodner</author>.</authors><title> Case-Based Reasoning. </title><publisher>Morgan Kaufmann Publishers, </publisher><location>San Mateo, CA, </location><date>1993.</date>
+
+<meta reference_no="318" cluster_no="176" true_id="482"></meta>
+
+<authors><author> J. Kolodner</author>.</authors><title> Case-Based Reasoning. </title><publisher>Morgan Kaufmann Publishers, </publisher><location>San Mateo, CA, </location><date>1993.</date>
+
+<meta reference_no="319" cluster_no="176" true_id="482"></meta>
+
+<authors><author>Kolodner, J.</author></authors><date> (1993) </date><title>Case-based Reasoning, </title><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="320" cluster_no="177" true_id="510"></meta>
+
+<authors><author> M. Georgeff</author> and<author> A. Lansky</author>,</authors><title> Reactive Reasoning and Planning, </title><booktitle>In Proc. AAAI-87, </booktitle><pages>pp. 677-682, </pages><date>1987.</date>
+
+<meta reference_no="321" cluster_no="177" true_id="510"></meta>
+
+<authors><author> Georgeff, M.</author>, and<author> Lansky, A.</author></authors><title> Reactive Reasoning and Planning. </title><booktitle>Proc. of AAAI87, </booktitle><pages>pp. 677-682, </pages><location>Seattle, WA, </location><date>1987.</date>
+
+<meta reference_no="322" cluster_no="177" true_id="510"></meta>
+
+<authors><author> Michael P. Georgeff</author> and<author> Amy L. Lansky</author>.</authors><title> Reactive reasoning and planning. </title><booktitle>In Proceedings of the Sixth National Conference on Artificial Intelligence, </booktitle><pages>pages 677-682, </pages><location>Seattle, WA, </location><date>1987.</date>
+
+<meta reference_no="323" cluster_no="177" true_id="510"></meta>
+
+<authors><author> Georgeff, M.P.</author> &<author> Lansky, A.L.</author></authors><date> 1987. </date><title>Reactive Reasoning and Planning. </title><booktitle>Proc. of the Sixth National Conf. on AI, </booktitle><location>Seattle, WA.</location>
+
+<meta reference_no="324" cluster_no="178" true_id="539"></meta>
+
+<authors><author> J. P. Delgrande</author> and<author> W. K. Jackson</author>.</authors><title> Default logic revisited. </title><booktitle>In Proc. of the Second International Conference on the Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 118-127, </pages><date>1991.</date>
+
+<meta reference_no="325" cluster_no="179" true_id="728"></meta>
+
+<authors><author>Gero, J. S.</author> and<author> Yan, M.</author></authors><date> (1994). </date><title>Shape emergence using symbolic reasoning, </title><journal>Environment and Planning B: Planning and Design </journal><volume>21: </volume><pages>191-212.</pages>
+
+<meta reference_no="326" cluster_no="180" true_id="545"></meta>
+
+<authors><author>Grosof, B.</author> and<author> S. Russell</author>.</authors><date> 1989. </date><title>Shift of bias as nonmonotonic reasoning. </title><tech>IBM Research Report Number RC 14620 (#64608). </tech><authors><author> Gross, K. </author></authors><note>Forthcoming.</note><tech> Ph.D. thesis, </tech><institution>Carnegie-Mellon University, </institution><location>Pittsburgh, PA.</location>
+
+<meta reference_no="327" cluster_no="181" true_id="551"></meta>
+
+<authors><author> J. W. Shavlik</author>.</authors><title> Case-based reasoning with noisy case boundaries: An application in molecular biology. </title><tech>Technical Report 988, </tech><institution>University of Wisconsin, </institution><location>Madison, WI, </location><date>1990.</date>
+
+<meta reference_no="328" cluster_no="182" true_id="537"></meta>
+
+<authors><author> M. Redmond</author>,</authors><title> "Learning from Others' Experience: Creating Cases from Examples," </title><booktitle>Proc. of the Second Case-Based Reasoning Workshop, </booktitle><location>Pensacola Beach, FL, </location><date>May 1989, </date><pages>pp. 309-312.</pages>
+
+<meta reference_no="329" cluster_no="183" true_id="495"></meta>
+
+<authors><author> Tze-Yun Leong</author>.</authors><title> Multiple perspective reasoning. </title><booktitle>In Proceedings of the 1996 International Conference on Knowledge Representation. </booktitle><publisher>Morgan Kaufmann, </publisher><date>1996.</date>
+
+<meta reference_no="330" cluster_no="184" true_id="565"></meta>
+
+<authors><author> B. Chandrasekaran</author> and<author> N. Narayanan</author>.</authors><title> Towards a theory of commonsense visual reasoning. </title><editor>In K. Nori and C. Madhavan, editors, </editor><booktitle>Foundations of Software Technology and Theroretical Computer Science, Tenth Conference, Lecture Notes in Computer Science, </booktitle><pages>page</pages>
+
+<meta reference_no="331" cluster_no="185" true_id="649"></meta>
+
+<authors><author>Hahn, U.</author>;<author> Schnattinger, K.</author>; and<author> Klenner, M.</author></authors><date> 1995. </date><title>Learning from texts: A terminological meta-reasoning perspective. </title><booktitle>In IJCAI-95 Workshop "New Approaches to Learning for Natural Language Processing", </booktitle><pages>143-150.</pages>
+
+<meta reference_no="332" cluster_no="186" true_id="533"></meta>
+
+<authors><author> McCarragher, B. J.</author></authors><date> (1994) </date><title>Force Sensing from Human Demonstration using a Hybrid Dynamic Model and Qualitative Reasoning, </title><booktitle>Proc. 1994 IEEE Int'l Conf. on Robotics and Automation, </booktitle><location>San Diego.</location>
+
+<meta reference_no="333" cluster_no="187" true_id="456"></meta>
+
+<authors><author>Clancy, D. J.</author>, and<author> Kuipers, B. J.</author></authors><date> 1993. </date><title>Behavior abstraction for tractable simulation. </title><booktitle>In Proceedings of the Seventh International Workshop on Qualitative Reasoning about Physical Systems.</booktitle>
+
+<meta reference_no="334" cluster_no="188" true_id="719"></meta>
+
+<authors><author>Mani, D.</author>, &<author> Shastri, L.</author></authors><date> (1994). </date><title>Massively parallel reasoning with very large knowledge bases. </title><tech>Tech. rep., </tech><institution>Intern. Computer Science Institute.</institution>
+
+<meta reference_no="335" cluster_no="189" true_id="454"></meta>
+
+<authors><author> T. Mohri</author> and<author> H. Tanaka</author>.</authors><title> An optimal weighting criterion of case indexing for both numeric and symbolic attributes. </title><booktitle>In Proceedings of the 1994 AAAI Workshop on Case-Based Reasoning, </booktitle><pages>pages 123-127, </pages><location>Seattle, WA, 1994. </location><publisher>AAAI Press.</publisher>
+
+<meta reference_no="336" cluster_no="189" true_id="454"></meta>
+
+<authors><author>Mohri, T.</author>, &<author> Tanaka, H.</author></authors><date> (1994). </date><title>An optimal weighting criterion of case indexing for both numeric and symbolic attributes. </title><editor>In D. W. Aha (Ed.), </editor><publisher>Case-Based Reasoning:</publisher>
+
+<meta reference_no="337" cluster_no="190" true_id="487"></meta>
+
+<O>Burstein-89 </O><authors><author>Mark H. Burstein</author></authors><title>: Analogy vs. CBR; The purpose of mapping. </title><booktitle>Proceedings from the Case-Based Reasoning Workshop, </booktitle><location>Pensacola Beach, Florida, </location><date>May-June 1989. </date><note>Sponsored by DARPA. </note><publisher>Morgan</publisher>
+
+<meta reference_no="338" cluster_no="190" true_id="487"></meta>
+
+<authors><author> Burstein, M</author>.</authors><date> (1989). </date><title>Analogy vs. cbr; the purpose of mapping. </title><booktitle>In Proceedings from the Case-Based Reasoning Workshop, </booktitle><pages>133-136. </pages><note>Sponsored by DARPA, </note><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="339" cluster_no="191" true_id="622"></meta>
+
+<authors><author> J. Doyle</author>,</authors><title> Rationality and its Roles in Reasoning (extended version), </title><booktitle>AAAI90, </booktitle><location>Boston, MA, </location><date>1990.</date>
+
+<meta reference_no="340" cluster_no="191" true_id="622"></meta>
+
+<authors><author> J. Doyle</author>,</authors><title> Rationality and its Roles in Reasoning (extended version), </title><booktitle>Proceedings of the National Conference on Artificial Intelligence, </booktitle><location>Boston, MA, </location><date>1990, </date><pages>pp. 10931100.</pages>
+
+<meta reference_no="341" cluster_no="192" true_id="700"></meta>
+
+<authors><author> B. Chandrasekaran</author>.</authors><title> Generic tasks in knowledge-based reasoning: High-level building blocks for expert system design. </title><journal>IEEE Expert, </journal><pages>pages 23-30, </pages><date>Fall 1986.</date><O>  23</O>
+
+<meta reference_no="342" cluster_no="192" true_id="700"></meta>
+
+<authors><author>Chandrasekaran, B.</author></authors><date> (1986). </date><title>Generic tasks in knowledge-based reasoning: Highlevel building blocks for expert system design. </title><journal>IEEE Expert.</journal>
+
+<meta reference_no="343" cluster_no="193" true_id="482"></meta>
+
+<authors><author> J. Kolodner</author></authors><title>: Case-based reasoning. </title><publisher>Morgan Kaufmann. </publisher><date>1993.</date>
+
+<meta reference_no="344" cluster_no="194" true_id="607"></meta>
+
+<authors><author> R. L. Rivest</author> and<author> R. Sloan</author>,</authors><title> A New Model for Inductive Inference, </title><booktitle>Second Conference on Theoretical Aspects of Reasoning about Knowledge, </booktitle><date>1988.</date>
+
+<meta reference_no="345" cluster_no="195" true_id="604"></meta>
+
+<authors><author> Louise Stark</author> and<author> Kevin Bowyer</author>,</authors><title> "Achieving Generalized Object Recognition through Reasoning about Association of Function to Structure," </title><journal>IEEE Transactions on Pattern Analysis and Machine Intelligence, </journal><volume>13, </volume><date>October 1991.</date>
+
+<meta reference_no="346" cluster_no="196" true_id="568"></meta>
+
+<authors><author> T. Winkler</author>.</authors><title> Programming in OBJ and Maude. </title><editor>In P. E. Lauer, editor,</editor><journal> Functional Programming, Concurrency, Simulation and Automated Reasoning, Lecture Notes in Computer Science</journal><volume> 693, </volume><pages>pages 229-277. </pages><publisher>Springer-Verlag, </publisher><location>Berlin, </location><date>1993.</date>
+
+<meta reference_no="347" cluster_no="197" true_id="716"></meta>
+
+<authors><author> Jaime Simao Sichman</author> and<author> Yves Demazeau</author>.</authors><title> Exploiting social reasoning to deal with agency level inconistency. </title><booktitle>In Proceedings of the First International Conference on MultiAgent Systems (ICMAS 95), </booktitle><pages>pages 352359, </pages><location>Menlo Park, California, </location><date>June 1995. </date><note>AAAI P</note>
+
+<meta reference_no="348" cluster_no="198" true_id="488"></meta>
+
+<authors><author> Branting, K</author>.</authors><date> (1989). </date><title>Integrating generalizations with exemplar-based reasoning. </title><booktitle>In Proceedings from the Case-Based Reasoning Workshop, </booktitle><location>Pensacola Beach, Florida, </location><pages>224-229. </pages><note>DARPA, </note><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="349" cluster_no="199" true_id="627"></meta>
+
+<authors><author> J.S. Penberthy</author> and<author> D. Weld</author>.</authors><title> UCPOP: A sound, complete, partial order planner for ADL. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 103-114, </pages><date>October 1992. </date><note>Available via FTP from pub/ai/ at ftp.cs.washington.ed</note>
+
+<meta reference_no="350" cluster_no="199" true_id="627"></meta>
+
+<authors><author> J.S. Penberthy</author> and<author> D. Weld</author>.</authors><title> UCPOP: A sound, complete, partial order planner for ADL. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 103-114, </pages><date>October 1992. </date><note>Available via FTP from pub/ai/ at ftp.cs.washington.ed</note>
+
+<meta reference_no="351" cluster_no="199" true_id="627"></meta>
+
+<authors><author>Penberthy, J.</author>, and<author> Weld, D.</author></authors><date> 1992. </date><title>UCPOP: A sound, complete, partial order planner for ADL. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning, </booktitle><pages>103-114. </pages><note>Available via FTP from pub/ai/ at cs.washington.edu.</note>
+
+<meta reference_no="352" cluster_no="199" true_id="627"></meta>
+
+<authors><author> J. S. Penberthy</author> and<author> D. Weld</author>.</authors><title> UCPOP: A sound, complete, partial order planner for ADL. </title><booktitle>In Proceedings of the third international conference on principles of knowledge representation and reasoning, </booktitle><pages>pages 103-114, </pages><date>1992.</date><O>  33</O>
+
+<meta reference_no="353" cluster_no="199" true_id="627"></meta>
+
+<O>11. </O><authors><author>J. S. Penberthy</author> and<author> D. S. Weld</author>.</authors><title> UCPOP: A sound, complete, partial order planner for ADL. </title><editor>In B. Nebel, W. Swartout, and C. Rich, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proceedings of the 3rd International Conference (KR-92), </booktitle><O>pa</O>
+
+<meta reference_no="354" cluster_no="200" true_id="540"></meta>
+
+<authors><author>Brown, B.</author> and<author> Lewis, L.</author></authors><date> (1991): </date><title>A case-based reasoning solution to the problem of redundant resolutions of non-conformances in large scale manufacturing. </title><editor>In: R. Smith, C. Scott (eds.): </editor><booktitle>Innovative Applications for Artificial Intelligence 3. </booktitle><publisher>MIT Press.</publisher>
+
+<meta reference_no="355" cluster_no="201" true_id="745"></meta>
+
+<authors><author> Christian Larssen</author></authors><title>: Multi-paradigm reasoning. </title><tech>ELAB-RUNIT Report 1990 </tech><note>(Forthcoming).</note>
+
+<meta reference_no="356" cluster_no="201" true_id="745"></meta>
+
+<O>Trondheim,</O><date> 1990. </date><O>Larssen-90 </O><authors><author>Christian Larssen</author></authors><title>: Multi-paradigm reasoning. </title><tech>ELAB-RUNIT Report</tech>
+
+<meta reference_no="357" cluster_no="202" true_id="600"></meta>
+
+<authors><author>Shoham, Y.</author></authors><date> 1988. </date><title>Reasoning about Change: Time and Causation from the Standpoint of Artificial Intelligence. </title><location>Cambridge, MA: </location><publisher>MIT Press.</publisher>
+
+<meta reference_no="358" cluster_no="203" true_id="666"></meta>
+
+<authors><author>Epstein, S. L.</author></authors><date> 1995a. </date><title>On Heuristic Reasoning, Reactivity, and Search. </title><booktitle>In Proceedings of the IJCAI-95, </booktitle><note>in press.</note>
+
+<meta reference_no="359" cluster_no="204" true_id="620"></meta>
+
+<authors><author>Chouraqui E.</author>,</authors><title> Construction of a Model for Reasoning by Analogy, </title><booktitle>in Proceedings of the European Conference on Artificial Intelligence, </booktitle><location>Orsay, France, </location><date>1982.</date>
+
+<meta reference_no="360" cluster_no="205" true_id="629"></meta>
+
+<authors><author>Gaines, B.R.</author> and<author> Norrie, D.H.</author></authors><date> (1994). </date><title>Mediator: information and knowledge management for the virtual factory.</title><booktitle> SIGMAN AAAI-94 Workshop: Reasoning about the Shop Floor. </booktitle><pages>pp.30-39. </pages><publisher>Menlo Park, </publisher><location>California, AAAI.</location>
+
+<meta reference_no="361" cluster_no="205" true_id="629"></meta>
+
+<authors><author> B.R. Gaines</author> and<author> D.H. Norrie</author>,</authors><title> Mediator: information and knowledge management for the virtual factory, </title><booktitle>in SIGMAN AAAI-94 Workshop: Reasoning about the Shop Floor. AAAI: Menlo Park, </booktitle><date>California. </date><pages>p. 30-39, </pages><date>1994.</date>
+
+<meta reference_no="362" cluster_no="205" true_id="629"></meta>
+
+<authors><author>Gaines, B.R.</author> and<author> Norrie, D.H.</author></authors><date> (1994). </date><title>Mediator: information and knowledge management for the virtual factory.</title><booktitle> SIGMAN AAAI-94 Workshop: Reasoning about the Shop Floor. </booktitle><pages>pp.30-39. </pages><publisher>Menlo Park, </publisher><location>California, AAAI.</location>
+
+<meta reference_no="363" cluster_no="205" true_id="629"></meta>
+
+<authors><author>Gaines, B.R.</author>,<author> Norrie, D.H.</author>,</authors><title> Mediator: Information and Knowledge Management for the Virtual Factory, </title><booktitle>Proc. of SIGMAN AAAI 94 Workshop on Reasoning About the Shop Floor, </booktitle><date>1994.</date>
+
+<meta reference_no="364" cluster_no="206" true_id="479"></meta>
+
+<authors><author>Haddawy, P.</author>, and<author> Hanks, S.</author></authors><date> 1992. </date><title>Representations for Decision-Theoretic Planning: Utility Functions for Dealine Goals. </title><booktitle>In Proc. 3rd Int. Conf. on Principles of Knowledge Representation and Reasoning.</booktitle>
+
+<meta reference_no="365" cluster_no="207" true_id="499"></meta>
+
+<authors><author> D. Poole</author>,<author> R. Goebel</author>, and<author> R. Aleliunas</author>.</authors><title> Theorist: A logical reasoning system for defaults and diagn osis. </title><editor>In N.J. Cercone and G. McCalla, editors, </editor><booktitle>The Knowledge Frontier: Essays in the Representat ion of Knowledge, </booktitle><pages>pages 331-352. </pages><publisher>Spri</publisher>
+
+<meta reference_no="366" cluster_no="207" true_id="499"></meta>
+
+<authors><author> David Poole</author>,<author> Randy Goebel</author>,<author> and Romas Aleliunas</author>.</authors><title> Theorist: a logical reasoning system for defaults and diagnosis. </title><editor>In N.J. Cercone and G. McCalla, editors, </editor><booktitle>The Knowledge Frontier: Essays in the Representation of Knowledge, </booktitle><pages>pages 331-352. </pages><publisher>Springer Verl</publisher>
+
+<meta reference_no="367" cluster_no="208" true_id="516"></meta>
+
+<O> W --</O><authors><author>van de Velde, W </author></authors><date>(1990), </date><title>Reasoning, Behavior and learning: A knowledge-level perspective . </title><booktitle>Proc. of Cognitiva 90, </booktitle><pages>pp. 451-463. </pages><location>Madrid </location><date>20-23 Nov. 1990.</date>
+
+<meta reference_no="368" cluster_no="209" true_id="478"></meta>
+
+<authors><author> L. P. Kaelbling</author>.</authors><title> An architecture for intelligent reactive systems. </title><booktitle>In Reasoning About Actions and Plans: Proceedings of the 1986 Workshop. </booktitle><publisher>Morgan Kaufmann, </publisher><date>1986.</date>
+
+<meta reference_no="369" cluster_no="209" true_id="478"></meta>
+
+<authors><author> L. Kaelbling</author>,</authors><title> An Architecture for Intelligent Reactive Systems, </title><booktitle>In Proc. 1986 Workshop on Reasoning about Actions and Plans, </booktitle><pages>pp. 395-410, </pages><date>1987.</date>
+
+<meta reference_no="370" cluster_no="209" true_id="478"></meta>
+
+<authors><author>Kaelbling, L. P.</author>,</authors><date> 1987. </date><title>An architecture for intelligent reactive systems. </title><editor>In M. P. Georgeff & A. L. Lansky, eds., </editor><booktitle>Reasoning about Actions and Plans, </booktitle><publisher>Morgan Kaufmann, </publisher><location>Los Altos, CA, </location><pages>395 410.</pages>
+
+<meta reference_no="371" cluster_no="210" true_id="635"></meta>
+
+<authors><author> E. H. Shortliffe</author> and<author> B. G. Buchanan</author>,</authors><title> A Model of Inexact Reasoning in Medicine, in: Rule-Based Expert Systems, </title><editor>B. G. Buchanan and E. H. Shortliffe (Eds.), </editor><pages>233262, </pages><publisher>Addison-Wesley, </publisher><location>Reading, MA </location><date>(1984).</date>
+
+<meta reference_no="372" cluster_no="210" true_id="635"></meta>
+
+<authors><author>Shortliffe, E. H.</author> and<author> Buchanan, B. G.</author></authors><date> (1985), </date><title>A model of inexact reasoning in medicine, </title><booktitle>Rule-Based Expert Systems,</booktitle><publisher> AddisonWesley, </publisher><location>New York, </location><pages>pp. 233-262.</pages>
+
+<meta reference_no="373" cluster_no="210" true_id="636"></meta>
+
+<authors><author>Shortliffe, E.</author>, &<author> Buchanan, G. B.</author></authors><date> (1975). </date><title>A model of inexact reasoning in medicine. </title><journal>Math. Biosci., </journal><volume>23, </volume><date>351379.</date>
+
+<meta reference_no="374" cluster_no="210" true_id="636"></meta>
+
+<authors><author> E.H. Shortcliffe</author> and<author> B.G. Buchanan</author>.</authors><title> A model of inexact reasoning in medicine. </title><journal>Mathematical Biosciences, </journal><volume>23:</volume><pages>351-379, </pages><date>1975.</date>
+
+<meta reference_no="375" cluster_no="211" true_id="470"></meta>
+
+<authors><author> Agnar Aamodt</author>.</authors><title> Knowledge intensive case-based reasoning and sustained learning. </title><booktitle>In: ECAI-90; Proceedings of the ninth European Conference on Artificial Intelligence, </booktitle><location>Stockholm, August, </location><date>1990.</date>
+
+<meta reference_no="376" cluster_no="211" true_id="470"></meta>
+
+<authors><author> Aamodt, A.</author></authors><date> (1990). </date><title>Knowledge intensive case-based reasoning and sustained learning. </title><booktitle>In ECAI-90; Proceedings of the ninth European Conference on Artificial Intelligence,, </booktitle><pages>1-6. </pages><publisher>ECCAI. </publisher><location>Stockholm,</location><date> August, 1990.</date>
+
+<meta reference_no="377" cluster_no="211" true_id="470"></meta>
+
+<authors><author> Aamodt, A</author></authors><date> (1990), </date><title>Knowledge-intensive case-based reasoning and sustained learning. </title><booktitle>Proc. ECAI-90, </booktitle><location>Stockholm.</location>
+
+<meta reference_no="378" cluster_no="211" true_id="470"></meta>
+
+<authors><author> A. Aamodt</author>,</authors><title> Knowledge-intensive case-based reasoning and learning. </title><booktitle>Proceedings of ECAI-90, Ninth European Conference on Artificial Intelligence,</booktitle><location> Stockholm </location><date>(August 1990)</date><pages> 1-6.</pages>
+
+<meta reference_no="379" cluster_no="211" true_id="470"></meta>
+
+<authors><author> Agnar Aamodt</author></authors><title>: Knowledge-Intensive Case-Based Reasoning and Sustained Learning. </title><note>To appear </note><booktitle>in: Proceedings of the 9th European Conference on Artificial Intelligence, ECAI-90. </booktitle><location>Stockholm,</location><date> August, 1990.</date>
+
+<meta reference_no="380" cluster_no="212" true_id="671"></meta>
+
+<authors><author>Frank, A. U.</author></authors><date> (1992). </date><title>Qualitative spatial reasoning with cardinal directions. </title><journal>Journal of Visual Languages and Computing, </journal><volume>3, </volume><pages>343-371.</pages>
+
+<meta reference_no="381" cluster_no="213" true_id="613"></meta>
+
+<authors><author> K. Thornber</author>,</authors><title> "A key to fuzzy-logic inference," </title><journal>International Journal of Approximate Reasoning, </journal><volume>vol. 8, </volume><pages>pp. 105-121, </pages><date>1993.</date>
+
+<meta reference_no="382" cluster_no="214" true_id="731"></meta>
+
+<O>12. </O><authors><author>FREKSA, C.</author></authors><title> Using orientation information for qualitative spatial reasoning. </title><editor>In Frank et al. , </editor><pages>pages 162-178.</pages>
+
+<meta reference_no="383" cluster_no="214" true_id="731"></meta>
+
+<authors><author>Freksa, C.</author></authors><date> (1992b). </date><title>Using orientation information for qualitative spatial reasoning.</title>
+
+<meta reference_no="384" cluster_no="215" true_id="586"></meta>
+
+<authors><author>Gaines, B.R.</author></authors><date> (1991) </date><title>Empirical investigation of knowledge representation servers: design issues and applications experience with KRS. </title><booktitle>AAAI Spring Symposium: Implemented Knowledge Representation and Reasoning Systems. </booktitle><pages>pp. 87-101. </pages><note>Stanford (March)also SIGAR</note>
+
+<meta reference_no="385" cluster_no="216" true_id="707"></meta>
+
+<authors><author> J. T. E. RICHARDSON</author>,</authors><date> 1983. </date><title>Mental Imagery in Thinking and Problem Solving, </title><booktitle>in  Thinking and Reasoning: Psychological Approaches. </booktitle><editor>(Ed. Jonathan S.B.T. Evans),  </editor><location>Boston:</location><publisher>Routledge and Kegan Paul.</publisher>
+
+<meta reference_no="386" cluster_no="217" true_id="693"></meta>
+
+<O>Hall-89 </O><authors><author>Rogers P.</author></authors><title> Hall: Computatinal approaches to analogical reasoning; A comparative analysis. </title><journal>Artificial Intelligence, </journal><volume>Vol. 39, no. 1, </volume><date>1989.</date>
+
+<meta reference_no="387" cluster_no="218" true_id="632"></meta>
+
+<authors><author>Lacher, R.C.</author> and<author> Nguyen, K. D.</author>.</authors><date> (1995). </date><title>Hierarchical Architectures for Reasoning,</title><note> Chapter 4 </note><editor>In Ron Sun and Lawrence A. Bookman, editors, </editor><booktitle>Computational Architectures Integrating Neural and Symbolic Processes, </booktitle><publisher>Kluwer Academic Publishers, </publisher><location>Boston, USA</location>
+
+<meta reference_no="388" cluster_no="219" true_id="594"></meta>
+
+<authors><author> J. Renz</author> and<author> B. Nebel</author>.</authors><title> On the complexity of qualitative spatial reasoning: A maximal tractable fragment of the Region Connection Calculus.</title>
+
+<meta reference_no="389" cluster_no="220" true_id="704"></meta>
+
+<authors><author> Slade, S.</author></authors><date> (1991). </date><title>Case-based reasoning: A research paradigm. </title><journal>AI Magazine, </journal><volume>12(1), </volume><pages>42-55.</pages>
+
+<meta reference_no="390" cluster_no="221" true_id="626"></meta>
+
+<title>empirical comparison. </title><editor>In D. W. Aha (Ed.) </editor><booktitle>Case-Based Reasoning: Papers from the 1994 Workshop </booktitle><tech>(Technical Report WS-94-01). </tech><location>Menlo Park, CA: </location><publisher>AAAI Press.</publisher>
+
+<meta reference_no="391" cluster_no="221" true_id="626"></meta>
+
+<booktitle>Reasoning: Papers from the 1994 Workshop </booktitle><tech>(Technical Report WS-94-01). </tech><location>Menlo Park, CA: </location><publisher>AAAI Press.</publisher>
+
+<meta reference_no="392" cluster_no="221" true_id="626"></meta>
+
+<editor>(Ed.), </editor><booktitle>Case-Based Reasoning: Papers from the 1994 Workshop </booktitle><tech>(Technical Report WS-94-01). </tech><location>Menlo Park, CA: </location><publisher>AAAI Press.</publisher>
+
+<meta reference_no="393" cluster_no="222" true_id="727"></meta>
+
+<authors><author> Yongyuth Permpoontanalarp</author>.</authors><title> Generalised prooftheory for multiagent autoepistemic reasoning. </title><booktitle>In Proceedings of the First International Conference on MultiAgent Systems (ICMAS95), </booktitle><pages>pages 304 311, </pages><location>Menlo Park, California,</location><date> June 1995.</date><publisher> AAAI Press.</publisher>
+
+<meta reference_no="394" cluster_no="223" true_id="609"></meta>
+
+<authors><author>Li, M.</author> &<author> Vitanyi, P. M.</author></authors><date> (1989). </date><title>Inductive Reasoning and Kolmogorov Complexity. </title><booktitle>In Proceedings of the Fourth Annual Conference on Structure in Complexity Theory, </booktitle><pages>(pp. 165185).</pages>
+
+<meta reference_no="395" cluster_no="224" true_id="625"></meta>
+
+<O>Reasoning.</O><title> Case-Based Reasoning: Papers from the 1993 Workshop, </title><tech>Tech. Report WS-93-01, </tech><pages>(pp 86-93). </pages><publisher>AAAI Press, </publisher><location>Washington, D.C.</location>
+
+<meta reference_no="396" cluster_no="225" true_id="657"></meta>
+
+<authors><author>Skalak, D. B.</author></authors><date> (1993). </date><title>Using a genetic algorithm to learn prototypes for case retrieval and classi fication. </title><booktitle>Case-Based Reasoning:</booktitle>
+
+<meta reference_no="397" cluster_no="226" true_id="698"></meta>
+
+<authors><author> R. Wilson</author> and<author> J.-C. Latombe</author>.</authors><title> Geometric reasoning about mechanical assembly. </title><journal>Artificial Intelligence, </journal><volume>71(2):</volume><pages>371-396, </pages><date>1994.</date>
+
+<meta reference_no="398" cluster_no="226" true_id="698"></meta>
+
+<authors><author> R. Wilson</author> and<author> J.-C. Latombe</author>.</authors><title> Geometric reasoning about mechanical assembly. </title><journal>Artificial Intelligence, </journal><volume>71(2):</volume><pages>371-396, </pages><date>1994.</date>
+
+<meta reference_no="399" cluster_no="227" true_id="589"></meta>
+
+<O>2. </O><authors><author>Anand S. Rao</author> and<author> Michael P. Georgeff</author>.</authors><title> A model-theoretic approach to the verification of situated reasoning systems. </title><booktitle>In Proceedings of IJCAI-93, </booktitle><pages>pages 318-324, </pages><location>Chambery, France, </location><date>28 August - 3 September 1993. </date><note>IJCAI.</note>
+
+<meta reference_no="400" cluster_no="227" true_id="589"></meta>
+
+<authors><author> Anand S. Rao</author> and<author> Michael P. Georgeff</author>.</authors><title> A model-theoretic approach to the verification of situated reasoning systems. </title><booktitle>In Proceedings of IJCAI93, </booktitle><pages>pages 318-324, </pages><location>Chambery, France, </location><date>28 August - 3 September 1993. </date><note>IJCAI.</note>
+
+<meta reference_no="401" cluster_no="227" true_id="589"></meta>
+
+<authors><author> Anand S. Rao</author> and<author> Michael P. Georgeff</author>,</authors><title> `A modeltheoretic approach to the verication of situated reasoning systems', </title><booktitle>in Proceedings of IJCAI 93, </booktitle><pages>pp. 318324, </pages><location>Chambery, France, </location><date>(28 August 3 September 1993). </date><note>IJCAI.</note>
+
+<meta reference_no="402" cluster_no="228" true_id="476"></meta>
+
+<authors><author> S. J. Rosenschein</author> and<author> L. P. Kaelbling</author>.</authors><title> The synthesis of digital machines with provable epistemic properties. </title><editor>In J. Halpern, editor, </editor><booktitle>Proceedings of the Conference on Theoretical Aspects of Reasoning About Knowledge, </booktitle><pages>pages 83-98. </pages><publisher>Morgan Kaufmann, </publisher><location>1986</location>
+
+<meta reference_no="403" cluster_no="228" true_id="476"></meta>
+
+<O>20. </O><authors><author>S. Rosenschein</author> and<author> L. Kaelbling</author>.</authors><title> The synthesis of digital machines with provable epistemic properties. </title><editor>In J.F. Halpern, editor, </editor><booktitle>The 1986 Conference on Theoretical Aspects of Reasoning and Knowledge, </booktitle><date>1987.</date>
+
+<meta reference_no="404" cluster_no="229" true_id="531"></meta>
+
+<authors><author>Hebert, P.</author>,<author> Betge-Brezetz, S.</author>, &<author> Chatila, R.</author></authors><date> (1995). </date><title>Probabilistic Map Learning: Necessity and Difficulties. </title><pages>Pages 307-321</pages><note> of: </note><booktitle>Proceedings of the International Workshop on Reasoning with Uncertainty in Robotics. </booktitle><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="405" cluster_no="230" true_id="471"></meta>
+
+<authors><author>Smyth, B.</author>,<author> Cunningham, P.</author></authors><date> (1992) </date><title>Dj Vu: A hierarchical case-based reasoning system for software design. </title><booktitle>Proceedings of the 10th European Conference on Artificial Intelligence. </booktitle><pages>pages 587589. </pages><location>Chichester, </location><publisher>John Wiley.</publisher>
+
+<meta reference_no="406" cluster_no="231" true_id="602"></meta>
+
+<authors><author>Stich, S.P.</author> &<author> Nisbett, R.E.</author></authors><date> (1984). </date><title>Expertise, justification and the psychology of inductive reasoning. </title><editor>Haskell, T.L., Ed. </editor><booktitle>The Authority of Experts. </booktitle><pages>pp. 226-241. </pages><location>Bloomington, Indiana: </location><publisher>Indiana University Press.</publisher>
+
+<meta reference_no="407" cluster_no="231" true_id="602"></meta>
+
+<authors><author>Stich, S.P.</author> &<author> Nisbett, R.E.</author></authors><date> (1984). </date><title>Expertise, justification and the psychology of inductive reasoning. </title><editor>Haskell, T.L., Ed. </editor><booktitle>The Authority of Experts. </booktitle><pages>pp. 226-241. </pages><location>Bloomington, Indiana: </location><publisher>Indiana University Press.</publisher>
+
+<meta reference_no="408" cluster_no="231" true_id="602"></meta>
+
+<authors><author>Stich, S.P.</author> and<author> Nisbett, R.E.</author></authors><date> (1984). </date><title>Expertise, justification and the psychology of inductive reasoning. </title><booktitle>The Authority of Experts. </booktitle><pages>pp.226-241. </pages><location>Bloomington, Indiana, </location><publisher>Indiana University Press.</publisher>
+
+<meta reference_no="409" cluster_no="232" true_id="529"></meta>
+
+<authors><author> H.A. Kautz</author> and<author> B. Selman</author>.</authors><title> Hard problems for simple default logics. </title><booktitle>In Proc. of the First International Conference on the Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 189-197, </pages><date>1989.</date>
+
+<meta reference_no="410" cluster_no="233" true_id="705"></meta>
+
+<authors><author> T. Ohko</author>,<author> K. Hiraki</author>, and<author> Y. Anzai</author>,</authors><title> "Reducing communication load on contract net by casebased reasoning - extension with directed contract and forgetting -," </title><booktitle>in Proc. of ICMAS-96, </booktitle><pages>pp. 244-251, </pages><date>1996.</date>
+
+<meta reference_no="411" cluster_no="234" true_id="457"></meta>
+
+<O>1.</O><authors><author> C. Backstrom</author>.</authors><title> Equivalence and tractability results for SAS+ planning. </title><editor>In B. Nebel, W. Swartout, and C. Rich, editors, </editor><booktitle>Principles of Knowledge Representation and Reasoning: Proceedings of the 3rd International Conference (KR-92), </booktitle><pages>pages 126137, </pages><location>Cambridg</location>
+
+<meta reference_no="412" cluster_no="235" true_id="508"></meta>
+
+<authors><author> A. Borgida</author> and<author> D. Etherington</author>.</authors><title> Hierarchical knowledge bases and efficient disjunctive reasoning. </title><booktitle>In KR-89, </booktitle><date>1989.</date>
+
+<meta reference_no="413" cluster_no="235" true_id="508"></meta>
+
+<authors><author> A. Borgida</author> and<author> D. W. Etherington</author>,</authors><title> Hierarchical Knowledge Bases and Efficient Disjunctive Reasoning, </title><booktitle>Proceedings of the First International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><location>Toronto, Ontario, Canada, </location><date>May 1989,</date>
+
+<meta reference_no="414" cluster_no="236" true_id="564"></meta>
+
+<editor>Frank, A. U., Campari, I., and Formentini, U. (Eds.)</editor><date>. (1992). </date><title>Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. </title><booktitle>Intl. Conf. GIS|From Space</booktitle>
+
+<meta reference_no="415" cluster_no="236" true_id="564"></meta>
+
+<editor>Frank, A. U., Campari, I., and Formentini, U. (Eds.)</editor><date>. (1992). </date><title>Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. </title><booktitle>Intl. Conf. GIS|From Space</booktitle>
+
+<meta reference_no="416" cluster_no="236" true_id="564"></meta>
+
+<editor>Frank, A. U., Campari, I., and Formentini, U., editors</editor><date> (1992). </date><title>Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. </title><booktitle>Intl. Conf. GIS|From Space to Territory, Pisa, </booktitle><volume>Volume 639 </volume><booktitle>of Lecture Notes in Computer Science. </booktitle><publisher>Springer, </publisher><location>Berlin.</location>
+
+<meta reference_no="417" cluster_no="236" true_id="564"></meta>
+
+<O>10. </O><editor>FRANK, A. U., CAMPARI, I., and FORMENTINI, U., editors.</editor> <title>Theories and Methods of Spatio-Temporal Reasoning in Geographic Space. </title><booktitle>Intl. Conf. GIS|From Space to Territory. </booktitle><location>Pisa, </location><date>Sept. 1992,</date><volume> volume 639 </volume><booktitle>of Lecture Notes in Computer Science, </booktitle><location>Berlin, </location><date>1992. </date><O>S</O>
+
+<meta reference_no="418" cluster_no="237" true_id="541"></meta>
+
+<authors><author> M. Rayner</author>.</authors><title> On the applicability of nonmonotonic logic to formal reasoning in continuous time. </title><journal>Artificial Intelligence, </journal><volume>49(1-3):</volume><pages>345360,</pages><date> 1991.</date>
+
+<meta reference_no="419" cluster_no="238" true_id="496"></meta>
+
+<authors><author> S. J. Rosenschein</author>.</authors><title> Synthesizing information-tracking automata from environment descriptions. </title><booktitle>In Proceedings of Conference on Principles of Knowledge Representation and Reasoning, </booktitle><location>Toronto, Canada, </location><date>1989.</date>
+
+<meta reference_no="420" cluster_no="239" true_id="595"></meta>
+
+<authors><author> B. Nebel</author>.</authors><title> Solving hard qualitative temporal reasoning problems: Evaluating the efficiency of using the ORD-Horn class. </title><journal>Constraints, </journal><volume>3(1), </volume><pages>pp.175-190, </pages><date>1997.</date>
+
+<meta reference_no="421" cluster_no="240" true_id="593"></meta>
+
+<authors><author> Bernhard Nebel</author> and<author> Hans-Jurgen Burckert</author>.</authors><title> Reasoning about temporal relations: A maximal tractable subclass of Allen's interval algebra. </title><journal>Journal of the Association for Computing Machinery, </journal><volume>42(1):</volume><pages>43-66, </pages><date>January 1995.</date>
+
+<meta reference_no="422" cluster_no="240" true_id="593"></meta>
+
+<authors><author> B. Nebel</author> and<author> H.-J. Burckert</author>.</authors><title> Reasoning about temporal relations: A maximal tractable subclass of Allen's interval algebra. </title><journal>Journal ACM, </journal><volume>42(1), </volume><pages>pp.43-66, </pages><date>1995.</date>
+
+<meta reference_no="423" cluster_no="241" true_id="455"></meta>
+
+<authors><author> H. Tanaka</author> and<author> S. Tsumoto</author>.</authors><title> Qualitative reasoning of a temporally hierarchical system based on infinitesimal analysis. </title><booktitle>In Proc. of the Eighth International Workshop on Qualitative Reasoning about Physical Systems, </booktitle><pages>pages 266275, </pages><date>June 1994.</date>
+
+<meta reference_no="424" cluster_no="242" true_id="647"></meta>
+
+<authors><author>Burstein M. H.</author></authors><title> Concept Formation by Analogical Reasoning and Debugging, </title><editor>in Michalski R., Carbonell J. & Mitchell T. (eds) </editor><booktitle>Machine Learning: An Artificial Intelligence Approach, </booktitle><volume>Vol. 2, </volume><publisher>Morgan Kaufmann </publisher><date>1986, </date><pages>pp.351-370.</pages>
+
+<meta reference_no="425" cluster_no="243" true_id="673"></meta>
+
+<O>9. </O><authors><author>FRANK, A. U.</author></authors><title> Qualitative spatial reasoning with cardinal directions. </title><editor>In KAINDL,  H., editor,</editor><volume> 7. </volume><booktitle>Osterreichische Artificial Intelligence Tagung. </booktitle><publisher>Springer-Verlag, </publisher><date>1991.</date>
+
+<meta reference_no="426" cluster_no="243" true_id="673"></meta>
+
+<authors><author>Frank, A. U.</author></authors><date> (1991). </date><title>Qualitative spatial reasoning with cardinal directions. </title><editor>In Kaindl, H. (Ed.), </editor><volume>7. </volume><booktitle>Osterreichische Artificial Intelligence Tagung. </booktitle><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="427" cluster_no="244" true_id="747"></meta>
+
+<title>Reasoning.</title><journal> NAIM - Nordisk AI Magasin, </journal><volume>rgang 6, no. 1, </volume><date>1991. </date><pages>pp.19-25.</pages>
+
+<meta reference_no="428" cluster_no="245" true_id="494"></meta>
+
+<authors><author> Genesereth, M.</author></authors><date> 1991. </date><title>Knowledge interchange format. </title><booktitle>Principles of Knowledge Representation and Reasoning: Proceedings of the Second International Converence. </booktitle><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="429" cluster_no="246" true_id="702"></meta>
+
+<authors><author>Hennessy, D.</author> and<author> Hinkle, D.</author></authors><date> (1992). </date><title>Applying case-based reasoning to autoclave loading. </title><journal>IEEE Expert </journal><volume>7(5), </volume><pages>pp. 21-26.</pages>
+
+<meta reference_no="430" cluster_no="247" true_id="460"></meta>
+
+<authors><author> Berleant, D.</author> and<author> Kuipers, B.</author></authors><date> 1988. </date><title>Using incomplete quantitative knowledge in qualitative reasoning. </title><booktitle>In Proc. of the Sixth National Conference on Artificial Intelligence. </booktitle><pages>324-329.</pages>
+
+<meta reference_no="431" cluster_no="248" true_id="726"></meta>
+
+<authors><author>Howson, C.</author>, and<author> Urbach, P.</author></authors><date> 1988. </date><title>Scientific Reasoning: The Bayesian Approach. </title><publisher>Open Court.</publisher>
+
+<meta reference_no="432" cluster_no="248" true_id="726"></meta>
+
+<authors><author>Howson, C.</author>, and<author> Urbach, P.</author></authors><date> 1988. </date><title>Scientific Reasoning: The Bayesian Approach. </title><publisher>Open Court.</publisher>
+
+<meta reference_no="433" cluster_no="248" true_id="726"></meta>
+
+<authors><author> Colin Howson</author> and<author> Peter Urbach</author>.</authors><title> Scientific Reasoning: The Bayesian  Approach. </title><publisher>Open Court, </publisher><date>1988.</date>
+
+<meta reference_no="434" cluster_no="248" true_id="726"></meta>
+
+<authors><author> C. Howson</author> and<author> P. Urbach</author>.</authors><title> Scientific Reasoning: The Bayesian Approach. </title><publisher>Open Court, </publisher><location>La Salle, IL, </location><note>second edition, </note><date>1993.</date>
+
+<meta reference_no="435" cluster_no="248" true_id="726"></meta>
+
+<O>22. </O><authors><author>C. Howson</author> and<author> P. Urbach</author>.</authors><title> Scientific Reasoning: The Bayesian Approach. </title><publisher>Open Court, </publisher><location>La Salle, Illinois, </location><date>1989. </date><authors><author> J. P. Crutchfield </author></authors><O>37</O>
+
+<meta reference_no="436" cluster_no="249" true_id="654"></meta>
+
+<O>EWCBR-93,</O><journal>First European Workshop on Case-based Reasoning, Posters and Presentations, </journal><date>1-5 November 1993. </date><volume>Vol. I-II. </volume><institution>University of Kaiserslautern.</institution>
+
+<meta reference_no="437" cluster_no="250" true_id="645"></meta>
+
+<authors><author> Cox, M T</author>,<author> Ram, A</author></authors><date> (1991), </date><title>Using introspective reasoning to select learning strategies. </title><editor>In R Michalski and G Tecuci (Eds.) </editor><booktitle>Proc. Int. Work. on Multistrategy Learning, </booktitle><pages>p. 217-230.</pages>
+
+<meta reference_no="438" cluster_no="251" true_id="612"></meta>
+
+<authors><author>D'Ambrosio</author></authors><date> (1995). </date><title>Local expression languages for probabilistic dependence. </title><journal>International Journal of Approximate Reasoning, </journal><volume>13(1), </volume><pages>6181.</pages>
+
+<meta reference_no="439" cluster_no="252" true_id="532"></meta>
+
+<editor>Dorst, L., van Lambalgen, M., & Voorbraak, F. (eds).</editor><date> (1995). </date><title>Proceedings of the International Workshop on Reasoning with Uncertainty in Robotics. </title><publisher>Springer-Verlag.</publisher>
+
+<meta reference_no="440" cluster_no="253" true_id="536"></meta>
+
+<authors><author> M. Manago</author>,<author> K.-D. Althoff</author>,<author> E. Auriol</author>,<author> R. Traphoener</author>,<author> S. Wess</author>,<author> N. Conruyt</author>, and<author> F. Maurer,</author></authors><title> Induction and reasoning from cases. </title><editor>in: M. M. Richter, S. Wess, K.-D. Althoff & F. Maurer (eds.), </editor><booktitle>Proc. 1st European Workshop on Case-Based Reasoning (EWCBR-93),</booktitle>
+
+<meta reference_no="441" cluster_no="254" true_id="738"></meta>
+
+<authors><author> Turner, R.</author>,</authors><title> Adaptive reasoning for real-world problems, </title><publisher>Lawrence Erlbau associates, </publisher><date>1994</date>
+
+<meta reference_no="442" cluster_no="255" true_id="453"></meta>
+
+<authors><author> D. W. Aha</author> and<author> R. L. Bankert.</author></authors><title> Feature selection for case-based classification of cloud types: An empirical comparison. </title><booktitle>In Proceedings of the 1994 AAAI Workshop on CaseBased Reasoning, </booktitle><pages>pages 106-112, </pages><location>Seattle, WA,</location><date> 1994. </date><publisher>AAAI Press.</publisher>
+
+<meta reference_no="443" cluster_no="255" true_id="453"></meta>
+
+<O>1. </O><authors><author>Bankert R.L. </author><author>Aha D.W.</author></authors><title> Feature selection for case-based classification of cloud types: An empirical comparison. </title><booktitle>In Proceedings of the 1994 AAAI Workshop on Case-Based Reasoning, </booktitle><pages>pages 106-112, </pages><date>1994.</date>
+
+<meta reference_no="444" cluster_no="255" true_id="453"></meta>
+
+<authors><author>Aha, D. W.</author> &<author> Bankert, R. L.</author></authors><date> (1994), </date><title>Feature selection for case-based classification of cloud types: An empirical comparison, </title><booktitle>in Working Notes of the AAAI-94 Workshop on Case-Based Reasoning, </booktitle><pages>pp. 106112.</pages>
+
+<meta reference_no="445" cluster_no="255" true_id="453"></meta>
+
+<authors><author>Aha, D. W.</author>, &<author> Bankert, R. L.</author></authors><date> (1994). </date><title>Feature selection for case-based classification of cloud types: An empirical comparison. </title><editor>In D. W. Aha (Ed.) </editor><booktitle>Case-Based Reasoning:</booktitle>
+
+<meta reference_no="446" cluster_no="256" true_id="576"></meta>
+
+<authors><author> Brachman, R. J.</author>,<author> Gilbert, V.P.</author> &<author> Levesque, H. J.</author></authors><title> An essential hybrid reasoning system: knowledge and symbol level accounts of KRYPTON. </title><booktitle>Proceedings of IJCAI85. </booktitle><pages>pp.547-551. </pages><publisher>Morgan Kaufmann, </publisher><date>1985.</date>
+
+<meta reference_no="447" cluster_no="257" true_id="623"></meta>
+
+<authors><author>Simmons, R.</author></authors><date> 1986. </date><title>Commonsense arithmetic reasoning. </title><booktitle>In Proceedings of the Fifth National Conference on Artificial Intelligence, </booktitle><pages>118124.</pages>
+
+<meta reference_no="448" cluster_no="257" true_id="623"></meta>
+
+<O>24. </O><authors><author>R. Simmons</author>.</authors><title> Commonsense arithmetic reasoning. </title><booktitle>In Proceedings AAAI-86, </booktitle><pages>pages 118-124, </pages><date>1986.</date>
+
+<meta reference_no="449" cluster_no="257" true_id="623"></meta>
+
+<authors><author>Simmons, R.</author></authors><date> (1986). </date><title>"Commonsense" arithmetic reasoning. </title><booktitle>In 5th-AAAI</booktitle>
+
+<meta reference_no="450" cluster_no="258" true_id="628"></meta>
+
+<authors><author> P. van Beek</author> and<author> R. Dechter</author>.</authors><title> Constraint tightness versus global consistency. </title><booktitle>In Proceedings of the Fourth International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><date>1994.</date>
+
+<meta reference_no="451" cluster_no="259" true_id="679"></meta>
+
+<O>5. </O><authors><author>M. Denecker</author>.</authors><title> Knowledge Representation and Reasoning in Incomplete Logic Programming. </title><tech>PhD thesis, </tech><institution>Department of Computer Science, K.U.Leuven, </institution><date>1993.</date>
+
+<meta reference_no="452" cluster_no="259" true_id="679"></meta>
+
+<authors><author> M. Denecker</author>.</authors><title> Knowledge Representation and Reasoning in Incomplete Logic Programming. </title><tech>PhD thesis, </tech><institution>Department of Computer Science, K.U.Leuven, </institution><date>1993.</date>
+
+<meta reference_no="453" cluster_no="260" true_id="528"></meta>
+
+<authors><author> Plaza, E</author></authors><date> (1992), </date><title>Reflection for analogy: Inference-level-reflection in an architetcure for analogical reasoning. </title><booktitle>Proc. IMSA92 Workshop on Reflection and Metalevel Architectures, </booktitle><location>Tokyo, </location><date>November 1992, </date><pages>p. 166-171.</pages>
+
+<meta reference_no="454" cluster_no="261" true_id="538"></meta>
+
+<authors><author>Kolodner, J.</author></authors><date> 1989. </date><title>Judging which is the best case for a case-based reasoner. </title><booktitle>In Proc. of 2nd Case-Based Reasoning Workshop, </booktitle><pages>77-81.</pages>
+
+<meta reference_no="455" cluster_no="262" true_id="722"></meta>
+
+<authors><author> Horvitz, Eric J.</author></authors><date> 1988. </date><title>Reasoning under varying and uncertain resource constraints. </title><booktitle>In Proceedings AAAI-88. AAAI. </booktitle><pages>111-116.</pages>
+
+<meta reference_no="456" cluster_no="263" true_id="524"></meta>
+
+<O>13. </O><authors><author>FREKSA, C. </author>and<author> ZIMMERMANN, K. </author></authors><title>On the utilization of spatial structures for cognitively plausible and efficient reasoning. </title><booktitle>In Procs. of the 1992 IEEE International Conference on Systems, Man, and Cybernetics Proceedings, </booktitle><location>Chicago., </location><date>1992.</date>
+
+<meta reference_no="457" cluster_no="263" true_id="524"></meta>
+
+<title>cognitively plausible and efficient reasoning. </title><booktitle>In Procs. of the 1992 IEEE International Conference on Systems, Man, and Cybernetics Proceedings, </booktitle><location>Chicago.</location>
+
+<meta reference_no="458" cluster_no="264" true_id="543"></meta>
+
+<authors><author>Gamback, B.</author>;<author> Rayner, M.</author>; and<author> Pell, B.</author></authors><date> 1993. </date><title>Pragmatic reasoning in bridge. </title><tech>Technical Report 299, </tech><institution>Computer Laboratory, University of Cambridge.</institution>
+
+<meta reference_no="459" cluster_no="265" true_id="535"></meta>
+
+<authors><author> Armengol, E.</author> and<author> Plaza, E.</author></authors><date> (1994b), </date><title>Integrating Induction in a Case-based Reasoner. </title><booktitle>Proceedings of the Second European Workshop on Case-based Reasoning. </booktitle><location>Chantilly (France). </location><pages>pp. 243-251.</pages>
+
+<meta reference_no="460" cluster_no="266" true_id="605"></meta>
+
+<authors><author>Dobson, M.</author></authors><date> (1994). </date><title>Towards an analysis of aspects of visual media in relation to learning outcomes: A study in improving syllogistic reasoning skills. </title><note>Paper presented at </note><booktitle>World Conference on Educational Multimedia and</booktitle>
+
+<meta reference_no="461" cluster_no="267" true_id="463"></meta>
+
+<authors><author> Gerhard Brewka</author>.</authors><title> Preferred subtheories: An extended logical framework for default reasoning. </title><booktitle>In Proc. of the 11th International Joint Conference on Artificial Intelligence, </booktitle><pages>pages 1043-1048, </pages><date>1989.</date>
+
+<meta reference_no="462" cluster_no="268" true_id="492"></meta>
+
+<authors><author>Aha, D. W.</author></authors><date> (1991). </date><title>Case-based learning algorithms. </title><booktitle>In Proceedings of the DARPA Case-Based Reasoning Workshop </booktitle><pages>(pp. 147-158). </pages><location>Washington, D.C.: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="463" cluster_no="269" true_id="641"></meta>
+
+<authors><author> Matthew Ginsberg</author> and<author> David Smith</author>.</authors><title> Reasoning about action I: A possible worlds approach. </title><tech>Stanford Logic Group Report Logic-87-9, </tech><institution>Stanford University, </institution><date>1987.</date>
+
+<meta reference_no="464" cluster_no="270" true_id="464"></meta>
+
+<authors><author>Sloman, A.</author></authors><date> (1971). </date><title>Interactions between philosophy and AI | The role of intuition and non-logical reasoning in intelligence. </title><booktitle>In Proceedings of the Second International Joint Conference on Artificial Intelligence, </booktitle><location>London, UK, </location><pages>pages 270-278. </pages><publisher>International</publisher>
+
+<meta reference_no="465" cluster_no="270" true_id="464"></meta>
+
+<authors><author> A. Sloman</author>.</authors><title> Interactions between philosophy and AI | The role of intuition and nonlogical reasoning in intelligence. </title><booktitle>In Proceedings 2nd IJCAI, </booktitle><pages>pages 270-278, </pages><location>London, </location><date>1971. </date><note>Reprinted in </note><journal>AI </journal><volume>(2)</volume><date> 1971.</date>
+
+<meta reference_no="466" cluster_no="271" true_id="570"></meta>
+
+<authors><author> M. S. Verma</author>.</authors><title> Syntax-directed concept analysis in the reasoning foundations of human hair comparisons. </title><booktitle>In Proceedings of the International Symposium on Forensic Hair Comparisons, </booktitle><pages>pages 151-152. </pages><institution>FBI Academy; </institution><location>Quantico, VA, </location><date>June 25-27, 1985, </date><O>U.</O>
+
+<meta reference_no="467" cluster_no="272" true_id="721"></meta>
+
+<authors><author> D. Etherington</author>.</authors><title> Reasoning with Incomplete Information. </title><publisher>Morgan Kaufmann Publishers, Inc., </publisher><location>Los Altos, CA, </location><date>1988.</date>
+
+<meta reference_no="468" cluster_no="273" true_id="575"></meta>
+
+<authors><author> David W. Etherington</author>,<author> Alex Borgida</author>,<author> Ronald J. Brachman</author>, and<author> Henry Kautz</author>.</authors><title> Vivid knowledge and tractable reasoning: Preliminary report. </title><booktitle>In Proceedings of IJCAI89, </booktitle><pages>pages 1146-52, </pages><date>1989.</date>
+
+<meta reference_no="469" cluster_no="274" true_id="584"></meta>
+
+<authors><author> Drummond, M.</author></authors><date> 1986. </date><title>A Representation of Action and Belief for Automatic Planning Systems. </title><booktitle>Reasoning About Actions and Plans,</booktitle><editor> M. Georgeff and A. Lansky, Eds., </editor><publisher>Morgan Kauffman. </publisher><pages>pp. 189-211.</pages>
+
+<meta reference_no="470" cluster_no="274" true_id="584"></meta>
+
+<authors><author> Mark Drummond</author>.</authors><title> A representation of action and belief for automatic planning systems. </title><booktitle>In Proceedings of Reasoning About Actions and Plans, </booktitle><pages>pages 189-211, </pages><location>Timberline, Oregon, </location><date>1986. </date><publisher>Morgan Kauffman.</publisher>
+
+<meta reference_no="471" cluster_no="275" true_id="515"></meta>
+
+<authors><author> Van de Velde, W.</author></authors><date> (1991). </date><title>Reasoning, behaviour, and learning: A knowledge level perspective. </title><booktitle>In Proceedings of AISB 91. Society for the study of Artificial Intelligence and the simulation of behaviour.</booktitle>
+
+<meta reference_no="472" cluster_no="276" true_id="644"></meta>
+
+<authors><author> M. Winslett</author>.</authors><title> Reasoning about action using a possible models approach. </title><booktitle>In Proc. 7th Nat. Conf. on A.I., </booktitle><pages>page 89, </pages><date>August 1988.</date>
+
+<meta reference_no="473" cluster_no="277" true_id="617"></meta>
+
+<authors><author> Sven Koenig</author> and<author> Reid G. Simmons</author>.</authors><title> Risk-sensitive planning with probabilistic decision graphs. </title><booktitle>In Proceedings of the 4th International Conference on Principles of Knowledge Representation and Reasoning, </booktitle><pages>pages 363-373, </pages><date>1994.</date>
+
+<meta reference_no="474" cluster_no="278" true_id="611"></meta>
+
+<authors><author>Li, Z.</author>, and<author> D'Ambrosio, B.</author></authors><date> 1994. </date><title>Efficient inference in bayes nets as a combinatorial optimization problem. </title><journal>Int'l, Journal of Approximate Reasoning </journal><volume>11(1):</volume><pages>55-81.</pages>
+
+<meta reference_no="475" cluster_no="278" true_id="611"></meta>
+
+<O>ZHANG & POOLE  </O><authors><author>Li, Z.</author>, &<author> D'Ambrosio, B. </author></authors><date>(1994). </date><title>Efficient inference in Bayes networks as a combinatorial optimization problem. </title><journal>International Journal of Approximate Reasoning, </journal><volume>11(1), </volume><pages>5581.</pages>
+
+<meta reference_no="476" cluster_no="279" true_id="630"></meta>
+
+<authors><author>Simoudis, E.</author>,<author> Livezy, B.</author> &<author> Kerber, R.</author></authors><date> (1994), </date><title>Integrating inductive and deductive reasoning for database mining, </title><booktitle>in "Proceedings of the AAAI Knowledge Discovery in Databases Workshop", </booktitle><location>Seattle, WA.</location>
+
+<meta reference_no="477" cluster_no="279" true_id="630"></meta>
+
+<authors><author>Simoudis, E.</author>,<author> Livezey, B.</author> &<author> Kerber, R.</author></authors><date> (1994), </date><title>Integrating inductive and deductive reasoning for database mining, </title><booktitle>in Proceedings of the AAAI Knowledge Discovery in Databases Workshop, </booktitle><location>Seattle, WA.</location>
+
+<meta reference_no="478" cluster_no="280" true_id="686"></meta>
+
+<O>11. </O><authors><author>FREKSA, C.</author></authors><title> Temporal reasoning based on semi-intervals. </title><journal>Artificial Intelligence, </journal><volume>54:</volume><pages>199-227, </pages><date>1992.</date>
+
+<meta reference_no="479" cluster_no="280" true_id="686"></meta>
+
+<authors><author>Freksa, C.</author></authors><date> (1992a). </date><title>Temporal reasoning based on semi-intervals. </title><journal>Artificial Intelligence, </journal><volume>54, </volume><pages>199-227.</pages>
+
+<meta reference_no="480" cluster_no="281" true_id="682"></meta>
+
+<authors><author>Pereira, L.M.</author>,<author> Aparcio, J.N.</author>, and<author> Alfares, J.J.</author>,</authors><title> Counterfactual reasoning based on revising assumptions. Logic Programming, </title><booktitle>Proceedings of the 1991 Internal Symposium, </booktitle><publisher>MIT Press </publisher><date>1991.</date>
+
+<meta reference_no="481" cluster_no="282" true_id="486"></meta>
+
+<authors><author> Bruce Porter</author>.</authors><title> Similarity assessment; Computation vs. representation. </title><booktitle>In Proceedings from the Case-Based Reasoning Workshop, </booktitle><location>Pensacola Beach, Florida, </location><date>May-June 1989. </date><note>Sponsored by DARPA. </note><publisher>Morgan Kaufmann, </publisher><date>1989. </date><pages>pp 82-84.</pages>
+
+<meta reference_no="482" cluster_no="283" true_id="572"></meta>
+
+<authors><author> Abdul Sattar </author><author>Aditya K. Ghose</author> and<author> Randy Goebel</author>.</authors><title> Default reasoning as partial constraint satisfaction. </title><booktitle>In Proc. of the Sixth Australian Joint Conference on AI, </booktitle><date>1993.</date>
+
+<meta reference_no="483" cluster_no="284" true_id="519"></meta>
+
+<authors><author> V. L. Shalin</author>,<author> E. J. Wisniewski</author>,<author> K. R. Levi</author>, and<author> P. D. Scott</author>.</authors><title> A formal analysis of machine learning systems for knowledge acquisition. </title><booktitle>In Machine Learning and Uncertain Reasoning, </booktitle><volume>volume 3 </volume><booktitle>of Knowledgebased systems, </booktitle><pages>pages 75-92. </pages><date>1990.</date>
+
+<meta reference_no="484" cluster_no="285" true_id="665"></meta>
+
+<authors><author> Hansson, Othar</author> and<author> Mayer, Andrew</author></authors><date> 1989. </date><title>Heuristic search as evidential reasoning. </title><booktitle>In Proceedings of the Fifth Workshop on Uncertainty in AI. </booktitle><pages>152-161.</pages>
+
+<meta reference_no="485" cluster_no="286" true_id="718"></meta>
+
+<O>2. </O><editor>BOBROW, D., editor.</editor><title> Qualitative Reasoning about Physical Systems. </title><publisher>Elsevier Science Publishers, </publisher><location>Amsterdam, </location><date>1984.</date>
+
+<meta reference_no="486" cluster_no="286" true_id="718"></meta>
+
+<editor>Bobrow, D., editor</editor><date> (1984). </date><title>Qualitative Reasoning about Physical Systems. </title><publisher>Elsevier Science Publishers, </publisher><location>Amsterdam.</location>
+
+<meta reference_no="487" cluster_no="286" true_id="718"></meta>
+
+<editor>Bobrow, D. G., editor</editor><date> (1984). </date><title>Qualitative Reasoning about Physical Systems. </title><publisher>Elsevier Science Publishers, </publisher><location>Amsterdam.</location>
+
+<meta reference_no="488" cluster_no="286" true_id="718"></meta>
+
+<editor>Bobrow, D. (Ed.).</editor><date> (1984). </date><title>Qualitative Reasoning about Physical Systems. </title><publisher>Elsevier Science Publishers, </publisher><location>Amsterdam.</location>
+
+<meta reference_no="489" cluster_no="287" true_id="643"></meta>
+
+<authors><author> M. Ginsberg</author> and<author> D. Smith</author>.</authors><title> Reasoning about action I: A possible worlds approach. </title><journal>Artificial Intelligence, </journal><volume>35(2):</volume><pages>165-196, </pages><date>June 1988.</date>
+
+<meta reference_no="490" cluster_no="288" true_id="746"></meta>
+
+<O>13. </O><authors><author>D.R. Kuokka</author>.</authors><title> MAX: A meta-reasoning architecture for "X". </title><journal>SIGART, </journal><volume>2(4):</volume><pages>93-97, </pages><date>1991.</date>
+
+<meta reference_no="491" cluster_no="289" true_id="687"></meta>
+
+<authors><author> D. Roth</author>.</authors><title> On the hardness of approximate reasoning. </title><journal>Artificial Intelligence, </journal><volume>82(1-2), </volume><date>April 1996.</date>
+
+<meta reference_no="492" cluster_no="290" true_id="732"></meta>
+
+<authors><author> B. Bennett</author>.</authors><title> Modal logics for qualitative spatial reasoning. </title><journal>Bull. IGPL, </journal><volume>4(1), </volume><date>1995.</date>
+
+<meta reference_no="493" cluster_no="291" true_id="548"></meta>
+
+<authors><author>Rohrig, R.</author></authors><date> (1993). </date><title>CYCORD: a theory of qualitative spatial reasoning. </title><tech>Technical report LKI-M-93/6, </tech><institution>Labor fur Kunstliche Intelligenz, Universitat Hamburg, </institution><location>Hamburg, Germany.</location>
+
+<meta reference_no="494" cluster_no="292" true_id="581"></meta>
+
+<editor>Ginsberg, M., ed.</editor><date> 1987. </date><title>Readings in Nonmonotonic Reasoning. </title><location>San Mateo, CA: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="495" cluster_no="292" true_id="581"></meta>
+
+<authors><author> Matthew L. Ginsberg.</author></authors><title> Readings in Nonmonotonic Reasoning. </title><publisher>Morgan Kaufmann, </publisher><location> San Mateo, CA, </location><date>1987.</date>
+
+<meta reference_no="496" cluster_no="292" true_id="581"></meta>
+
+<authors><author>Ginsberg, M.</author></authors><date> (1987). </date><title>Readings in Nonmonotonic Reasoning. </title><publisher>Morgan Kaufmann Publishers.</publisher>
+
+<meta reference_no="497" cluster_no="292" true_id="581"></meta>
+
+<editor> M. Ginsberg, editor.</editor><title> Readings in Nonmonotonic Reasoning. </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA, </location><date>1987.</date>
+
+<meta reference_no="498" cluster_no="292" true_id="581"></meta>
+
+<editor> M. Ginsberg, editor.</editor><title> Readings in Nonmonotonic Reasoning. </title><publisher>Morgan Kaufmann, </publisher><location>San Mateo, CA, </location><date>1987.</date>
+
+<meta reference_no="499" cluster_no="292" true_id="581"></meta>
+
+<editor> M. Ginsberg, editor.</editor><title> Readings in Nonmonotonic Reasoning. </title><publisher>Morgan Kaufmann, </publisher><location>Los Altos, </location><date>1987.</date>
+
+<meta reference_no="500" cluster_no="293" true_id="608"></meta>
+
+<authors><author>Jungert, E.</author></authors><date> (1988). </date><title>Extended symbolic projection used in a knowledge structure for spatial reasoning. </title><booktitle>In Proceedings of the 4th BPRA Conf. on Pattern Recognition. </booktitle><publisher>Springer-Verlag, </publisher><location>Berlin.</location>
+
+<meta reference_no="501" cluster_no="294" true_id="646"></meta>
+
+<authors><author>Ram, A.</author>, and<author> Cox, M. T.</author></authors><date> (1992); </date><title>Introspective Reasoning Using Meta-Explanations for Multistrategy Learning. </title><booktitle>Machine Learning: A Multistrategy Approach IV, </booktitle><editor>(eds. R. S. Michalski. and Tecuci, G.); </editor><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="502" cluster_no="295" true_id="526"></meta>
+
+<authors><author> E. Hudlicka</author>, and<author> V. Lesser</author>,</authors><title> "Modeling and Diagnosing Problem-Solving System Behavior," </title><journal>IEEE Transactions on Systems, Man and Cybernetics. Special Issue on Diagnostic Reasoning. May/</journal><date>June 1987.</date>
+
+<meta reference_no="503" cluster_no="296" true_id="569"></meta>
+
+<authors><author> M. Codish</author>,<author> M. Garca de la Banda</author>,<author> M. Bruynooghe</author>, and<author> M. Hermenegildo</author>.</authors><title> Goal Dependent vs Goal Independent Analysis of Logic Programs. </title><editor>In F. Pfenning, editor, </editor><journal>Fifth International Conference on Automated Reasoning (LPAR'94), </journal><volume>volume 822 </volume><journal>of Lecture Notes</journal>
+
+<meta reference_no="504" cluster_no="297" true_id="696"></meta>
+
+<authors><author> F. Bacchus</author>.</authors><title> Lp, a logic for representing and reasoning with statistical knowledge. </title><journal>Computational Intelligence, </journal><volume>6:</volume><pages>209-231, </pages><date>1990.</date>
+
+<meta reference_no="505" cluster_no="298" true_id="484"></meta>
+
+<editor> Kolodner, J.L.: (Ed.) </editor><booktitle>Proceedings of a Workshop on Case-Based Reasoning. </booktitle><location>Clearwater Beach, FL: </location><publisher>Morgan Kaufmann </publisher><date>(1988).</date>
+
+<meta reference_no="506" cluster_no="298" true_id="484"></meta>
+
+<editor> Kolodner, J.L.: (Ed.) </editor><booktitle>Proceedings of a Workshop on Case-Based Reasoning. </booktitle><location>Clearwater Beach, FL: </location><publisher>Morgan Kaufmann </publisher><date>(1988).</date>
+
+<meta reference_no="507" cluster_no="298" true_id="484"></meta>
+
+<O>6. </O><editor>Kolodner, J.L.: (Ed.) </editor><booktitle>Proceedings of a Workshop on Case-Based Reasoning. </booktitle><location>Clearwater Beach, FL: </location><publisher>Morgan Kaufmann </publisher><date>(1988).</date>
+
+<meta reference_no="508" cluster_no="298" true_id="484"></meta>
+
+<date>6. </date><editor>Kolodner, J.L.: (Ed.) </editor><booktitle>Proceedings of a Workshop on Case-Based Reasoning. </booktitle><location>Clearwater Beach, FL:</location><publisher>Morgan Kaufmann </publisher><date>(1988).</date>
+
+<meta reference_no="509" cluster_no="299" true_id="641"></meta>
+
+<authors><author> Matthew Ginsberg</author> and<author> David Smith</author>.</authors><title> Reasoning about action II: The qualification problem. </title><tech>Stanford Logic Group Report Logic-87-10, </tech><institution>Stanford University, </institution><date>1987.</date>
+
+<meta reference_no="510" cluster_no="300" true_id="664-2"></meta>
+
+<authors><author>Ross, B.H.</author></authors><date> (1989). </date><title>Some psychological results on case-based reasoning. </title><editor>In Hammond, K. (Ed.), </editor><booktitle>Proceedings of the workshop on case-based reasoning (DARPA). </booktitle><location>Pensacola Beach, Florida: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="511" cluster_no="301" true_id="664"></meta>
+
+<editor> Hammond, K.J.: (Ed.) </editor><booktitle>Proceedings: Second Case-Based Reasoning Workshop. </booktitle><location>Pensacola Beach, FL:</location><publisher>Morgan Kaufmann </publisher><date>(1989).</date>
+
+<meta reference_no="512" cluster_no="301" true_id="664"></meta>
+
+<editor> Hammond, K.J.: (Ed.) </editor><booktitle>Proceedings: Second Case-Based Reasoning Workshop. </booktitle><location>Pensacola Beach, FL:</location><publisher>Morgan Kaufmann </publisher><date>(1989).</date>
+
+<meta reference_no="513" cluster_no="301" true_id="664"></meta>
+
+<O>4. </O><editor>Hammond, K.J.: (Ed.) </editor><booktitle>Proceedings: Second Case-Based Reasoning Workshop. </booktitle><location>Pensacola Beach, FL:</location><publisher>Morgan Kaufmann, </publisher><date>(1989).</date>
+
+<meta reference_no="514" cluster_no="301" true_id="664"></meta>
+
+<O>4. </O><editor>Hammond, K.J.: (Ed.) </editor><booktitle>Proceedings: Second Case-Based Reasoning Workshop. </booktitle><location>Pensacola Beach, FL:</location><publisher>Morgan Kaufmann </publisher><date>(1989).</date>
+

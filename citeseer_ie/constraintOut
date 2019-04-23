@@ -1,0 +1,1181 @@
+<meta reference_no="1" cluster_no="1" true_id="100"></meta>
+
+<authors><author>Murre , J. M. J</author></authors><date>( 1993 ) . </date><title>Transputers and neural networks : an analysis of implementation constraints and performance . </title><journal>IEEE Transactions on Neural Networks , </journal><volume>4 , 2 , </volume><pages>284-292 . </pages>
+
+<meta reference_no="2" cluster_no="2" true_id="79"></meta>
+
+<authors><author>Ugo Montanari</author></authors><title>Networks of constraints : fundamental properties and applications to picture processing . </title><journal>Information Science , </journal><volume>7 : </volume><pages>95-132 , </pages><date>1974 . </date>
+
+<meta reference_no="3" cluster_no="2" true_id="79"></meta>
+
+<authors><author>Montanari , U</author></authors><date>1974 . </date><title>Networks of constraints : Fundamental properties and applications to picture processing . </title><journal>Information Science </journal><volume>7 : </volume><pages>95-132 . </pages><editor>Price , P. J. ; Fischer , W. ; Bernstein , J. ; and Pallett , D. </editor>
+
+<meta reference_no="4" cluster_no="3" true_id="22"></meta>
+
+<authors><author>Minton , S</author></authors><date>( 1984 ) . </date><title>Constraint-Based Generalization - Learning Game-Playing Plans from Single Examples . </title><booktitle>In Proceedings of the Fourth National Conference on Artificial Intelligence . </booktitle><publisher>William Kaufmann , </publisher><pages>251-254 . </pages><editor>Mitchell , T. , Allen , J. , Chalasani , P. , Cheng , </editor>
+
+<meta reference_no="5" cluster_no="4" true_id="86"></meta>
+
+<authors><author>Smolka , G</author></authors><date>( 1992 ) . </date><title>Feature-constraint logics for unification grammars . </title><journal>Journal of Logic Programming , </journal><volume>12 ( 1 ) : </volume><pages>51-87 . </pages>
+
+<meta reference_no="6" cluster_no="5" true_id="98"></meta>
+
+<authors><author>P. Codognet</author><author> G. Fil</author></authors><title>Computations , Abstractions and Constraints ( abstract ) . </title><editor>In Billaud et al . </editor>
+
+<meta reference_no="7" cluster_no="5" true_id="98"></meta>
+
+<authors><author>P. Codognet</author><author>, G. Fil</author></authors><title>Computations , Abstractions and Constraints in Logic Programs . </title><booktitle>In Proceedings of the IEEE International Conference on Computer Languages , ICCL ' 92 . </booktitle><publisher>IEEE Press , </publisher><date>1992 . </date>
+
+<meta reference_no="8" cluster_no="6" true_id="19"></meta>
+
+<authors><author>S. Coombs</author><author>L. Davis</author></authors><title>Genetic algorithms and communication link speed design : constraints and operators . </title><editor>In J. Grefenstette , editor , </editor><booktitle>Proceedings of the Second International Conference on Genetic Algorithms , </booktitle><pages>pages 257-260 , </pages><location>Hillsdale , New Jersey , </location><date>1987 . </date>
+
+<meta reference_no="9" cluster_no="6" true_id="19"></meta>
+
+<authors><author>Coombs , S. , </author>&<author>Davis , L</author></authors><date>( 1987 ) . </date><title>Genetic algorithms and communication link speed design : Constraints and operators . </title><booktitle>Proceedings of the Second International Conference on Genetic Algorithms , </booktitle><pages>257-260 . </pages>
+
+<meta reference_no="10" cluster_no="7" true_id="108"></meta>
+
+<authors><author>V. A. Saraswat</author><author> M. Rinard</author><author> P. Panangaden</author></authors><title>Semantic foundations of concurrent constraint programming . </title><booktitle>In Proceedings of the POPL ' 91 Conference , </booktitle><pages>pages 333-352 . </pages><publisher>ACM Press , </publisher><date>1991 . </date>
+
+<meta reference_no="11" cluster_no="8" true_id="147"></meta>
+
+<authors><author> J. Jaffar</author><author> J. - L. Lassez</author></authors><title>Constraint logic programming . </title><booktitle>In Proceedings of the Fourteenth ACM symposium of the principles of programming languages , </booktitle><pages>pages 111-119 , </pages><location>Munich , </location><date>1987 . </date>
+
+<meta reference_no="12" cluster_no="8" true_id="147"></meta>
+
+<authors><author>J. Jaffar</author><author>, J. - L. Lassez</author></authors><title>Constraint logic programming . </title><booktitle>In Proceedings of the Fourteenth ACM symposium of the principles of programming languages , </booktitle><pages>pages 111-119 , </pages><location>Munich , </location><date>1987 . </date>
+
+<meta reference_no="13" cluster_no="8" true_id="147"></meta>
+
+<authors><author>J. Jaffar</author><author>, J. - L Lassez</author></authors><title>Constraint logic programming . </title><booktitle>In ACM Symposium on Principles of Programming Languages , </booktitle><pages>pages 111-119 . </pages><publisher>ACM Press , </publisher><date>1987 . </date>
+
+<meta reference_no="14" cluster_no="9" true_id="109"></meta>
+
+<editor>P. Codognet editor . </editor><booktitle>Proceedings of the First International Workshop on Concurrent Constraint Programming ( CCP ' 95 ) , C Dolon , </booktitle><location>Venice , Italy , </location><date>May 1995 . </date><note>Informal Proceedings . </note>
+
+<meta reference_no="15" cluster_no="10" true_id="124"></meta>
+
+<authors><author>Horvitz , Eric J</author></authors><date>1988 . </date><title>Reasoning under varying and uncertain resource constraints . </title><booktitle>In Proceedings AAAI-88 . </booktitle><publisher>AAAI . </publisher><pages>111-116 . </pages>
+
+<meta reference_no="16" cluster_no="11" true_id="178"></meta>
+
+<authors><author>Daniel M. Russell</author></authors><title>" Constraint Networks : Modeling and Inferring Object Locations by Constraints , " </title><tech>Technical Report 38 , </tech><institution>University of Rochester Computer Science Dept . , </institution><date>August 1978 . </date>
+
+<meta reference_no="17" cluster_no="12" true_id="27"></meta>
+
+<authors><author>Schiex , T. </author><author>Fargier , H.  ,</author><author>Verfaillie , G</author></authors><date>1995 . </date><title>Valued Constraint Satisfaction Problems : Hard and Easy Problems . </title><booktitle>In Proc . of IJCAI-95 , </booktitle><pages>631-637 . </pages>
+
+<meta reference_no="18" cluster_no="13" true_id="13"></meta>
+
+<authors><author> V. Dumortier</author><author> G. Janssens</author><author> M. Bruynooghe</author></authors><title>Detection of Free Variables in the Presence of Numeric Constraints . </title><booktitle>In Proceedings of JICSLP ' 92 Post-conference workshop on CLP , </booktitle><pages>pages 105-118 , </pages><date>1992 . </date>
+
+<meta reference_no="19" cluster_no="14" true_id="189"></meta>
+
+<authors><author>M. Garca de la Banda</author><author> M. Hermenegildo</author></authors><title>Analyzing Constraint Logic Programs . </title><tech>Technical report ,</tech><institution> U. of Madrid ( UPM ) , </institution><booktitle>Facultad Informatica UPM , 28660-Boadilla del Monte , </booktitle><publisher>Madrid-Spain , </publisher><date>1991 . </date><note> Presented in ICLP-91 Workshop on Constraint Logic Programmi </note>
+
+<meta reference_no="20" cluster_no="15" true_id="158"></meta>
+
+<authors><author> J. Cohen</author></authors><title>Constraint logic programming languages . </title><journal>Communications of the ACM , </journal><volume>30 ( 7 ) : </volume><pages>52-68 , </pages><date>1990 . </date>
+
+<meta reference_no="21" cluster_no="15" true_id="158"></meta>
+
+<authors><author> J. Cohen</author></authors><title>Constraint logic programming languages . </title><journal>Communications of the ACM , </journal><volume>30 ( 7 ) : </volume><pages>52-68 , </pages><date>1990 . </date>
+
+<meta reference_no="22" cluster_no="15" true_id="158"></meta>
+
+<authors><author>J. Cohen</author></authors><title>Constraint logic programming languages . </title><journal>Communications of the ACM , </journal><volume>30 ( 7 ) : </volume><pages>52-68 , </pages><date>1990 . </date>
+
+<meta reference_no="23" cluster_no="16" true_id="46"></meta>
+
+<authors><author>R. Dechter</author></authors><title>Constraint Networks , </title><booktitle>in Encyclopedia of Artificial Intelligence , </booktitle><editor>Stuart C Shapiro ( ed . ) , </editor><publisher>John Wiley and Sons , </publisher><location>Inc . , </location><date>1992 . </date>
+
+<meta reference_no="24" cluster_no="16" true_id="46"></meta>
+
+<authors><author>R. Dechter</author></authors><title>Constraint Networks , </title><booktitle>in Encyclopedia of Artificial Intelligence , </booktitle><editor>Stuart C Shapiro ( ed . ) , </editor><publisher>John Wiley and Sons , </publisher><location>Inc . , </location><date>1992 . </date>
+
+<meta reference_no="25" cluster_no="16" true_id="46"></meta>
+
+<authors><author>R. Dechter</author></authors><title>Constraint networks . </title><editor>In S. C. Shapiro , editor , </editor><booktitle>Encyclopedia of Artificial Intelligence , 2 nd Edition , </booktitle><pages>pages 276-285 . </pages><publisher>John Wiley & Sons , </publisher><date>1992 . </date>
+
+<meta reference_no="26" cluster_no="17" true_id="23"></meta>
+
+<authors><author>S. Minton</author></authors><title>Integrating heuristics for constraint satisfaction problems : A case study . </title><booktitle>In AAAI Proceedings , </booktitle><date>1993 . </date>
+
+<meta reference_no="27" cluster_no="17" true_id="23"></meta>
+
+<authors><author>S. Minton</author></authors><title>Integrating heuristics for constraint satisfaction problems : A case study . </title><booktitle>In AAAI Proceedings , </booktitle><date>1993 . </date>
+
+<meta reference_no="28" cluster_no="17" true_id="23"></meta>
+
+<authors><author>Minton , S</author></authors><date>( 1993 b ) . </date><title>Integrating heuristics for constraint satisfaction problems : A case study . </title><booktitle>In : Proceedings AAAI . </booktitle>
+
+<meta reference_no="29" cluster_no="17" true_id="23"></meta>
+
+<authors><author>Minton , S</author></authors><date>1993 . </date><title>Integrating heuristics for constraint satisfaction problems : A case study . </title><booktitle>In Proceedings of the Eleventh National Conference on Artificial Intelligence , </booktitle><pages>120-126 . </pages>
+
+<meta reference_no="30" cluster_no="18" true_id="127"></meta>
+
+<authors><author>Stefik , M</author></authors><date>1981 . </date><title>Planning with constraints ( MOLGEN : Part 1 ) . </title><journal>Artificial Intelligence </journal><volume>16 : </volume><pages>111-140 . </pages>
+
+<meta reference_no="31" cluster_no="18" true_id="127"></meta>
+
+<authors><author>Stefik , M</author></authors><date>1981 . </date><title>Planning with constraints (MOLGEN : Part1) .</title><journal> Artif . Intel .  </journal><volume>  16 : </volume><pages>111-140 . </pages>
+
+<meta reference_no="32" cluster_no="19" true_id="16"></meta>
+
+<authors><author>J. - L. Imbert</author></authors><title>Variable elimination for generalized linear constraints . </title><editor>In D. S. Warren , editor , </editor><booktitle>Proceedings of the Tenth International Conference on Logic Programming , </booktitle><pages>pages 499-516 , </pages><date>June 1993 . </date>
+
+<meta reference_no="33" cluster_no="20" true_id="171"></meta>
+
+<authors><author>E. Tsang</author></authors><title>Foundations of Constraint Satisfaction . </title><publisher>Academic Press , </publisher><date>1993 . </date>
+
+<meta reference_no="34" cluster_no="21" true_id="35"></meta>
+
+<authors><author>M. P. Harper</author><author>R. A. Helzerman</author><author> C. B. Zoltowski</author></authors><title>Constraint parsing : A powerful framework for textbased and spoken language processing . </title><tech>Technical Report EE-91 - 34 , </tech><institution>Purdue University , School of Electrical Engineering , </institution><location>West Lafayette , IN , </location><date>1991 . </date>
+
+<meta reference_no="35" cluster_no="22" true_id="170"></meta>
+
+<authors><author>B. Nadel</author></authors><title>Constraint satisfaction algorithms . </title><journal>Comput . Intell . , </journal><volume>5 : </volume><pages>188-224 ,</pages><date>1989 . </date>
+
+<meta reference_no="36" cluster_no="23" true_id="88"></meta>
+
+<authors><author>R. Bagnara</author></authors><title>On the Detection of Implicit and Redundant Numeric Constraints in CLP Programs . </title><booktitle>In Joint Conference on Declarative Programming ( GULP-PRODE ' 94 ) , </booktitle><pages>pages 312 - 326 , </pages><location>Pescola , Spain , </location><date>September 1994 . </date>
+
+<meta reference_no="37" cluster_no="24" true_id="39"></meta>
+
+<authors><author>Peter B. Ladkin</author><author> Roger Maddux</author></authors><title>On binary constraint problems . </title><journal>Journal of the Association for Computing Machinery , </journal><volume>41 ( 3 ) : </volume><pages>435-469 , </pages><date>May 1994 . </date>
+
+<meta reference_no="38" cluster_no="25" true_id="113"></meta>
+
+<authors><author>Rulot , H. </author><author>Vidal , E</author></authors><date>1987 . </date><title>Modelling ( sub ) string-length based constraints through a Gramatical Inference method . </title><booktitle>NATO ASI Series , Vol . F 30 Pattern Recognition Theory and Applications , </booktitle><pages>pp . 451-459 . </pages><publisher>Springer-Verlag . </publisher>
+
+<meta reference_no="39" cluster_no="26" true_id="160"></meta>
+
+<authors><author> R. Kelly</author><author> V. Santiba ~ nez</author><author>, H. Berghuis</author></authors><title>" Global regulation for robot manipulators under actuator constraints " , </title><tech>Report , CICESE ,</tech><location> Mexico , </location><date>August 1994 . </date>
+
+<meta reference_no="40" cluster_no="27" true_id="14"></meta>
+
+<authors><author> V. Dumortier</author><author> G. Janssens</author><author> M. Bruynooghe</author><author> M. Codish</author></authors><title>Freeness Analysis in the Presence of Numerical Constraints . </title><editor>In D. S. Warren , editor , </editor><booktitle>Proceedings of the Tenth International Conference on Logic Programming , </booktitle><pages>pages 100-115 . </pages><publisher>MIT Press , </publisher><date>June 1993 . </date>
+
+<meta reference_no="41" cluster_no="27" true_id="14"></meta>
+
+<authors><author>V. Dumortier</author><author> G. Janssens</author><author> M. Bruynooghe</author><author> M. Codish</author></authors><title>Freeness analysis in the presence of numerical constraints . </title><editor>In D. S. Warren , editor , </editor><booktitle>Proceedings of the Tenth International Conference on Logic Programming , </booktitle><pages>pages 100-115 . </pages><publisher>MIT Press , </publisher><date>June 1993 . </date>
+
+<meta reference_no="42" cluster_no="27" true_id="14"></meta>
+
+<authors><author> V. Dumortier</author><author> G. Janssens</author><author> M. Bruynooghe</author><author> M. Codish</author></authors><title>Freeness Analysis in the Presence of Numerical Constraints . </title><editor>In D. S. Warren , editor , </editor><booktitle>Proceedings of the Tenth International Conference on Logic Programming , </booktitle><pages>pages 100-115 . </pages><publisher>MIT Press , </publisher><date>June 1993 . </date>
+
+<meta reference_no="43" cluster_no="27" true_id="14"></meta>
+
+<authors><author>V. Dumortier</author><author> G. Janssens</author><author> M. Bruynooghe</author><author> M. Codish</author></authors><title>Freeness analysis in the presence of numerical constraints . </title><booktitle>In Tenth International Conference on Logic Programming , </booktitle><pages>pages 100-115 . </pages><publisher>MIT Press , </publisher><date>June 1993 . </date>
+
+<meta reference_no="44" cluster_no="27" true_id="14"></meta>
+
+<authors><author>V. Dumortier</author><author> G. Janssens</author><author> M. Bruynooghe</author><author> M. Codish</author></authors><title>Freeness Analysis in the Presence of Numerical Constraints . </title><editor>In Warren </editor>
+
+<meta reference_no="45" cluster_no="28" true_id="136"></meta>
+
+<authors><author>D. A. Smith</author></authors><title>Partial evaluation of pattern matching in constraint logic programming languages . </title><editor>In N. D. Jones and P. Hudak , editors , </editor><booktitle>ACM Symposium on Partial Evaluation and Semantics-Based Program Manipulation  </booktitle><pages>pages 62-71 . </pages><publisher>ACM Press Sigplan Notices </publisher>
+
+<meta reference_no="46" cluster_no="29" true_id="163"></meta>
+
+<authors><author>Kass , M</author></authors><title>Condor : Constraint based dataflow . </title><journal>Computer Graphics </journal><volume>26 , 2 </volume><date>( July 1992 ) , </date><pages>321-330 . </pages>
+
+<meta reference_no="47" cluster_no="30" true_id="145"></meta>
+
+<authors><author>Cari ~ nena J F , </author><author>Ra ~ nada M F </author></authors><date>1993 </date><title>Lagrangian systems with constraints . </title><journal>J. Physics A. </journal><volume>26 : </volume><pages>1335-1351 </pages>
+
+<meta reference_no="48" cluster_no="31" true_id="76"></meta>
+
+<authors><author>Novick , L. R. , </author>&<author>Tversky , B</author></authors><date>( 1987 ) . </date><title>Cognitive constraints in ordering operations : The case of geometric analogies . </title><journal>Journal of Experimental Psychology : General , </journal><volume>116 , </volume><pages>50-67 . </pages>
+
+<meta reference_no="49" cluster_no="32" true_id="56"></meta>
+
+<authors><author>L. De Raedt</author><author> W. Van Laer</author></authors><title>Inductive constraint logic . </title><booktitle>In Proceedings of the 5 th Workshop on Algorithmic Learning Theory , of Lecture Notes in Artificial Intelligence . </booktitle><volume>volume 997 </volume><publisher>Springer-Verlag , </publisher><date>1995 . </date>
+
+<meta reference_no="50" cluster_no="32" true_id="56"></meta>
+
+<authors><author>2. L. De Raedt</author><author>, W. Van Laer</author></authors><title>Inductive constraint logic . </title><booktitle>In Proceedings of the 5 th Workshop on Algorithmic Learning Theory , Lecture Notes in Artificial Intelligence . </booktitle><publisher>Springer-Verlag , </publisher><date>1995 . </date>
+
+<meta reference_no="51" cluster_no="32" true_id="56"></meta>
+
+<authors><author>L. De Raedt,</author><author> W. Van Laer</author></authors><title>Inductive constraint logic . </title><booktitle>In Proceedings of the 5 th Workshop on Algorithmic Learning Theory . </booktitle><publisher>Springer-Verlag , </publisher><date>1995 . </date>
+
+<meta reference_no="52" cluster_no="33" true_id="34"></meta>
+
+<authors><author>McCarthy , J. , ,</author><author>Prince , A</author></authors><title>Prosodic morphology i : Constraint interaction and satisfaction . </title><booktitle>UMass Amherst and Rutgers University , </booktitle><date>1993 . </date>
+
+<meta reference_no="53" cluster_no="34" true_id="134"></meta>
+
+<authors><author>B. Nebel</author></authors><title>Solving hard qualitative temporal reasoning problems : Evaluating the efficiency of using the ORD-Horn class . </title><journal>Constraints , </journal><volume>3 ( 1 ) , </volume><pages>pp . 175-190 , </pages><date>1997 . </date>
+
+<meta reference_no="54" cluster_no="35" true_id="71"></meta>
+
+<authors><author>Quinlan , J. R</author></authors><date>( 1994 ) , </date><title>Comparing connectionist and symbolic learning methods , </title><editor>in S. J. Hanson , G. A. Drastal & R. L. Rivest , eds , </editor><booktitle>` Computational Learning Theory and Natural Learning Systems ' , Vol . I : Constraints and Prospects , </booktitle><publisher>MIT Press , </publisher><volume>chapter 15 </volume>
+
+<meta reference_no="55" cluster_no="35" true_id="71"></meta>
+
+<authors><author>J. R. Quinlan</author></authors><title>Comparing connectionist and symbolic learning methods . </title><editor>In S. J. Hanson , G. A. Drastal , and R. L. Rivest , editors , </editor><booktitle>Computational Learning Theory and Natural Learning Systems , volume 1 : Constraints and Prospects , </booktitle><volume>chapter 15 , </volume><pages>pages 44 </pages>
+
+<meta reference_no="56" cluster_no="35" true_id="71"></meta>
+
+<authors><author>J. R. Quinlan</author></authors><title>Comparing connectionist and symbolic learning methods . </title><booktitle>In Computational Learning Theory and Natural Learning Systems , Constraints and Prospects . </booktitle><publisher>MIT Press , </publisher><date>1992 . </date>
+
+<meta reference_no="57" cluster_no="36" true_id="164"></meta>
+
+<authors><author>Andreas Eisele</author></authors><title>Towards probabilistic extensions of constraint-based grammars . </title><note>Deliverable r 1. 2. b , DYANA-2 , </note><date>September 1994 . </date>
+
+<meta reference_no="58" cluster_no="37" true_id="49"></meta>
+
+<authors><author>K. Marriott</author><author> P. Stuckey</author></authors><title>The 3 R ' s of Optimizing Constraint Logic Programs : Reonement , Removal , and Reordering . </title><booktitle>In Proceedings of the 19 th . Annual ACM Conf . on Principles of Programming Languages , </booktitle><pages>pages 334-344 </pages><note> Association for Computing Machin </note>
+
+<meta reference_no="59" cluster_no="37" true_id="49"></meta>
+
+<authors><author>23 . K. Marriott</author><author> P. Stuckey</author></authors><title>The 3 R ' s of optimizing constraint logic programs : Refinement , Removal and Reordering . </title><booktitle>In Proceedings of the 20 th ACM Symposium on Principles of Programming Languages , </booktitle><pages>pages 334-344 , </pages><location>Charleston , South Carolina , </location><date>January 199 </date>
+
+<meta reference_no="60" cluster_no="38" true_id="80"></meta>
+
+<authors><author>Bistarelli , S. </author><author>Montanari , U.  ,</author><author>Rossi , F</author></authors><date>1995 . </date><title>Constraint Solving over Semirings . </title><booktitle>In Proc . of IJCAI-95 , </booktitle><pages>624-630 . </pages>
+
+<meta reference_no="61" cluster_no="39" true_id="95"></meta>
+
+<authors><author>Conry , S. E. </author><author>Kuwabara , K. </author><author>Lesser , V. R.  ,</author><author>Meyer , R. A</author></authors><date>1991 . </date><title>Multistage negotiation for distributed constraint satisfaction . </title><journal>IEEE Transactions on Systems , Man , and Cybernetics </journal><volume>21 ( 6 ) . </volume>( <note>Special Issue on Distributed AI ) . </note>
+
+<meta reference_no="62" cluster_no="40" true_id="123"></meta>
+
+<authors><author>E. J. Horvitz</author></authors><title>Reasonong abount beliefs and actions under computational resource constraints . </title><booktitle>In Proceedings of the Third Workshop on Uncertainty in Artificial Intelligence , </booktitle><pages>pages 301-324 , </pages><location>Seattle , WA , </location><date>1987 . </date><publisher>Morgan Kaufmann . </publisher>
+
+<meta reference_no="63" cluster_no="41" true_id="81"></meta>
+
+<authors><author>22 . K. Marriott</author><author>, H. Sondergaard</author></authors><title>Analysis of constraint logic programs . </title><editor>In S. Debray and M. Hermenegildo , editors , </editor><booktitle>Proceedings of the 1990 North American Conference on Logic Programming , </booktitle><pages>pages 531-547 , </pages><location>Austin , </location><date>1990 . </date><publisher>MIT Press , </publisher><location>Cambridge . </location>
+
+<meta reference_no="64" cluster_no="41" true_id="81"></meta>
+
+<authors><author>K. Marriott</author><author> H. Sndergaard</author></authors><title>Analysis of Constraint Logic Programs . </title><editor>In Debray and Hermenegildo </editor>
+
+<meta reference_no="65" cluster_no="42" true_id="30"></meta>
+
+<authors><author>B. M. Smith</author><author> S. A. Grant</author></authors><title>Sparse Constraint Graphs and Exceptionally Hard Problems . </title><tech>Research Report 94 . 36 , </tech><institution>School of Computer Studies , University of Leeds , </institution><date>Dec . 1994 . </date>
+
+<meta reference_no="66" cluster_no="43" true_id="121"></meta>
+
+<authors><author>R. M. Haralick</author><author> G. L. Elliot</author></authors><title>Increasing tree search efficiency for constraint satisfaction problems . </title><journal>Artificial Intelligence , </journal><volume>14 : </volume><pages>263-313 ,</pages> <date>1980 . </date><pages>15 </pages>
+
+<meta reference_no="67" cluster_no="43" true_id="121"></meta>
+
+<authors><author>R. Haralick,</author><author> G. Elliott</author></authors><title>Increasing tree search efficiency for constraint satisfaction problems . </title><journal>Artificial Intelligence , </journal><volume>14 : </volume><pages>263-313 , </pages><date>1980 . </date>
+
+<meta reference_no="68" cluster_no="43" true_id="121"></meta>
+
+<authors><author>Haralick , R. M. ,</author><author>Elliot , G. L</author></authors><date>( 1980 ) . </date><title>Increasing tree search efficiency for constraint satisfaction problems . </title><journal>Artificial Intelligence , </journal><volume>14 : </volume><pages>263-313 . </pages>
+
+<meta reference_no="69" cluster_no="43" true_id="121"></meta>
+
+<authors><author>Haralick , R. , ,</author><author>Elliot , G</author></authors><date>1980 . </date><title>Increasing Tree Search Efficiency for Constraint Satisfaction Problems . </title><journal>Artificial Intelligence </journal><volume>14 ( 3 ) : </volume><pages>263-313 . </pages>
+
+<meta reference_no="70" cluster_no="43" true_id="121"></meta>
+
+<authors><author>Haralick , R. , ,</author><author>Elliot , G</author></authors><date>( 1980 ) . </date><title>Increasing tree search efficiency for constraint satisfaction problems . </title><journal>Artificial Intelligence , </journal><volume>14 ( 3 ) : </volume><pages>263-313 . </pages>
+
+<meta reference_no="71" cluster_no="44" true_id="99"></meta>
+
+<authors><author>W. Ward</author></authors><title>Flexible Use of Semantic Constraints in Speech Recognition , </title><booktitle>IEEE International Conference on Acoustics , Speech and Signal Processing , </booktitle><location>Minneapolis , </location><date>1993 , </date><volume>Vol . 2 , </volume><pages>pp . 49-50 </pages>
+
+<meta reference_no="72" cluster_no="44" true_id="99"></meta>
+
+<authors><author>W. Ward</author></authors><title>Flexible Use of Semantic Constraints in Speech Recognition , </title><booktitle>IEEE International Conference on Acoustics , Speech and Signal Processing , </booktitle><location>Minneapolis , </location><date>1993 , </date><volume>vol.2 , </volume><pages>pp . 49-50 </pages>
+
+<meta reference_no="73" cluster_no="45" true_id="168"></meta>
+
+<authors><author>M. Garca de la Banda</author><author> M. Hermenegildo</author></authors><title>A practical approach to the global analysis of constraint logic programs . </title><booktitle>In 1993 International Logic Programming Symposium , </booktitle><pages>pages 437-455 . </pages><publisher>MIT Press , </publisher><location>Cambridge , MA , </location><date>October 1993 . </date>
+
+<meta reference_no="74" cluster_no="45" true_id="168"></meta>
+
+<authors><author>M. Garca de la Banda</author><author> M. Hermenegildo</author></authors><title>A Practical Approach to the Global Analysis of Constraint Logic Programs </title><editor>In Miller </editor>
+
+<meta reference_no="75" cluster_no="46" true_id="66"></meta>
+
+<authors><author>Clark , E. V</author></authors><date>( 1987 ) . </date><title>The Principle of Contrast : A Constraint on Language Acquisition . </title><editor>In B. MacWhinney ( Ed . ) , </editor><booktitle>The 20 th Annual Carnegie Symposium on Cognition , </booktitle><pages>pp . 1-33 . </pages><location>Teaneck , NJ : Erlbaum . </location>
+
+<meta reference_no="76" cluster_no="47" true_id="150"></meta>
+
+<authors><author>Y. Zhang</author><author> A. K. Mackworth</author></authors><title>Constraint nets : A semantic model for real-time embedded systems . </title><tech>Technical Report TR 92-10 , </tech><institution>UBC ,</institution><location> Vancouver , B. C. , </location><date>May 1992 . </date>
+
+<meta reference_no="77" cluster_no="48" true_id="199"></meta>
+
+<authors><author>B. M. Smith</author></authors><title>In Search of Exceptionally Difficult Constraint Satisfaction Problems . </title><editor>In M. Meyer , editor , </editor><booktitle>Proceedings of the ECAI ' 94 Workshop on Constraint Processing , </booktitle><pages>pages 79-86 , </pages><date>Aug . 1994 . </date>
+
+<meta reference_no="78" cluster_no="49" true_id="129"></meta>
+
+<authors><author>Newport , E. L</author></authors><date>( 1990 ) . </date><title>Maturational constraints on language learning . </title><journal>Cognitive Science , </journal><volume>14 : </volume><pages>11-28 .</pages> <editor> Nosofsky ,R. M.</editor><note> ( in press ) </note> <booktitle>Exemplars , prototypes , and similarity rules . </booktitle><editor>In A. Healy , S. Kosslyn , & R. Shiffrin ( Eds . ) , </editor><title>From learning theory to co </title>
+
+<meta reference_no="79" cluster_no="50" true_id="62"></meta>
+
+<authors><author>G. Oriolo</author><author>Y. Nakamura</author></authors><title>Control of mechanical systems with second order nonholonomic constraints : Underactuated manipulators . </title><booktitle>In Proceedings of the 30 th IEEE Conf . on Dec . and Contr . , </booktitle><pages>pages 306-308 , </pages><location>Brighton , England , </location><date>1991 . </date>
+
+<meta reference_no="80" cluster_no="51" true_id="89"></meta>
+
+<authors><author>Abdul Sattar Aditya K. Ghose</author><author> Randy Goebel</author></authors><title>Default reasoning as partial constraint satisfaction . </title><booktitle>In Proc . of the Sixth Australian Joint Conference on AI , </booktitle><date>1993 . </date>
+
+<meta reference_no="81" cluster_no="52" true_id="59"></meta>
+
+<authors><author>Eugene C. Freuder</author><author> Richard J. Wallace</author></authors><title>Partial constraint staisfaction . </title><journal>Artificial Intelligence , </journal><volume>58 ( 1-3 ) : </volume><pages>21-70 , </pages><date>1992 . </date>
+
+<meta reference_no="82" cluster_no="52" true_id="59"></meta>
+
+<authors><author>Freuder , E. , ,</author><author>Wallace , R</author></authors><date>1992 . </date><title>Partial Constraint Satisfaction . </title><journal>Artificial Intelligence </journal><volume>58 : </volume><pages>21-70 .</pages>
+
+<meta reference_no="83" cluster_no="53" true_id="45"></meta>
+
+<authors><author>Peter B. Ladkin</author><author> Alexander Reinefeld</author></authors><title>Effective solution of qualitative interval constraint problems . </title><journal>Artificial Intelligence , </journal><volume>57 ( 1 ) : </volume><pages>105-124 , </pages><date>September 1992 . </date>
+
+<meta reference_no="84" cluster_no="54" true_id="1"></meta>
+
+<authors><author>B. M. Smith</author><author>M. E. Dyer</author></authors><title>Locating the Phase Transition in Constraint Satisfaction Problems . </title><note>To appear </note><booktitle>in Artificial Intelligence  </booktitle><date>1995 . </date>
+
+<meta reference_no="85" cluster_no="55" true_id="106"></meta>
+
+<authors><author>Nerbonne , J</author></authors><date>( 1992 ) . </date><title>Constraint-based semantics . </title><editor>In Dekker , P. , and Stokhof , M. , editors , </editor><booktitle>Proceedings of the 8 th Amsterdam Colloquim , </booktitle><pages>425-445 . </pages><institution>University of Amsterdam . The Netherlands . </institution>
+
+<meta reference_no="86" cluster_no="56" true_id="138"></meta>
+
+<authors><author>Z. - Q. Luo</author><author> J. - S. Pang</author><author> D. Ralph</author></authors><title>Mathematical Programs with Equilibrium Constraints . </title><publisher>Cambridge University Press , </publisher><location>Cambridge , England , </location><date>1996 . </date><pages>10 </pages>
+
+<meta reference_no="87" cluster_no="56" true_id="138"></meta>
+
+<authors><author> Z. - Q. LUO</author><author> J. - S. PANG</author><author> D. RALPH</author><author>, , S. - Q. WU</author></authors><date>1996 . </date><title>Mathematical Programs with Equilibrium Constraints , </title><booktitle>Mathematical Programming </booktitle><volume>75 , </volume><pages>19-76 . </pages>
+
+<meta reference_no="88" cluster_no="57" true_id="165"></meta>
+
+<authors><author>Sabin , D. , ,</author><author>Freuder , E</author></authors><date>1994 . </date><title>Contradicting Conventional Wisdom in Constraint Satisfaction . </title><booktitle>In Proc . of ECAI-94 , </booktitle><pages>125-129 . </pages>
+
+<meta reference_no="89" cluster_no="57" true_id="165"></meta>
+
+<authors><author>D. Sabin</author><author> E. Freuder</author></authors><title>Contradicting Conventional Wisdom in Constraint Satisfaction . </title><editor>In A. Cohn , editor , </editor><booktitle>Proceedings ECAI 94 , </booktitle><pages>pages 125-129 , </pages><date>1994 . </date>
+
+<meta reference_no="90" cluster_no="58" true_id="3"></meta>
+
+<authors><author> R. Bagnara</author><author> R. Giacobazzi,</author><author>  G. Levi</author></authors><title>An application of constraint propagation to data-flow analysis . </title><booktitle>In The ninth conference on Artificial Intelligence for Applications ( CAIA ' 93 ) , </booktitle><pages>pages 270-276 , </pages><date>1993 . </date>
+
+<meta reference_no="91" cluster_no="58" true_id="3"></meta>
+
+<authors><author>R. Bagnara</author><author> R. Giacobazzi</author><author> G. Levi</author></authors><title>An Application of Constraint Propagation to Data-AEow Analysis . </title><booktitle>In Proc of Ninth IEEE Conference on AI Applications , </booktitle><pages>pages 270 -276  </pages><location>Orlando FL , </location><date>March 1993 . </date><publisher>IEEE Computer Society Press . </publisher>
+
+<meta reference_no="92" cluster_no="59" true_id="5"></meta>
+
+<authors><author>R. Giacobazzi</author><author> S. K. Debray</author><author> G. Levi</author></authors><title>Joining Abstract and Concrete Computations in Constraint Logic Programming . </title><editor>In M. Nivat , C. Rattray , T. Rus , and G. Scollo , editors , </editor><booktitle>Proc . of Third Int . Conf . on Algebraic Methodology and Software Technolog </booktitle>
+
+<meta reference_no="93" cluster_no="60" true_id="87"></meta>
+
+<authors><author>J. Jaffar</author><author> M. J. Maher</author></authors><title>Constraint logic programming : A survey . </title><journal>The Journal of Logic Programming , </journal><volume>19 & 20 : </volume><pages>503-581 , </pages><date>1994 . </date>
+
+<meta reference_no="94" cluster_no="61" true_id="78"></meta>
+
+<authors><author>Barwise , J</author></authors><date>( 1993 ) </date><title>Constraints , channels , and the flow of information . </title><editor>In P. Aczel , D. Israel , Y. Katagiri and S. Peters , eds . , </editor><booktitle>Situation Theory and its Applications , </booktitle><volume>Vol . 3 , </volume><pages>pp . 3-27 . </pages><location>Stanford , Ca . : Center for the Study of Language and Informaiton . </location>
+
+<meta reference_no="95" cluster_no="61" true_id="78"></meta>
+
+<authors><author>Jon Barwise</author></authors><title>Constraints , channels , and the flow of information . </title><editor>In Peter Aczel , David Israel , Yasuhiro Katagiri , and Stanly Peters , editors , </editor><booktitle>Situation Theory and its Applications , </booktitle><volume>volume 3 , </volume><pages>pages 3-27 . </pages><location>Stanford , California , </location><date>1993 . </date>
+
+<meta reference_no="96" cluster_no="62" true_id="193"></meta>
+
+<authors><author>M. Bruynooghe</author><author>D. Boulanger</author></authors><title>Abstract Interpretation for ( Constraint ) Logic Programming . </title><editor>In B. Mayoh , E. Tyugu , and J. Penjam , editors , </editor><booktitle>Constraint Programming ,of NATO Advanced Science Institutes , </booktitle><pages>pages 228 - 258 , </pages><location>Berlin , </location><volume>131 </volume><date>1994 . </date><publisher>Spring </publisher>
+
+<meta reference_no="97" cluster_no="63" true_id="44"></meta>
+
+<authors><author>Peter B. Ladkin</author><author>Alexander Reinefeld</author></authors><title>A symbolic approach to interval constraint problems . </title><editor>In J. Calmet and J. A. Campbell , editors , </editor><booktitle>Artificial Intelligence and Symbolic Mathematical Computing , of Lecture Notes </booktitle><volume>volume 737 </volume>
+
+<meta reference_no="98" cluster_no="64" true_id="24"></meta>
+
+<authors><author>Andrew B. Philips Steven Minton</author><author> Mark D. Johnston</author><author>Philip Laird</author></authors><title>Minimizing conflicts : a heuristic repair method for constraint satisfaction and scheduling problems . </title><journal>Artificial Intelligence , </journal><volume>58 ( 1-3 ) : </volume><pages>161-205 , </pages><date>1992 . </date>
+
+<meta reference_no="99" cluster_no="64" true_id="24"></meta>
+
+<authors><author>S. Minton</author><author>, M. Johnston</author><author> A. B. Philips</author><author>, , P. Laird</author></authors><title>Minimizing conflicts : A heuristic repair method for constraint satisfaction and scheduling problems . </title><journal>Artificial Intelligence , </journal><volume>58 : </volume><pages>161-205 , </pages><date>1992 . </date>
+
+<meta reference_no="100" cluster_no="64" true_id="24"></meta>
+
+<title>Minimizing conflicts : A heuristic repair method for constraint satisfaction and scheduling problems . </title><journal>Artificial Intelligence </journal><volume>58 : </volume><pages>161-205 . </pages><author>Minton , S. </author><date> 1988 . </date><title>Learning Search Control Knowledge : An Explanation-based Approach . </title><publisher>Kluwer Academic Publishers . </publisher>
+
+<meta reference_no="101" cluster_no="65" true_id="152"></meta>
+
+<authors><author>T. G. Dietterich</author></authors><title>Constraint Propagation Techniques for theory-driven data interpretation . </title><tech>PhD thesis , </tech><institution>Stanford University , </institution><date>1984 . </date>
+
+<meta reference_no="102" cluster_no="66" true_id="196"></meta>
+
+<authors><author>G. Janssens</author><author> W. Simoens</author></authors><title>On the Implementation of Abstract Interpretation Systems for ( Constraint ) Logic Programs . </title><editor>In Deville </editor>
+
+<meta reference_no="103" cluster_no="67" true_id="6"></meta>
+
+<authors><author>R. Giacobazzi</author><author> S. K. Debray</author><author> G. Levi</author></authors><title>A Generalized Semantics for Constraint Logic Programs . </title><booktitle>In Proceedings of the International Conference on Fifth Generation Computer Systems </booktitle>
+
+<meta reference_no="104" cluster_no="68" true_id="54"></meta>
+
+<authors><author>Kasif , S. , </author>&<author>Delcher , A</author></authors><date>( 1994 ) . </date><title>Analysis of local consistency in parallel constraint networks . </title><journal>Artificial Intelligence , </journal><volume>69 . </volume>
+
+<meta reference_no="105" cluster_no="69" true_id="140"></meta>
+
+<authors><author>O. Etzioni</author><author> S. Hanks</author><author> T. Jiang</author><author>, O. Madani</author></authors><title>Optimal Information Gathering on the Internet with Time and Cost Constraints . </title><note>Manuscript</note><date> 1996 . </date>
+
+<meta reference_no="106" cluster_no="70" true_id="75"></meta>
+
+<authors><author>3. Francoise Darses</author></authors><title>The constraint satisfaction approach to design : A psychological investigation . </title><editor>In Gerrit C. van der Veer , Sebastiano Bagnara , and Gerard A. M. Kempen , editors , </editor><booktitle>Cognitive Ergonomics : Contributions from Experimental Psychology , </booktitle><location>Graphic </location>
+
+<meta reference_no="107" cluster_no="71" true_id="67"></meta>
+
+<authors><author>Newport , E. L</author></authors><date>( 1988 ) . </date><title>Constraints on learning and their role in language acquisition : Studies of the acquisition of American Sign Language . </title><journal>Language Sciences , </journal><volume>10 : </volume><pages>147-172 . </pages>
+
+<meta reference_no="108" cluster_no="72" true_id="103"></meta>
+
+<authors><author>W. E. L. Grimson</author></authors><title>Object Recognition by Computer : The role of geometric constraints . </title><publisher>The MIT Press , </publisher><location>Cambridge , </location><date>1990 . </date>
+
+<meta reference_no="109" cluster_no="72" true_id="103"></meta>
+
+<authors><author>W. E. L. Grimson</author></authors><title>Object Recognition by Computer : The role of geometric constraints . </title><publisher>MIT Press , </publisher><location>Cambridge , </location><date>1990 . </date>
+
+<meta reference_no="110" cluster_no="73" true_id="162"></meta>
+
+<authors><author>Witkin ,Andrew ,</author><author>Michael Kass </author></authors><title>Spacetime Constraints , </title><journal>Computer Graphics , </journal><volume>22 ( 4 ) : </volume><pages>159-168 , </pages><date>August 1988 . </date><O>12 </O>
+
+<meta reference_no="111" cluster_no="73" true_id="162"></meta>
+
+<authors><author>Witkin , A. , ,</author><author>Kass , M</author></authors><title>Spacetime constraints . </title><journal>Computer Graphics </journal><volume>22 , 4 </volume><date>( August 1988 ) , </date><pages>159-168 . </pages>
+
+<meta reference_no="112" cluster_no="74" true_id="159"></meta>
+
+<authors><author>Rssler , O. E</author></authors><date>( 1972 ) </date><title>Design for autonomous chemical growth under different environmental constraints . </title><editor>In R. Rosen and F. M. Snell ( eds . ) </editor><booktitle>Progress in Theoretical Biology . </booktitle>
+
+<meta reference_no="113" cluster_no="75" true_id="130"></meta>
+
+<authors><author>Helen Tager-Flusberg</author></authors><title>Constraints on language acquisition . </title><location>Hillsdale , NJ , </location><date>1994 . </date>
+
+<meta reference_no="114" cluster_no="76" true_id="157"></meta>
+
+<authors><author>Jappinen , Harri </author><author>Lahtola ,Aarno  ,<author>Valkonen , Kari </author></authors><date>( 1986 ) . </date><title>" Functional structures for parsing dependency constraints . " </title><booktitle>In Proceedings , COLING 86 , </booktitle><pages>461-463 . </pages>
+
+<meta reference_no="115" cluster_no="77" true_id="10"></meta>
+
+<authors><author>M. - M. Corsini</author><author>, B. Le Charlier</author><author> K. Musumbu</author><author>A. Rauzy</author></authors><title>EOEcient Abstract Interpretation of Prolog Programs by means of Constraint Solving over Finite Domains . </title><tech>Research Report 93 > = 16 ,</tech><institution> Laboratoire Bordelais de Recherche en Informatique , 351 , </tech><institution>Cours </institution>
+
+<meta reference_no="116" cluster_no="78" true_id="169"></meta>
+
+<authors><author>P. Meseguer</author></authors><title>Constraint satisfaction problems : An overview . </title><journal>AI Communications , </journal><volume>2 ( 1 ) : </volume><pages>317 , </pages><date>Mar . 1989 . </date>
+
+<meta reference_no="117" cluster_no="79" true_id="202"></meta>
+
+<authors><author>P. Prosser</author></authors><title>Binary constraint satisfaction problems : some are harder than others . </title><booktitle>In Proceedings of the 11 th European Conference on Artificial Intelligence , </booktitle><pages>pages 95-99 , </pages><location>Amsterdam , </location><date>1994 . </date>
+
+<meta reference_no="118" cluster_no="79" true_id="202"></meta>
+
+<authors><author>P. Prosser</author></authors><title>Binary constraint satisfaction problems : some are harder than others . </title><editor>In A. Cohn , editor , </editor><booktitle>Proceedings of ECAI-94 , </booktitle><pages>pages 95-99 . </pages><publisher>Wiley , </publisher><date>1994 . </date>
+
+<meta reference_no="119" cluster_no="80" true_id="25"></meta>
+
+<authors><author>S. Minton</author><author> M. Johnston</author><author> A. B. Philips</author><author> P. Laird</author></authors><title>Solving large scale constraint satisfaction and scheduling problems using a heuristic repair method . </title><booktitle>In Proceedings AAAI-90 , </booktitle><date>1990 . </date>
+
+<meta reference_no="120" cluster_no="81" true_id="69"></meta>
+
+<authors><author>Vadim Maslov</author><author>, William Pugh</author></authors><title>Simplifying polynomial constraints over integers to make dependence analysis more precise . </title><tech>Technical Report CS-TR - 3109 . 01 , </tech><institution>Dept . of Computer Science , University of Maryland , College Park , </institution><date>February 1994 . </date><note>Submitted to </note>
+
+<meta reference_no="121" cluster_no="82" true_id="119"></meta>
+
+<authors><author>V. Kumar</author></authors><title>Algorithms for constraint satisfaction problems . </title><journal>AI Magazine , </journal><volume>13 , </volume><date>1992 . </date>
+
+<meta reference_no="122" cluster_no="82" true_id="119"></meta>
+
+<authors><author>V. Kumar</author></authors><title>Algorithms for constraint satisfaction problems . </title><journal>AI Magazine , </journal><volume>13 , </volume><date>1992 . </date>
+
+<meta reference_no="123" cluster_no="82" true_id="119"></meta>
+
+<authors><author>Kumar , V</author></authors><date>( 1992 ) . </date><title>Algorithms for constraint satisfaction problems : A survey . </title><journal>AI Magazine , </journal><volume>13 : </volume><pages>32-44 . </pages>
+
+<meta reference_no="124" cluster_no="82" true_id="119"></meta>
+
+<authors><author>Kumar , V</author></authors><date>( 1992 ) . </date><title>Algorithms for constraint satisfaction problems : A survey . </title><journal>AI Magazine , </journal><volume>13 ( 1 ) , </volume><pages>32-44 . </pages>
+
+<meta reference_no="125" cluster_no="82" true_id="119"></meta>
+
+<authors><author>Kumar , V</author></authors><date>1992 . </date><title>Algorithms for constraint satisfaction problems . </title><journal>AI Magazine </journal><volume>13 . </volume>
+
+<meta reference_no="126" cluster_no="83" true_id="37"></meta>
+
+<authors><author>White , C. M</author></authors><date>1995 . </date><title>Converting context-free grammars to constraint dependency grammars . </title><tech>Master ' s thesis , </tech><institution>Purdue University , School of Electrical Engineering , </institution><location>West Lafayette , IN . </location>
+
+<meta reference_no="127" cluster_no="84" true_id="11"></meta>
+
+<authors><author>M. - M. Corsini</author><author> K. Musumbu</author><author> A. Rauzy</author><author>B. Le Charlier</author></authors><title>Efficient Bottom-up Abstract Interpretation of Prolog by means of Constraint Solving over Symbolic Finite Domains . </title><editor>In M. Bruynooghe and J. Penjam , editors , </editor><booktitle>Programming Language Implementation an </booktitle>
+
+<meta reference_no="128" cluster_no="85" true_id="105"></meta>
+
+<authors><author>Shieber S. M</author></authors><date>( 1992 ) : </date><title>Constraint-Based Grammar Formalisms : Parsing and Type Inference for Natural and Computer Languages . </title><publisher>The MIT Press , </publisher><location>Cambridge , Mass . </location>
+
+<meta reference_no="129" cluster_no="85" true_id="105"></meta>
+
+<booktitle>Shieber SM </booktitle><date>( 1992 ) </date><title>Constraint-Based Grammar Formalisms : Parsing and Type Inference for Natural and Computer Languages . </title><publisher>The MIT Press , </publisher><location>Cambridge , Mass . </location>
+
+<meta reference_no="130" cluster_no="86" true_id="20"></meta>
+
+<authors><author>J. Antonisse</author></authors><title>A new interpretation of schema notation that overturns the binary encoding constraint . </title><editor>In J. D. Schaffer , editor , </editor><booktitle>Proceedings of the Third International Conference on Genetic Algorithms , </booktitle><pages>pages 86-91 . </pages><publisher>Morgan Kaufmann , </publisher><date>1989 . </date>
+
+<meta reference_no="131" cluster_no="86" true_id="20"></meta>
+
+<authors><author>J. Antonisse</author></authors><title>" A New Interpretation of the Schema Notation that Overturns the Binary Encoding Constraint , " </title><booktitle>in Proceedings of the 3 rd International Conference on Genetic Algorithms , </booktitle><pages>pages 86-91 . </pages><publisher>Morgan Kaufmann , </publisher><date>1989 . </date>
+
+<meta reference_no="132" cluster_no="86" true_id="20"></meta>
+
+<authors><author>Jim Antonisse</author></authors><title>" A New Interpretation of Schema Notation that Overturns the Binary Encoding Constraint , " </title><booktitle>In Proceedings of the Third International Conference on Genetic Algorithms . </booktitle><publisher>Morgan Kaufmann Publishers , Inc , </publisher><date>1989 . </date>
+
+<meta reference_no="133" cluster_no="86" true_id="20"></meta>
+
+<authors><author>Jim Antonisse</author></authors><title>" A New Interpretation of Schema Notation that Overturns the Binary Encoding Constraint , " </title><booktitle>In Proceedings of the Third International Conference on Genetic Algorithms . </booktitle><publisher>Morgan Kaufmann Publishers , Inc , </publisher><date>1989 . </date>
+
+<meta reference_no="134" cluster_no="86" true_id="20"></meta>
+
+<authors><author>Antonisse , Jim </author></authors><date>1989 . </date><title>  A new interpretation of schema notation that overturns the binary coding constraint . </title>
+
+<meta reference_no="135" cluster_no="86" true_id="20"></meta>
+
+<authors><author>J. Antonisse</author></authors><date>( 1989 ) . </date><title>A New Interpretation of Schema Notation that Overturns the Binary Encoding Constraint . </title><booktitle>ICGA III . </booktitle><location>San Mateo , CA , </location><publisher>Morgan Kaufmann . </publisher>
+
+<meta reference_no="136" cluster_no="86" true_id="20"></meta>
+
+<authors><author>Antonisse , J. ,</author></authors><title>" A new interpretation of schema encoding that overturns the binary encoding constraint , " </title><booktitle>in</booktitle>
+
+<meta reference_no="137" cluster_no="86" true_id="20"></meta>
+
+<authors><author>Antonisse , H. J</author></authors><date>( 1989 ) </date><title>A New Interpretation of the Schema Notation that Overturns the Binary Encoding Constraint . </title><booktitle>Proc 3 rd International Conf on Genetic Algorithms , </booktitle><publisher>Morgan-Kaufmann . </publisher>
+
+<meta reference_no="138" cluster_no="87" true_id="146"></meta>
+
+<authors><author>Francesco Ricci</author></authors><title>Constraint reasoning with learning automata . </title><journal>International Journal of Intelligent Systems , </journal><volume>9 ( 12 ) : </volume><pages>1059-1082 , </pages><date>December 1994 . </date>
+
+<meta reference_no="139" cluster_no="88" true_id="65"></meta>
+
+<authors><author>H. Maruyama</author></authors><title>Structural disambiguation with constraint propagation . </title><booktitle>In The Proceedings of the Annual Meeting of ACL , </booktitle><date>1990 . </date>
+
+<meta reference_no="140" cluster_no="88" true_id="65"></meta>
+
+<authors><author>H. Maruyama</author></authors><title>Structural disambiguation with constraint propagation . </title><booktitle>In The Proceedings of the Annual Meeting of ACL , </booktitle><date>1990 . </date>
+
+<meta reference_no="141" cluster_no="89" true_id="40"></meta>
+
+<authors><author>Atro Voutilainen</author><author> Juha Heikkila</author><author> Arto Anttila</author></authors><title>Constraint grammar of english : A performanceoriented introduction . </title><tech>Technical Report Publication No . 21 , </tech><institution>University of Helsinki , Department of General Linguistics , </institution><location>Helsinki , </location><date>1992 . </date>
+
+<meta reference_no="142" cluster_no="90" true_id="15"></meta>
+
+<authors><author>M. Hanus</author></authors><title>Analysis of nonlinear constraints in CLP ( R ) . </title><editor>In D. S. Warren , editor , </editor><booktitle>Proceedings of the Tenth International Conference on Logic Programming , </booktitle><pages>pages 83-99 . </pages><publisher>MIT Press , </publisher><date>June 1993 . </date>
+
+<meta reference_no="143" cluster_no="90" true_id="15"></meta>
+
+<authors><author>M. Hanus</author></authors><title>Analysis of Nonlinear Constraints in CLP ( R ) . </title><editor>In Warren </editor>
+
+<meta reference_no="144" cluster_no="91" true_id="149"></meta>
+
+<authors><author>Omohundro , S. M</author></authors><date>( 1991 ) . </date><title>Bumptrees for Efficient Function , Constraint , and Classification Learning . </title><editor>In Lippmann , R. P. , Moody , J. E. , and Touretzky , D. S. , editors , </editor><booktitle>Advances in Neural Information Processing Systems 3. </booktitle><publisher>Morgan Kaufmann . </publisher>
+
+<meta reference_no="145" cluster_no="91" true_id="149"></meta>
+
+<authors><author>S. M. Omohundro</author></authors><title>Bumptrees for Efficient Function , Constraint , and Classification Learning . </title><editor>In R. P. Lippmann , J. E. Moody , and D. S. Touretzky , editors , </editor><booktitle>Advances in Neural Information Processing Systems 3. </booktitle><publisher>Morgan Kaufmann , </publisher><date>1991 . </date><pages>37 </pages>
+
+<meta reference_no="146" cluster_no="92" true_id="151"></meta>
+
+<authors><author>M. Bruynooghe</author><author> D. Boulanger</author></authors><title>Abstract Interpretation for ( Constraint ) Logic Programming . </title><tech>Technical Report CW > = 183 , KUL , </tech><date>November 1993 . </date>
+
+<meta reference_no="147" cluster_no="92" true_id="194"></meta>
+
+<authors><author> M. Bruynooghe</author><author>, D. Boulanger</author></authors><title>Abstract interpretation for ( constraint ) logic programming . </title><tech>CW Report CW 183 , </tech><institution>Department of Computer Science , Katholieke Universiteit Leuven , </institution><date>Nov . 1993 . </date><note>To appear</note> <booktitle>in : Constraint programming </booktitle><editor> Eds . B. Mayoh , E. J. P </editor>
+
+<meta reference_no="148" cluster_no="93" true_id="131"></meta>
+
+<authors><author>Markman , E. M</author></authors><date>( 1994 ) . </date><title>Constraints on Word Meaning in Early Language </title>
+
+<meta reference_no="149" cluster_no="94" true_id="85"></meta>
+
+<authors><author>Gert Smolka</author></authors><title>A foundation for concurrent constraint programming . </title><booktitle>In Constraints in Computational Logics , <volume>volume 845 </volume><booktitle>of LNCS , </booktitle><pages>pages 50-72 . </pages><publisher>Springer Verlag , </publisher><date>September 1994 . </date>
+
+<meta reference_no="150" cluster_no="95" true_id="64"></meta>
+
+<title>bracketed corpora . </title><booktitle>In Proceedings of the 30 th Annual Meeting of the Association for Computational Linguistics . ACL . </booktitle><title>Distributional Regularity and Phonotactic Constraints 35 </title><author>Pinker , S. </author><date>( 1984 ) . </date><booktitle>Language learnability and language development . </booktitle><publisher>Cambridge , </publisher>
+
+<meta reference_no="151" cluster_no="96" true_id="38"></meta>
+
+<authors><author>Wang , X</author></authors><date>( 1992 ) . </date><title>Constraint-based efficient matching in prodigy . </title><tech>Technical Report CMUCS-92 - 128 , </tech><institution>School of Computer Science , Carnegie Mellon University . </institution>
+
+<meta reference_no="152" cluster_no="97" true_id="42"></meta>
+
+<authors><author>T. Hogg</author><author> C. P. Williams</author></authors><title>The Hardest Constraint Problems : A Double Phase Transition . </title><journal>Artificial Intelligence , </journal><volume>69 : </volume><pages>359-377  </pages><date>1994 . </date>
+
+<meta reference_no="153" cluster_no="98" true_id="188"></meta>
+
+<authors><author>Yoon , K. B. ,</author><author>Coyne , R. D</author></authors><date>( 1992 ) . </date><title>Reasoning about spatial constraints , </title><journal>Environment and Planning B </journal><volume>19 : </volume><pages>243-266 . </pages>
+
+<meta reference_no="154" cluster_no="99" true_id="102"></meta>
+
+<authors><author>Ratcliff , R</author></authors><date>( 1990 ) . </date><title>Connectionist models of recognition memory : constraints imposed by learning and forgetting functions . </title><journal>Psychological Review , </journal><volume>97 , </volume><pages>285-308 . </pages>
+
+<meta reference_no="155" cluster_no="100" true_id="107"></meta>
+
+<authors><author>Smolensky , P. ,</author><author>Bell , B. ,</author><author>Fox , B. ,</author><author>King , R. ,</author><author>Lewis , C</author></authors><date>( 1987 ) . </date><title>Constraint-based hypertext for argumentation . </title><booktitle>Proceedings of Hypertext 87 . </booktitle><pages>pp . 215-245 . </pages><location>New York , ACM . </location>
+
+<meta reference_no="156" cluster_no="101" true_id="83"></meta>
+
+<authors><author>U. Montanari Rossi </author></authors><title>" Graph rewriting for a partial ordering semantics of concurrent constraint programming " , </title><journal>Th . Comp . Sci . </journal><volume>109 </volume><date>( 1993 ) </date><pages>225-256</pages>
+
+<meta reference_no="157" cluster_no="102" true_id="91"></meta>
+
+<authors><author>Y. Wu</author><author> S. S. Iyengar</author><author> R. Jain</author><author>, , S. Bose</author></authors><title>A new generalized framework for finding object orientation using perspective trihedral angle constraint . </title><journal>IEEE T-PAMI , </journal><volume>16 ( 10 ) : </volume><pages>961 - 975 , </pages><date>October 1994 . </date>
+
+<meta reference_no="158" cluster_no="102" true_id="91"></meta>
+
+<authors><author>Y. Wu</author><author>S. S. Iyengar</author><author>R. Jain</author><author>, , S. Bose</author></authors><title>A new generalized computational framework for finding object orientation using perspective trihedral angle constraint . </title><journal>IEEE Trans . on Pattern Analysis and Machine Intelligence , </journal><volume>16 ( 10 ) : </volume><pages>961-975 , </pages><date>Oct 1994 . </date>
+
+<meta reference_no="159" cluster_no="103" true_id="60"></meta>
+
+<authors><author>Horswill I. ,</author></authors><title>Characterizing Adaptation by Constraint , </title><booktitle>In : Toward a Practice of Autonomous Systems , Proceedings of the First European Conference on Artificial Life </booktitle><editor>edited by F. J. Varela & P. Bourgine , </editor><publisher>MIT Press / Bradford Books , </publisher><date>1992 . </date>
+
+<meta reference_no="160" cluster_no="104" true_id="96"></meta>
+
+<authors><author>Richard A. DeMillo</author><author>, A. Jefferson Offutt</author></authors><title>Constraint based automatic test data generation . </title><journal>IEEE Transactions on Software Engineering , </journal><volume>17 ( 9 ) : </volume><pages>900-910 , </pages><date>September 1991 . </date>
+
+<meta reference_no="161" cluster_no="105" true_id="8"></meta>
+
+<authors><author>R. Giacobazzi</author><author> S. K. Debray</author><author> G. Levi</author></authors><title>Generalized Semantics and Abstract Interpretation for Constraint Logic Programs . </title><journal>Journal of Logic Programming , </journal><volume>25 ( 3 ) : </volume><pages>191 - 247 , </pages><date>1995 . </date>
+
+<meta reference_no="162" cluster_no="106" true_id="97"></meta>
+
+<authors><author>T. E. Smith</author><author> D. E. Setliff</author></authors><title>Knowledge-based constraint-driven software synthesis . </title><booktitle>In Proceedings of the Seventh Conference on KnowledgeBased Software Engineering , </booktitle><date>1992 . </date>
+
+<meta reference_no="163" cluster_no="107" true_id="172"></meta>
+
+<authors><author>Wijnen , F. ,</author><author>Krikhaar , E. , , den</author><author>Os , E</author></authors><date>( 1993 ) . </date><title>The ( non ) realization of unstressed elements in children ' s utterances : a rhythmic constraint . </title><note>In Press . </note>
+
+<meta reference_no="164" cluster_no="108" true_id="126"></meta>
+
+<authors><author>Thomas Dean</author><author>, Leslie Pack Kaelbling</author><author>, Jak Kirman</author><author>, , Ann Nicholson</author></authors><title>Planning under time constraints in stochastic domains . </title><journal>Artificial Intelligence , </journal><volume>76 ( 1-2 ) : </volume><pages>35-74 , </pages><date>1995 . </date>
+
+<meta reference_no="165" cluster_no="109" true_id="132"></meta>
+
+<authors><author>T. G. Masters</author></authors><title>Observational constraints on the chemical and thermal structure of the Earth ' s deep interior . </title><journal>Geophys . J. R. Astron . Soc . , </journal><volume>57 : </volume><pages>507-534 , </pages><date>1979 . </date>
+
+<meta reference_no="166" cluster_no="110" true_id="46-2"></meta>
+
+<authors><author>A. K. Mackworth</author></authors><title>Constraint Satisfaction , </title><booktitle>in Encyclopedia of Artificial Intelligence , </booktitle><editor>Stuart C Shapiro ( ed . ) , </editor><publisher>John Wiley and Sons , </publisher><location>Inc . , </location><date>1992 . </date>
+
+<meta reference_no="167" cluster_no="110" true_id="46-2"></meta>
+
+<authors><author>A. K. Mackworth</author></authors><title>Constraint satisfaction . </title><editor>In S. C. Shapiro ( ed ) , </editor><booktitle>Encyclopedia of Artificial Intelligence , </booktitle><pages>pp . 205-211 . </pages><publisher>Wiley , </publisher><date>1987 . </date>
+
+<meta reference_no="168" cluster_no="111" true_id="143"></meta>
+
+<authors><author>D. Gillies</author></authors><title>Algorithms to schedule tasks with AND / OR precedence constraints . </title><tech>Ph . D. thesis , </tech><institution>University of Illinois , </institution><location>Urbana , IL , </location><date>1991 . </date>
+
+<meta reference_no="169" cluster_no="111" true_id="143"></meta>
+
+<authors><author>D. Gillies</author></authors><title>Algorithms to schedule tasks with AND / OR precedence constraints . </title><tech>Ph . D. thesis , </tech><institution>University of Illinois , </institution><location>Urbana , IL , </location><date>1991 . </date>
+
+<meta reference_no="170" cluster_no="112" true_id="42"></meta>
+
+<authors><author>T. Hogg</author><author> C. Williams</author></authors><title>The Hardest Constraint Problems : A Double Phase Transition . </title><publisher>PARC preprint , </publisher><institution>Dynamics of Computation Group , Xerox Palo Alto Research Center , </institution><date>June 1993 . </date>
+
+<meta reference_no="171" cluster_no="112" true_id="42"></meta>
+
+<authors><author>T. Hogg</author><author> C. Williams</author></authors><title>The Hardest Constraint Problems : A Double Phase Transition . </title><tech>Technical report , </tech><institution>Dynamics of Computation Group , Xerox Palo Alto Research Center , </institution><date>1993 . </date><publisher>PARC Preprint . </publisher>
+
+<meta reference_no="172" cluster_no="113" true_id="183"></meta>
+
+<authors><author>F. Glover</author></authors><title>Heuristics for integer programming using surrogate constraints . </title><journal>Decision Sciences , </journal><volume>8 : </volume><pages>156-166 , </pages><date>1977 . </date>
+
+<meta reference_no="173" cluster_no="113" true_id="183"></meta>
+
+<authors><author>F. Glover</author></authors><title>Heuristics for integer programming using surrogate constraints . </title><journal>Decision Sciences , </journal><volume>8 : </volume><pages>156-166 , </pages><date>1977 . </date>
+
+<meta reference_no="174" cluster_no="113" true_id="183"></meta>
+
+<authors><author>F. Glover</author></authors><title>Heuristics for integer programming using surrogate constraints . </title><journal>Decision Sciences , </journal><volume>8 : </volume><pages>156-166 , </pages><date>1977 . </date>
+
+<meta reference_no="175" cluster_no="114" true_id="186"></meta>
+
+<authors><author>Ngo , J.</author><author>Thomas , Joe</author><author>Marks </author></authors><title>Spacetime Constraints Revisited , </title><booktitle>Proceedings of Siggraph 93 , </booktitle><pages>pp . 343-350 . </pages>
+
+<meta reference_no="176" cluster_no="114" true_id="161"></meta>
+
+<authors><author>Ngo , J. T. , ,</author><author>Marks , J</author></authors><title>Spacetime constraints revisited . </title><booktitle>In Computer Graphics , Annual Conference Series , </booktitle><date>1993 ( August 1993 ) , </date><booktitle>Siggraph , </booktitle><pages>pp . 343-350 . </pages>
+
+<meta reference_no="177" cluster_no="115" true_id="144"></meta>
+
+<authors><author>Moussouris J</author></authors><date>( 1974 ) . </date><title>Gibbs and Markov Random Systems with Constraints . </title><journal>J. of Statistical Physics </journal><volume>10 , </volume><pages>11-33 . </pages>
+
+<meta reference_no="178" cluster_no="116" true_id="48"></meta>
+
+<authors><author>B. Pravin</author><author> G. Medioni</author></authors><title>" A constraint satisfaction network for matching 3 D object , " </title><booktitle>in International Joint Conference on Artificial Intelligence , </booktitle><volume> vol . II ,</volume> <pages>pp . 18-22 , </pages><date>June 1989 . </date>
+
+<meta reference_no="179" cluster_no="117" true_id="63"></meta>
+
+<authors><author>K. Y. Wichlund</author><author> O. J. Sordalen</author><author>O. Egeland</author></authors><title>Control of vehicles with second-order nonholonomic constraints : Underactuated vehicles . </title><booktitle>In Proceedings of the European Control Conference , </booktitle><pages>pages 3086-3091 , </pages><location>Rome , Italy , </location><date>1995 . </date>
+
+<meta reference_no="180" cluster_no="118" true_id="177"></meta>
+
+<authors><author>R. Bagnara</author></authors><title>Constraint Systems for Pattern Analysis of Constraint Logic > = Based Languages . </title><booktitle>In Codognet </booktitle>
+
+<meta reference_no="181" cluster_no="119" true_id="153"></meta>
+
+<authors><author>A. Borning</author></authors><title>ThingLab : A Constraint Programming System . </title><tech>PhD thesis , </tech><institution>Stanford University , </institution><date>1985 . </date>
+
+<meta reference_no="182" cluster_no="120" true_id="61"></meta>
+
+<authors><author>Yoshikawa , M. ,</author><author>Wada , S</author></authors><date>1992 . </date><title>Constraint satisfaction with multi-dimensional domain . </title><booktitle>In Proceedings of the First International Conference on Planning Systems . </booktitle>
+
+<meta reference_no="183" cluster_no="120" true_id="61"></meta>
+
+<authors><author>M. Yoshikawa</author><author>, S. Wada</author></authors><title>Constraint satisfaction with multi-dimensional domain . </title><booktitle>In The First International Conference on Planning Systems , </booktitle><date>1992 . </date>
+
+<meta reference_no="184" cluster_no="121" true_id="184"></meta>
+
+<authors><author> De Raedt</author><author>, L. , Bruynooghe</author></authors><date>( 1992 ) . </date><title>Belief updating from integrity constraints and queries . </title><journal>Artificial Intelligence , </journal><volume>53 : </volume><pages>291-307 . </pages>
+
+<meta reference_no="185" cluster_no="122" true_id="179"></meta>
+
+<authors><author>H. Maruyama</author></authors><title>Constraint dependency grammar and its weak generative capacity . </title><journal>Computer Software , </journal><date>1990 . </date>
+
+<meta reference_no="186" cluster_no="122" true_id="179"></meta>
+
+<authors><author>H. Maruyama</author></authors><title>Constraint dependency grammar and its weak generative capacity . </title><journal>Computer Software , </journal><date>1990 . </date>
+
+<meta reference_no="187" cluster_no="123" true_id="126"></meta>
+
+<journal>Artificial Intelligence .</journal><authors><author> Dean T. , </author><author>Kanazawa, K. </author><author>, Koller, D. ,</author><author> , Russell</author></authors>
+
+<meta reference_no="188" cluster_no="124" true_id="33"></meta>
+
+<authors><author>Prince , A. S. </author>&<author>Smolensky , P</author></authors><date>( 1993 ) . </date><title>Optimality Theory : Constraint Interaction in Generative Grammar . </title><tech>Technical Report 2 , </tech><institution>Center for Cognitive Science , Rutgers University . </institution>
+
+<meta reference_no="189" cluster_no="124" true_id="33"></meta>
+
+<authors><author>Prince , A. , ,</author><author>Smolensky , P</author></authors><title>Optimality theory : Constraint interaction in generative grammar . </title><tech>Technical Report 2 , </tech><institution>Rutgers Center for Cognitive Science , </institution><location>Piscataway , NJ , </location><date>1993 . </date>
+
+<meta reference_no="190" cluster_no="124" true_id="33"></meta>
+
+<authors><author>Prince , A. , </author>&<author>Smolensky , P</author></authors><date>( 1993 ) . </date><title>Optimality Theory : Constraint Interaction in Generative Grammar . </title><tech>Tech . rep . , </tech><institution>Rutgers Center for Cognitive Science , Rutgers University , New Brunswick , and Computer Science Department , University of Colorado at Boulder . </institution>
+
+<meta reference_no="191" cluster_no="125" true_id="21"></meta>
+
+<authors><author>Z. Michalewicz</author><author> C. Z. Janikow</author></authors><title>Handling constraints in genetic algorithms . </title><editor>In R. K. Belew and L. B. Booker , editors , </editor><booktitle>Proceedings of the Fourth International Conference on Genetic Algorithms , </booktitle><pages>pages 151-157 . </pages><publisher>Morgan Kaufmann , </publisher><date>1991 . </date>
+
+<meta reference_no="192" cluster_no="126" true_id="195"></meta>
+
+<authors><author>G. Janssens</author><author> M. Bruynooghe</author></authors><title>Towards a Framework for Abstract Interpretation of Constraint Logic Programs . </title><editor>In A. Pettorossi , editor , </editor> <volume>volume 649 </volume><booktitle>META ' 92 of Lecture Notes in Computer Science . </booktitle><publisher>Springer-Verlag , </publisher><date>1993 . </date>
+
+<meta reference_no="193" cluster_no="127" true_id="55"></meta>
+
+<authors><author>Kasif , S</author></authors><date>( 1990 ) . </date><title>On the parallel complexity of discrete relaxation in constraint networks . </title><journal>Artificial Intelligence , </journal><volume>45 , </volume><pages>275-286 . </pages>
+
+<meta reference_no="194" cluster_no="128" true_id="12"></meta>
+
+<authors><author>V. Dumortier</author><author> G. Janssens</author><author> M. Bruynooghe</author></authors><title>Detection of Free Variables in the Presence of Numeric Constraints by means of Abstract Interpretation . </title><tech>Report CW 145 , </tech><institution>Department of Computer Science , K. U. Le </institution>
+
+<meta reference_no="195" cluster_no="129" true_id="47"></meta>
+
+<authors><author>R. Mohan</author></authors><title>" Application of neural constraint satisfaction network to vision , " </title><booktitle>in International Joint Conference on Artificial Intelligence , </booktitle><volume> vol . II ,</volume> <pages>pp . 619-620 , </pages><date>June 1989 . </date>
+
+<meta reference_no="196" cluster_no="130" true_id="187"></meta>
+
+<authors><author> S. Bell</author></authors><title>Deciding distinctness of query results by discovered constraints . </title><note>Manuscript . </note>
+
+<meta reference_no="197" cluster_no="131" true_id="148"></meta>
+
+<authors><author>M. Johnston</author><author> S. Minton</author></authors><title>Analyzing a Heuristic Strategy for Constraint Satisfaction and Scheduling , </title><booktitle>in Intelligent Scheduling , </booktitle><publisher>Morgan Kaufman , </publisher><location>San Francisco , </location><date>1994 . </date>
+
+<meta reference_no="198" cluster_no="132" true_id="7"></meta>
+
+<authors><author>P. Prosser</author></authors><title>An empirical study of phase transitions in binary constraint satisfaction problems . </title><tech>Technical Report AISL-49 - 93 , </tech><institution>Department of Computer Science , University of Strathclyde , </institution><date>1993 . </date><note>To appear </note><journal>in the AI Journal special issue on Phase Transiti </journal>
+
+<meta reference_no="199" cluster_no="133" true_id="122"></meta>
+
+<authors><author>R. Dechter</author><author>, J. Pearl</author></authors><title>Network-based heuristics for constraintsatisfaction problems . </title><journal>Artificial Intelligence , </journal><volume>34 : </volume><pages>1-38 , </pages><date>1988 . </date>
+
+<meta reference_no="200" cluster_no="133" true_id="122"></meta>
+
+<authors><author>R. Dechter</author><author>, J. Pearl</author></authors><title>Network-based heuristics for constraint satisfaction problems . </title><journal>Artificial Intelligence , </journal><volume>34 : </volume><pages>1-38 , </pages><date>1988 . </date>
+
+<meta reference_no="201" cluster_no="133" true_id="122"></meta>
+
+<authors><author>R. Dechter</author><author>, J. Pearl</author></authors><title>NetworkBased Heuristics for ConstraintSatisfaction Problems , </title><journal>Artificial Intelligence, </journal><volume>34  </volume><date>( December 1987 ) , </date><pages>pp . 1- 38 . </pages>
+
+<meta reference_no="202" cluster_no="134" true_id="32"></meta>
+
+<authors><author>Moriarty , D. E. , ,</author><author>Miikkulainen , R</author></authors><date>( 1994 a ) . </date><title>Evolutionary neural networks for value ordering in constraint satisfaction problems . </title><tech>Technical Report AI94-218 , </tech><institution>Department of Computer Sciences , The University of Texas at Austin . </institution>
+
+<meta reference_no="203" cluster_no="134" true_id="32"></meta>
+
+<authors><author>Moriarty , D. E. , ,</author><author>Miikkulainen , R</author></authors><date>( 1994 b ) . </date><title>Evolutionary neural networks for value ordering in constraint satisfaction problems . </title><tech>Technical Report AI94-218 , </tech><institution>Department of Computer Sciences , The University of Texas at Austin . </institution>
+
+<meta reference_no="204" cluster_no="135" true_id="120"></meta>
+
+<authors><author>P. Prosser</author></authors><title>Hybrid Algorithms for the Constraint Satisfaction Problem . </title><journal>Computational Intelligence , </journal><volume>9 ( 3 ) : </volume><pages>268-299 , </pages><date>1993 . </date><pages>44 </pages>
+
+<meta reference_no="205" cluster_no="135" true_id="120"></meta>
+
+<authors><author>P. Prosser</author></authors><title>Hybrid algorithms for the constraint satisfaction problem . </title><journal>Computational Intelligence , </journal><volume>9 : </volume><pages>268-299 , </pages><date>1993 . </date>
+
+<meta reference_no="206" cluster_no="136" true_id="43"></meta>
+
+<authors><author>C. Williams</author><author>T. Hogg</author></authors><title>Exploiting the Deep Structure of Constraint Problems . </title><journal>Artificial Intelligence , </journal><volume>70 : </volume><pages>73-117 , </pages><date>1994 . </date>
+
+<meta reference_no="207" cluster_no="137" true_id="111"></meta>
+
+<authors><author>Harper , M. P. , ,</author><author>Helzerman , R. A</author></authors><date>1995 a. </date><title>Extensions to constraint dependency parsing for spoken language processing . </title><journal>Computer Speech and Language </journal><volume>9 ( 3 ) : </volume><pages>187-234 . </pages>
+
+<meta reference_no="208" cluster_no="138" true_id="190"></meta>
+
+<authors><author>Coppock , R</author></authors><date>( 1984 ) . </date><title>Social Constraints on Technological Progress . </title><location>Aldershot , UK : Gower . </location>
+
+<meta reference_no="209" cluster_no="139" true_id="201"></meta>
+
+<authors><author>F. Rossi</author></authors><title>Redundant Hidden Variables in Finite Domain Constraint Problems . </title><editor>In M. Meyer , editor , </editor><booktitle>Proceedings of the ECAI 94 Workshop on Constraint Processing , </booktitle><pages>pages 17-25 , </pages><date>1994 . </date>
+
+<meta reference_no="210" cluster_no="140" true_id="176"></meta>
+
+<authors><author>M. Hanus</author></authors><title>Compile-time analysis of nonlinear constraints in clp ( r ) . </title><journal>New Generation Computing , </journal><volume>13 ( 2 ) : </volume><pages>155 - 186 , </pages><date>1995 . </date>
+
+<meta reference_no="211" cluster_no="141" true_id="116"></meta>
+
+<authors><author>Wallace , R</author></authors><date>1994 . </date><title>Directed Arc Consistency Preprocessing . </title><booktitle>In Constraint Processing ( Lecture Notes in Computer Science 923 ) . </booktitle><publisher>Springer . </publisher><pages>121-137 . </pages>
+
+<meta reference_no="212" cluster_no="142" true_id="182"></meta>
+
+<authors><author>Brent , M. R. , </author>&<author>Cartwright , T. A</author></authors><date>( 1996 ) . </date><title>Distributional Regularity and Phonotactic Constraints are Useful for Segmentation . </title><note>In press . </note>
+
+<meta reference_no="213" cluster_no="143" true_id="181"></meta>
+
+<authors><author>A. Meisels</author></authors><title>On resource allocation constraint networks , 1996 . </title><note>In Preparation , </note><date>March 1996 . </date>
+
+<meta reference_no="214" cluster_no="144" true_id="114"></meta>
+
+<authors><author>B. Mayoh</author><author> E. Tyugu</author></authors><title>Penjam ( eds : ) " Constraint programming " </title><journal>NATO ASI Series F , </journal><volume>Vol . 131 , </volume><publisher>Springer 1994 </publisher>
+
+<meta reference_no="215" cluster_no="145" true_id="17"></meta>
+
+<authors><author>D. Orvosh</author><author> L. Davis</author></authors><title>Shall we repair Genetic algorithms , combinatorial optimization , and feasibilty constraints . </title><editor>In S. Forrest , editor , </editor><booktitle>Proceedings of the Fifth International Conference on Genetic Algorithms , </booktitle><location>Los Altos , CA , </location><date>1993 . </date><publisher>Morgan Kaufmann . </publisher>
+
+<meta reference_no="216" cluster_no="146" true_id="52"></meta>
+
+<authors><author>P. van Beek</author><author>R. Dechter</author></authors><title>Constraint tightness versus global consistency . </title><booktitle>In Proceedings of the Fourth International Conference on Principles of Knowledge Representation and Reasoning , </booktitle><date>1994 . </date>
+
+<meta reference_no="217" cluster_no="147" true_id="29"></meta>
+
+<authors><author>BURKE E. K. ,</author><author>ELLIMAN D. G. ,</author><author>WEARE R. F</author></authors><date>( 1993 ) , </date><title>A University Timetabling System Based on Graph Colouring and Constraint Manipulation , </title><note>To appear </note><journal>in the Journal of Research on Computing in Education . </journal>
+
+<meta reference_no="218" cluster_no="147" true_id="29"></meta>
+
+<authors><author>Burke E. K. ,</author><author>Elliman D. G. ,</author><author>Weare R. F</author></authors><date>( 1993 a ) </date><title>A University Timetabling System Based on Graph Colouring and Constraint Manipulation , </title><note>To appear </note><journal>in the Journal of Research on Computing in Education . </journal><volume>Vol . 26 . issue 4 </volume>
+
+<meta reference_no="219" cluster_no="148" true_id="74"></meta>
+
+<authors><author>John , M. S. ,</author><author>McClelland , J</author></authors><date>( 1992 ) . </date><title>Parallel constraint satisfaction as a comprehension mechanism . </title><editor>In Reilly , R. and Sharkey , N. , editors , </editor><booktitle>Connectionist Approaches to Natural Language Processing , </booktitle><pages>pages 97-136 . </pages><publisher>Lawrence Erlbaum Associates , </publisher><location>Hove , U. K. </location>
+
+<meta reference_no="220" cluster_no="149" true_id="104"></meta>
+
+<authors><author>V. A. Saraswat</author><author> R. Jagadeesan</author><author> V. Gupta</author></authors><title>Foundations of timed concurrent constraint programming . </title><editor>In Samson Abramsky , editor , </editor><booktitle>Proc . of the Ninth Annual IEEE Symposium on Logic in Computer Science . </booktitle><publisher>IEEE Computer Press , </publisher><date>July 1994 . </date>
+
+<meta reference_no="221" cluster_no="150" true_id="118"></meta>
+
+<authors><author>Koen van der Hauw</author></authors><title>Evaluating and Improving Steady State Evolutionary Algorithms on Constraint Satisfaction Problems , </title><tech>Master Thesis , IR-96 - 21 , </tech><date>July 1996 . </date>
+
+<meta reference_no="222" cluster_no="151" true_id="51"></meta>
+
+<authors><author>21 . VILAIN, M. ,</author><author> KAUTZ, H. , ,</author><author> VAN BEEK</author></authors><title>Constraint propagation algorithms for temporal reasoning : A revised report . </title><editor>In Weld and de Kleer . </editor><note>Revised version of a paper that appeared </note><booktitle>in Proceedings of AAAI 1986 , </booktitle><pages>pp . 377-382 . </pages>
+
+<meta reference_no="223" cluster_no="152" true_id="101"></meta>
+
+<authors><author>P. W. Hollis</author><author> J. S. Harper</author><author> J. J. Paulos</author></authors><title>The effects of precision constraints in a backpropagation learning network . </title><journal>Neural Computation , </journal><volume>2 : </volume><pages>363-373 , </pages><date>1990 . </date><pages>RRR 34-95 Page 19 </pages>
+
+<meta reference_no="224" cluster_no="152" true_id="101"></meta>
+
+<authors><author>Hollis , P. W. , J. S.</author><author>Harper , J. J.</author><author>Paulos</author></authors><date>( 1990 ) . </date><title>The Effects of Precision Constraints in a Backpropagation Learning Network . </title><journal>Neural Computation , </journal><volume>2 , </volume><pages>262-373 . </pages>
+
+<meta reference_no="225" cluster_no="153" true_id="133"></meta>
+
+<authors><author>J. GRANT</author>&<author> B. E. JACOBS</author></authors><title>On the family of generalized dependency constraints , </title><journal>JACM </journal><volume>29 : 4 , </volume><pages>986-997 . </pages>
+
+<meta reference_no="226" cluster_no="154" true_id="57"></meta>
+
+<authors><author>P. van Hentenryck</author></authors><title>Parallel constraint satisfaction in logic programming : Preliminary results of Chip within PEPSys . </title><booktitle>In Proceedings of the 6 th International Congress on Logic Programming , </booktitle><pages>pages 165-180 . </pages><publisher>Mit Press , </publisher><location>Cambridge , Mass . , </location><date>1989 . </date>
+
+<meta reference_no="227" cluster_no="155" true_id="51"></meta>
+
+<authors><author>Marc B. Vilain</author><author>, Henry A. Kautz</author></authors><title>Constraint propagation algorithms for temporal reasoning . </title><booktitle>In Proceedings of the 5 th National Conference of the American Association for Artificial Intelligence , </booktitle><pages>pages 377 -382 </pages>
+
+<meta reference_no="228" cluster_no="156" true_id="72"></meta>
+
+<authors><author>Epstein , S. L</author></authors><date>( 1992 ) , </date><title>Hard Questions about Easy Tasks - Issues from Learning to Play Games , </title><booktitle>in Computational Learning Theory and Natural Learning Systems : Constraints and Prospects , </booktitle><location>Cambridge , MA : </location><publisher>MIT Press . </publisher>
+<note> To appear . </note>
+
+<meta reference_no="229" cluster_no="157" true_id="156"></meta>
+
+<authors><author>Fred Karlsson</author></authors><title>Parsing and constraint grammar . </title><tech>unpublished ms . , </tech><institution>Research Unit for Computational Linguistics , </institution><location>Helsinki , Finland , </location><date>1989 . </date>
+
+<meta reference_no="230" cluster_no="158" true_id="90"></meta>
+
+<authors><author>J. Gaschnig</author></authors><title>A constraint satisfaction method for inference making . </title><booktitle>In Proceedings of the 12 th Annual Allerton Conference on Circuit and System Theory , </booktitle><institution> University of Illinois ,</institution> <location>Urbana-Champaign , USA , </location><date>Oct . 1974 . </date>
+
+<meta reference_no="231" cluster_no="159" true_id="198"></meta>
+
+<authors><author>C. Bessiere</author><author> J. - C. Regin</author></authors><title>An arc consistency algorithm optimal in the number of constraint checks . </title><editor>In M. Meyer , editor , </editor><booktitle>Proceedings of the ECAI-94 Workshop on Constraint Processing , </booktitle><pages>pages 9-16 , </pages><date>Aug . 1994 . </date><volume>42 </volume>
+
+<meta reference_no="232" cluster_no="160" true_id="166"></meta>
+
+<authors><author>E. C. Freuder</author></authors><title>Eliminating interchangeable values in constraint satisfaction . </title><booktitle>In AAAI Proceedings , </booktitle><date>1991 . </date>
+
+<meta reference_no="233" cluster_no="161" true_id="84"></meta>
+
+<authors><author>F. Rossi Montanari </author></authors><title>" Concurrent semantics for concurrent constraint programs " </title><booktitle>in</booktitle>
+
+<meta reference_no="234" cluster_no="162" true_id="175"></meta>
+
+<authors><author> J. - L. Lassez</author><author>, K. McAloon</author></authors><title>A canonical form for generalised linear constraints . </title><journal>Journal of Symbolic Computation , </journal><volume>13 ( 1 ) : </volume><pages>1-24 , </pages><date>Jan . 1992 . </date>
+
+<meta reference_no="235" cluster_no="162" true_id="175"></meta>
+
+<authors><author>J. - L. Lassez</author><author>, K. McAloon</author></authors><title>A canonical form for generalised linear constraints . </title><journal>Journal of Symbolic Computation , </journal><volume>13 ( 1 ) : </volume><pages>1-24 , </pages><date>Jan . 1992 . </date>
+
+<meta reference_no="236" cluster_no="163" true_id="28"></meta>
+
+<authors><author>B. M. Smith</author><author> S. A. Grant</author></authors><title>Sparse Constraint Graphs and Exceptionally Hard Problems . </title><editor>In C. S. Mellish , editor , </editor><booktitle>Proceedings IJCAI-95 , </booktitle><volume>volume 1 , </volume><pages>pages 646-651 . </pages><publisher>Morgan Kaufmann , </publisher><date>Aug . 1995 . </date>
+
+<meta reference_no="237" cluster_no="164" true_id="185"></meta>
+
+<authors><author>A. Heydon</author></authors><title>Specifying and checking unix security constraints . </title><booktitle>In Proceedings of the 3 rd USENIX Security Symposium , </booktitle><date>September 1992 . </date>
+
+<meta reference_no="238" cluster_no="165" true_id="174"></meta>
+
+<authors><author>K. Marriott</author><author>, P. J. Stuckey</author></authors><title>Approximating Interaction between Linear Arithmetic Constraints . </title><booktitle>In Bruynooghe </booktitle>
+
+<meta reference_no="239" cluster_no="166" true_id="141"></meta>
+
+<authors><author>M. Garey</author></authors><title>Optimal task scheduling with precedence constraints . </title><journal>Discrete Mathematics , </journal><volume>4 , </volume><pages>37-56 </pages><date>( 1973 ) . </date>
+
+<meta reference_no="240" cluster_no="167" true_id="68"></meta>
+
+<authors><author>Lorien Y. Pratt</author></authors><title>Experiments on the Transfer of Knowledge between Neural Networks . </title><booktitle>In Computational Learning Theory and Natural Learning Systems , Constraints and Prospects , </booktitle><volume>chapter 14 , </volume><pages>pages 523-560 . </pages><publisher>MIT Press , </publisher><date>1994 . </date>
+
+<meta reference_no="241" cluster_no="167" true_id="68"></meta>
+
+<authors><author>Lorien Y. Pratt</author></authors><title>Experiments on the transfer of knowledge between neural networks . </title><editor>In S. Hanson , G. Drastal , and R. Rivest , editors , </editor><booktitle>Computational Learning Theory and Natural Learning Systems , Constraints and Prospects , </booktitle><volume>chapter 19 , </volume><pages>pages 523-560 . </pages><publisher>MIT </publisher>
+
+<meta reference_no="242" cluster_no="167" true_id="68"></meta>
+
+<authors><author>Lorien Y. Pratt</author></authors><title>Experiments on the transfer of knowledge between neural networks . </title><editor>In S. Hanson , G. Drastal , and R. Rivest , editors , </editor><booktitle>Computational Learning Theory and Natural Learning Systems , Constraints and Prospects , </booktitle><volume>volume 1 , chapter 19 </volume>
+
+<meta reference_no="243" cluster_no="167" true_id="68"></meta>
+
+<authors><author>Lorien Y. Pratt</author></authors><title>Experiments in the transfer of knowledge between neural networks . </title><editor>In S. Hanson , G. Drastal , and R. Rivest , editors , </editor><booktitle>Computational Learning Theory and Natural Learning Systems , Constraints and Prospects , </booktitle><pages>chapter 4. 1. </pages><publisher>MIT Pre </publisher>
+
+<meta reference_no="244" cluster_no="167" true_id="68"></meta>
+
+<authors><author>Lorien Y. Pratt</author></authors><title>Experiments in the transfer of knowledge between neural networks . </title><editor>In S. Hanson , G. Drastal , and R. Rivest , editors , </editor><booktitle>Computational Learning Theory and Natural Learning Systems , Constraints and Prospects , </booktitle><pages>chapter 4. 1. </pages><publisher>MIT Pre </publisher>
+
+<meta reference_no="245" cluster_no="168" true_id="9"></meta>
+
+<authors><author>M. - M. Corsini</author><author>B. Le Charlier</author><author> K. Musumbu</author><author>, A. Rauzy</author></authors><title>EOEcient Abstract Interpretation of Prolog Programs by means of Constraint Solving over Finite Domains ( extended abstract ) . </title><booktitle>In Proceedings of the 5 th Int . Symposium on Programming Language Im </booktitle>
+
+<meta reference_no="246" cluster_no="169" true_id="112"></meta>
+
+<authors><author>Harper , M. P. , ,</author><author>Helzerman , R. A</author></authors><date>1995 b. </date><title>Managing multiple knowledge sources in constraint-based parsing spoken language . </title><journal>Fundamenta Informaticae </journal><volume>23 ( 2 , 3 , 4 ) : </volume><pages>303-353 . </pages><editor>Harper , M. P. ; Helzerman , R. A. ; Zoltowski , C. B. ; Yeo , B. L. ; Chan , Y. ; Stewart , T. ; </editor>
+
+<meta reference_no="247" cluster_no="170" true_id="200"></meta>
+
+<authors><author>G. E. Hinton</author><author>, T. J. Sejnowski</author><author> D. H. Ackley</author></authors><title>Boltzmann machines : Constraint satisfaction networks that learn . </title><tech>Technical Report CMU-CS - 84-119 , </tech><institution>Carnegie-Mellon University , </institution><location>Pittsburg , PA , </location><date>May 1984 . </date>
+
+<meta reference_no="248" cluster_no="170" true_id="200"></meta>
+
+<authors><author>G. E. Hinton</author><author>, T. J. Sejnowski</author><author>, , D. H. Ackley</author></authors><title>Boltzmann machines : Constraint satisfaction networks that learn . </title><tech>Technical Report CMU-CS - 84119 , </tech><institution>Carnegie-Mellon University , </institution><location>Pittsburg , PA , </location><date>May 1984 . </date>
+
+<meta reference_no="249" cluster_no="170" true_id="200"></meta>
+
+<authors><author>Geoffrey E. Hinton</author><author>, Terrence J. Sejnowski</author><author>, , David H. Ackley</author></authors><title>Boltzmann machines : Constraint satisfaction networks that learn . </title><tech>Technical Report CMU-CS - 84-119 , </tech><institution>CarnegieMellon University , </institution><location>Pittsburgh , PA 15213 , </location><date>1984 . </date>
+
+<meta reference_no="250" cluster_no="170" true_id="200"></meta>
+
+<authors><author>Hinton , G. ,</author><author>Ackley , D. </author>&<author>Sejnowski , T</author></authors><date>( 1984 ) , </date><title>Boltzmann machines : Constraint satisfaction networks that learns , </title><tech>Technical Report CMU-CS - 84-119 , </tech><institution>Carnegie-Mellon University , Department of Computer Science . </institution><note>James , W. ( 1890 ) , Principles of psychology , in J </note>
+
+<meta reference_no="251" cluster_no="171" true_id="110"></meta>
+
+<authors><author>T. Sjfiland</author><author> D. Sahlin</author></authors><title>Derivation of Tpe and Alias Information for a Concurrent Constraint Language . </title><note>Submitted to CCP ' 95 , </note><date>February 1995 . </date>
+
+<meta reference_no="252" cluster_no="172" true_id="125"></meta>
+
+<authors><author>C. R. Ramakrishnan</author><author>, I. V. Ramakrishnan</author><author>, , R. C. Sekar</author></authors><title>A Symbolic Constraint Solving Framework for Analysis of Logic Programs . </title><booktitle>In Proceedings of the ACM SIGPLAN Symposium on Partial Evaluation and Semantics-based Progr </booktitle>
+
+<meta reference_no="253" cluster_no="173" true_id="137"></meta>
+
+<authors><author>Z. - Q. Luo</author><author> J. - S. Pang</author><author> D. Ralph</author><author>, , S. - Q. Wu</author></authors><title>Exact penalization and stationarity conditions of mathematical programs with equilibrium constraints . </title><tech>Technical Report 275 , </tech><institution>Communications Research Laboratory , McMaster University , </institution><location>Hamilton , Ontario , Ha </location>
+
+<meta reference_no="254" cluster_no="174" true_id="36"></meta>
+
+<authors><author>Helzerman , R. A. , ,</author><author>Harper , M. P</author></authors><date>1997 . </date><title>PAC learning and constraint dependency grammars . </title><tech>Technical report , </tech><institution>Purdue University , School of Electrical Engineering , </institution><location>West Lafayette , IN . </location>
+
+<meta reference_no="255" cluster_no="175" true_id="82"></meta>
+
+<authors><author>A. Kelly</author><author> A. Macdonald</author><author> K. Marriott</author><author> H. Sndergaard</author><author> P. Stuckey</author><author> R. Yap</author></authors><title>An optimizing compiler for CLP ( R ) . </title><editor>In U. Montanari and F. Rossi , editors , </editor><booktitle>Principles and Practice of Constraint ProgrammingCP ' 95 , Lecture Notes in Computer Science </booktitle><volume>976 , </volume><location>pag </location>
+
+<meta reference_no="256" cluster_no="176" true_id="192"></meta>
+
+<authors><author>M. J. Garca</author></authors><title>Independence , Global Analysis , and Parallelism in Dynamically Scheduled Constraint Logic Programming . </title><tech>PhD thesis , </tech><institution>Universidad Politecnica de Madrid ( UPM ) , </institution><date>July 1994 . </date>
+
+<meta reference_no="257" cluster_no="177" true_id="167"></meta>
+
+<authors><author>Holyoak , K. J. </author>&<author>Thagard , P</author></authors><date>( 1989 ) . </date><title>Analogical mapping by constraint satisfaction , </title><journal>Cognitive Science </journal><volume>13 : </volume><pages>295-355 . </pages>
+
+<meta reference_no="258" cluster_no="178" true_id="26"></meta>
+
+<authors><author>Zabih , R</author></authors><date>1990 . </date><title>Some Applications of Graph Bandwidth to Constraint Satisfaction Problems . </title><booktitle>In Proc . of AAAI-90 , </booktitle><pages>46-51 . </pages>
+
+<meta reference_no="259" cluster_no="179" true_id="50"></meta>
+
+<authors><author>Nagel , H. H. ,</author></authors><title>Constraints for the Estimation of Displacement Vector Fields from Image Sequences , </title><booktitle>Proceedings of International Joint Conference on Artificial Intelligence , </booktitle><pages>pp . 945-951 , </pages><date>1983 . </date>
+
+<meta reference_no="260" cluster_no="180" true_id="70"></meta>
+
+<authors><author>M. Codish</author><author>M. Falaschi</author><author>, K. Marriott</author><author>, , W. Winsborough</author></authors><title>EOEcient Analysis of Concurrent Constraint Logic Programs . </title><editor>In A. Lingas , R. Karlsson , and S. Carlsson , editors , </editor><booktitle>Proc . of the 20 th International Colloquium on Automata , Languages , and Programmi </booktitle>
+
+<meta reference_no="261" cluster_no="181" true_id="197"></meta>
+
+<authors><author>C. Codognet</author><author> P. Codognet</author></authors><title>A general semantics for Concurrent Constraint Languages and their Abstract Interpretation . </title><editor>In M. Meyer , editor , </editor><booktitle>Workshop on Constraint Processing at the International Congress on Computer Systems and Applied Mathematics .</booktitle>
+
+<meta reference_no="262" cluster_no="182" true_id="117"></meta>
+
+<O>12 . </O><author>Paredis , J. : </author><title>Co-evolutionary Constraint Satisfaction . </title><booktitle>PPSN 1994 , Lecture Notes in Computer Science </booktitle><volume>vol . 866 . </volume>
+
+<meta reference_no="263" cluster_no="183" true_id="18"></meta>
+
+<authors><author>I. P. Gent</author><author>, T. Walsh</author></authors><title>The Satisfiability Constraint Gap . </title><tech>Research Paper 702 , </tech><institution>Department of A. I. , University of Edinburgh , </institution><date>1994 . </date><note>To appear </note><journal>in the AI Journal special issue on Phase Transitions in Problem Spaces . 43 </journal>
+
+<meta reference_no="264" cluster_no="184" true_id="128"></meta>
+
+<authors><author>M. St . John</author><author>J. McClelland</author></authors><title>" Learning and applying contextual constraints in sentence comprehension " , </title><journal>Artificial Intelligence </journal><volume>46 , 1-2  </volume><date>( 1990 ) , </date><pages>pp . 217-257 . </pages>
+
+<meta reference_no="265" cluster_no="184" true_id="128"></meta>
+
+<authors><author>M. F. St . John</author><author>, J. L. McClelland</author></authors><title>Learning and applying contextual constraints in sentence comprehension . </title><journal>Artificial Intelligence , </journal><volume>46 ( 1-2 ) : </volume><pages>217-257 , </pages><date>1990 . </date>
+
+<meta reference_no="266" cluster_no="184" true_id="128"></meta>
+
+<authors><author>St . John</author><author>, M. F. , , McClelland</author></authors><date>1990 . </date><title>Learning and applying contextual constraints in sentence comprehension . </title><journal>Artificial Intelligence </journal><volume>46 : </volume><pages>217-257 . </pages>
+
+<meta reference_no="267" cluster_no="185" true_id="92"></meta>
+
+<authors><author>Schunck , B. ,</author></authors><title>Image Flow Segmentation and Estimation by Constraint Line Clustering , </title><journal>IEEE Transactions on Pattern Analysis and Machine Intelligence , </journal><volume>vol . 11 , no . 10 , </volume><pages>pp . 1010-1027 , </pages><date>1989 . </date>
+
+<meta reference_no="268" cluster_no="185" true_id="92"></meta>
+
+<authors><author>Schunck , B. ,</author></authors><title>Image Flow Segmentation and Estimation by Constraint Line Clustering , </title><journal>IEEE Transactions on Pattern Recognition and Machine Intelligence , </journal><volume>vol . 11 , no . 10 , </volume><pages>pp . 1010-1027 , </pages><date>1989 . </date>
+
+<meta reference_no="269" cluster_no="186" true_id="203"></meta>
+
+<authors><author>B. M. Smith</author></authors><title>Phase Transition and the Mushy Region in Constraint Satisfaction Problems . </title><editor>In A. G. Cohn , editor , </editor><booktitle>Proceedings ECAI-94 , </booktitle><pages>pages 100-104 . </pages><publisher>Wiley , </publisher><date>1994 . </date>
+
+<meta reference_no="270" cluster_no="186" true_id="203"></meta>
+
+<authors><author>Smith , B</author></authors><date>1994 . </date><title>Phase Transition and the Mushy Region in Constraint Satisfaction Problems . </title><booktitle>In Proc . of ECAI-94 , </booktitle><pages>100-104 . </pages>
+
+<meta reference_no="271" cluster_no="187" true_id="154"></meta>
+
+<authors><author>E. Zaoeanella</author><author> G. Levi</author><author> R. Giacobazzi</author></authors><title>Abstracting Synchronization in Concurrent Constraint Programming . </title><booktitle>In Hermenegildo and Penjam </booktitle>
+
+<meta reference_no="272" cluster_no="188" true_id="155"></meta>
+
+<authors><author>Bouma , G. , van</author><author>Noord , G</author></authors><date>( 1994 ) </date><title>` Constraint-based categorial grammar ' , </title><booktitle>Proceedings of the 32 nd Assoc . for Computational Linguistics , </booktitle><location>Las Cruces , NM , </location><pages>pp . 147-154 . </pages>
+
+<meta reference_no="273" cluster_no="189" true_id="94"></meta>
+
+<authors><author>William A. Wallace</author></authors><title>Induction of rules subject to a quality constraint : Probabilistic inductive learning . </title><journal>IEEE Trans . on Knowldge and Data Eng . , </journal><volume>5 ( 6 ) : </volume><pages>979-984 , </pages><date>December 1993 . </date><note>Special Issue on Learning and Discovery in Knowledge-bas </note>
+
+<meta reference_no="274" cluster_no="190" true_id="73"></meta>
+
+<authors><author>Jude Shavlik</author></authors><title>Integrating explanatory and neural approaches to machine learning . </title><booktitle>In Computational Learning Theory and Natural Learning Systems , Constraints and Prospects . </booktitle><publisher>MIT Press , </publisher><date>1992 . </date>
+
+<meta reference_no="275" cluster_no="191" true_id="142"></meta>
+
+<authors><author>D. Gillies</author><author> J. Liu</author></authors><title>Scheduling tasks with AND / OR precedence constraints . </title><journal>SIAM J. Comput . , </journal><volume>24 ( 4 ) : </volume><pages>797-810 , </pages><date>1995 . </date>
+
+<meta reference_no="276" cluster_no="191" true_id="142"></meta>
+
+<authors><author>D. Gillies</author><author>J. Liu</author></authors><title>Scheduling tasks with AND / OR precedence constraints . </title><journal>SIAM J. Comput . , </journal><volume>24 ( 4 ) : </volume><pages>797-810 , </pages><date>1995 . </date>
+
+<meta reference_no="277" cluster_no="192" true_id="115"></meta>
+
+<authors><author>M. Falaschi</author><author> M. Gabbrielli</author><author> K. Marriott</author><author> C. Palamidessi</author></authors><title>Compositional Analysis for Concurrent Constraint Programming . </title><booktitle>In Proceedings , Eight Annual IEEE Symposium on Logic in Computer Science </booktitle>
+
+<meta reference_no="278" cluster_no="193" true_id="173"></meta>
+
+<authors><author>Maxwell J. T. ,</author><author>Kaplan R. M</author></authors><date>( 1993 ) </date><title>: The Interface between Phrasal and Functional Constraints . </title><journal>Computational Linguistics </journal><volume>19 , </volume><pages>571-590 . </pages>
+
+<meta reference_no="279" cluster_no="193" true_id="173"></meta>
+
+<authors><author>Maxwell JT </author><author>, Kaplan RM </author></authors><date>( 1993 ) </date><title>The Interface between Phrasal and Functional Constraints . </title><journal>Computational Linguistics </journal><volume>19 : </volume><pages>571-590 . </pages>
+
+<meta reference_no="280" cluster_no="194" true_id="41"></meta>
+
+<authors><author>A. B. Baker</author></authors><title>Intelligent backtracking on the hardest constraint problems . </title><tech>Technical report , </tech><institution>CIRL and DCIS , University of Oregon , United States , </institution><date>1995 . </date>
+
+<meta reference_no="281" cluster_no="195" true_id="180"></meta>
+
+<authors><author>H. Maruyama</author></authors><title>Constraint dependency grammar . </title><tech>Technical Report # RT 0044 , </tech><location>IBM , Tokyo , Japan , </location><date>1990 . </date>
+
+<meta reference_no="282" cluster_no="195" true_id="180"></meta>
+
+<authors><author>H. Maruyama</author></authors><title>Constraint dependency grammar . </title><tech>Technical Report # RT 0044 , </tech><location>IBM , Tokyo , Japan , </location><date>1990 . </date>
+
+<meta reference_no="283" cluster_no="195" true_id="180"></meta>
+
+<authors><author>Maruyama , H</author></authors><date>1990 . </date><title>Constraint dependency grammar . </title><tech>Technical Report # RT 0044 , </tech><location>IBM , Tokyo , Japan . </location>
+
+<meta reference_no="284" cluster_no="196" true_id="93"></meta>
+
+<authors><author>Saraswat , V. , K.</author><author>Kahn  J.</author><author>Levy</author></authors><date>( 1990 ) . </date><title>Janus : A Step towards Distributed Constraint Programming . </title><booktitle>North American Conference on Logic Programming . </booktitle><location>Austin , TX . </location><pages>pp  431-46 </pages><publisher>MIT Press . </publisher>
+
+<meta reference_no="285" cluster_no="197" true_id="53"></meta>
+
+<authors><author>P. van Beek</author></authors><title>On the Inherent Level of Local Consistency in Constraint Networks . </title><booktitle>In Proceedings AAAI-94 , </booktitle><date>1994 . </date>
+
+<meta reference_no="286" cluster_no="198" true_id="2"></meta>
+
+<authors><author>R. A. ,  Harper</author></authors><date>1996 . </date><title>MUSE CSP : An extension to the constraint satisfaction problem . </title><journal>Journal of Artificial Intelligence </journal>
+
+<meta reference_no="287" cluster_no="199" true_id="77"></meta>
+
+<authors><author>Girosi , F. ,</author><author>Verri , A. ,</author><author>Torre , V. ,</author></authors><title>Constraints for the Computation of Optical Flow , </title><booktitle>Proceedings of the IEEE Workshop on Visual Motion , </booktitle><location>Irvine , CA , </location><pages>pp . 116-124 , </pages><date>1989 . </date>
+
+<meta reference_no="288" cluster_no="199" true_id="77"></meta>
+
+<authors><author>Girosi F. ,</author><author>Verri A. ,</author><author>Torre V</author></authors><date>1989 . </date><title>Constraints for the computation of optic flow . </title><booktitle>In DARPA Image understanding workshop . </booktitle><pages>pp . 116-124 . </pages>
+
+<meta reference_no="289" cluster_no="200" true_id="135"></meta>
+
+<authors><author>C. Lawrence</author><author> J. Zhou</author><author>, , A. Tits</author></authors><title>User ' s guide for CFSQP version 2. 3 : A C code for solving ( large scale ) constrained nonlinear ( minimax ) optimization problems , generating iterates satisfying all inequality constraints . </title><tech>Technical </tech>
+
+<meta reference_no="290" cluster_no="200" true_id="135"></meta>
+
+<authors><author>C. Lawrence</author><author>, J. Zhou</author><author>, , A. Tits</author></authors><title>User ' s guide for CFSQP version 2. 3 : A C code for solving ( large scale ) constrained nonlinear ( minimax ) optimization problems , generating iterates satisfying all inequality constraints . </title><tech>Technical </tech>
+
+<meta reference_no="291" cluster_no="200" true_id="135"></meta>
+
+<authors><author>L. Craig</author><author> J. Zhou</author><author>, , A. Tits</author></authors><title>User ' s guide for CFSQP version 2. 1 : A C code for solving ( large scale ) constrained nonlinear ( minimax ) optimization problems , generating iterates satisfying all inequality constraints . </title><tech>Technical Report </tech>
+
+<meta reference_no="292" cluster_no="201" true_id="31"></meta>
+
+<authors><author>B. M. Smith</author></authors><title>In Search of Exceptionally Difficult Constraint Satisfaction Problems . </title><tech>Research Report 94 . 2 , </tech><institution>School of Computer Studies , University of Leeds , </institution><date>Jan . 1994 . </date>
+
+<meta reference_no="293" cluster_no="202" true_id="58"></meta>
+
+<authors><author>Van Hentenryck</author><author> P. , Simonis</author><author>, H. , , Dincbas</author></authors><date>( 1992 ) . </date><title>Constraint satisfaction using constraint logic programming . </title><journal>Artificial Intelligence , </journal><volume>58 : 113 . </volume>
+
+<meta reference_no="294" cluster_no="202" true_id="58"></meta>
+
+<date>1992 b. </date><title>Constraint satisfaction using constraint logic programming . </title><journal>Artificial Intelligence </journal><volume>58 : </volume><pages>113-159 . </pages>
+
+<meta reference_no="295" cluster_no="203" true_id="191"></meta>
+
+<authors><author>M. Garca de la Banda</author><author>, M. Hermenegildo</author></authors><title>Some Considerations on the CompileTime Analysis of Constraint Logic Programs . </title><tech>Technical report , </tech><institution>U. of Madrid ( UPM ) ,</institution> <booktitle>Facultad Informatica UPM , 28660-Boadilla del Monte , </booktitle><publisher>Madrid-Spain , </publisher><date>1991 . </date>
+

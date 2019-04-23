@@ -1,0 +1,1392 @@
+<meta reference_no="1" cluster_no="1" true_id="232"></meta>
+
+<authors><author> M. Lando</author><author> and S. Edelman.</author></authors><title> Generalizing from a single view in face recognition. </title><tech>Technical Report CSTR 9502, </tech><institution>Depart  ment of Applied Mathematics and Computer Science, The Weizmann Institute of Science, </institution><location>Rehovot 76100, Israel, </location><date>1995.</date>
+
+<meta reference_no="2" cluster_no="2" true_id="219"></meta>
+
+<authors><author> R. Cipolla</author><author> and A. Blake,</author></authors><title> Surface shape from the deformation of apparent contours, </title><journal>Int. J. Computer Vision, </journal><volume>vol. 9, no. 2, </volume><pages>pp. 83112, </pages><date>1992.</date>
+
+<meta reference_no="3" cluster_no="3" true_id="295"></meta>
+
+<authors><author>Fischer, G.</author></authors><date> 1993. </date><title>Shared Knowledge in Cooperative Problem-Solving Systems - Integrating Adaptive and Adaptable Components. </title><editor>In Schneider-Hufschmidt, M., Kuehme, Th., and Malinowski, U. eds. </editor><booktitle>Adaptive User Interfaces - Principles and Practice, </booktitle><publisher>Elsevier Scie</publisher>
+
+<meta reference_no="4" cluster_no="4" true_id="410"></meta>
+
+<authors><author>Fisher, M. L.</author></authors><date> (1985). </date><title>An Applications Oriented Guide to Lagrangian Relaxation, </title><journal>Interfaces, </journal><volume>Vol. 15, </volume><pages>pp. 1-18.</pages>
+
+<meta reference_no="5" cluster_no="5" true_id="442"></meta>
+
+<authors><author> A. S. Weigend</author><author> and D. E. Rumelhart.</author></authors><title> The effective dimension of the space of hidden units. </title><editor>In Elaine Keramides, editor, </editor><booktitle>Proceedings of INTERFACE'91: Computing Science and Statistics. </booktitle><publisher>Springer Verlag, </publisher><date>1992.</date>
+
+<meta reference_no="6" cluster_no="6" true_id="431"></meta>
+
+<authors><author>Celniker, G.,  </author>and<author> G  ossard,D.</author></authors><title>  Deformable  curveandsurface finite-elements forfree-fromshapedesign. </title><journal>ComputerGraphics</journal><volume>25, 4</volume><date>(July1991), </date><pages>257-266.</pages>
+
+<meta reference_no="7" cluster_no="7" true_id="309"></meta>
+
+<authors><author> Fotland D.,</author></authors><title> Knowledge Representation in the Many Faces of Go, </title><note>(available on Internet via anonymous ftp to bsdserver.ucsf.edu, file Go/comp/mfg.Z), </note><date>1993.</date>
+
+<meta reference_no="8" cluster_no="8" true_id="404"></meta>
+
+<authors><author> David L. Matuszek.</author></authors><title> K-Pack: A programmer's interface to KNET. </title><tech>Technical Memo 61, </tech><institution>Unisys Corporation, </institution><location>P.O. Box 517, Paoli, PA 19301, </location><date>October 1987.</date>
+
+<meta reference_no="9" cluster_no="9" true_id="390"></meta>
+
+<authors><author> Suhm, B.,</author><author> Myers, B. </author><author>and Waibel, A.</author></authors><title> Interactive Reocvery from Speech Recognition Errors in Speech User Interfaces, </title><booktitle>Proc. ICSLP96, </booktitle><pages>pp. 861-864, </pages><location>Philadelpha,</location><date> 1996</date>
+
+<meta reference_no="10" cluster_no="10" true_id="227"></meta>
+
+<authors><author> J. Jourdan</author><author>, L. Dent</author><author>, J. McDermott</author><author>, T. Mitchell</author><author>, and D. Zabowski,</author></authors><title> Interfaces that Learn: A Learning Apprentice for Calendar Management, </title><tech>CMU Technical Report CMU-CS-91-135, </tech><institution>Carnegie Mellon University, </institution><date>1991.</date>
+
+<meta reference_no="11" cluster_no="11" true_id="259"></meta>
+
+<authors><author>Elaine Marsh,</author></authors><title> Towards Friendlier User Interfaces for Expert Systems, </title><booktitle>Proceedings of the 1991 World Congress on Expert Systems, </booktitle><publisher>Pergamon Press, </publisher><date>1991.</date>
+
+<meta reference_no="12" cluster_no="11" true_id="259"></meta>
+
+<authors><author>Elaine Mars,h</author></authors><title> Towards Friendlier User Interfaces for Expert Systems, </title><booktitle>Proceedings of the 1991 World Congress</booktitle>
+
+<meta reference_no="13" cluster_no="12" true_id="234"></meta>
+
+<authors><author> D. Beymer</author><author> and T. Poggio.</author></authors><title> Face recognition from one model view. </title><booktitle>In Proceedings of the International Conference on Computer Vision, </booktitle><date>1995.</date>
+
+<meta reference_no="14" cluster_no="13" true_id="408"></meta>
+
+<institution> Advanced Micro Devices .</institution><booktitle> Bipolar Microprocessor and Logic Interface (Am29000 Family) Data Book, </booktitle><date>1985. </date><note>http://www.amd.com/.</note>
+
+<meta reference_no="15" cluster_no="14" true_id="304"></meta>
+
+<authors><author> R. Brunelli</author><author> and T. Poggio.</author></authors><title> "Face Recognition: Features versus Templates". </title><journal>IEEE Trans. Pattern Anal. Mach. Intell., </journal><volume>15(10):</volume><pages>1042-1052, </pages><date>October 1993.</date>
+
+<meta reference_no="16" cluster_no="14" true_id="304"></meta>
+
+<authors><author> R. Brunelli</author><author> and T. Poggio.</author></authors><title> "Face Recognition: Features versus Templates". </title><journal>IEEE Trans. Pattern Anal. Mach. Intell., </journal><volume>15(10):</volume><pages>1042-1052, </pages><date>October 1993.</date>
+
+<meta reference_no="17" cluster_no="15" true_id="294"></meta>
+
+<authors><author> M. Blumrich</author><author>, K. Li</author><author>, R. Alpert</author><author>, C. Dubnicki</author><author>, E. Felten</author><author>, and J. Sandberg.</author></authors><title> A Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer. </title><booktitle>In Proceedings of the 21st Annual Symposium on Computer Architecture, </booktitle><pages>pages 142153, </pages><date>April 1994.</date>
+
+<meta reference_no="18" cluster_no="15" true_id="294"></meta>
+
+<authors><author> M. Blumrich</author><author>, K. Li</author><author>, R. Alpert</author><author>, C. Dubnicki</author><author>, E. Felten</author><author>, and J. Sandberg.</author></authors><title> A virtual memory mapped network  interface for th SHRIMP multicomputer. </title><booktitle>In Proceedings of the 21st Annual Symposium on Computer Architecture, </booktitle><pages>pages 142-153, </pages><date>April 1994.</date>
+
+<meta reference_no="19" cluster_no="15" true_id="294"></meta>
+
+<authors><author> M. Blumrich</author><author>, K. Li</author><author>, R. Alpert</author><author>, C. Dubnicki</author><author>, E. Felten</author><author>, and J. Sandberg.</author></authors><title> A Virtual Memory Mapped Network Interface  for the SHRIMP Multicomputer. </title><booktitle>In Proceedings of the 21st Annual Symposium on Computer Architecture, </booktitle><pages>pages 142153, </pages><date>April 1994.</date>
+
+<meta reference_no="20" cluster_no="15" true_id="294"></meta>
+
+<authors><author> M. Blumrich</author><author>, K. Li</author><author>, R. Alpert</author><author>, C. Dubnicki</author><author>, E. Felten</author><author>, and J. Sandberg.</author></authors><title> A Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer. </title><booktitle>In Proceedings of the 21st Annual Symposium on Computer Architecture, </booktitle><pages>pages 142-153, </pages><date>April 1994.</date>
+
+<meta reference_no="21" cluster_no="15" true_id="294"></meta>
+
+<authors><author> M. Blumrich</author><author>, K. Li</author><author>, R. Alpert</author><author>, C. Dubnicki</author><author>, E. Felten</author><author>, and J. Sandberg.</author></authors><title> A virtual memory mapped network interface for the shrimp multicomputer. </title><booktitle>In Proceedings of the 21st Annual Symposium on Computer Architecture, </booktitle><pages>pages 142153, </pages><date>Apr. 1994.</date>
+
+<meta reference_no="22" cluster_no="15" true_id="294"></meta>
+
+<authors><author> M. Blumrich</author><author>, K. Li</author><author>, R. Alpert</author><author>, C. Dubnicki</author><author>, E. Felten</author><author>, and J. Sandberg.</author></authors><title> Virtual Memory Mapped Network Interface for the SHRIMP Multicomputers. </title><booktitle>In Proc. of the 21st Annual International Symposium on Computer Architecture, </booktitle><pages>pages 142-153, </pages><date>July 1994.</date>
+
+<meta reference_no="23" cluster_no="15" true_id="294"></meta>
+
+<authors><author> Matthias A. Blumrich</author><author>, Kai Li</author><author>, Richard Alpert</author><author>, Cezary Dubnicki</author><author>, Edward W. Felten</author><author>, and Jonathon Sandberg.</author></authors><title> Virtual Memory Mapped Network Interface for the SHRIMP Multicomputer. </title><booktitle>In Proceedings of the 21st Annual International Symposium on Computer Archit</booktitle>
+
+<meta reference_no="24" cluster_no="16" true_id="260"></meta>
+
+<authors><author> J. Alfredo Sanchez</author><author>, Flavio S. Azevedo</author><author>, and John J. Leggett.</author></authors><title> Paragente: Exploring the issues in agent based user interfaces. </title><booktitle>In Proceedings of the First International Conference on MultiAgent Systems (ICMAS95), </booktitle><pages>pages 320327, </pages><location>Menlo Park, California,</location><O> J</O>
+
+<meta reference_no="25" cluster_no="17" true_id="226"></meta>
+
+<authors><author> S. Sankar</author><author> and R. Hayes.</author></authors><title> Adl | an interface definition language for specifying and testing software. </title><tech>Technical Report CMU-CS-94-WIDL-1, </tech><institution>Carnegie-Mellon University, </institution><date>January 1994.</date>
+
+<meta reference_no="26" cluster_no="17" true_id="226"></meta>
+
+<authors><author> S. Sankar</author><author> and R. Hayes.</author></authors><title> Adl | an interface definition language for specifying and testing software. </title><tech>Technical Report CMUCS-94-WIDL-1, </tech><institution>Carnegie-Mellon University, </institution><date>January 1994.</date>
+
+<meta reference_no="27" cluster_no="18" true_id="447"></meta>
+
+<authors><author> C. G. Thomas</author><author>, G. M. Kellermann</author><author>, and H.-W. Hein.</author></authors><title> X-AiD: An adaptive and knowledge-based human-computer interface. </title><editor>In H.-J. Bullinger and B. Shackel, editors, </editor><booktitle>Proc. of Human-Computer Interaction INTERACT'87, </booktitle><pages>pages 10751080, </pages><location>Amsterdam,</location>
+
+<meta reference_no="28" cluster_no="19" true_id="263"></meta>
+
+<authors><author> Zajicek, M., and</author><author> Hewitt, J.</author></authors><title> An investigation into the use of error recovery dialogues in a user interface management system for speech recognition, </title><booktitle>Proceedings of the Conference on Human Factors in Computing Systems:</booktitle><pages> 755-760, </pages><date>1990</date>
+
+<meta reference_no="29" cluster_no="20" true_id="296"></meta>
+
+<institution>Laboratory, </institution><location>Los Alamos, NM.  </location><authors><author>Philip R. Cohen,</author></authors><title> Adaptive Interfaces, </title><tech>Technical Report RADC-TR-91-27, </tech><institution>Rome Air Development Center, Air Force Systems Command, Grifss Air Force Base, </institution><location>NY, </location><date>1991a.</date>
+
+<meta reference_no="30" cluster_no="21" true_id="425"></meta>
+
+<authors><author> M. L. Connolly.</author></authors><title> Solvent-accessible surfaces of proteins and nucleic acids. </title><journal>Science, </journal><volume>221:</volume><pages>709-713, </pages><date>1983.</date>
+
+<meta reference_no="31" cluster_no="21" true_id="425"></meta>
+
+<authors><author> M. L. Connolly,</author></authors><title> Solvent-accessible surfaces of proteins and nucleic acids, </title><journal>Science </journal><volume>221 (1983) </volume><pages>709-713.</pages>
+
+<meta reference_no="32" cluster_no="22" true_id="235"></meta>
+
+<authors><author> D. A. Forsyth,</author></authors><title> Recognizing algebraic surfaces from their outlines, </title><booktitle>in Proc. 4th Int. Conf. on Computer Vision, </booktitle><pages>pp. 476480, </pages><date>1993.</date>
+
+<meta reference_no="33" cluster_no="23" true_id="323"></meta>
+
+<note>19. </note><authors><author>K. Yoshida</author><author> and H. Motoda.</author></authors><title> Automated user modeling for intelligent interface. </title><journal>International Journal of Human-Computer Interaction, </journal><volume>8(3):</volume><pages>237258, </pages><date>1996.</date>
+
+<meta reference_no="34" cluster_no="24" true_id="445"></meta>
+
+<authors><author>Kenneth Wauchope,</author></authors><title> Eucalyptus: An Integrated Spoken Language/Graphical Interface for Human-Computer Dialogue, </title><booktitle>Proceedings of AVIOS 92 Voice I/O Systems Applications Conference, </booktitle><location>Minneapolis, MN, </location><date>1992.</date>
+
+<meta reference_no="35" cluster_no="24" true_id="445"></meta>
+
+<O>Press, </O><date>1991. </date><authors><author> Kenneth Wauchope,</author></authors><title> Eucalyptus: An Integrated Spoken Language/Graphical Interface for Human-Computer Dialogue, </title><booktitle>Proceedings of the Voice I/O Systems Applications Conference (AVIOS 92), </booktitle><date>Sept. 22-24,</date>
+
+<meta reference_no="36" cluster_no="25" true_id="449"></meta>
+
+<authors><author>Oren, T. </author>et al.</authors><date> (1990) </date><title>"Guides: Characterizing the Interface," </title><booktitle>in The Art of Humancomputer Interface Design, </booktitle><editor>ed. B. Laurel, </editor><publisher>Addison Wesley: </publisher><location>Reading,</location> <pages>367-381.</pages>
+
+<meta reference_no="37" cluster_no="25" true_id="449"></meta>
+
+<authors><author> Tim Oren</author><author>, Gitta Salomon</author><author>, Kristee Kreitman</author><author>, and Abbe Don.</author></authors><title> Guides: Characterizing the interface. </title><editor>In Brenda Laurel, editor, </editor><booktitle>The Art of Human Computer Interface Design, </booktitle><pages>pages 367-381. </pages><publisher>Addison-Wesley, </publisher><date>1990.</date>
+
+<meta reference_no="38" cluster_no="26" true_id="446"></meta>
+
+<authors><author> Lashkari, Yezdi,</author><author> Metral, Max,</author><author> and Maes Pattie,</author></authors><title> Collaborative Interface Agents, </title><booktitle>Proceedings of the Twelfth National Conference on Artificial Intelligence    , </booktitle><publisher>MIT Press, </publisher><location>Cambridge, MA, </location><date>1994.</date>
+
+<meta reference_no="39" cluster_no="26" true_id="446"></meta>
+
+<authors><author> Lashkari, Y.,</author><author> Metral, M.,</author><author> Maes, P.</author></authors><title> Collaborative Interface Agents. </title><booktitle>In Proceedings of the National Conference on Artificial Intelligence. </booktitle><location>Cambridge (MA): </location><publisher>The MIT Press, </publisher><date>1994.</date>
+
+<meta reference_no="40" cluster_no="26" true_id="446"></meta>
+
+<authors><author> Metral M. Lashkari, Y. </author>and <author>P. Maes.</author></authors><title> Collaborative interface agents. </title><booktitle>In Conference of the American Association for Artificial Intelligence, </booktitle><location>Seattle, WA, </location><date>August 1994.</date>
+
+<meta reference_no="41" cluster_no="26" true_id="446"></meta>
+
+<authors><author>Lashkari, Y., </author><author>M. Metral, </author>and <author>P. Maes</author></authors><date> (1994). </date><title>Collaborative Interface Agents. </title><booktitle>Proceedings of the 12th AAAI. </booktitle><volume>Vol. 1. </volume><publisher>AAAI Press, </publisher><location>Seattle, WA.</location>
+
+<meta reference_no="42" cluster_no="26" true_id="446"></meta>
+
+<title>  Collaborative Interface Agents,</title><authors><author> Yezdi Lashkari</author><author>, Max Metral</author>, and <author>Pattie Maes,</author></authors><booktitle>     Proceedings of the Twelfth National Conference on Articial Intelligence    , </booktitle><publisher>MIT Press, </publisher><location>Cambridge, MA, </location><date>1994.</date>
+
+<meta reference_no="43" cluster_no="26" true_id="446"></meta>
+
+<title>  Collaborative Interface Agents,</title><authors><author> Yezdi Lashkari</author><author>, Max Metral</author>, and <author>Pattie Maes,</author></authors><booktitle>     Proceedings of the Twelfth National Conference on Articial Intelligence    , </booktitle><publisher>MIT Press, </publisher><location>Cambridge, MA, </location><date>1994.</date>
+
+<meta reference_no="44" cluster_no="26" true_id="382"></meta>
+
+<authors><author>Isbister, K.</author></authors><date> (1994) </date><booktitle>"Perceived Intelligence and the Design on Computer Characters,"</booktitle><note> http://www.cyborganic.com/People/kath/lccpaper.html  </note><authors><author>Lashkari, Y.</author> et al. </authors><date>(1994) </date><title>"Collaborative Interface Agents," </title><booktitle>in Proceedings of the National Conference on Artificial</booktitle>
+
+<meta reference_no="45" cluster_no="27" true_id="367"></meta>
+
+<authors><author> Oren Etzioni</author> and <author>Daniel Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>Communications of the ACM, </journal><volume>37(7), </volume><date>July 1994.</date>
+
+<meta reference_no="46" cluster_no="27" true_id="367"></meta>
+
+<authors><author> Oren Etzioni</author> and <author>Daniel Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>Communications of the ACM, </journal><volume>37(7), </volume><date>July 1994.</date>
+
+<meta reference_no="47" cluster_no="27" true_id="367"></meta>
+
+<authors><author> Oren Etzioni</author> and <author>Daniel Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>Communications of the ACM, </journal><volume>37(7), </volume><date>July 1994.</date>
+
+<meta reference_no="48" cluster_no="27" true_id="367"></meta>
+
+<note>9. </note><authors><author>Oren Etzioni</author> and <author>Daniel Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>Communications of the ACM, </journal><volume>37(7), </volume><date>July 1994.</date>
+
+<meta reference_no="49" cluster_no="27" true_id="367"></meta>
+
+<authors><author>Etzioni, O., </author>and<author> Weld, D.</author></authors><date> 1994. </date><title>A softbot-based interface to the internet. </title><journal>Communications of the ACM </journal><volume>37(7).</volume>
+
+<meta reference_no="50" cluster_no="27" true_id="367"></meta>
+
+<authors><author> O. Etzioni</author> and <author>D. Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>Communications of the ACM, </journal><date>July 1994.</date>
+
+<meta reference_no="51" cluster_no="27" true_id="367"></meta>
+
+<authors><author> Oren Etzioni</author> and <author>Daniel Weld,</author></authors><title> `A softbotbased interface to the internet', </title><journal>Communications of the ACM, </journal><volume>37(7), </volume><date>(July 1994).</date>
+
+<meta reference_no="52" cluster_no="27" true_id="367"></meta>
+
+<authors><author> O. Etzioni</author> and <author>D. Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>Communication of the ACM, </journal><volume>37:</volume><pages>72-76, </pages><date>July 1994.</date>
+
+<meta reference_no="53" cluster_no="27" true_id="367"></meta>
+
+<authors><author> Etzioni,O. </author>and<author> Weld,D.,</author></authors><title> "A Softbot-Based Interface to the Internet," </title><journal>Communication of the ACM, </journal><volume>Vol. 37, No. 7, </volume><date>July 1994.</date>
+
+<meta reference_no="54" cluster_no="27" true_id="367"></meta>
+
+<authors><author> O. Etzioni</author> and<author> D. Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>CACM, </journal><volume>37(7):</volume><pages>72-76, </pages><date>July 1994.</date><O>  12</O>
+
+<meta reference_no="55" cluster_no="27" true_id="367"></meta>
+
+<authors><author>Etzioni, O.,</author> and<author> D. Weld,</author></authors><title> A Softbot-Based Interface to the Internet, </title><journal>Communications of ACM </journal><volume>37(7): </volume><pages>72-76, </pages><date>1994.</date>
+
+<meta reference_no="56" cluster_no="27" true_id="367"></meta>
+
+<authors><author> Oren Etzioni</author> and <author>Dan Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>CACM, </journal><volume>37(7):</volume><pages>72-76, </pages><date>1994.</date>
+
+<meta reference_no="57" cluster_no="27" true_id="367"></meta>
+
+<authors><author> O. Etzioni</author> and <author>D. Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>CACM, </journal><volume>37(7):</volume><pages>72-76, </pages><date>July 1994. </date><note>See http://www.cs.washington.edu/research/softbots.</note>
+
+<meta reference_no="58" cluster_no="27" true_id="367"></meta>
+
+<authors><author> O. Etzioni</author> and <author>D. Weld.</author></authors><title> A softbot-based interface to the Internet. </title><journal>CACM, </journal><volume>37(7):</volume><pages>72-76, </pages><date>1994. </date><note>See http://www.cs.washington.edu/research/softbots.</note>
+
+<meta reference_no="59" cluster_no="27" true_id="367"></meta>
+
+<authors><author> Oren Etzioni</author> and<author> Daniel Weld.</author></authors><title> A softbot-based interface to the internet. </title><journal>CACM, </journal><volume>37(7):</volume><pages>72-76, </pages><date>1994.</date>
+
+<meta reference_no="60" cluster_no="28" true_id="288"></meta>
+
+<authors><author> A. O'Hare,</author></authors><title> "The Intelligent Database Interface Language", </title><tech>Technical Report, </tech><institution>Unisys Paoli Research Center, </institution><date>June 1989.</date>
+
+<meta reference_no="61" cluster_no="29" true_id="310"></meta>
+
+<authors><author> A.J. O'Toole</author><author>, H. Abdi</author><author>, K.A. Deffenbacher, </author>and<author> D.Valentin.</author></authors><title> Low-dimensional representation of faces in higher dimensions of the face space. </title><journal>J. Opt. Soc. Am. A, </journal><volume>10(3), </volume><date>1993.</date>
+
+<meta reference_no="62" cluster_no="30" true_id="316"></meta>
+
+<authors><author> L. I. Kontothanassis</author> and <author>M. L. Scott.</author></authors><title> Using MemoryMapped Network Interfaces to Improve t he Performance of Distributed Shared Memory. </title><booktitle>In The 2nd IEEE Symposium on High-Performance Computer Architecture, </booktitle><date>February 1996.</date>
+
+<meta reference_no="63" cluster_no="30" true_id="316"></meta>
+
+<authors><author> L. I. Kontothanassis</author><author> and M. L. Scott.</author></authors><title> Using MemoryMapped Network Interfaces to Improve t he Performance of Distributed Shared Memory. </title><booktitle>In The 2nd IEEE Symposium on High-Performance Computer Architecture, </booktitle><date>February 1996.</date>
+
+<meta reference_no="64" cluster_no="30" true_id="316"></meta>
+
+<authors><author> L. I. Kontothanassis</author><author> and M. L. Scott.</author></authors><title> Using Memory-Mapped Network Interfaces to Improve the Performance of Distributed Shared Memory. </title><booktitle>In The 2nd IEEE Symposium on HighPerformance Computer Architecture, </booktitle><date>February 1996.</date>
+
+<meta reference_no="65" cluster_no="31" true_id="229"></meta>
+
+<authors><author> J. Keane. </author></authors><title>Extensions to Franz, Inc.'s Allegro Common Lisp foreign function interface. </title><tech>Technical Report HPCD-TR-41, </tech><institution>Department of Computer Science, Rutgers University, </institution><date>1996.</date>
+
+<meta reference_no="66" cluster_no="31" true_id="229"></meta>
+
+<authors><author> J. Keane.  </author></authors><title>Extensions to Franz, Inc.'s Allegro Common Lisp foreign function interface. </title><tech>Technical Report HPCD-TR-41, </tech><institution>Department of Computer Science, Rutgers University, </institution><date>1996.</date>
+
+<meta reference_no="67" cluster_no="32" true_id="381"></meta>
+
+<authors><author> A. ANGERN</author><author> and H. LTHI</author></authors><date>, 1990. </date><title>Intelligent Decision Support Systems: A Visual  Interactive Approach, </title><journal>Interfaces, </journal><volume>20:6, </volume><pages>17-28.</pages>
+
+<meta reference_no="68" cluster_no="33" true_id="412"></meta>
+
+<authors><author> Anbil, R., E.</author><author> Gelman, B. Patty</author> and <author>R. Tanga</author></authors><date> (1991) </date><title>"Recent Advances in Crew-Pairing Optimization at American Airlines", </title><journal>Interfaces, </journal><volume>vol. 21. no. 1, </volume><pages>pp. 62-74.</pages>
+
+<meta reference_no="69" cluster_no="34" true_id="414"></meta>
+
+<authors><author> R. Sosi<=c. </author></authors><title>A procedural interface for program directing. </title><journal>Software|Practice and Experience, </journal><volume>25(7):</volume><pages>767-787, </pages><date>July 1995.</date>
+
+<meta reference_no="70" cluster_no="35" true_id="347"></meta>
+
+<authors><author> WESTIN, S. H.,</author><author> ARVO, J. R., AND</author><author> TORRANCE, K. E.</author></authors><title> Predicting reflectance functions from complex surfaces. </title><booktitle>Computer Graphics (SIGGRAPH '92 Proceedings), </booktitle><volume>Vol. 26, No. 2, </volume><pages>pp. 255264, </pages><date>July 1992.</date>
+
+<meta reference_no="71" cluster_no="36" true_id="320"></meta>
+
+<authors><author> H. Edelsbrunner</author><author>, M. Facello</author><author>, P. Fu</author><author> and J. Liang.</author></authors><title> Measuring proteins and voids in proteins. </title><booktitle>In Proceedings of the 28th Annual Hawaii International Conference on System Sciences, </booktitle><pages>pages 256-264, </pages><date>1995.</date>
+
+<meta reference_no="72" cluster_no="37" true_id="350"></meta>
+
+<authors><author> W. OGRYCZACK</author><author>, K. STUDZINSKI</author><author>, and K. ZORYCHTA,</author></authors><date> 1992. </date><title>EDINET - A Network  Editor for Transshipment Problems with Facility Location, </title><booktitle>in Computer Science and Operations Research: New Developments in their Interfaces, </booktitle><editor>O.Balci, Sharda, R., Zenios, S. (Eds</editor>
+
+<meta reference_no="73" cluster_no="38" true_id="248"></meta>
+
+<authors><author> R. Seidel.</author></authors><title> Constructing higher-dimensional convex hulls at logarithmic cost per face. </title><booktitle>In Proc. 18th ACM Symposium on the Theory of Computation, </booktitle><pages>pages 404-413, </pages><date>1986.</date>
+
+<meta reference_no="74" cluster_no="39" true_id="275"></meta>
+
+<authors><author> Thorsten von Eicken</author><author>, Anindya Basu</author><author>, Vineet Buch</author><author>, and Werner Vogels.</author></authors><title> U-Net: A User-Level Network Interface for Parallel and Distributed Computing. </title><booktitle>In Proceedings of 15th ACM Symposium on Operating Systems Principles. </booktitle><note>To appear.</note>
+
+<meta reference_no="75" cluster_no="40" true_id="430"></meta>
+
+<authors><author> A.A. Lushnikov.</author></authors><title> Coagulation in finite systems. </title><journal>J. Colloid and Interface Science, </journal><volume>65:</volume><pages>276285, </pages><date>1978.</date>
+
+<meta reference_no="76" cluster_no="40" true_id="430"></meta>
+
+<authors><author> A.A. Lushnikov.</author></authors><title> Coagulation in finite systems. </title><journal>J. Colloid and Interface Science, </journal><volume>65:</volume><pages>276285,</pages> <date>1978.</date>
+
+<meta reference_no="77" cluster_no="40" true_id="430"></meta>
+
+<authors><author> A.A. Lushnikov.</author></authors><title> Coagulation in finite systems. </title><journal>J. Colloid and Interface Science, </journal><volume>65:</volume><pages>276-285, </pages><date>1978.</date>
+
+<meta reference_no="78" cluster_no="40" true_id="430"></meta>
+
+<authors><author> A.A. Lushnikov,</author></authors><title> Coagulation in finite systems, </title><journal>J. Colloid and Interface Science </journal><volume>65 </volume><date>(1978),</date> <pages>276-285.</pages>
+
+<meta reference_no="79" cluster_no="41" true_id="285"></meta>
+
+<authors><author> Oviatt, S.L.,</author><author> Cohen, P.R., and</author><author> Wang, M.</author></authors><title> Toward interface design for human language technology: Modality and structure as determinants of linguistic complexity, </title><journal>Speech Communication </journal><volume>15: </volume><pages>283-300, 1995</pages>
+
+<meta reference_no="80" cluster_no="42" true_id="215"></meta>
+
+<authors><author> Upendra Shardanand</author> and <author>Pattie Maes</author>. </authors><title>Social Information Filtering: Algorithms for Automating "Word of Mouth". </title><note>To appear </note><booktitle>in Proceedings of the International Conference on Computer-Human Interfaces, </booktitle><date>1995.</date><O> 34</O>
+
+<meta reference_no="81" cluster_no="43" true_id="305"></meta>
+
+<authors><author> Matthias Blumrich</author><author>, Cezary Dubnicki</author><author>, Edward Felten</author><author>, Kai Li</author><author>, and Malena Mesarina.</author></authors><title> Virtualmemory-mapped network interfaces. </title><journal>IEEE MICRO, </journal><volume>15(1):</volume><pages>21-28, </pages><date>February 1995.</date>
+
+<meta reference_no="82" cluster_no="43" true_id="305"></meta>
+
+<authors><author> M. Blumrich</author><author>, C. Dubnicki</author><author>, E. Felten</author><author>, K. Li</author><author>, and M. Mesarina.</author></authors><title> Virtual memory mapped network interfaces. </title><journal>IEEE Micro, </journal><volume>15(1):</volume><pages>21-28, </pages><date>February 1995.</date>
+
+<meta reference_no="83" cluster_no="44" true_id="433"></meta>
+
+<authors><author> Eve V. Clark</author><author> and Herbert H. Clark.</author></authors><title> When nouns surface as verbs. </title><journal>Language, </journal><volume>55:1979, </volume><pages>767-811.</pages>
+
+<meta reference_no="84" cluster_no="45" true_id="340"></meta>
+
+<authors><author> B. Mukherjee</author><author>, G. Eisenhauer</author><author>, and K. Ghosh.</author></authors><title> A machine independent interface for lightweight threads. </title><journal>ACM Operating Systems Review, </journal><volume>28(1):</volume><pages>33-47, </pages><date>January 1994.</date>
+
+<meta reference_no="85" cluster_no="46" true_id="321"></meta>
+
+<authors><author> J.-R. Wu</author><author> and M. Ouhyoung.</author></authors><title> A3D tracking experiment on latency and its compensation methods in virtual environments. </title><booktitle>In Proc. 8th ACM Symp. on User Interface Software and Technology, </booktitle><date>pages 4149, 1995.</date>
+
+<meta reference_no="86" cluster_no="47" true_id="264"></meta>
+
+<authors><author> Paul Pierce.</author></authors><title> The Paragon implementation of the NX message passing interface. </title><booktitle>In Proceedings of Scalable High-Performance Computing Conference (SHPCC) 94, </booktitle><date>1994.</date>
+
+<meta reference_no="87" cluster_no="47" true_id="264"></meta>
+
+<authors><author> Paul Pierce.</author></authors><title> The Paragon implementation of the NX message passing interface. </title><booktitle>In Proceedings of SHPCC 94, </booktitle><date>1994.</date>
+
+<meta reference_no="88" cluster_no="48" true_id="437"></meta>
+
+<authors><author> R. Prieto-Diaz.</author></authors><title> Implementing Faceted Classification For Software Reuse. </title><journal>CACM </journal><volume>Vol 34</volume> <date>1991</date> <pages>pp 89-97 </pages><date>(1991)</date>
+
+<meta reference_no="89" cluster_no="49" true_id="417"></meta>
+
+<authors><author> G. Toussaint</author><author>, B. Bhattacharya</author><author>, and R. Poulsen,</author></authors><title> "The application of voronoi diagrams to nonparametric decision rules", </title><booktitle>in Computer Science and Statistics: Proc. of the 16th Symposium on the Interface, </booktitle><editor>L. Billard, Ed., </editor><location>New York, </location><date>1984, </date><pages>pp. 97-108, </pages><publisher>Else</publisher>
+
+<meta reference_no="90" cluster_no="50" true_id="210"></meta>
+
+<authors><author>P. Maes</author> and <author>R. Kozierok</author>. </authors><title>Learning interface agents. </title><booktitle>In Proceedings of INTERCHI-93, </booktitle><date>1993.</date>
+
+<meta reference_no="91" cluster_no="50" true_id="210"></meta>
+
+<authors><author>Maes, P.</author> and <author>Kozierok, R.</author>, </authors><date>1993. </date><title>Learning interface agents. </title><O>In</O>
+
+<meta reference_no="92" cluster_no="50" true_id="210"></meta>
+
+<authors><author> Maes, P.,</author><author> Kozierok, R.,</author></authors><title> Learning Interface Agents, </title><booktitle>Proc AAAI'93.</booktitle>
+
+<meta reference_no="93" cluster_no="50" true_id="210"></meta>
+
+<authors><author>Maes, P.</author>, <author>Kozierok, R</author>. </authors><date>(1993). </date><title>Learning interface agents. </title><booktitle>In: Proceedings of the AAAI'93.</booktitle>
+
+<meta reference_no="94" cluster_no="50" true_id="210"></meta>
+
+<authors><author>Maes P. </author>& <author>Kozierok R.</author>, </authors><title>Learning Interface Agents, </title><booktitle>Proceedings of AAAI93, the Eleventh National Conference on Artificial Intelligence, </booktitle><publisher>MIT Press, </publisher><date>1993.</date>
+
+<meta reference_no="95" cluster_no="50" true_id="210"></meta>
+
+<authors><author>Maes, P.</author>, and <author>Kozierok, R</author>. </authors><date>1993. </date><title>Learning interface agents. </title><booktitle>In Proceedings of AAAI-93.</booktitle>
+
+<meta reference_no="96" cluster_no="50" true_id="210"></meta>
+
+<authors><author>P. Maes</author> and <author>R. Kozierok</author>. </authors><title>Learning interface agents. </title><booktitle>In Proc. AAAI-93, </booktitle><pages>pages 459465, </pages><date>July 1993.</date>
+
+<meta reference_no="97" cluster_no="50" true_id="210"></meta>
+
+<authors><author> P. Maes</author> and <author>R. Kozierok.</author></authors><title> Learning interface agents. </title><booktitle>In Proceedings of the Eleventh National Conference on Artificial Intelligence (AAAI-93, </booktitle><pages>pages 459-465. </pages><publisher>AAAI Press/The MIT Press, </publisher><date>1993.</date>
+
+<meta reference_no="98" cluster_no="50" true_id="210"></meta>
+
+<authors><author> Pattie Maes</author><author> and Robyn Kozierok.</author></authors><title> Learning Interface Agents. </title><booktitle>In Proceedings of the Eleventh National Conference on AI. AAAI, </booktitle><publisher>AAAI Press/MIT Press, </publisher><date>1993.</date>
+
+<meta reference_no="99" cluster_no="51" true_id="217"></meta>
+
+<authors><author> P. De Michelis</author><author>, L. Fissore</author><author>, P. Laface</author><author>, G. Micca</author><author>, and E. Piccolo,</author></authors><title> "On the Use of Neural Networks for Speaker Independent Isolated Word Recognition", </title><booktitle>Proceedings of ICASSP-89,  </booktitle><location>Glasgow - Scotland,</location><date>May 1989.</date>
+
+<meta reference_no="100" cluster_no="52" true_id="353"></meta>
+
+<authors><author>Rabindra, N.</author><author> Rangaraj,</author><author> and M.S. Navar,</author></authors><date> 1992: </date><title>Polar cloud and surface classification using AVHRR imagery: an intercomparison of methods. </title><journal>J. Appl. Meteor., </journal><volume>31, </volume><pages>405-420.</pages>
+
+<meta reference_no="101" cluster_no="53" true_id="331"></meta>
+
+<O>Message Passing Interface Forum.</O><title> MPI: A Message-Passing Interface Standard, 1.0 edition, </title><date>May 1994.</date>
+
+<meta reference_no="102" cluster_no="53" true_id="332"></meta>
+
+<O>Message Passing Interface Forum.</O><title> MPI: A message-passing interface standard. </title><journal>International Journal of Supercomputing Applications, </journal><volume>8(3/4), </volume><date>1994.</date>
+
+<meta reference_no="103" cluster_no="54" true_id="290"></meta>
+
+<note>10. </note><authors><author>C. Huser,</author></authors><title> `Report on a prototypical interface for structured documents and its application to the IEN scenario', </title><tech>Technical Report 75/GMD/IPS/DS/L/047/b0, </tech><O>TELEPUBLISHING Project, RACE-Programme, </O><date>(August 1991).</date>
+
+<meta reference_no="104" cluster_no="55" true_id="300"></meta>
+
+<authors><author> D.S. Wills.</author></authors><title> Pi: A parallel architecture interface for multi-model execution. </title><tech>Technical Report AI-TR-1245, </tech><institution>MIT Artificial Intelligence Laboratory, </institution><date>1990.</date>
+
+<meta reference_no="105" cluster_no="56" true_id="384"></meta>
+
+<authors><author> H. A. SIMON</author><author>, G.B. DANTZIG</author><author>, R. HOGARTH</author><author>, C.R. PLOTT</author><author>, H. RAIFFA</author><author>, T.C. SCHELLING</author><author>,  K.A. SCHEPSLE</author><author>, R. A. THALER</author><author>, A. TVERSKY</author><author> and S. WINTER,</author></authors><date> 1987. </date><title>Decision making  and problem solving, </title><journal>Interfaces, </journal><volume>17, </volume><pages>11-31.</pages>
+
+<meta reference_no="106" cluster_no="57" true_id="277"></meta>
+
+<authors><author> Kindermann, C. &</author><author> Quantz, J.</author></authors><title> Graphics-oriented user interfaces for KL-ONE. </title><tech>KIT Internal Report 23. </tech><institution>Technical University of Berlin, </institution><date>1989.</date>
+
+<meta reference_no="107" cluster_no="58" true_id="434"></meta>
+
+<authors><author>Bern, M.</author></authors><date> (1990). </date><title>Hidden surface removal for rectangles. </title><journal>J. Comp. and Sys. Sci., </journal><volume>40, </volume><pages>49-69.</pages>
+
+<meta reference_no="108" cluster_no="59" true_id="297"></meta>
+
+<authors><author>Philip R. Cohen,</author></authors><title> The Role of Natural Language in a Multimodal Interface, </title><tech>SRI International Technical Note 514, </tech><date>November 1991, 1991b.</date>
+
+<meta reference_no="109" cluster_no="60" true_id="317"></meta>
+
+<authors><author> M.C. Burl</author><author>, T.K. Leung</author><author>, and P. Perona.</author></authors><title> "Face Localization via Shape Statistics". </title><booktitle>In Proc. International Workshop on Face and Gesture Recognition, </booktitle><location>Zurich, Switzerland, </location><date>June 1995.</date>
+
+<meta reference_no="110" cluster_no="60" true_id="317"></meta>
+
+<authors><author> M.C. Burl</author><author> T.K. Leung</author>and <author> P. Perona.</author></authors><title> "Face Localization via Shape Statistics". </title><booktitle>In Int Workshop on Automatic Face and Gesture Recognition, </booktitle><date>1995.</date>
+
+<meta reference_no="111" cluster_no="61" true_id="245"></meta>
+
+<authors><author>LeCun, Y.,</author><author> Kanter, I., and</author><author> Solla, S. A.</author></authors><date> (1991). </date><title>Second order properties of error surfaces: Learning time and generalization. </title><editor>In Lippman, D. S., Moody, J. E., and Touretzky, D. S., editors, </editor><booktitle>Advances in Neural Information Processing Systems 3, </booktitle><pages>pages 918-92</pages>
+
+<meta reference_no="112" cluster_no="61" true_id="245"></meta>
+
+<authors><author>LeCun, Y.,</author><author> Kanter, I., and</author><author> Solla, S. A.</author></authors><date> (1991). </date><title>Second order properties of error surfaces: Learning time and generalization. </title><editor>In Lippman, D. S., Moody, J. E., and Touretzky, D. S., editors, </editor><booktitle>Advances in Neural Information Processing Systems 3, </booktitle><pages>pages 918-92</pages>
+
+<meta reference_no="113" cluster_no="62" true_id="343"></meta>
+
+<authors><author> D. P. Dobkin</author><author> and D. P. Mitchell.</author></authors><title> Random-edge discrepancy of supersampling patterns. </title><journal>Graphics Interface, </journal><location>York, Ontario </location><date>(1993).</date>
+
+<meta reference_no="114" cluster_no="63" true_id="216"></meta>
+
+<authors><author> R. Godin</author>, <author>J. Gecsei</author> & <author>C. Pichet</author>. </authors><title>Design Of A Browsing Interface For Information Retrieval. </title><booktitle>SIGIR 89 Proc. 12th Int. Conf. on Research and Development in Information Retrieval </booktitle><date>(1989)</date>
+
+<meta reference_no="115" cluster_no="64" true_id="273"></meta>
+
+<authors><author> Niel K. Madsen.</author></authors><title> Divergence Preserving Discrete Surface Integral Methods for Maxwell's Curl Equations Using NonOrthogonal Unstructured Grids. </title><tech>Technical Report 92.04, </tech><institution>RIACS, </institution><date>February 1992.</date>
+
+<meta reference_no="116" cluster_no="65" true_id="359"></meta>
+
+<authors><author> Baddeley, A.,</author></authors><title> Depth of processing, context, and face recognition , </title><journal>in Canadian Journal of psychology, </journal><volume>1982, Vol. 36, No. 2, </volume><pages>pp. 148-164.</pages>
+
+<meta reference_no="117" cluster_no="66" true_id="450"></meta>
+
+<authors><author> Alan Kay.</author></authors><title> User interface: A personal view. </title><editor>In Brenda Laurel, editor, </editor><booktitle>The Art of Human Computer Interface Design, </booktitle><pages>pages 191-207. </pages><publisher>Addison-Wesley, </publisher><date>1990.</date>
+
+<meta reference_no="118" cluster_no="67" true_id="391"></meta>
+
+<authors><author> P. KIRKPATRICK</author><author> and P.C. BELL,</author></authors><date> 1989. </date><title>Visual Interactive Modeling in Industry: Results  from a Survey of Visual Interactive Model Builders, </title><journal>Interfaces, </journal><volume>19, </volume><pages>71-79.</pages>
+
+<meta reference_no="119" cluster_no="68" true_id="333"></meta>
+
+<authors><author> D.B Philips</author><author> and A.F.M. Smith.</author></authors><title> "bayesian faces via hierarchical template matching". </title><journal>Journal of the American Statistical Association, </journal><volume>89(428):</volume><pages>1151-1163, </pages><date>dec 1994.</date>
+
+<meta reference_no="120" cluster_no="69" true_id="269"></meta>
+
+<authors><author> K. Nakayama</author><author> and S. Shimojo.</author></authors><title> Towards a neural understanding of visual surface representation. </title><journal>Cold Spring Harbor Symp. on Quantitative Biology, </journal><volume>Vol. 55, </volume><booktitle>The Brain, </booktitle><editor>edited by T. Sejnowski, E.R. Kandel, C.F. Stevens, and J.D. Watson, </editor><date>1990.</date>
+
+<meta reference_no="121" cluster_no="70" true_id="246"></meta>
+
+<authors><author>G. Cottrell</author><author> and J. Metcalfe.</author></authors><date> (1991) </date><title>EMPATH: Face, emotion, and gender recognition using holons. </title><editor>In R. Lippmann, John Moody and D. Touretzky, editors, </editor><booktitle>Advances in Neural Information Processing Systems 3, </booktitle><pages>pages 564-571. </pages><publisher>Morgan Kauffmann.</publisher>
+
+<meta reference_no="122" cluster_no="71" true_id="401"></meta>
+
+<authors><author> Maxwell J.T.,</author><author> Kaplan R.M.</author></authors><date> (1993)</date><title>: The Interface between Phrasal and Functional Constraints. </title><journal>Computational Linguistics </journal><volume>19, </volume><pages>571590.</pages>
+
+<meta reference_no="123" cluster_no="71" true_id="401"></meta>
+
+<authors><author> Maxwell JT</author>, <author>Kaplan RM</author></authors><date> (1993) </date><title>The Interface between Phrasal and Functional Constraints. </title><journal>Computational Linguistics </journal><volume>19: </volume><pages>571-590.</pages>
+
+<meta reference_no="124" cluster_no="72" true_id="392"></meta>
+
+<authors><author> Gershkoff, I.</author></authors><date> (1989), </date><title>"Optimizing Flight Crew Schedules", </title><journal>Interfaces, </journal><volume>vol. 19, no. 4, </volume><pages>pp. 29-43.</pages>
+
+<meta reference_no="125" cluster_no="73" true_id="424"></meta>
+
+<authors><author> M. P. D. Carmo,</author></authors><title> Differential Geometry of Curves and Surfaces. </title><location>Englewood Cliffs, NJ: </location><publisher>Prentice Hall Inc., </publisher><date>1976.</date>
+
+<meta reference_no="126" cluster_no="74" true_id="231"></meta>
+
+<authors><author> Y. Moses</author><author>, S. Ullman</author><author>, and S. Edelman.</author></authors><title> Generalization across changes in illumination and viewing position in upright and inverted faces. </title><tech>Technical Report CSTR 9314, </tech><institution>Department of Applied Mathematics and Computer Science, The Weiz mann Institute of Sci</institution>
+
+<meta reference_no="127" cluster_no="75" true_id="313"></meta>
+
+<authors><author> G. Burel</author><author> and D. Carel.</author></authors><title> "Detection and Localization of Faces on Digital Images". </title><journal>Pattern Recognition Letters, </journal><pages>pages 963-967, </pages><date>Oct 1994.</date>
+
+<meta reference_no="128" cluster_no="75" true_id="313"></meta>
+
+<authors><author> G. Burel</author><author> and D. Carel.</author></authors><title> "Detection and Localization of Faces on Digital Images". </title><journal>Pattern Recognition Letters, </journal><pages>pages 963-967, </pages><date>Oct 1994.</date>
+
+<meta reference_no="129" cluster_no="76" true_id="421"></meta>
+
+<authors><author>Becker, S. and</author><author> Hinton, G. E.</author></authors><date> (1992). </date><title>A self-organizing neural network that discovers surfaces in random-dot stereograms. </title><journal>Nature, </journal><volume>355:</volume><pages>161-163.</pages>
+
+<meta reference_no="130" cluster_no="77" true_id="205"></meta>
+
+<authors><author>Walker, J. </author>et al.</authors><date> (1994) </date><title>"Using a Human Face in an Interface," </title><booktitle>in Proceedings of CHI'94 Human Factors in Computing Systems, </booktitle><publisher>Addison Wesley:</publisher><location> Reading, </location><pages>85-91.</pages>
+
+<meta reference_no="131" cluster_no="78" true_id="298"></meta>
+
+<authors><author> S. Ceri</author><author>, R. Mantley.</author></authors><title> Consolidated specification of Chimera, the conceptual interface of IDEA. </title><tech>Technical Report IDEA.DD.2P.004, ESPRIT Project n. 6333 Idea, </tech><location>Politecnico di Milano, Italy, </location><date>1993.</date>
+
+<meta reference_no="132" cluster_no="79" true_id="314"></meta>
+
+<authors><author> A. Lanitis</author><author>, C.J. Taylor</author><author>, T.F. Cootes</author><author>, and T. Ahmed.</author></authors><title> "Automatic Interpretation of Human Faces and Hand Gestures Using Flexible Models". </title><booktitle>In International Workshop on Automatic Faceand Gesture-Recognition, </booktitle><pages>pages 90-103, </pages><date>1995.</date>
+
+<meta reference_no="133" cluster_no="80" true_id="375"></meta>
+
+<authors><author> G. Reiss</author><author>, F. Schneider</author><author>, J. Vancea</author><author>, H.Hoffmann,</author></authors><title> Scanning Tunnelling Microscopy on Rough Surfaces: Deconvolution of Constant Current Images, </title><journal>Appl. Phys. Lett. </journal><volume>57(9), </volume><date>1990, </date><pages>pp.867-869.</pages>
+
+<meta reference_no="134" cluster_no="81" true_id="411"></meta>
+
+<authors><author> Elmroth T. and</author><author> Housos E.</author></authors><date> (1996), </date><title>"Automatic Subproblem Optimization for Airline Crew Scheduling", </title><journal>Interfaces</journal><note> (to be published).</note>
+
+<meta reference_no="135" cluster_no="82" true_id="351"></meta>
+
+<authors><author> Dan Halperin</author><author> and Mark H. Overmars. </author></authors><title>Spheres, molecules, and hidden surface removal. </title><booktitle>In Proceedings of the 10th Annual Symposium on Computational Geometry, </booktitle><pages>pages 113-122, </pages><date>1994.</date>
+
+<meta reference_no="136" cluster_no="83" true_id="436"></meta>
+
+<authors><author>Langlois, J. H. and</author><author> Roggman, L. A.</author></authors><date> (1990). </date><title>Attractive faces are only average. </title><journal>Psychological Science, </journal><volume>1:</volume><pages>115-121.</pages>
+
+<meta reference_no="137" cluster_no="84" true_id="241"></meta>
+
+<authors><author>Tomoko Koda  </author><author>Pattie Maes  </author><author>Shneiderman, B.</author></authors><date> (1995) </date><title>"Looking for the Bright Side of User Interface Agents,"</title><journal> in Interactions,</journal> <volume>vol. II.I, </volume><publisher>ACM Press: </publisher><location>New York, </location><pages>13-15 </pages><authors><author> Takeuchi, A. et al. </author></authors><date>(1995) </date><title>"Situated Facial Displays: Towards Social Interaction,</title><note>" in Procee</note>
+
+<meta reference_no="138" cluster_no="85" true_id="427"></meta>
+
+<authors><author> I. Sutherland</author><author>, R. Sproull</author><author>, and R. Schumacker.</author></authors><title> A characterization of ten hiddensurface algorithms. </title><journal>Computing Surveys, </journal><volume>6(1):</volume><pages>1-55, </pages><date>1974.</date>
+
+<meta reference_no="139" cluster_no="86" true_id="344"></meta>
+
+<authors><author>Scha, R.</author></authors><date> (1988). </date><title>Natural Language Interface Systems. </title><editor>M. Helander (ed.), </editor><booktitle>Handbook of human-computer interaction </booktitle><pages>(pp. 941-956). </pages><location>New York, NY:</location><publisher> Elsevier:</publisher>
+
+<meta reference_no="140" cluster_no="87" true_id="206"></meta>
+
+<authors><author>K. Weems</author><author>, W. Lin</author><author>, and H. Chen.</author></authors><title> Calculations of viscous nonlinear freesurface flows using an interactive zonal approach. </title><booktitle>In Proceedings of the CFD Workshop of the Ship Research Institute of Japan, </booktitle><date>1994.</date>
+
+<meta reference_no="141" cluster_no="88" true_id="258"></meta>
+
+<authors><author>Brajinik, G.</author><author>; Guida, G.; and</author><author> Tasso, C.</author></authors><date> 1990. </date><title>User modeling in expert man-machine interfaces: A case study in intelligent information retrieval. </title><journal>IEEE Transactions on Systems Man and Cybernetics </journal><volume>20</volume><pages>(166-185).</pages>
+
+<meta reference_no="142" cluster_no="89" true_id="420"></meta>
+
+<authors><author> Angelos Bilas</author><author> and Edward W. Felten.</author></authors><title> Fast RPC on the SHRIMP Virtual Memory Mapped Network Interface.</title>
+
+<meta reference_no="143" cluster_no="90" true_id="346"></meta>
+
+<authors><author> Goral, C. M.,</author><author> Torrance, K. E.,</author><author> Greenberg, D. P., and</author><author> Battaile, B.</author></authors><title> Modelling the Interaction of Light between Diffuse Surfaces. </title><journal>Computer Graphics </journal><volume>18, 3</volume><date> (July 1984), </date><pages>212-222.</pages>
+
+<meta reference_no="144" cluster_no="91" true_id="284"></meta>
+
+<authors><author> T. Suzuki</author><author>, K. Yokota</author><author>, H. Asama</author><author>, H. Kaetsu</author><author>, and I. Endo,</author></authors><title> "Cooperation between the human operator and the multi-agent robotic system - evaluation of agent monitoring methods for the human interface system -," </title><booktitle>in Proc. of IROS'95, </booktitle><pages>pp. 206211, </pages><date>1995.</date>
+
+<meta reference_no="145" cluster_no="92" true_id="276"></meta>
+
+<authors><author>Hutchinson, M.</author></authors><date> (1984), </date><title>A summary of some surface fitting and contouring programs for noisy data, </title><tech>Technical Report ACT 84/6, </tech><institution>CSIRO Division of Mathematics and Statistics, </institution><location>Canberra, Australia.</location>
+
+<meta reference_no="146" cluster_no="93" true_id="244"></meta>
+
+<authors><author> H. Fan</author><author> and M. Nayeri.</author></authors><title> On error surfaces of sufficient order adaptive IIR filters: proofs and counterexamples to a unimodality conjecture. </title><journal>IEEE Trans. Acoust., Speech, Signal Processing, </journal><volume>37(9):1436, </volume><date>1989.</date>
+
+<meta reference_no="147" cluster_no="94" true_id="364"></meta>
+
+<authors><author>Perzanowski, D. </author><author>and B. Potter.</author></authors><date> (1991). </date><title>InterFIS: a natural language interface to an expert system shell. </title><note>In this volume.</note>
+
+<meta reference_no="148" cluster_no="95" true_id="444"></meta>
+
+<authors><author> Dana S. Henry</author><author> and Christopher F. Joerg.</author></authors><title> A TightlyCoupled Processor-Network Interface. </title><booktitle>In Proceedings of 5th International Conference on Architectur al Support for Programming Languages and Operating Systems, </booktitle><pages>pages 111-122, </pages><date>October 1992.</date>
+
+<meta reference_no="149" cluster_no="96" true_id="222"></meta>
+
+<authors><author>Stephanie Everett</author><author>, Kenneth Wauchope</author><author>, and Dennis Perzanowski,</author></authors><title> Adding Speech Recognition to a Natural Language Interface, </title><journal>Journal of the American Voice I/ O Society, </journal><volume>Vol. 14 </volume><date>(August 1993), </date><pages>pp. 41-52, </pages><date>1993.</date>
+
+<meta reference_no="150" cluster_no="97" true_id="419"></meta>
+
+<title> System V Interface Denition, </title><volume>Volume II</volume><institution>, AT&T</institution><date> (1986).</date>
+
+<meta reference_no="151" cluster_no="98" true_id="362"></meta>
+
+<authors><author> John Wilkes.</author></authors><title> Hamlyn - An Interface for Sender-Based Communications. </title><tech>Technical Report HPL-OSR-92-13,</tech><institution> Hewlett-Packard Laboratories, </institution><date>November 1993.</date>
+
+<meta reference_no="152" cluster_no="99" true_id="405"></meta>
+
+<title>Interface Agents. </title><tech>Technical Report,</tech><institution> Media Lab, MIT </institution><authors><author>Maes P</author> and <author>Kozierok R</author></authors><date> 1993. </date><title>Learning interface agents.</title>
+
+<meta reference_no="153" cluster_no="100" true_id="335"></meta>
+
+<authors><author> J. Elgot-Drapkin</author><author>, M. Miller</author><author>, and D. Perlis.</author></authors><title> Memory, reason, and time: the step-logic approach. </title><editor>In R. Cummins and J. Pollock, editors, </editor><booktitle>Philosophy and AI: Essays at the Interface. </booktitle><publisher>MIT Press, </publisher><date>1991.</date>
+
+<meta reference_no="154" cluster_no="101" true_id="209"></meta>
+
+<authors><author>Donald P. McKay</author>, <author>Timothy W. Finin</author>, and <author>Anthony O'Hare. </author></authors><title>The intelligent database interface: Integrating AI and database systems. </title><booktitle>In AAAI-90: Proceedings of The Eighth National Conference on Artificial Intelligence, </booktitle><date>1990.</date>
+
+<meta reference_no="155" cluster_no="102" true_id="369"></meta>
+
+<authors><author>Smith, D.C.,</author><author> Irby, C.,</author><author> Kimball, R.,</author><author> Verplank, B. and</author><author> Harslem, E.</author></authors><date> (1982) </date><title>"Designing the Star user interface," </title><journal>Byte </journal><volume>7(4): </volume><pages>242-282.</pages>
+
+<meta reference_no="156" cluster_no="102" true_id="368"></meta>
+
+<title>Designing the Star user interface, </title><journal>Byte </journal><volume>7(4):</volume><pages> 242282. </pages><author>Valiant, L.G. </author><date>(1984) </date><title>A theory of the learnable, </title><journal>Communications of the ACM </journal><volume>27(11):</volume><pages> 11341142.</pages>
+
+<meta reference_no="157" cluster_no="103" true_id="423"></meta>
+
+<authors><author>Cohn, H.</author></authors><date> (1967). </date><title>Conformal mappings on Riemann surfaces. </title><publisher>McGraw-Hill, </publisher><location>New York.</location>
+
+<meta reference_no="158" cluster_no="104" true_id="403"></meta>
+
+<institution> Intel Corporation.</institution><title> Asynchronous Modular Architecture Memory Bus Interface Specification, </title><volume>Rev 1.4. </volume><note>Confidential document, number 130-1354-44.</note>
+
+<meta reference_no="159" cluster_no="105" true_id="386"></meta>
+
+<authors><author>Haralick, R. M. and</author><author> Lee, J. S.,</author></authors><title> The Facet Approach to Optic Flow, </title><booktitle>Proceedings of the DARPA  Image Understanding Workshop, </booktitle><location>Arlington VA, </location><pages>pp. 84-94, </pages><date>1983.</date>
+
+<meta reference_no="160" cluster_no="106" true_id="230"></meta>
+
+<authors><author> Kozierok, Robin, </author><author> and Maes,</author><author> Pattie,</author></authors><title> A Learning Interface Agent for Meeting Scheduling, </title><booktitle>    Proceedings of the 1993 International Workshop on Intelligent user Interfaces    , </booktitle><publisher>ACM Press, </publisher><location>New York, </location><date>1993.</date>
+
+<meta reference_no="161" cluster_no="106" true_id="230"></meta>
+
+<note>5. </note><authors><author>R. Kozierok</author><author> and P. Maes.</author></authors><title> A learning interface agent for scheduling meetings. </title><editor>In W. D. Gray, W. E. Heey, and D. Murray, editors, </editor><booktitle>Proc. of the International Workshop on Intelligent User Interfaces, </booktitle><location>Orlando FL, </location><pages>pages 8188, </pages><location>New York, 1993. </location><publisher>ACM Press.</publisher>
+
+<meta reference_no="162" cluster_no="106" true_id="230"></meta>
+
+<authors><author> R. Kozierok</author><author> and P. Maes.</author></authors><title> A Learning Interface Agent for Scheduling Meetings. </title><editor>In W. D. Gray, W. E. Hefley, and D. Murray, editors, </editor><booktitle>Proc. of the International Workshop on Intelligent User Interfaces,</booktitle><location> Orlando FL, </location><pages>pages 8188, </pages><location>New Yo</location>
+
+<meta reference_no="163" cluster_no="106" true_id="230"></meta>
+
+<title> A Learning Interface Agent for Meeting Scheduling, </title><authors><author>Robin Kozierok </author><author>and Pattie Maes, </author></authors><booktitle>    Proceedings of the 1993 International Workshop on Intelligent user Interfaces    , </booktitle><publisher>ACM Press, </publisher><location>New York, </location><date>1993.</date>
+
+<meta reference_no="164" cluster_no="107" true_id="341"></meta>
+
+<authors><author> B. IVES,</author></authors><date> 1982. </date><title>Graphical User Interfaces for Business Decision Support Systems, </title><journal>MIS Quarterly,</journal><note> Special Issue, </note><pages>15-47.</pages>
+
+<meta reference_no="165" cluster_no="108" true_id="233"></meta>
+
+<authors><author> K. Yamada</author><author> and G.W. Cottrell.</author></authors><title> A model of scan paths applied to face recognition. </title><booktitle>In Proc. 17th Annual Conf. of the Cognitive Science Society, </booktitle><pages>pages 5560, </pages><date>1995.</date>
+
+<meta reference_no="166" cluster_no="109" true_id="413"></meta>
+
+<authors><author> C. W. Fraser</author><author> and D. R. Hanson.</author></authors><title> A code generation interface for ANSI C. </title><journal>Software|Practice & Experience, </journal><volume>21(9):</volume><pages>963-988, </pages><date>Sept. 1991.</date>
+
+<meta reference_no="167" cluster_no="109" true_id="413"></meta>
+
+<authors><author> C. W. Fraser</author><author> and D. R. Hanson.</author></authors><title> A code generation interface for ANSI C. </title><journal>Software|Practice & Experience, </journal><volume>21(9):</volume><pages>963-988, </pages><date>Sept. 1991.</date>
+
+<meta reference_no="168" cluster_no="110" true_id="318"></meta>
+
+<authors><author> T.K. Leung</author><author>, M.C. Burl</author><author>, and P. Perona.</author></authors><title> "Finding Faces in Cluttered Scenes using Random Labeled Graph Matching". </title><booktitle>Proc. 5th Int. Conf. Computer Vision, </booktitle><date>1995.</date>
+
+<meta reference_no="169" cluster_no="111" true_id="237"></meta>
+
+<authors><author> K.N. Kutulakos</author><author> and C.R. Dyer,</author></authors><title> "Global surface reconstruction by purposive control of observer motion," </title><booktitle>in Proceedings: IEEE Conference on Computer Vision and Pattern Recognition, </booktitle><date>June 1994, </date><pages>pp. 331 - 338.</pages>
+
+<meta reference_no="170" cluster_no="112" true_id="252"></meta>
+
+<authors><author>Ohko, T., and</author><author> Anzai, Y.</author></authors><date> 1995. </date><title>A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning. </title><booktitle>In Abridged Proc. of the 6th International Conference on Human-Computer Interaction(HCI'95), </booktitle><pages>12.</pages>
+
+<meta reference_no="171" cluster_no="112" true_id="252"></meta>
+
+<authors><author> Takuya Ohko</author><author> and Yuichiro Anzai.</author></authors><title> A user friendly interface for task assignment on multiple robots by contract net negotiation with case-based reasoning. </title><booktitle>In Abridged Proc. of the 6th International Conference on Human-Computer Interaction(HCI'95), </booktitle><pages>page</pages>
+
+<meta reference_no="172" cluster_no="113" true_id="357"></meta>
+
+<authors><author> X. Yu,</author></authors><title> "Can backpropagation error surface not have local minima," </title><journal>IEEE Transactions on Neural Networks, </journal><volume>vol. 3, no. 6, </volume><pages>pp. 1019-1020, </pages><date>1992.</date>
+
+<meta reference_no="173" cluster_no="114" true_id="355"></meta>
+
+<authors><author> A. Jain</author><author>, K. Koile</author><author>, B. Bauer</author><author> and D. Chapman,</author></authors><title> Compass: Predicting biological activities from molecular surface properties. Performance comparisons on a steroid benchmark, </title><journal>J. Medicinal Chemistry </journal><volume>37 </volume><date>(1994) </date><pages>2315-2327.</pages>
+
+<meta reference_no="174" cluster_no="115" true_id="438"></meta>
+
+<authors><author> Thomas O. Binford.</author></authors><title> Inferring surfaces from images. </title><journal>Artificial Intelligence, </journal><volume>17:</volume><pages>205-244, </pages><date>1981.</date>
+
+<meta reference_no="175" cluster_no="116" true_id="239"></meta>
+
+<authors><author> LOUNSBERY, M.,</author><author> DEROSE, T. D., AND</author><author> WARREN, J.</author></authors><title> Multiresolution Surfaces of Arbitrary Topological Type. </title><institution>Department of Computer Science and Engineering </institution><tech>93-10-05, </tech><institution>University of Washington, </institution><date>October 1993. </date><note>Updated version available as </note><tech>93-10-05b,</tech><date> January, 19</date>
+
+<meta reference_no="176" cluster_no="117" true_id="330"></meta>
+
+<O>Message-Passing Interface Forum.</O><title> Document for a Standard Message-Passing Interface. </title><tech>Tech. Report CS-93-214, </tech><institution>Univ. of Tennessee, </institution><location>Knoxville, TN, </location><date>1993.</date>
+
+<meta reference_no="177" cluster_no="118" true_id="272"></meta>
+
+<authors><author> Didier Bourigault.</author></authors><title> Surface grammatical analysis for the extraction of terminological noun phrases. </title><booktitle>In COLING-92, </booktitle><volume>Vol. III, </volume><pages>pages 977-981, </pages><date>1992.</date>
+
+<meta reference_no="178" cluster_no="118" true_id="272"></meta>
+
+<authors><author> Didier Bourigault.</author></authors><title> Surface grammatical analysis for the extraction of terminological noun phrases. </title><booktitle>In COLING-92, Vol. III, </booktitle><pages>pages 977-981, </pages><date>1992.</date>
+
+<meta reference_no="179" cluster_no="119" true_id="214"></meta>
+
+<authors><author> C. Caldwell</author> and <author>V.S. Johnston</author>. </authors><title>Tracking a criminal suspect through "face-space" with a genetic algorithm. </title><editor>In R.K. Belew and L.B. Booker, editors, </editor><booktitle>Proceedings of the Fourth International Conference on Genetic Algorithms, </booktitle><pages>pages 416-421. </pages><publisher>Morgan Kaufm</publisher>
+
+<meta reference_no="180" cluster_no="120" true_id="336"></meta>
+
+<authors><author> W. Gropp</author><author>, E. Lusk</author><author>, and A. Skjellum.</author></authors><title> USING MPI Portable Parallel Programming with the MessagePassing Interface. </title><publisher>The MIT Press, </publisher><location>Cambridge, </location><date>1994.</date>
+
+<meta reference_no="181" cluster_no="121" true_id="279"></meta>
+
+<booktitle>External Interfaces Working Group ARPA Knowledge Sharing Initiative.</booktitle><title> Specification of the KQML agent communication language. </title><note>Working paper. Available as http://www.cs.umbc.edu/kqml/papers/kqml-spec.ps, </note><date>December 1992.</date><O>  7</O>
+
+<meta reference_no="182" cluster_no="121" true_id="279"></meta>
+
+<note>1. </note><booktitle>ARPAKnowledgeSharingInitiative. </booktitle><title> SpecificationoftheKQMLagent-communicationlanguage. </title><booktitle>ARPAKnowledge Sharing Initiative,</booktitle> <note>External Interfaces Working Group working paper. Available as http://www.cs.umbc.edu/kqml/papers/kqml-spec.ps, </note><date>December1992.</date>
+
+<meta reference_no="183" cluster_no="121" true_id="279"></meta>
+
+<authors><author> T. Finin</author> and others</authors><booktitle>: External Interfaces Working Group of the DARPA Knowledge Sharing Effort. </booktitle><title>Specification of the KQML Agent-Communication Language plus example agent policies and architectures. </title><tech>Technical report, Working paper, </tech><date>June 1993.</date>
+
+<meta reference_no="184" cluster_no="121" true_id="279"></meta>
+
+<booktitle>External Interfaces Working Group ARPA Knowledge Sharing Initiative.</booktitle><title> Specification of the KQML agentcommunication language. </title><tech>Working paper, </tech><date>June 1993.</date>
+
+<meta reference_no="185" cluster_no="121" true_id="279"></meta>
+
+<authors><author> T. Finin</author><author>, J. Weber</author><author>, G. Wiederhold</author><author>, M. Genesereth</author><author>, R. Fritzson</author><author>, D. McKay</author><author>, J. McGuire</author><author>, S. Shapiro</author><author>, and C. Beck,</author></authors><title> Specification of the KQML Agent-Communication Language. </title><booktitle>The DARPA Knowledge Sharing Initiative External Interfaces Working Group. </booktitle><date>1992.</date>
+
+<meta reference_no="186" cluster_no="122" true_id="448"></meta>
+
+<authors><author> Michael Arent</author><author>, Laurie Vertelney</author><author> and Henry Lieberman,</author></authors><title> Two Disciplines in Search of an Interface: Reflections on a Design Problem, </title><booktitle>in The Art of Human-Computer Interface Design, </booktitle><editor>Brenda Laurel, ed., </editor><publisher>Addison-Wesley.</publisher>
+
+<meta reference_no="187" cluster_no="123" true_id="426"></meta>
+
+<authors><author>Langley, P.,</author><author> Zytkow, J.,</author><author> Bradshaw, G., and</author><author> Simon, H.</author></authors><date> (1983). </date><title>Three facets of scientific discovery. </title><booktitle>In IJCAI-83, </booktitle><pages>pages 465468, </pages><location>Karlsruhe.</location>
+
+<meta reference_no="188" cluster_no="124" true_id="271"></meta>
+
+<authors><author> G. Perrot</author><author>, B. Cheng</author><author>, K. D. Gibson</author><author>, J. Vila</author><author>, A. Palmer</author><author>, A. Nayeem</author><author>, B. Maigret</author><author> and H. A. Scheraga.</author></authors><title> MSEED: A program for rapid determination of accessible surface areas and their derivatives. </title><journal>Journal of Computational Chemistry, </journal><volume>13:</volume><pages>1-11, </pages><date>1992.</date>
+
+<meta reference_no="189" cluster_no="125" true_id="238"></meta>
+
+<authors><author> K. N. Kutulakos,</author></authors><title> Afne surface reconstruction by purposive viewpoint control, </title><tech>Tech. Rep. 581, </tech><institution>Department of Computer Sciences, University of Rochester, </institution><date>1995.</date>
+
+<meta reference_no="190" cluster_no="126" true_id="428"></meta>
+
+<authors><author>Yandell, B.</author></authors><date> (1986), </date><title>Algorithms for nonlinear generalized cross-validation, </title><editor>in T. Boardman, ed., </editor><booktitle>`Computer Science and Statistics: 18th Symposium on the Interface', </booktitle><institution>American Statistical Association,</institution><location> Washington, DC.</location>
+
+<meta reference_no="191" cluster_no="127" true_id="416"></meta>
+
+<authors><author> G. Yang</author><author> and T.S. Huang.</author></authors><title> "Human Face Detection in a Complex Background". </title><journal>Pattern Recognition, </journal><volume>27(1):</volume><pages>53-63, </pages><date>Jan 1994.</date>
+
+<meta reference_no="192" cluster_no="128" true_id="243"></meta>
+
+<authors><author>Wahba, G.</author></authors><date> (1978), </date><title>Interpolating surfaces: High order convergence rates and their associated designs, with applications to x-ray image reconstruction, </title><tech>Technical Report 523, </tech><institution>Dept. of Statistics, University of Wisconsin, </institution><location>Madison, WI.</location>
+
+<meta reference_no="193" cluster_no="129" true_id="306"></meta>
+
+<authors><author> N. Ahuja</author><author> and A. L. Abbott,</author></authors><title> Active stereo: Integrating disparity, vergence, focus, aperture, and calibration for surface estimation, </title><journal>IEEE Trans. Pattern Anal. Machine Intell., </journal><volume>vol. 15, no. 10, </volume><pages>pp. 10071029, </pages><date>1993.</date>
+
+<meta reference_no="194" cluster_no="130" true_id="363"></meta>
+
+<authors><author>John Gurney,</author></authors><title> A Natural Language Interface Generator, for a Graphic Information System, </title><institution>Harry Diamond Laboratories, </institution><note>draft, </note><date>1991.</date>
+
+<meta reference_no="195" cluster_no="131" true_id="292"></meta>
+
+<authors><author> A. Marcus.</author></authors><title> Graphics Design for Electronic Documents and User Interfaces. </title><publisher>ACM Press.</publisher>
+
+<meta reference_no="196" cluster_no="132" true_id="301"></meta>
+
+<authors><author> Matthew Turk</author><author> and Alex Pentland,</author></authors><title> "Eigenfaces for Recognition," </title><tech>Technical Report 154, </tech><institution>MIT Media Lab Vision and Modeling Group, </institution><date>September 1990.</date>
+
+<meta reference_no="197" cluster_no="133" true_id="207"></meta>
+
+<note>19. </note><authors><author>Kristin P. Bennett</author>. </authors><title>Global tree optimization: A non-greedy decision tree algorithm. </title><booktitle>In Proc. of Interface 94: The 26th Symposium on the Interface, </booktitle><location>Research Triangle, North Carolina, </location><date>1994.</date>
+
+<meta reference_no="198" cluster_no="134" true_id="372"></meta>
+
+<authors><author> R. H.C. Seabrook</author><author> & B. Shneiderman.</author></authors><title> The User Interface In A Hypertext Multiwindow Browser. </title><journal>Interacting with Computers </journal><volume>Vol 1 No. 3 </volume><date>1989 </date><pages>pp 301-337 </pages><date>(1989)</date>
+
+<meta reference_no="199" cluster_no="135" true_id="365"></meta>
+
+<authors><author>Richeldi, M. and</author><author> Rossotto, M.</author></authors><date> 1996. </date><title>Combining Statistical Techniques and Search Heuristic to Perform Effective Feature Selection. </title><note>To appear </note><booktitle>in Machine Learning and Statistics: the Interface. </booktitle><editor>Taylor, C., and Nakhaeizadeh, R., eds. </editor><publisher>John Wiley & Sons.</publisher>
+
+<meta reference_no="200" cluster_no="135" true_id="365"></meta>
+
+<authors><author> M. Richeldi</author><author> and M. Rossotto.</author></authors><title> Combining Statistical Techniques and Search Heuristic to Perform Effective Feature Selection. </title><booktitle>Machine Learning and Statistics: the Interface,</booktitle><editor> Eds. C. Taylor and R. Nakhaeizadeh, </editor><publisher>Springer Verlag, </publisher><date>1995.</date>
+
+<meta reference_no="201" cluster_no="136" true_id="329"></meta>
+
+<O> Message Passing Interface Forum.</O><title> MPI: A message passing interface. </title><booktitle>In Proceedings of Supercomputing '93, </booktitle><pages>pages 878-883. </pages><publisher>IEEE Computer Society, </publisher><date>1993.</date>
+
+<meta reference_no="202" cluster_no="137" true_id="337"></meta>
+
+<authors><author> David Kurlander</author><author> and Steven Feiner,</author></authors><title> A Visual Language for Browsing, Undoing and Redoing Graphical Interface Commands. </title><booktitle>In Visual Languages and Visual Programming, </booktitle><editor>S.K. Chang, ed., </editor><publisher>Plenum Press.</publisher>
+
+<meta reference_no="203" cluster_no="138" true_id="250"></meta>
+
+<authors><author>Lindberg, D., and</author><author> Humphreys, B.</author></authors><date> 1990. </date><title>The umls knowledge sources: Tools for building better user interfaces. </title><booktitle>In Proceedings of the 14th Annual Symposium on Computer Applications in Medical Care (SCAMC 90), </booktitle><pages>121-125.</pages>
+
+<meta reference_no="204" cluster_no="139" true_id="358"></meta>
+
+<authors><author> M.W. Oram</author><author> and D.I. Perrett.</author></authors><title> Time course of neural responses discriminating different views of the face and head. </title><journal>Journal of Neurophysiology, </journal><volume>68(1):7084, </volume><date>1992.</date>
+
+<meta reference_no="205" cluster_no="140" true_id="439"></meta>
+
+<authors><author> A.R. Barron</author><author> and R.L. Barron.</author></authors><title> Statistical learning networks: A unifying view. </title><editor>In E. Wegman, editor, </editor><booktitle>Computing Science and Statistics, Proceedings of the 20th Symposium Interface, </booktitle><pages>pages 192-203, </pages><location>Washington, DC, </location><date>1988. </date><institution>American Statistical Association.</institution>
+
+<meta reference_no="206" cluster_no="141" true_id="406"></meta>
+
+<authors><author>Ong, W.J.</author></authors><date> (1977). </date><title>Interfaces of the Word: Studies in the Evolution of Consciousness and Culture. </title><location>Ithaca, New York, </location><publisher>Cornell University Press.</publisher>
+
+<meta reference_no="207" cluster_no="142" true_id="354"></meta>
+
+<authors><author>Abbott, M. R., </author><author> K. H.Brink, </author><author>C. R. Booth, </author><author>D. Blasco, </author><author>M. S. Swenson, </author><author>C. O. Davis </author><author>and L. A. Codispoti</author></authors><date> (1995) </date><title>Scales of variability of bio-optical properties as observed from near-surface drifters. </title><journal>J. Geophys Res </journal><volume>100:</volume><pages>13345-13367.</pages>
+
+<meta reference_no="208" cluster_no="143" true_id="253"></meta>
+
+<authors><author>Payne, T. R.</author><author>; Edwards, P.; and</author><author> Green, C. L.</author></authors><date> 1995. </date><title>Experience with Rule Induction and k-Nearest Neighbour Methods for Interface Agents that Learn. </title><booktitle>In ML95 Workshop on Agents that Learn from Other Agents.</booktitle>
+
+<meta reference_no="209" cluster_no="144" true_id="270"></meta>
+
+<authors><author> J. Duncan</author><author> and G.W. Humphreys.</author></authors><title> Beyond the search surface: Visual search and attentional engagement. </title><journal>Journal of Experimental Psychology: Human Perception and Performance, </journal><volume>18:578588, </volume><date>1992.</date>
+
+<meta reference_no="210" cluster_no="145" true_id="289"></meta>
+
+<authors><author> Dana S. Henry</author><author> and Christopher F. Joerg.</author></authors><title> The Network Interface Chip. </title><tech>Technical Report CSG Memo, 331, </tech><institution>MIT Lab for Comp. Sci.,</institution><location> 545 Tech. Square, Cambridge, MA, </location><date>June 1991.</date>
+
+<meta reference_no="211" cluster_no="146" true_id="223"></meta>
+
+<note>4. </note><authors><author>S. Everett</author><author>, K. Wauchope</author><author> and D. Perzanowski,</author></authors><title> "Talking to InterFIS: Adding Speech Input to a Natural Language Interface," </title><journal>NRL report 9515, </journal><note>in press.</note>
+
+<meta reference_no="212" cluster_no="146" true_id="223"></meta>
+
+<authors><author>Stephanie Everett</author><author>, Kenneth Wauchope</author><author>, and Dennis Perzanowski,</author></authors><title> Talking to InterFIS: Adding Speech Input to a Natural Language Interface, </title><tech>Technical Report NRL/FR/5510-92-9515, </tech><institution>Naval Research Laboratory, </institution><date>1992.</date>
+
+<meta reference_no="213" cluster_no="147" true_id="379"></meta>
+
+<authors><author> Guillaume Deffuant.</author></authors><title> An algorithm for building regularized piecewise linear discrimination surfaces: The perceptron membrane. </title><journal>Neural Computation, </journal><volume>7(2):</volume><pages>380-398, </pages><date>March 1995.</date>
+
+<meta reference_no="214" cluster_no="148" true_id="315"></meta>
+
+<authors><author> Hans Peter Graf</author> et al.</authors><title> "Locating Faces and Facial Parts". </title><booktitle>In International Workshop on Automatic Faceand Gesture-Recognition, </booktitle><pages>pages 41-46, </pages><date>1995.</date>
+
+<meta reference_no="215" cluster_no="149" true_id="342"></meta>
+
+<authors><author> Henry Lieberman.</author></authors><title> Constructing Graphical User Interfaces by Example. </title><booktitle>Graphics Interface Conference, </booktitle><location>Toronto, Ontario, Canada, </location><date>May, 1982.</date>
+
+<meta reference_no="216" cluster_no="150" true_id="429"></meta>
+
+<authors><author> D. Keller,</author></authors><title> Reconstruction of STM and AFM images distorted by finite-sized tips, </title><journal>Surface Science</journal><volume>253 </volume><date>(1991), </date><pages>pp. 353-364.</pages>
+
+<meta reference_no="217" cluster_no="150" true_id="429"></meta>
+
+<authors><author> D. Keller,</author></authors><title> Reconstruction of STM and AFM images distorted by finite-sized tips, </title><journal>Surface Science</journal><volume> 253 </volume><date>(1991), </date><pages>pp. 353-364.</pages>
+
+<meta reference_no="218" cluster_no="151" true_id="345"></meta>
+
+<authors><author> T. Kanade.</author></authors><title> "Computer Recognition of Human Faces". </title><journal>Interdisciplinary Systems Research, </journal><volume>47, </volume><date>1977.</date>
+
+<meta reference_no="219" cluster_no="152" true_id="328"></meta>
+
+<authors><author> Fournier, A.,</author><author> Gunawan, A. S., and</author><author> Romanzin, C.</author></authors><title> Common Illumination between Real and Computer Generated Scenes. </title><booktitle>In Proceedings of Graphics Interface 93 </booktitle><date>(1993), </date><pages>pp. 254-261.</pages>
+
+<meta reference_no="220" cluster_no="153" true_id="395"></meta>
+
+<authors><author>Myers, B.A.</author></authors><date> (1988) </date><title>Creating user interfaces by demonstration. </title><publisher>Academic Press, </publisher><location>Boston.</location> <authors><author>Nevill-Manning, C.G. </author></authors><note>(forthcoming) </note><title>Description, prediction, production and compression of sequences. </title><tech>DPhil thesis, </tech><institution>University of Waikato, </institution><location>New Zealand.</location>
+
+<meta reference_no="221" cluster_no="153" true_id="395"></meta>
+
+<authors><author>Myers, B.A.</author></authors><date> (1988) </date><title>Creating user interfaces by demonstration. </title><publisher>Academic Press, </publisher><location>Boston.</location> <authors><author>Nevill-Manning, C.G. </author></authors><note>(forthcoming) </note><title>Description, prediction, production and compression of sequences. </title><tech>DPhil thesis, </tech><institution>University of Waikato, </institution><location>New Zealand.</location>
+
+<meta reference_no="222" cluster_no="154" true_id="415"></meta>
+
+<authors><author> Henry A. Rowley</author><author>, Shumeet Baluja</author><author>, and Takeo Kanade.</author></authors><title> "Human Face Detection in Visual Scenes". </title><note>source unknown, </note><date>July 1995.</date>
+
+<meta reference_no="223" cluster_no="155" true_id="212"></meta>
+
+<authors><author> Rajesh P.N. Rao</author> and <author>Dana H. Ballard.</author> </authors><title>Natural basis functions and topographic memory for face recognition. </title><booktitle>In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), </booktitle><date>1995. </date><note>(To appear).</note>
+
+<meta reference_no="224" cluster_no="156" true_id="393"></meta>
+
+<authors><author> Mark A. Linton</author><author>, John M. Vlissides</author><author>, and Paul R. Calder.</author></authors><title> Composing user interfaces with InterViews. </title><journal>IEEE Computer, </journal><volume>22(2):</volume><pages>822, </pages><date>February 1989.</date>
+
+<meta reference_no="225" cluster_no="156" true_id="393"></meta>
+
+<authors><author> M. Linton</author><author>, J. Vlissides</author><author>, P. Calder.</author></authors><title>     Composing User Interfaces with Interviews    , </title><journal>Computer, </journal><volume>Vol 22, </volume><pages>8-22, </pages><date>February 1989.</date>
+
+<meta reference_no="226" cluster_no="157" true_id="261"></meta>
+
+<authors><author> C. Kellogg</author><author>, A. O'Hare</author><author>, and L. Travis,</author></authors><title> "Optimizing the Rule/Data Interface in a Knowledge  Management System," </title><booktitle>in Proceedings of the 12th International Conference on Very Large Databases, </booktitle><location>Kyoto, Japan, </location><date>1986.</date>
+
+<meta reference_no="227" cluster_no="158" true_id="218"></meta>
+
+<authors><author> R. Cipolla</author><author> and A. Blake.</author></authors><title> Surface Orientation and Time to Contact from Image Divergence and Deformation. </title><booktitle>Proc. of the Second European Conference on Computer Vision </booktitle><location>Santa Margherita Ligure, Italy, </location><date>May 1992.</date>
+
+<meta reference_no="228" cluster_no="158" true_id="218"></meta>
+
+<authors><author> R. Cipolla</author><author> and A. Blake.</author></authors><title> Surface orientation and time to contact from image divergence and deformation. </title><editor>In G. Sandini, editor, </editor><booktitle>Computer Vision|ECCV '92, </booktitle><pages>pages 187-202. </pages><publisher>Springer-Verlag, </publisher><date>1992.</date>
+
+<meta reference_no="229" cluster_no="159" true_id="360"></meta>
+
+<authors><author> H-Y.S. Li</author><author>, Y. Qiao</author><author>, and D. Psaltis.</author></authors><title> "Optical Network for Real-time Face Recognition". </title><journal>Applied Optics, </journal><volume>32(26):</volume><pages>50265035, </pages><date>Sept 1993.</date>
+
+<meta reference_no="230" cluster_no="160" true_id="251"></meta>
+
+<authors><author>Pohl, W.</author><author>; Hohle, J.</author><author>; Fink, J.; and</author><author> Kim, D.-W.</author></authors><date> 1995. </date><title>Building adaptive applications on widely-used platforms with BGP-MS. </title><editor>In Stephanidis, C., ed., </editor><booktitle>Proc. ERCIM Workshop Towards User Interfaces for All: Current Efforts and Future Trends.</booktitle>
+
+<meta reference_no="231" cluster_no="161" true_id="325"></meta>
+
+<authors><author> T. J ording</author><author>, B. Lenzmann</author><author>, und I. Wachsmuth.</author></authors><title> Ein anthropomorpher Interface-agent f ur die Interaktion mit einer virtuellen Umgebung. </title><booktitle>In KI-95. </booktitle><publisher>Springer, </publisher><date>1995.</date>
+
+<meta reference_no="232" cluster_no="162" true_id="293"></meta>
+
+<authors><author> P. Sukaviriya</author><author> and D. Foley.</author></authors><title> A Built-in Provision for Collecting Individual Task Usage Information in UIDE: the User Interface Design Environment. </title><editor>In M. Schneider-Hufschmidt, T. Kuhme, and U. Malinowski, editors, </editor><booktitle>Adaptive User</booktitle>
+
+<meta reference_no="233" cluster_no="162" true_id="293"></meta>
+
+<authors><author> P. Sukaviriya</author><author> and D. Foley.</author></authors><title> A Built-in Provision for Collecting Individual Task Usage Information in UIDE: the User Interface Design Environment. </title><editor>In M. SchneiderHufschmidt, T. Kuhme, and U. Malinowski, editors, </editor><booktitle>Adaptive User</booktitle>
+
+<meta reference_no="234" cluster_no="163" true_id="397"></meta>
+
+<booktitle> ANSI/IEEE Std 1596-1992 Scalable Coherent Interface, </booktitle><date>1992.</date>
+
+<meta reference_no="235" cluster_no="164" true_id="356"></meta>
+
+<authors><author> DYN, N.,</author><author> LEVIN, D., AND</author><author> GREGORY, J.</author></authors><title> A Butterfly Subdivision Scheme for Surface Interpolation with Tension Control. </title><journal>Transactions on Graphics </journal><volume>9, 2 </volume><date>(April 1990), </date><pages>160169.</pages>
+
+<meta reference_no="236" cluster_no="165" true_id="224"></meta>
+
+<authors><author>Dennis Perzanowski</author><author> and Brian Potter,</author></authors><title> InterFIS: a Natural Language Interface to the Fault Isolation Shell, </title><tech>Technical Report #9299, </tech><institution>Naval Research Laboratory, </institution><location>Washington, DC, </location><date>1990.</date>
+
+<meta reference_no="237" cluster_no="166" true_id="211"></meta>
+
+<authors><author> Lenzmann, B.</author>, <author>Wachsmuth, I.</author>, <author>Cao, Y.</author> </authors><title>An Intelligent Interface for a Virtual Environment. </title><tech>KI-NRW Report 95-01, </tech><date>1995.</date>
+
+<meta reference_no="238" cluster_no="166" true_id="211"></meta>
+
+<authors><author> B. Lenzmann</author>, <author>I. Wachsmuth</author>, and <author>Y. Cao</author>. </authors><title>An intelligent interface for a virtual environment. </title><note>Paper submitted to </note><booktitle>the 19th German Annual Conference on Artificial Intelligence - KI-95, </booktitle><date>September 1995.</date>
+
+<meta reference_no="239" cluster_no="167" true_id="394"></meta>
+
+<authors><author>Myers, B.A.</author></authors><date> (1992). </date><title>Demonstrational interfaces: A step beyond direct manipulation. </title><publisher>IEEE Computer.</publisher>
+
+<meta reference_no="240" cluster_no="168" true_id="352"></meta>
+
+<authors><author> S. Dorward.</author></authors><title> A survey of object-space hidden surface removal. </title><journal>Internat. J. Comput. Geom. Appl., </journal><volume>4:</volume><pages>325-362, </pages><date>1994.</date>
+
+<meta reference_no="241" cluster_no="169" true_id="221"></meta>
+
+<title>How the prosodic cues in motherese might assist language learning. </title><journal>Journal of Child Language, </journal><volume>16:</volume><pages>55-68. </pages><editor> Kimball, J. </editor><date>(1973). </date><title>Seven principles of surface structure parsing in natural language. </title><journal>Cognition, </journal><volume>2(1):</volume><pages>15-47.</pages>
+
+<meta reference_no="242" cluster_no="170" true_id="376"></meta>
+
+<authors><author> Gunnel Kaellgren.</author></authors><title> Making maximal use of surface criteria in large-scale parsing: the morp parser. </title><note>unpublished ms., </note><date>1990.</date>
+
+<meta reference_no="243" cluster_no="171" true_id="242"></meta>
+
+<authors><author> E. Catmull.</author></authors><title> A Subdivision Algorithm for Computer Display of Curved Surfaces. </title><tech>PhD thesis, </tech><institution>University of Utah, </institution><date>December 1974.</date><note>Also </note><tech> TR UTEC-CSc-74-133, </tech><institution>CS Dept., University of Utah.</institution>
+
+<meta reference_no="244" cluster_no="172" true_id="370"></meta>
+
+<authors><author>Perry, T.S. </author><author>and J. Voelcker.</author></authors><date> 1989. </date><title>Of mice and menus: designing the user-friendly interface. </title><journal>IEEE Spectrum</journal><date> (September), </date><pages>46-51.</pages>
+
+<meta reference_no="245" cluster_no="172" true_id="370"></meta>
+
+<authors><author>T.S. Perry</author><author> and J. Voelcker,</author></authors><title> Of Mice and Menus: Designing the User-Friendly Interface, </title><journal>IEEE Spectrum, </journal><pages>pp. 46-51, </pages><date>September 1989.</date>
+
+<meta reference_no="246" cluster_no="173" true_id="402"></meta>
+
+<authors><author> Roger Traylor.</author></authors><booktitle> Network Interface Chip (NIC) Architectural Specification, </booktitle><volume>Rev 1.1. </volume><institution>Intel Corporation, </institution><date>December 1993. </date><note>Confidential document, number 316009.</note>
+
+<meta reference_no="247" cluster_no="174" true_id="385"></meta>
+
+<authors><author>Ahn, R.,</author><author> Beun, R. J.,</author><author> Borghuis, T.,</author><author> Bunt, H.</author><author>, and Van Overveld, C.</author></authors><date> (1994). </date><title>The DenK-architecture: a fundamental approach to user-interfaces. </title><journal>Artificial Intelligence Review Journal, </journal><volume>8</volume><date>(2). </date><note>to appear.</note>
+
+<meta reference_no="248" cluster_no="175" true_id="378"></meta>
+
+<title>FORMAL MECHANISMS FOR MOVEMENT AND SURFACE STRUCTURE IN DUTCH  </title><authors><author>Groenink, A. V. </author></authors><date>(1995b). </date><title>Literal movement grammars. </title><booktitle>In Proceedings of the 7th EACL Conference, </booktitle><institution>University College, </institution><location>Dublin.</location>
+
+<meta reference_no="249" cluster_no="176" true_id="312"></meta>
+
+<authors><author> M.S. Kamel</author><author>, H.C. Shen</author><author>, A.K.C. Wong</author><author>, and T.M. Hong</author> et al.</authors><title> "Face Recognition using Perspective Invariant Features". </title><journal>Pattern Recognition Letters, </journal><volume>15(9):</volume><pages>877-883, </pages><date>Sept 1994.</date>
+
+<meta reference_no="250" cluster_no="177" true_id="418"></meta>
+
+<authors><author> P.J. Burt.</author></authors><title> A multiscale face recognition system. </title><note>unpublished.</note>
+
+<meta reference_no="251" cluster_no="178" true_id="383"></meta>
+
+<authors><author>Chin, D. N.</author></authors><date> 1991. </date><title>Intelligent Interfaces As Agents. </title><editor>In Sullivan, J. W., and Tyler, S. W., eds., </editor><booktitle>Intelligent User Interfaces. </booktitle><location>New York, New York:</location><publisher>ACM Press. </publisher><pages>177-206.</pages>
+
+<meta reference_no="252" cluster_no="179" true_id="387"></meta>
+
+<note>23. </note><authors><author>M.-T. Vo</author><author>, R. Houghton</author><author>, J. Yang</author><author>, U. Bub</author><author>, U. Meier </author><author> and A. Waibel</author></authors><title>: Multimodal Learning Interfaces, </title><note>to be presented at </note><booktitle>Spoken Language Technology Workshop 1995,</booktitle><location>Austin</location>
+
+<meta reference_no="253" cluster_no="180" true_id="311"></meta>
+
+<authors><author> D. Valentin</author><author>, H. Abdi</author><author>, A.J. O'Toole</author><author>, and G.W. Cottrell.</author></authors><title> "Connectionist Models of Face Processing: A Survey". </title><journal>Pattern Recognition, </journal><volume>27(9):</volume><pages>1209-30, </pages><date>Sept 1994.</date>
+
+<meta reference_no="254" cluster_no="181" true_id="400"></meta>
+
+<authors><author> Patterson, D. and</author><author> Hennessy, J.,</author></authors><booktitle> Computer Organization and Design: the Hardware/Software Interface, </booktitle><publisher>Morgan Kaufman, </publisher><location>San Mateo, CA</location><date> 1994.</date>
+
+<meta reference_no="255" cluster_no="181" true_id="400"></meta>
+
+<authors><author> D. A. Patterson</author>,<author>J. L. Hennessy.</author></authors><booktitle> Computer Organization & Design: the Hardware/Software Interface. </booktitle><publisher>Morgan Kaufmann Publishers, </publisher><location>San Mateo, California,</location><date> 1994</date>
+
+<meta reference_no="256" cluster_no="182" true_id="256"></meta>
+
+<authors><author> A. S. Tanenbaum</author><author>, H. van Staveren</author><author>, and J. W. Stevenson.</author></authors><title> Using peephole optimization on intermediate code. </title><journal>ACM Transactions on Programming Languages and Systems, </journal><volume>4(1):</volume><pages>21-36, </pages><date>Jan. 1982.</date><note>  35  A Interface Functions  In the table below, y flags those inter</note>
+
+<meta reference_no="257" cluster_no="183" true_id="281"></meta>
+
+<authors><author> Alonso, R.,</author><author> Haber, E., and</author><author> Korth, H.</author></authors><title> A mobile computer interface for heterogeneous databases. </title><booktitle>In RIDE-IMS'93 Workshop </booktitle><location>(Vienna, Austria, </location><date>Apr. 1993). </date><note>http://liinwww.ira.uka.de/bibliography/Distributed/mobile.1.html. 2 Bibliographic references December</note>
+
+<meta reference_no="258" cluster_no="184" true_id="324"></meta>
+
+<authors><author> Lenzmann, B.,</author><author> Wachsmuth, I.</author></authors><title> A User-Adaptive Interface Agency for Interaction with a Virtual Environment. </title><editor>In Weiss, G. & Sen, S. (eds.): </editor><title>Adaption and Learning in Multi-Agent Systems. </title><location>Berlin: </location><publisher>Springer, </publisher><date>1996.</date>
+
+<meta reference_no="259" cluster_no="185" true_id="443"></meta>
+
+<authors><author> L. De Raedt</author> and<author> N. Lavra<=c.</author></authors><title> The many faces of inductive logic programming. </title><editor>In J. Komorowski, editor, </editor><booktitle>Proceedings of the 7th International Symposium on Methodologies for Intelligent Systems, Lecture Notes in Artificial Intelligence. </booktitle><publisher>Springer-Verlag,</publisher>
+
+<meta reference_no="260" cluster_no="186" true_id="389"></meta>
+
+<note>22. </note><authors><author>N. Yankelovich</author><author>, G.-A. Levow</author> and <author>M. Marx</author></authors><title>: Designing SpeechActs: Issues in Speech User Interfaces, </title><note>to be presented at </note><booktitle>CHI 95,</booktitle><location>Denver</location>
+
+<meta reference_no="261" cluster_no="187" true_id="435"></meta>
+
+<authors><author>Padberg M. </author><author>and G. Rinaldi,</author></authors><date> 1990. </date><title>Facet identification for the symmetric traveling salesman problem.</title>
+
+<meta reference_no="262" cluster_no="188" true_id="399"></meta>
+
+<note>6. </note><authors><author>M. Krogster</author><author>, R. Oppermann</author><author>, and C. G. Thomas.</author></authors><title> A user interface integrating adaptability and adaptivity. </title><editor>In R. Oppermann, editor, </editor><booktitle>Adaptive User Support.</booktitle> <publisher>Lawrence Erlbaum Associates, </publisher><date>1994.</date>
+
+<meta reference_no="263" cluster_no="188" true_id="399"></meta>
+
+<authors><author> M. Krogster</author><author>, R. Oppermann</author><author>, and C. G. Thomas.</author></authors><title> A User Interface Integrating Adaptability and Adaptivity.</title><editor> In R. Oppermann, editor,</editor><booktitle> Adaptive User Support.</booktitle><publisher> Lawrence Erlbaum Associates</publisher><date>, 1994.</date>
+
+<meta reference_no="264" cluster_no="189" true_id="374"></meta>
+
+<authors><author> G. Cornuejols</author><author> and A. Sassano.</author></authors><title> On the 0,1 facet of the set covering problems. </title><journal>Mathematical Programming, </journal><volume>43:</volume><pages>45-55, </pages><date>1989.</date>
+
+<meta reference_no="265" cluster_no="190" true_id="225"></meta>
+
+<note>2. </note><authors><author>Wauchope, K. </author></authors><title>Eucalyptus: Integrating Natural Language Input with a Graphical User Interface. </title><tech>NRL Report NRL/FR/5510-94-9711 </tech><date>(1994).</date>
+
+<meta reference_no="266" cluster_no="190" true_id="225"></meta>
+
+<location>Minneapolis, MN, </location><pages>pp. 71-76.</pages>  <authors><author>Kenneth Wauchope,</author></authors><title> Eucalyptus: Integrating Natural Language Input with a Graphical User Interface, </title><tech>Naval Research Laboratory Technical Report NRL/FR/ 5510-94-9711,</tech><note> in press, </note><date>1994.</date>
+
+<meta reference_no="267" cluster_no="191" true_id="249"></meta>
+
+<authors><author> Byrd, R.,</author><author> Ravin, Y. and</author><author> Prager, J.</author></authors><title> Lexical Assistance at the Information Retrieval User Interface. </title><booktitle>In Proceedings of the Fourth Annual Symposium on Document Analysis and Information Retrieval, </booktitle><location>Las Vegas, Nevada, </location><date>April 1995.</date>
+
+<meta reference_no="268" cluster_no="191" true_id="249"></meta>
+
+<authors><author> Roy Byrd</author><author>, Yael Ravin</author><author>, and John Prager.</author></authors><title> Lexical assistance at the information retrieval user interface. </title><booktitle>In Proceedings of the Fourth Annual Symposium on Document Analysis and Information Retrieval, </booktitle><location>Las Vegas, Nevada, </location><date>April 1995.</date>
+
+<meta reference_no="269" cluster_no="192" true_id="338"></meta>
+
+<authors><author> Michael Bieber.</author></authors><title> Issues in modeling a "dynamic" hypertext interface for non-hypertext systems. </title><booktitle>In Hypertext '91 Proceedings, </booktitle><pages>pages 203-217. </pages><publisher>Association for Computing Machinery Press, </publisher><date>1991.</date>
+
+<meta reference_no="270" cluster_no="193" true_id="262"></meta>
+
+<authors><author>Ralambondrainy, H,</author><author> Demonchaux, E, and</author><author> Jomier, G,</author></authors><title> Data analysis, data bases and expert systems: the common interface, </title><booktitle>in Astronomy from Large Databases: Scientific Objectives and Methodological Approaches, </booktitle><editor>Murtagh and Heck (Eds.), </editor><note>ESO Conference and Works</note>
+
+<meta reference_no="271" cluster_no="194" true_id="228"></meta>
+
+<authors><author>Payne, T., and</author><author> Edwards, P.</author></authors><date> 1995. </date><title>Interface Agents that Learn: An Investigation of Learning Issues in a Mail Agent Interface. </title><tech>Technical Report AUCS/TR9508, </tech><institution>Department of Computing Science, University of Aberdeen, Scotland. </institution><note>Submitted to Applied Artificial</note>
+
+<meta reference_no="272" cluster_no="195" true_id="327"></meta>
+
+<authors><author> David Culler</author><author>, Lok Tin Liu</author><author>, Richard Martin</author><author>, and Chad Yoshikawa.</author></authors><title> LogP Performance Assessment of Fast Network Interfaces. </title><journal>IEEE Micro, </journal><pages>pages 35-43, </pages><date>February 1996.</date>
+
+<meta reference_no="273" cluster_no="195" true_id="327"></meta>
+
+<authors><author> David Culler</author><author>, Lok Tin Liu</author><author>, Richard Martin</author><author>, and Chad Yoshikawa.</author></authors><title> LogP Performance Assessment of Fast Network Interfaces. </title><journal>IEEE Micro, </journal><pages>pages 35-43, </pages><date>February 1996.</date>
+
+<meta reference_no="274" cluster_no="196" true_id="432"></meta>
+
+<authors><author> T. Banchoff</author><author> and C. Strauss. </author></authors><title>Complex Function Graphs, Dupin Cylinders, Gauss Map, and Veronese Surface. </title><booktitle>Computer Geometry Films. </booktitle><institution>Brown University</institution><date>, 1977.</date>
+
+<meta reference_no="275" cluster_no="197" true_id="407"></meta>
+
+<authors><author>Maes, P.,</author></authors><date> 1994. </date><title>Social interface agents: Acquiring competence by</title>
+
+<meta reference_no="276" cluster_no="198" true_id="388"></meta>
+
+<editor>Sullivan J.W. & Tyler S.W. (editors), </editor><journal>Intelligent User Interfaces, </journal><publisher>ACM Press, </publisher><date>1991.</date>
+
+<meta reference_no="277" cluster_no="198" true_id="388"></meta>
+
+<editor>J.W. Sullivan and S.W. Tyler (eds.), </editor><journal>Intelligent User Interfaces, </journal><publisher>ACM Press, </publisher><location>NY, </location><date>1991.</date>
+
+<meta reference_no="278" cluster_no="199" true_id="371"></meta>
+
+<authors><author> C. V. JONES,</author></authors><date> 1992. </date><title>Animated Sensitivity Analysis, </title><booktitle>in Computer Science and  Operations Research: New Developments in their Interfaces, </booktitle><pages>pp. 177-196. </pages><editor>O.Balci,  Sharda, R., Zenios, S. (Eds.),</editor><publisher> Pergamon Press,</publisher><location> U.K.</location>
+
+<meta reference_no="279" cluster_no="200" true_id="348"></meta>
+
+<authors><author> H. Hoppe</author><author>, T. DeRose</author><author>, T. Duchamp</author><author>, J. McDonald</author><author>, and W. Stuetzle.</author></authors><title> Surface reconstruction from unorganized points. </title><booktitle>In Computer Graphics (SIGGRAPH '92 Proceedings), </booktitle><volume>volume 26, </volume><pages>pages 71-78, </pages><date>July 1992.</date>
+
+<meta reference_no="280" cluster_no="201" true_id="302"></meta>
+
+<authors><author> Matthew Turk</author><author> and Alex Pentland.</author></authors><title> Eigenfaces for recognition. </title><journal>Journal of Cognitive Neuroscience, </journal><volume>3(1):</volume><pages>71-86, </pages><date>1991.</date>
+
+<meta reference_no="281" cluster_no="201" true_id="302"></meta>
+
+<authors><author> M. Turk</author><author> and A. Pentland.</author></authors><title> Eigenfaces for recognition. </title><journal>Journal of Cognitive Neuroscience, </journal><volume>3:</volume><pages>72-86, </pages><date>1991.</date>
+
+<meta reference_no="282" cluster_no="201" true_id="302"></meta>
+
+<authors><author> M. Turk</author><author> and A. Pentland.</author></authors><title> "Eigenfaces for Recognition". </title><journal>J. of Cognitive Neurosci., </journal><volume>3(1), </volume><date>1991.</date>
+
+<meta reference_no="283" cluster_no="201" true_id="302"></meta>
+
+<authors><author> M. Turk</author><author> and A. Pentland.</author></authors><title> "Eigenfaces for Recognition". </title><journal>J. of Cognitive Neurosci., </journal><volume>3(1), </volume><date>1991.</date>
+
+<meta reference_no="284" cluster_no="201" true_id="302"></meta>
+
+<authors><author> M. Turk</author><author> and A. Pentland.</author></authors><title> "Eigenfaces for recognition." </title><journal>J. of Cognitive Neurosci., </journal><volume>3:</volume><pages>71-86, </pages><date>1991.</date>
+
+<meta reference_no="285" cluster_no="202" true_id="287"></meta>
+
+<authors><author>Peterson, C.</author></authors><date> (1989). </date><title>Athena widget set - C language X interface. </title><tech>Technical report, </tech><institution>MIT</institution><O> X Consortium.</O>
+
+<meta reference_no="286" cluster_no="203" true_id="208"></meta>
+
+<authors><author>C. Chang</author> and <author>A. Walker,</author></authors><title> "PROSQL: A Prolog Programming Interface with SQL/DS," </title><booktitle>Proc. of the 1st Intl. Workshop on Expert Database Systems, </booktitle><location>Kiawah Island, South Carolina, </location><date>October 1984.</date>
+
+<meta reference_no="287" cluster_no="204" true_id="274"></meta>
+
+<authors><author>Espinoza, F. </author><author>and K. Hfifik</author></authors><date> (1996). </date><title>A WWW Interface to an Adaptive Hypermedia System. </title><booktitle>Proc. of the 1st conference on the Practical Application of Intelligent Agents and Multi-Agents, PAAM'96, </booktitle><location>London. </location><note>Also available at http://www.sics.se/ ~kia/PAAM_submiss</note>
+
+<meta reference_no="288" cluster_no="205" true_id="278"></meta>
+
+<authors><author> Sven Delmas.</author></authors><title> XF Design and Implementation of a Programming Environment for Interactive Construction of Graphical User Interfaces. </title><institution>Diplomarbeit, Technical University of Berlin, Institut fr Angewandte Informatik, </institution><date>Mrz 1993.</date>
+
+<meta reference_no="289" cluster_no="206" true_id="334"></meta>
+
+<authors><author>Baddeley, A.</author></authors><date> (1992) </date><title>`Working Memory: the interface between memory and cognition', </title><journal>J. of Cognitive Neuroscience, </journal><volume>vol.4.3, </volume><pages>281-288. </pages><authors><author>Baldwin, J.M. </author></authors><date>(1896) </date><title>`A new factor in evolution', </title><journal>American Naturalist, </journal><volume>vol.30, </volume><pages>441-451.</pages>
+
+<meta reference_no="290" cluster_no="207" true_id="409"></meta>
+
+<authors><author> Eugene C. Ciccarelli.</author></authors><title> Presentation Based User Interfaces.</title><tech> Ph.D. Th., </tech><institution>Massachusetts Institute of Technology, </institution><date>1985.</date>
+
+<meta reference_no="291" cluster_no="208" true_id="279"></meta>
+
+<booktitle>External Interfaces Working Group ARPA Knowledge Sharing Initiative.</booktitle><title> KQML Overview. </title><note>Working paper, </note><date>1992.</date>
+
+<meta reference_no="292" cluster_no="209" true_id="339"></meta>
+
+<authors><author> D. STEIGER</author><author>, R. SHARDA</author><author> and B. LECLAIRE,</author></authors><date> 1992. </date><title>Functional Description of a GraphBased Interface for Network Modeling (GIN), </title><booktitle>in Computer Science and Operations  Research: New Developments in their Interfaces, </booktitle><editor>O.Balci, Sharda, R., Zenios, S. (Eds.),</editor><O>  Pe</O>
+
+<meta reference_no="293" cluster_no="210" true_id="283"></meta>
+
+<authors><author> Matthias A. Blumrich</author><author>, Cezary Dubnicki</author><author>, Edward W. Felten</author><author>, and Kai Li. </author></authors><title>Protected, User-Level DMA for the SHRIMP Network Interface. </title><booktitle>In Proc. 2nd Intl. Symposium on High-Performance Computer Architecture, </booktitle><date>February 1996.</date>
+
+<meta reference_no="294" cluster_no="210" true_id="283"></meta>
+
+<authors><author> Matthias Blumrich</author><author>, Cezary Dubnick</author><author>, Edward Felten</author><author>, and Kai Li. </author></authors><title>Protected, user-level dma for the shrimp network interface. </title><booktitle>In IEEE 2nd International Symposium on High-Performance Computer Architecture, </booktitle><date>February 1996. </date><note>To appear.</note>
+
+<meta reference_no="295" cluster_no="211" true_id="236"></meta>
+
+<authors><author> P. Giblin</author><author> and R. Weiss,</author></authors><title> Reconstruction of surfaces from proles, </title><booktitle>in Proc. 1st Int. Conf. on Computer Vision, </booktitle><pages>pp. 136144, </pages><date>1987.</date>
+
+<meta reference_no="296" cluster_no="212" true_id="291"></meta>
+
+<authors><author> D. D. Cowan</author><author>, E. W. Mackie</author><author>, G. de V. Smit</author><author>, G. M. Pianosi,</author></authors><title> "Rita - An Editor User Interface for Manipulating Structured Documents", </title><journal>Electronic Publishing - Origination, Dissemination and Design, </journal><volume>vol. 4, num. 3, </volume><pages>pp. 125-150, </pages><date>September 1991.</date>
+
+<meta reference_no="297" cluster_no="213" true_id="398"></meta>
+
+<booktitle> FORE Systems. TCA-100 TURBOchannel ATM Computer Interface, User's Manual, </booktitle><date>1992.</date>
+
+<meta reference_no="298" cluster_no="214" true_id="254"></meta>
+
+<authors><author> R. Cipolla</author><author>, P. A. Hadfield</author><author>, and N. J. Hollinghurst.</author></authors><title> Uncalibrated stereo vision with pointing for a man-machine interface. </title><booktitle>In Proc. IAPR Workshop on Machine Vision Applications, </booktitle><date>1994.</date>
+
+<meta reference_no="299" cluster_no="215" true_id="282"></meta>
+
+<authors><author> C. Tait</author><author> and D. Duchamp.</author></authors><title> Service Interface and Replica Management Algorithm for Mobile File System Clients. </title><booktitle>In Proceedings of Parallel and Distributed Information Systems, </booktitle><pages>pages 190-196. </pages><publisher>IEEE, </publisher><date>1991.</date>
+
+<meta reference_no="300" cluster_no="216" true_id="267"></meta>
+
+<title>interface agents. </title><booktitle>In Proceedings of the 1994 AAAI Conference, </booktitle><location>Seattle, WA, </location><pages>pp. 444-449.</pages>
+
+<meta reference_no="301" cluster_no="217" true_id="322"></meta>
+
+<authors><author>Witten, I.H.</author></authors><date> (1982) </date><title>An interactive computer terminal interface which predicts user entries, </title><booktitle>Proc IEE Conference on ManMachine Interaction:</booktitle><pages> 15. </pages><location>Manchester, England.</location>
+
+<meta reference_no="302" cluster_no="217" true_id="322"></meta>
+
+<authors><author>Witten, I.H.</author></authors><date> (1982) </date><title>"An interactive computer terminal interface which predicts user entries," </title><booktitle>Proc IEE Conference on Man-Machine Interaction: </booktitle><pages>1-5. </pages><location>Manchester, England.</location>
+
+<meta reference_no="303" cluster_no="218" true_id="373"></meta>
+
+<authors><author> E. Balas</author><author> and S.M. Ng.</author></authors><title> On the set covering polytype: I. all the facets with coefficients in f0,1,2g.</title><journal> Mathematical Programming, </journal><volume>43:</volume><pages>57-69, </pages><date>1989.</date>
+
+<meta reference_no="304" cluster_no="218" true_id="373"></meta>
+
+<authors><author> E. Balas</author><author> and S.M. Ng.</author></authors><title> On the set covering polytype: II. lifting the facets with coefficients in f0,1,2g. </title><journal>Mathematical Programming, </journal><volume>45:</volume><pages>1-20, </pages><date>1989.</date>
+
+<meta reference_no="305" cluster_no="219" true_id="213"></meta>
+
+<authors><author> Edwin P.D. Pednault</author>. </authors><title>Some experiments in applying inductive inference principles to surface reconstruction. </title><booktitle>In Proc. of the Eleventh International Joint Conf. on Artificial Intelligence, </booktitle><pages>pages 1603-1609, </pages><date>1989.</date>
+
+<meta reference_no="306" cluster_no="219" true_id="213"></meta>
+
+<authors><author> Edwin P.D. Pednault.</author></authors><title> Some experiments in applying inductive inference principles to surface reconstruction. </title><booktitle>In Proc. of the Eleventh International Joint Conf. on Artificial Intelligence, </booktitle><pages>pages 1603-1609, </pages><date>1989.</date>
+
+<meta reference_no="307" cluster_no="219" true_id="213"></meta>
+
+<authors><author> Edwin P.D. Pednault</author>. </authors><title>Some experiments in applying inductive inference principles to surface reconstruction. </title><booktitle>In Proc. of the Eleventh International Joint Conf. on Artificial Intelligence, </booktitle><pages>pages 1603-1609, </pages><date>1989.</date>
+
+<meta reference_no="308" cluster_no="219" true_id="213"></meta>
+
+<authors><author> Edwin P.D. Pednault.</author></authors><title> Some experiments in applying inductive inference principles to surface reconstruction. </title><booktitle>In Proc. of the Eleventh International Joint Conf. on Artificial Intelligence, </booktitle><pages>pages 1603-1609, </pages><date>1989.</date>
+
+<meta reference_no="309" cluster_no="219" true_id="213"></meta>
+
+<authors><author>Pednault, E. P. D. </author></authors><date>(1989). </date><title>Some experiments in applying inductive inference principles to surface reconstruction. </title><booktitle>In 11th IJCAI, </booktitle><pages>pages 1603-1609. </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="310" cluster_no="219" true_id="213"></meta>
+
+<authors><author> E.P.D. Pednault</author>. </authors><title>Some experiments in applying inductive inference principles to surface reconstruction. </title><booktitle>In Proc. 11th Int'l Joint Conf. on Artificial Intelligence, </booktitle><pages>pages 16031609, </pages><location>Detroit, MI, </location><date>1989. </date><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="311" cluster_no="220" true_id="349"></meta>
+
+<authors><author> M. Sharir</author><author> and M. Overmars.</author></authors><title> A simple output-sensitive algorithm for hidden surface removal. </title><journal>ACM Transactions on Graphics, </journal><volume>11(1):</volume><pages>1-11, </pages><date>1992.</date>
+
+<meta reference_no="312" cluster_no="221" true_id="286"></meta>
+
+<authors><author>Gettys, J.,</author><author> Scheifler, R. W., and</author><author> Newman, R.</author></authors><date> (1989). </date><title>Xlib - C language X interface, MIT X consortium standard. </title><tech>Technical report, </tech><institution>Massachusetts Institute of Technology.</institution>
+
+<meta reference_no="313" cluster_no="222" true_id="308"></meta>
+
+<authors><author>Wolberg, W. </author>and <author> Mangasarian, O</author></authors><date> (1990) </date><title>Multisurface method of pattern separation for medical diagnosis applied to breast cytology, </title><booktitle>Proceedings of</booktitle>
+
+<meta reference_no="314" cluster_no="222" true_id="308"></meta>
+
+<authors><author> W. H. Wolberg</author><author> and O. L. Mangasarian.</author></authors><title> Multisurface method of pattern separation for medical diagnosis applied to breast cytology. </title><journal>Proceedings of the National Academy of Sciences, U.S.A., </journal><volume>87:</volume><pages>9193-9196, </pages><date>1990.</date>
+
+<meta reference_no="315" cluster_no="222" true_id="308"></meta>
+
+<authors><author> W.H. Wolberg</author><author> and O.L. Mangasarian,</author></authors><title> "Multisurface method of pattern separation for medical diagnosis applied to breast cytology," </title><journal>Proc. of the National Academy of Sciences, </journal><volume>vol. 87, </volume><pages>pp. 9193-9196, </pages><date>1990.</date>
+
+<meta reference_no="316" cluster_no="222" true_id="308"></meta>
+
+<note>46. </note><authors><author>Wolberg WH</author><author>, Mangasarian OL</author></authors><title>: Multisurface method of pattern separation for medical diagnosis applied to breast cytology. </title><journal>Proceedings of the National Academy of Sciences, U.S.A. </journal><volume>87:</volume><pages>9193-9196, 1990</pages>
+
+<meta reference_no="317" cluster_no="223" true_id="220"></meta>
+
+<authors><author> A. M. Waxman</author><author> and S. Ullman.</author></authors><title> Surface structure and three-dimensional motion from image flow kinematics. </title><journal>The International Journal of Robotics Research, </journal><volume>4(3), </volume><date>1985.</date>
+
+<meta reference_no="318" cluster_no="224" true_id="326"></meta>
+
+<authors><author>Metral, M. E.</author></authors><date> 1993. </date><title>Design of a Generic Learning Interface Agent. </title><tech>B. S. Thesis, </tech><institution>EECS dept., MIT.</institution>
+
+<meta reference_no="319" cluster_no="224" true_id="326"></meta>
+
+<authors><author>Metral, M.</author></authors><date> 1993. </date><title>Design of a Generic Learning Interface Agent. </title><tech>BSc Thesis, </tech><institution>Department of Electrical Engineering and Computer Science, MIT.</institution>
+
+<meta reference_no="320" cluster_no="225" true_id="307"></meta>
+
+<note>8. </note><authors><author>Mangasarian OL</author></authors><title>: Multi-surface method of pattern separation. </title><journal>IEEE Trans on information theory </journal> <date>1968;</date><volume>IT-14:</volume><pages>801-807.</pages>
+
+<meta reference_no="321" cluster_no="225" true_id="307"></meta>
+
+<note>25. </note><authors><author>Mangasarian OL</author></authors><title>: Multi-surface method of pattern separation. </title><journal>IEEE Transactions on Information Theory </journal> <volume>IT-14:</volume><pages>801-807,</pages> <date>1968</date>
+
+<meta reference_no="322" cluster_no="225" true_id="307"></meta>
+
+<authors><author> O. L. Mangasarian.</author></authors><title> Multi-surface method of pattern separation. </title><journal>IEEE Transactions on Information Theory, </journal><volume>IT-14:</volume><pages>801-807, </pages><date>1968.</date>
+
+<meta reference_no="323" cluster_no="225" true_id="307"></meta>
+
+<authors><author> O. L. Mangasarian.</author></authors><title> Multi-surface method of pattern separation. </title><journal>IEEE Trans on Information Theory, </journal><volume>IT-14:</volume><pages>801-807, </pages><date>1968.</date>
+
+<meta reference_no="324" cluster_no="225" true_id="307"></meta>
+
+<authors><author> O.L. Mangasarian,</author></authors><title> "Multisurface method of pattern separation," </title><journal>IEEE Transactions on Information Theory, </journal><volume>vol. 14, no. 6, </volume><pages>pp. 801-807, </pages><date>1968.</date>
+
+<meta reference_no="325" cluster_no="226" true_id="361"></meta>
+
+<authors><author> N. DEAN</author><author>, M., M. MEVENLAMP</author><author> and C. MONMA,</author></authors><date> 1992. </date><title>NETPAD: An interactive  graphics system for network modeling and optimization,</title><pages> pp. 231-243 </pages><booktitle>in Computer   34  Science and Operations Research: New Developments in their Interfaces,</booktitle><editor> O.Balci,  Sharda, R., Z</editor>
+
+<meta reference_no="326" cluster_no="227" true_id="366"></meta>
+
+<authors><author> S. Pakin</author><author>, M. Buchanan</author><author>, M. Lauria</author><author>, and A. Chien.</author></authors><title> The Fast Messages (FM) 2.0 streaming interface. </title><note>Submitted to </note><booktitle>Usenix'97, </booktitle><date>1996.</date>
+
+<meta reference_no="327" cluster_no="228" true_id="299"></meta>
+
+<authors><author> R. Hempel</author><author>, H.-C. Hoppe</author><author>, and A. Supalov. </author></authors><title>PARMACS-6.0 library interface specification. </title><tech>Technical report, </tech><institution>GMD, </institution><location>Postfach 1316, D-5205 Sankt Augustin 1, Germany, </location><date>December 1992.</date>
+
+<meta reference_no="328" cluster_no="229" true_id="440"></meta>
+
+<authors><author> Ramachandran, V.S.</author></authors><date> (1985), </date><title>Apparent motion of subjective surfaces, </title><journal>Perception, </journal><volume>14, </volume><pages>pp.127-134.</pages>
+
+<meta reference_no="329" cluster_no="230" true_id="280"></meta>
+
+<note>MIAMI</note><date> (1994). </date><title>Multimodal integration for advanced multimedia interfaces. </title><note>More information is available via WWW at http://www.nici.kun.nl/~miami/welcome.- html.</note>
+
+<meta reference_no="330" cluster_no="231" true_id="441"></meta>
+
+<authors><author> G. E. P. Box</author><author> and N. R. Draper. </author></authors><title>Empirical ModelBuilding and Response Surfaces.</title><publisher> Wiley,</publisher> <date>1987.</date>
+
+<meta reference_no="331" cluster_no="231" true_id="441"></meta>
+
+<authors><author> G. E. P. Box</author><author> and N. R. Draper.</author></authors><title> Empirical Model-Building and Response Surfaces.</title><publisher> Wiley</publisher><date>, 1987.</date>
+
+<meta reference_no="332" cluster_no="232" true_id="319"></meta>
+
+<authors><author> R.J. Stone.</author></authors><title> Advanced human-system interfaces for telerobotics using virtual reality and telepresence technologies. </title><booktitle>In Fifth Int. Conference on Advanced Robotics, </booktitle><location>Pisa, Italy, </location><date>June 1991.</date>
+
+<meta reference_no="333" cluster_no="233" true_id="303"></meta>
+
+<authors><author> A.L. Yuille.</author></authors><title> "Deformable Templates for Face Recognition". </title><journal>J. of Cognitive Neurosci., </journal><volume>3(1):</volume><pages>59-70, </pages><date>1991.</date>
+
+<meta reference_no="334" cluster_no="233" true_id="303"></meta>
+
+<authors><author> A.L. Yuille.</author></authors><title> "Deformable Templates for Face Recognition". </title><journal>J. of Cognitive Neurosci., </journal><volume>3(1):</volume><pages>59-70, </pages><date>1991.</date>
+
+<meta reference_no="335" cluster_no="234" true_id="377"></meta>
+
+<authors><author> A. Varshney</author><author> and F. P. Brooks, Jr.</author></authors><title> Fast analytical computation of Richards's smooth molecular surface. </title><booktitle>In Proc. Visualization, </booktitle><pages>pages 300-307, </pages><date>1993.</date>
+
+<meta reference_no="336" cluster_no="235" true_id="240"></meta>
+
+<authors><author> LOUNSBERY, M.</author></authors><title> Multiresolution Analysis for Surfaces of Arbitrary Topological Type. </title><tech>PhD thesis, </tech><institution>University of Washington, </institution><date>1994.</date>
+
+<meta reference_no="337" cluster_no="236" true_id="255"></meta>
+
+<authors><author>Collins, Robert J.</author></authors><date> (1990). </date><title>CM++: A C++ interface to the Connection Machine. </title><booktitle>In Proceedings of the Symposium on Object Oriented Programming Emphasizing Practical Applications. </booktitle><institution>Marist College.</institution>
+
+<meta reference_no="338" cluster_no="236" true_id="255"></meta>
+
+<authors><author>Collins, Robert J.</author></authors><date> (1990). </date><title>CM++: A C++ interface to the Connection Machine. </title><booktitle>In Proceedings of the Symposium on Object Oriented Programming Emphasizing Practical Applications. </booktitle><institution>Marist College.</institution>
+
+<meta reference_no="339" cluster_no="237" true_id="422"></meta>
+
+<authors><author> ALFELD, P.,</author><author> NEAMTU, M., AND</author><author> SCHUMAKER, L. L.</author></authors><title> BernsteinBezier polynomials on circles, sphere, and sphere-like surfaces. </title><note>Preprint.</note>
+
+<meta reference_no="340" cluster_no="238" true_id="396"></meta>
+
+<authors><author> David V. James</author><author>, Anthony T. Laundrie</author><author>, Stein Gjessing</author><author>, and Gurindar S. Sohi.</author></authors><title> Distributed-Directory Scheme: Scalable Coherent Interface. </title><journal>IEEE Computer, </journal><pages>pages7477, </pages><date>June1990.</date>
+
+<meta reference_no="341" cluster_no="239" true_id="257"></meta>
+
+<authors><author> H. Senay,</author></authors><title> "Fuzzy command grammars for intelligent interface design," </title><journal>IEEE Transactions on Systems, Man, and Cybernetics, </journal><volume>vol. 22, no. 5, </volume><pages>pp. 1124-1131, </pages><date>1992.</date>
+
+<meta reference_no="342" cluster_no="240" true_id="247"></meta>
+
+<authors><author>Brigham, J. C.</author></authors><date> (1986). </date><title>The influence of race on face recognition. </title><editor>In Ellis, H. D., Jeeves, M. A., and Newcombe, F., editors, </editor><booktitle>Aspects of face processing, </booktitle><pages>pages 170-177. </pages><publisher>Martinus Nijhoff, </publisher><location>Dordrecht.</location>
+
+<meta reference_no="343" cluster_no="241" true_id="204"></meta>
+
+<authors><author> Laurel, B.,</author></authors><title> Interface Agents: Metaphors with Character, </title><booktitle>in The Art of Human Computer Interface Design, </booktitle><editor>B. Laurel (ed), </editor><publisher>AddisonWesley, </publisher><date>1990.</date>
+
+<meta reference_no="344" cluster_no="241" true_id="204"></meta>
+
+<authors><author> B. Laurel.</author></authors><title> Interface agents: Metaphors with character. </title><editor>In B. Laurel, editor, </editor><title>The art of humancomputer interface design, </title><pages>pages 355-365. </pages><publisher>AddisonWesley, </publisher><date>1990.</date>
+
+<meta reference_no="345" cluster_no="241" true_id="204"></meta>
+
+<authors><author> Laurel, B.</author></authors><title> Interface agents: Metaphors with character. </title><editor>In Laurel, B. (Ed.):</editor><booktitle>The art of human-computer interface design </booktitle><pages>(pp. 355-365). </pages><location>Reading: </location><publisher>Addison-Wesley, </publisher><date>1990.</date>
+
+<meta reference_no="346" cluster_no="241" true_id="204"></meta>
+
+<authors><author>Laurel, B.</author></authors><date> (1990) </date><title>"Interface Agents: Metaphors with Character," </title><booktitle>in The Art of Humancomputer Interface Design, </booktitle><editor>ed. B. Laurel, </editor><publisher>Addison Wesley: Reading, </publisher><pages>355-365.</pages>
+
+<meta reference_no="347" cluster_no="242" true_id="380"></meta>
+
+<authors><author> Ernst Lutz</author><author>, Hans V. KliestRetzow</author><author> and Karl Hoernig.</author></authors><title> MAFIA An   Active MailFilterAgent For an Intelligent Document Processing   Support. </title><booktitle>Multiuser Interfaces and Applications. </booktitle><editor>S. Gibbs and A. A.   VerrijnStuart (Editors), </editor><publisher>Elsevier Science Publishe</publisher>
+
+<meta reference_no="348" cluster_no="243" true_id="268"></meta>
+
+<title>user interface agents. </title><booktitle>In Working Notes of the 1994 AAAI Spring Symposium on Software Agents, </booktitle><location>Stanford, CA, </location><pages>pp. 107-109.</pages>
+

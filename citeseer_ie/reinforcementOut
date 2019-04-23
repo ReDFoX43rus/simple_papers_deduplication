@@ -1,0 +1,1624 @@
+<meta reference_no="1" cluster_no="1" true_id="890"></meta>
+
+<authors><author> Eiji Uchibe</author>, <author>Minoru Asada</author>, and <author>Koh Hosoda</author>.</authors><title> Behavior coordination for a mobile robot using modular reinforcement learning. </title><booktitle>In Proc. of IEEE/RSJ International Conference on Intelligent Robots and Systems 1996 (IROS '96), </booktitle><pages>pages 1329-13</pages>
+
+<meta reference_no="2" cluster_no="1" true_id="890"></meta>
+
+<authors><author> Eiji Uchibe</author>, <author>Minoru Asada</author>, and <author>Koh Hosoda</author>.</authors><title> Behavior coordination for a mobile robot using modular reinforcement learning. </title><booktitle>In Proc. of IEEE/RSJ International Conference on Intelligent Robots and Systems 1996 (IROS '96), </booktitle><pages>pages 13291336,</pages><date> 1996.</date>
+
+<meta reference_no="3" cluster_no="2" true_id="820"></meta>
+
+<authors><author> H. Chung</author> and <author>C. Chiang</author>,</authors><title> "A Self-Learning and Tuning Fuzzy Logic Controller Employing Reinforcement Learning". </title><note>article submitted to </note><publisher>MITA Press, </publisher><date>May 1994.</date>
+
+<meta reference_no="4" cluster_no="3" true_id="846"></meta>
+
+<authors><author>Werbos, P. J.</author></authors><date> (1990). </date><title>Consistency of HDP Applied to a Simple Reinforcement Learning Problem. </title><journal>Neural Networks </journal><volume>3, </volume><pages>179-189.</pages>
+
+<meta reference_no="5" cluster_no="3" true_id="846"></meta>
+
+<authors><author>Werbos, P. J.</author></authors><date> (1990). </date><title>Consistency of HDP applied to a simple reinforcement learning problem.</title>
+
+<meta reference_no="6" cluster_no="4" true_id="815"></meta>
+
+<authors><author> R. Crites</author> and <author>A. Barto</author>.</authors><title> Improving elevator performance using reinforcement learning. </title><editor>In D. Touretzky, M. Mozer, and M. Hasselno, editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>8, </volume><date>1996.</date>
+
+<meta reference_no="7" cluster_no="4" true_id="815"></meta>
+
+<authors><author> R. Crites</author> and <author>A. Barto</author>.</authors><title> Improving elevator performance using reinforcement learning. </title><editor>In D. Touretzky, M. Mozer, and M. Hasselno, editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>8, </volume><date>1996.</date>
+
+<meta reference_no="8" cluster_no="4" true_id="815"></meta>
+
+<authors><author> R. H. Crites</author> and <author>A. G. Barto</author>.</authors><title> Improving Elevator Performance using Reinforcement Learning. </title><editor>In D. Touretzky, M. Mozer, and M. Hasselmo, editors, </editor><booktitle>Neural Information Processing Systems </booktitle><volume>8, </volume><date>1996.</date>
+
+<meta reference_no="9" cluster_no="4" true_id="815"></meta>
+
+<authors><author>Crites, R. H. </author>&<author> Barto, A. G.</author></authors><date> (1996). </date><title>Improving elevator performance using reinforcement learning. </title><editor>In Touretzky, D., Mozer, M., & Hasselmo, M., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>(volume 8). </volume><publisher>MIT Press, </publisher><location>Cambridge, MA.</location>
+
+<meta reference_no="10" cluster_no="4" true_id="815"></meta>
+
+<authors><author> R.H. Crites</author> and <author>A.G. Barto</author>.</authors><title> Improving elevator performance using reinforcement learning. </title><editor>In D.S. Touretzky, M.C. Mozer, and M.E. Hasselmo, editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>8, </volume><pages>pages 1017-1023, </pages><location>Cambridge MA, 1996. </location><publisher>MIT Press.</publisher>
+
+<meta reference_no="11" cluster_no="4" true_id="815"></meta>
+
+<authors><author>Crites, R. H., </author>and<author> Barto, A. G.</author></authors><date> (1996). </date><title>Improving elevator performance using reinforcement learning. </title><note>To appear </note><booktitle>in Advances in Neural Information Processing Systems </booktitle><volume>8, </volume><editor>D. S. Touretzky, M. C. Mozer, M. E. Hasselmo, eds., </editor><publisher>MIT Press.</publisher>
+
+<meta reference_no="12" cluster_no="4" true_id="815"></meta>
+
+<authors><author>Crites, R. H., </author>and<author> Barto, A. G</author></authors><date> (1996) </date><title>"Improving Elevator Performance Using Reinforcement Learning," </title><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>8, </volume><editor>Touretzky, D. S., Mozer, M. C., and Hasselmo, M. E., eds., </editor><publisher>MIT Press, </publisher><location>Cambridge, MA.</location>
+
+<meta reference_no="13" cluster_no="4" true_id="815"></meta>
+
+<authors><author>Crites R.H.</author>,<author> Barto A.G.</author></authors><date> (1995), </date><title>Improving elevator performance using reinforcement learning. </title><booktitle>Proceedings of 8th Neural Information Processing Systems Conference, </booktitle><location>Denver, Colorado.</location>
+
+<meta reference_no="14" cluster_no="5" true_id="839"></meta>
+
+<authors><author>Thrun, S. </author>&<author> Schwartz, A.</author></authors><date> (1993) </date><title>Issues in using function approximation for reinforcement learning. </title><booktitle>Proceedings of the Fourth Connectionist Models Summer School. </booktitle><location>Hillsdale, NJ: </location><publisher>Erlbaum.</publisher>
+
+<meta reference_no="15" cluster_no="5" true_id="839"></meta>
+
+<authors><author>S. Thrun</author> and <author>A. Schwartz</author>.</authors><title> Issues in using function approximation for reinforcement learning. </title><booktitle>In Proceedings of the Fourth Connectionist Models Summer School, </booktitle><location>Hillsdale, NJ, </location><date>1993. </date><note>Lawrence Erlbaum.</note>
+
+<meta reference_no="16" cluster_no="5" true_id="839"></meta>
+
+<authors><author> S. Thrun</author> and <author>A. Schwartz</author>.</authors><title> Issues in using function approximation for reinforcement learning. </title><booktitle>In Proceedings of the Fourth Connectionist Models Summer School, </booktitle><date>1993.</date>
+
+<meta reference_no="17" cluster_no="5" true_id="839"></meta>
+
+<authors><author> S. Thrun</author> and <author>A. Schwartz</author>.</authors><title> Issues in using function approximation for reinforcement learning. </title><booktitle>In Proceedings of the Fourth Connectionist Models Summer School, </booktitle><date>1993.</date>
+
+<meta reference_no="18" cluster_no="5" true_id="839"></meta>
+
+<authors><author> S. Thrun</author> and <author>A. Schwartz</author>.</authors><title> Issues in using approximation for reinforcement learning. </title><booktitle>In Proceedings of the Fourth Connectionist Models Summer School, </booktitle><location>Hillsdale, NJ, </location><date>1993. </date><institution>Lawrence Erlbaum Publisher.</institution>
+
+<meta reference_no="19" cluster_no="6" true_id="884"></meta>
+
+<authors><author> H. Berenji</author> and <author>P. Khedkar</author>,</authors><title> "Learning and Tuning Fuzzy Controllers Through Reinforcements", </title><journal>IEEE Transactions on Neural Networks, </journal><volume>vol. 3, no. 5, </volume><pages>pp 724-740, </pages><date>1992.</date>
+
+<meta reference_no="20" cluster_no="6" true_id="884"></meta>
+
+<authors><author>Berenji, H., </author>&<author> Khedkar, P.</author></authors><date> (1992). </date><title>Learning and tuning fuzzy logic controllers through reinforcements. </title><journal>IEEE Transactions on Neural Networks, </journal><volume>3, </volume><pages>724-740.</pages>
+
+<meta reference_no="21" cluster_no="6" true_id="884"></meta>
+
+<authors><author>Berenji, H. </author>&<author> Khedkar, P.</author></authors><date> (1992). </date><title>Learning and tuning fuzzy logic controllers through reinforcements. </title><journal>IEEE Transactions on Neural Networks, </journal><volume>3:</volume><pages>724-740.</pages>
+
+<meta reference_no="22" cluster_no="6" true_id="884"></meta>
+
+<authors><author> H. Berenji</author> and <author>P. Khedkar</author>.</authors><title> Learning and tuning fuzzy logic controllers through reinforcements. </title><journal>IEEE Transactions on Neural Networks, </journal><volume>3:</volume><pages>724-740, </pages><date>1992.</date>
+
+<meta reference_no="23" cluster_no="6" true_id="884"></meta>
+
+<authors><author> Berenji, H.R. </author>and<author> Khedkar, P.</author></authors><title> Learning and Tuning Fuzzy Controllers Through Reinforcements, </title><journal>IEEE Transactions on neural networks, </journal><volume>vol. 3, No. 5, </volume><pages>724-740, </pages><date>1992.</date>
+
+<meta reference_no="24" cluster_no="6" true_id="884"></meta>
+
+<authors><author>Berenji, H.</author>, &<author> Khedkar, P.</author></authors><date> 1992. </date><title>Learning and tuning fuzzy logic controllers through reinforcements. </title><journal>IEEE Trans. on Neural Networks </journal><volume>3:</volume><pages>724-740.</pages>
+
+<meta reference_no="25" cluster_no="6" true_id="884"></meta>
+
+<authors><author> H. Berenji</author> and <author>P. Khedkar</author>,</authors><title> "Learning and fine tuning fuzzy logic controllers through reinforcement," </title><journal>IEEE Transactions on Neural Networks, </journal><volume>vol. 3, no. 5, </volume><pages>pp. 724-740, </pages><date>1992.</date>
+
+<meta reference_no="26" cluster_no="6" true_id="884"></meta>
+
+<authors><author>Berenji, H.R.</author></authors><date> (1992). </date><title>Learning and tuning fuzzy controllers bthrough reinforcements.</title><journal> In: IEEE Trans. on Neural Networks, </journal><volume>vol. 3, 5, </volume><pages>pp. 724-740.</pages>
+
+<meta reference_no="27" cluster_no="7" true_id="766"></meta>
+
+<authors><author>Humphrys, M.</author></authors><date> (1996). </date><title>Action selection methods using reinforcement learning. </title><editor>In Maes, P., Mataric, M., Meyer, J.-A., Pollack, J., and Wilson, S. W., editors, </editor><booktitle>From Animals to Animats 4: Proceedings of the Fourth International Conference on Simulation of Ad</booktitle>
+
+<meta reference_no="28" cluster_no="8" true_id="883"></meta>
+
+<authors><author> Fiechter, C.-N.</author></authors><date> (1994) </date><title>Efficient Reinforcement Learning. </title><booktitle>COLT 94.</booktitle>
+
+<meta reference_no="29" cluster_no="9" true_id="793"></meta>
+
+<authors><author> J. H. Schmidhuber.</author></authors><title> An on-line algorithm for dynamic reinforcement learning and planning in reactive environments. </title><booktitle>In Proc. IEEE/INNS International Joint Conference on Neural Networks, </booktitle><location>San Diego, </location><volume>volume 2, </volume><pages>pages 253-258, </pages><date>1990.</date>
+
+<meta reference_no="30" cluster_no="10" true_id="811"></meta>
+
+<authors><author>Moore, A. W.</author></authors><date> (1994). </date><title>The parti-game algorithm for variable resolution reinforcement learning in multidimensional state spaces. </title><booktitle>In Advances in Neural Information Processing Systems </booktitle><volume>6, </volume><location>San Mateo, CA. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="31" cluster_no="10" true_id="811"></meta>
+
+<authors><author>A. W. Moore</author>.</authors><title> The parti-game algorithm for variable resolution reinforcement learning in multidimensional state spaces. </title><editor>In S. J. Hanson, J. D. Cowan, and C. L. Giles, editors, </editor><booktitle>Advances in Neural Information Processing Systems, </booktitle><volume>volume 6. </volume><publisher>Morgan Kaufmann, </publisher><O>1</O>
+
+<meta reference_no="32" cluster_no="10" true_id="811"></meta>
+
+<authors><author>Moore, A. W.</author></authors><date> (1994). </date><title>The partigame algorithm for variable resolution reinforcement learning in multidimensional state-spaces. </title><booktitle>In Neural Information Processing Systems </booktitle><volume>6, </volume><pages>pages 711-718. </pages><publisher>Morgan Kaufmann Publishers, </publisher><location>San Mateo, CA.</location>
+
+<meta reference_no="33" cluster_no="10" true_id="811"></meta>
+
+<authors><author>Moore, A. W.</author></authors><date> (1993). </date><title>The partigame algorithm for variable resolution reinforcement learning in multidimensional statespaces.. </title><note>submitted to </note><booktitle>NIPS 93.</booktitle>
+
+<meta reference_no="34" cluster_no="11" true_id="775"></meta>
+
+<authors><author>Jaakkola, T.</author>, <author>Singh, S. P.</author>, & <author>Jordan, M. I.</author></authors><date> (1995). </date><title>Reinforcement learning with soft state aggregation. </title><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>7 </volume><pages>(pp. 361-368),</pages><publisher> MIT Press.</publisher>
+
+<meta reference_no="35" cluster_no="11" true_id="775"></meta>
+
+<authors><author>Singh, S.</author>, <author>Jaakkola, T.</author>, and <author>Jordan, M.</author></authors><date> (1995). </date><title>Reinforcement learning with soft state aggregation. </title><editor>In Tesauro, G., Touretzky, D. S., and Leen, T. K., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>7, </volume><location>Cambridge, MA. </location><publisher>The MIT Press.</publisher>
+
+<meta reference_no="36" cluster_no="12" true_id="773"></meta>
+
+<authors><author> R. Andrew McCallum</author>.</authors><title> First results with utile distinction memory for reinforcement learning. </title><tech>Technical Report 446, </tech><institution>University of Rochester Computer Science Dept., </institution><date>1992.</date><O>  25</O>
+
+<meta reference_no="37" cluster_no="12" true_id="773"></meta>
+
+<authors><author> R. Andrew McCallum</author>.</authors><title> First results with utile distinction memory for reinforcement learning. </title><tech>Technical Report 446, </tech><institution>University of Rochester Computer Science Dept., </institution><date>1992.</date><O>  40</O>
+
+<meta reference_no="38" cluster_no="12" true_id="773"></meta>
+
+<authors><author>McCallum, R. A.</author></authors><date> (1992). </date><title>First results with utile distinction memory for reinforcement learning. </title><tech>Technical Report 446, </tech><location>Dept. Comp. Sci., Univ.</location>
+
+<meta reference_no="39" cluster_no="13" true_id="887"></meta>
+
+<authors><author>Pendrith, M.</author></authors><date> (1994). </date><title>On reinforcement learning of control actions in noisy and non-markovian domans. </title><tech>Technical Report UNSW-CSE-TR-9410, </tech><institution>School of Computer Science and Engineering, The University of New South Wales.</institution>
+
+<meta reference_no="40" cluster_no="13" true_id="887"></meta>
+
+<authors><author> M.D. Pendrith</author>.</authors><title> On reinforcement learning of control actions in noisy and non-Markovian domains. </title><tech>Tech. report, UNSW-CSE-TR-9410, </tech><institution>School of Comp. Sci. and Eng., Uni. of NSW, Australia, </institution><date>1994.</date>
+
+<meta reference_no="41" cluster_no="14" true_id="756"></meta>
+
+<authors><author>Kaelbling, L. P.</author></authors><date> (1993). </date><title>Hierarchical reinforcement learning: Preliminary results. </title><booktitle>In Proceedings of the Tenth International Conference on Machine Learning, </booktitle><pages>(pp. 167-173) </pages><location>San Francisco, CA. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="42" cluster_no="15" true_id="768"></meta>
+
+<authors><author>Digney, B.</author></authors><date> (1996). </date><title>Emergent hierarchical control structures: Learning reactive/hierarchical relationships in reinforcement environments. </title><editor>In Maes, P., Mataric, M., Meyer, J.-A., Pollack, J., and Wilson, S. W., editors, </editor><booktitle>From Animals to Animats 4: Proceedin</booktitle>
+
+<meta reference_no="43" cluster_no="16" true_id="760"></meta>
+
+<authors><author> Peter J. Millington</author>.</authors><title> Associative reinforcement learning for optimal control. </title><tech>Master's thesis, </tech><institution>Massachusetts Institute of Technology, </institution><date>1991. </date><note>(also Charles Stark Draper Laboratory, Inc., </note><tech>Technical Report CSDL-T-1070).</tech>
+
+<meta reference_no="44" cluster_no="16" true_id="760"></meta>
+
+<authors><author>Millington, P. J.</author></authors><date> (1991). </date><title>Associative reinforcement learning for optimal control.</title><tech> Unpublished master's thesis, </tech><institution>Massachusetts Institute of Technology, </institution><location>Cambridge, MA.</location>
+
+<meta reference_no="45" cluster_no="17" true_id="810"></meta>
+
+<authors><author> Moore, Andrew W. </author>and<author> Atkeson, Christopher G.</author></authors><date> 1993. </date><title>Memory-based reinforcement learning: Efficient computation with prioritized sweeping. </title><booktitle>In Advances in Neural Information Processing </booktitle><volume>5, </volume><location>San Mateo, California. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="46" cluster_no="18" true_id="855"></meta>
+
+<authors><author>Moriarty, D. E.</author> and <author>R. Miikkulainen</author></authors><date> (1996). </date><title>Efficient reinforcement learning through symbiotic evolution. </title><journal>Machine Learning </journal><volume>22 (1). </volume><note>In Press.</note>
+
+<meta reference_no="47" cluster_no="18" true_id="855"></meta>
+
+<authors><author>Moriarty, D. E.</author> and <author>R. Miikkulainen</author></authors><date> (1996). </date><title>Efficient reinforcement learning through symbiotic evolution. </title><journal>Machine Learning </journal><volume>22 (1). </volume><note>In Press.</note>
+
+<meta reference_no="48" cluster_no="18" true_id="855"></meta>
+
+<authors><author> David E. Moriarty</author> and <author>Risto Miikkulainen</author>.</authors><title> Efficient reinforcement learning through symbiotic evolution. </title><journal>Machine Learning, </journal><volume>22:</volume><pages>11-32, </pages><date>1996.</date>
+
+<meta reference_no="49" cluster_no="19" true_id="838"></meta>
+
+<authors><author>Buijtenen W.M.</author>, <author>Schram G.</author>, <author>Babuska R.</author>, <author>Verbruggen H.B.</author></authors><date> (1996), </date><title>Adaptive fuzzy control of satellite attitude by reinforcement learning. </title><note>Submitted to </note><booktitle>IEEE transactions on Fuzzy Systems.</booktitle>
+
+<meta reference_no="50" cluster_no="20" true_id="823"></meta>
+
+<authors><author> Ming Tan</author>.</authors><title> Cost sensitive reinforcement learning for adaptive classification and control. </title><booktitle>In AAAI, </booktitle><date>1991.</date>
+
+<meta reference_no="51" cluster_no="20" true_id="823"></meta>
+
+<authors><author>Tan, M.</author></authors><date> 1991. </date><title>Cost-sensitive reinforcement learning for adaptive classification and control. </title><booktitle>In Proceedings of the Ninth National Conference on Artificial Intelligence.</booktitle>
+
+<meta reference_no="52" cluster_no="21" true_id="752"></meta>
+
+<authors><author>Clouse, J.</author>, & <author>Utgoff, P.</author></authors><date> (1992). </date><title>A teaching method for reinforcement learning. </title><booktitle>In Proceedings of the Ninth International Conference on Machine Learning, </booktitle><pages>pp. 92-101 </pages><location>Aberdeen, Scotland.</location>
+
+<meta reference_no="53" cluster_no="21" true_id="752"></meta>
+
+<authors><author>Clouse, J.A.</author>, & <author>P.E. Utgoff</author>,</authors><date> 1992. </date><title>A teaching method for reinforcement learning. </title><booktitle>Proceedings of the Ninth Conference on Machine Learning, </booktitle><location>Aberdeen, Scotland, </location><pages>92101.</pages>
+
+<meta reference_no="54" cluster_no="21" true_id="752"></meta>
+
+<authors><author>Clouse, J. A. </author>& <author>Utgoff, P. E.</author></authors><date> (1992). </date><title>A Teaching Method for Reinforcement Learning. </title><booktitle>In Proceedings of the Ninth International Conference on Machine Learning. </booktitle><editor>Ed. D. Sleeman, & P. Edwards. </editor><publisher>Morgan Kaufmann, </publisher><pages>92-101.</pages>
+
+<meta reference_no="55" cluster_no="21" true_id="752"></meta>
+
+<authors><author>Clouse, J.</author> and <author>P. Utgoff</author>,</authors><title> A teaching method for reinforcement learning. </title><booktitle>In Proc. of the  Ninth International Workshop on Machine Learning, </booktitle><date>1992.</date>
+
+<meta reference_no="56" cluster_no="21" true_id="752"></meta>
+
+<authors><author> Clouse, J. </author>and <author>P. Utgoff</author>,</authors><title> A teaching method for reinforcement learning. </title><booktitle>In Proc. of the Ninth International Workshop on Machine Learning, </booktitle><date>1992.</date>
+
+<meta reference_no="57" cluster_no="21" true_id="752"></meta>
+
+<authors><author> Clouse, J. </author>and <author>P. Utgoff</author>,</authors><title> A teaching method for reinforcement learning. </title><booktitle>In Proc. of the Ninth International Workshop on Machine Learning, </booktitle><date>1992.</date>
+
+<meta reference_no="58" cluster_no="21" true_id="752"></meta>
+
+<authors><author>Clouse, J. </author>& <author>Utgoff, P.</author></authors><date> (1992). </date><title>A teaching method for reinforcement learning. </title><booktitle>In Machine Learning: Proceedings of the Ninth International Workshop, </booktitle><pages>(pp. 92-101),</pages><location> Aberdeen, Scotland.</location>
+
+<meta reference_no="59" cluster_no="21" true_id="752"></meta>
+
+<authors><author>Clouse, J.A.</author>, <author>Utgoff, P.E.</author></authors><date> (1992). </date><title>A teaching method for reinforcement learning. </title><booktitle>In: Proceedings of the MLC'92, </booktitle><location>San Mateo, CA, </location><pages>pp. 92-101.</pages>
+
+<meta reference_no="60" cluster_no="21" true_id="752"></meta>
+
+<authors><author>Clouse, J.</author>, & <author>Utgoff, P.</author></authors><date> 1992. </date><title>A teaching method for reinforcement learning. </title><booktitle>Proc. 9th Intl. ML Conf., </booktitle><pages>92-101.</pages>
+
+<meta reference_no="61" cluster_no="21" true_id="752"></meta>
+
+<authors><author> Jeffery A. Clouse</author> and <author>Paul E. Utgoff</author>.</authors><title> A teaching method for reinforcement learning. </title><booktitle>In The Proceedings of the Ninth International Machine Learning Conference. </booktitle><publisher>Morgan Kaufmann Publishers, Inc., </publisher><date>1992.</date>
+
+<meta reference_no="62" cluster_no="22" true_id="824"></meta>
+
+<authors><author>Lin, L</author></authors><date>. (1993). </date><title>Scaling up reinforcement learning for robot control. </title><booktitle>In Machine Learning: Proceedings on the Tenth International Conference,</booktitle><pages> (pp. 182-189),</pages><location> Amherst, MA.</location>
+
+<meta reference_no="63" cluster_no="22" true_id="824"></meta>
+
+<authors><author>Lin, L.</author></authors><date> (1993). </date><title>Scaling up reinforcement learning for robot control. </title><booktitle>In Proceedings of the Tenth International Conference on Machine Learning, </booktitle><pages>pp. 182-189 </pages><location>Amherst, MA.</location>
+
+<meta reference_no="64" cluster_no="22" true_id="824"></meta>
+
+<authors><author>Lin, L-J.</author></authors><date> (1993b). </date><title>Scaling up reinforcement learning for robot control. </title><booktitle>Proceedings of the Tenth International Conference on Machine Learning, </booktitle><publisher>Morgan Kaufmann, </publisher><pages>182189.</pages>
+
+<meta reference_no="65" cluster_no="22" true_id="824"></meta>
+
+<authors><author>Lin, L.</author></authors><date> 1993. </date><title>Scaling up reinforcement learning for robot control. </title><booktitle>Proc. 10th Intl. ML Conf., </booktitle><pages>182-189.</pages>
+
+<meta reference_no="66" cluster_no="23" true_id="861"></meta>
+
+<authors><author>Schmidhuber, J.</author>,<author> Zhao, J.</author>, and<author> Schraudolph, N.</author></authors><date> (1997a). </date><title>Reinforcement learning with selfmodifying policies. </title><editor>In Thrun, S. and Pratt, L., editors, </editor><booktitle>Learning to learn. </booktitle><publisher>Kluwer.</publisher><note> in press.</note>
+
+<meta reference_no="67" cluster_no="23" true_id="861"></meta>
+
+<authors><author>Schmidhuber, J.</author>,<author> Zhao, J.</author>, and<author> Schraudolph, N.</author></authors><date> (1997a). </date><title>Reinforcement learning with selfmodifying policies. </title><editor>In Thrun, S. and Pratt, L., editors, </editor><booktitle>Learning to learn.</booktitle><publisher> Kluwer. </publisher><note>in press.</note>
+
+<meta reference_no="68" cluster_no="24" true_id="825"></meta>
+
+<authors><author> S.D. Whitehead</author> and <author>D. H. Ballard</author>.</authors><title> Active perception and reinforcement learning. </title><journal>Neural Computation, </journal><volume>2(4):</volume><pages>409-419, </pages><date>1990.</date>
+
+<meta reference_no="69" cluster_no="24" true_id="825"></meta>
+
+<authors><author>Whitehead, S. </author>and<author> Ballard, D. H.</author></authors><date> (1990). </date><title>Active perception and reinforcement learning. </title><journal>Neural Computation, </journal><volume>2(4):</volume><pages>409-419.</pages>
+
+<meta reference_no="70" cluster_no="25" true_id="761"></meta>
+
+<authors><author>Sutton, R.</author></authors><date> (1991). </date><title>Reinforcement learning architectures for animats. </title><editor>In Meyer, J. & Wilson, S., editors, </editor><booktitle>From Animals to Animats: Proceedings of the First International Conference on Simulation of Adaptive Behavior. </booktitle><publisher>MIT Press, </publisher><location>Cambridge, MA.</location>
+
+<meta reference_no="71" cluster_no="25" true_id="761"></meta>
+
+<authors><author>Sutton, R.</author></authors><date> (1991). </date><title>Reinforcement learning architectures for animats. </title><editor>In Meyer, J., & Wilson, S. (Eds.), </editor><booktitle>From Animals to Animats: Proceedings of the First International Conference on Simulation of Adaptive Behavior, </booktitle><pages>pp. 288-296. </pages><publisher>MIT Press, </publisher><location>Cambridge, MA.</location>
+
+<meta reference_no="72" cluster_no="25" true_id="761"></meta>
+
+<authors><author> Sutton R. S.</author>,</authors><title> Reinforcement Learning Architectures for Animats,</title><booktitle> In: From Animals to Animats, Proceedings of the First International Conference on the Simulation of Adaptive Behavior, </booktitle><editor>edited by Meyer J.-A. & Wilson S.W., </editor><publisher>MIT Press/Bradford Books, </publisher><date>1991</date>
+
+<meta reference_no="73" cluster_no="25" true_id="761"></meta>
+
+<authors><author>Sutton, R.</author></authors><date> 1991. </date><title>Reinforcement learning architectures for animats. </title><editor>In Meyer, J., & Wilson, S., eds., </editor><booktitle>From Animals to Animats. </booktitle><publisher>MIT Press.</publisher>
+
+<meta reference_no="74" cluster_no="25" true_id="761"></meta>
+
+<authors><author>Sutton, R. S.</author></authors><date> (1991), </date><title>Reinforcement Learning Architectures for Animats,</title><booktitle> in `First International Conference on Simulation of Adaptive Behavior', </booktitle><publisher>The MIT Press, </publisher><location>Cambridge, MA.</location>
+
+<meta reference_no="75" cluster_no="26" true_id="757"></meta>
+
+<authors><author>Chapman, D.</author>, & <author>Kaelbling, L. P.</author></authors><date> (1991). </date><title>Input generalization in delayed reinforcement learning: An algorithm and performance comparisons. </title><booktitle>In Proc. 12th IJCAI, </booktitle><pages>pp. 726-731. </pages><publisher>Morgan Kaufmann.</publisher><authors><author>  Cormen, T. H.</author>, <author>Leiserson, C. E.</author>, & <author>Rivest, R. L.</author></authors>
+
+<meta reference_no="76" cluster_no="26" true_id="757"></meta>
+
+<authors><author>Chapman, D.</author> and <author>L. P. Kaelbling</author></authors><date> (1991). </date><title>"Input generalization in delayed reinforcement learning: An alogorithm and performance comparisons". </title><booktitle>In: Proc. of IJCAI-91. </booktitle><pages>pp. 726-731.</pages>
+
+<meta reference_no="77" cluster_no="26" true_id="757"></meta>
+
+<authors><author>Chapman, D. </author>& <author>Kaelbling, L.</author></authors><date> 1991. </date><title>Input generalization in delayed reinforcement learning: An algorithm and performance comparisons. </title><booktitle>In Proceedings of Twelfth International Joint Conference on Artificial Intelligence </booktitle><pages>(pp. 726-731). </pages><location>San Mateo, CA: </location><publisher>Morgan K</publisher>
+
+<meta reference_no="78" cluster_no="26" true_id="757"></meta>
+
+<O>5. </O><authors><author>David J. Chapman</author> and <author>Leslie Pack Kaelbling</author></authors><date> (1991). </date><title>Input Generalization in Delayed Reinforcement Learning: An Algorithm and Performance Comparisons. </title><booktitle>Proc. of the Twelfth Intern. Conf. on Articial Intelligence, </booktitle><pages>pp. 726 - 731.</pages>
+
+<meta reference_no="79" cluster_no="27" true_id="758"></meta>
+
+<authors><author> David Chapman</author> and <author>Leslie Pack Kaelbling.</author></authors><title> Learning from delayed reinforcement in a complex domain. </title><booktitle>In Proceedings of IJCAI, </booktitle><date>1991.</date>
+
+<meta reference_no="80" cluster_no="28" true_id="771"></meta>
+
+<authors><author> Krose, B.J.A.</author> and <author>J.W.M. van Dam,</author></authors><title> "Learning to avoid collision: a reinforcement learning paradigm for mobile robot navigation" </title><booktitle>IFAC/IFIP/IMACS International Symposium on Artificial Intelligence in Real-Time Control, </booktitle><location>Delft, </location><date>1992.</date>
+
+<meta reference_no="81" cluster_no="29" true_id="854"></meta>
+
+<authors><author> S.P. Singh</author> and <author>R.S. Sutton</author>.</authors><title> Reinforcement learning with replacing eligibility traces. </title><note>To Appear </note><journal>In: Machine Learning, </journal><date>1996.</date>
+
+<meta reference_no="82" cluster_no="30" true_id="836"></meta>
+
+<authors><author> Goldberg, D. E.</author></authors><date> (1988). </date><title>Probability matching, the magnitude of reinforcement, and classifier system bidding. </title><tech>(TCGA Report No. 88002).</tech><location> Tuscaloosa: </location><institution>University of Alabama, Department of Engineering Mechanics.</institution>
+
+<meta reference_no="83" cluster_no="31" true_id="782"></meta>
+
+<authors><author> S. D. Whitehead</author>.</authors><title> "A complexity analysis of cooperative mechanisms in reinforcement learning". </title><booktitle>In Proc. AAAI-91, </booktitle><pages>pages 607-613, </pages><date>1991.</date>
+
+<meta reference_no="84" cluster_no="31" true_id="782"></meta>
+
+<authors><author>Whitehead, S. D.</author></authors><date> (1991). </date><title>"A complexity analysis of cooperative mechanisms in reinforcement learning". </title><booktitle>In: Proc. AAAI-91. </booktitle><pages>pp. 607-613.</pages>
+
+<meta reference_no="85" cluster_no="31" true_id="782"></meta>
+
+<authors><author>Whitehead, S.</author></authors><date> 1991. </date><title>A complexity analysis of cooperative mechanisms in reinforcement learning. </title><booktitle>AAAI-91, </booktitle><pages>607-613.</pages>
+
+<meta reference_no="86" cluster_no="31" true_id="782"></meta>
+
+<authors><author>Whitehead, S.D.</author></authors><date> (1991). </date><title>A complexity analysis of cooperative mechanisms in reinforcement learning. </title><booktitle>In: Proceedings of the 9th NIPS, </booktitle><publisher>AAAI Press, </publisher><pages>pp. 607613.</pages>
+
+<meta reference_no="87" cluster_no="31" true_id="782"></meta>
+
+<authors><author>Whitehead, S.</author></authors><date> (1991). </date><title>A complexity analysis of cooperative mechanisms in reinforcement learning. </title><booktitle>In Proceedings of the Ninth National Conference on Artificial Intelligence, </booktitle><pages>pp. 607613 </pages><location>Anaheim, CA.</location>
+
+<meta reference_no="88" cluster_no="31" true_id="782"></meta>
+
+<authors><author>Whitehead, S. D.</author>,</authors><date> 1991a. </date><title>A complexity analysis of cooperative mechanisms in reinforcement learning. </title><booktitle>Proceedings of the 9th National Conference on Artificial Intelligence, </booktitle><pages>607613.</pages>
+
+<meta reference_no="89" cluster_no="31" true_id="782"></meta>
+
+<O>7. </O><authors><author>S.D. Whitehead</author>,</authors><title> A complexity analysis of cooperative mechanisms in reinforcement learning, </title><booktitle>Proceeding of the Ninth National Conference on Artificial Intelligence (AAAI91), </booktitle><pages>607613, </pages><date>1991.</date>
+
+<meta reference_no="90" cluster_no="31" true_id="782"></meta>
+
+<authors><author>Whitehead, S.</author></authors><date> (1991), </date><title>A complexity analysis of cooperative mechanisms in reinforcement learning, </title><booktitle>in "AAAI-91: Proceedings of the Ninth National Conference on Artificial Intelligence", </booktitle><publisher>AAAI Press/MIT Press.</publisher>
+
+<meta reference_no="91" cluster_no="31" true_id="782"></meta>
+
+<authors><author>Whitehead,S.D.</author></authors><date> (1991b). </date><title>A complexity analysis of cooperative mechansims in reinforcement learning.</title>
+
+<meta reference_no="92" cluster_no="32" true_id="826"></meta>
+
+<authors><author> M. L. Littman</author> and <author>C. Szepesvari</author>.</authors><title> A generalized reinforcement-learning model: Convergence and applications. </title><editor>In L. Saitta, editor, </editor><booktitle>Machine Learning: Proceedings Of The Thirteenth International Conference</booktitle><note> (this volume). </note><publisher>Morgan</publisher>
+
+<meta reference_no="93" cluster_no="32" true_id="826"></meta>
+
+<authors><author> M. L. Littman</author> and <author>C. Szepesvari</author>.</authors><title> A generalized reinforcement-learning model: Convergence and applications. </title><editor>In L. Saitta, editor, </editor><booktitle>Machine Learning: Proceedings of the Thirteenth International Conference. </booktitle><publisher>Morgan Kaufmann, </publisher><date>199</date>
+
+<meta reference_no="94" cluster_no="33" true_id="853"></meta>
+
+<authors><author> Satinder P. Singh</author>.</authors><title> Reinforcement learning with a hierarchy of abstract models. </title><booktitle>In AAAI-92, </booktitle><date>1992.</date>
+
+<meta reference_no="95" cluster_no="34" true_id="857"></meta>
+
+<authors><author>Whitley, D.</author>,<author> Dominic, S.</author>,<author> Das, R.</author>, and<author> Anderson, C. W.</author></authors><date> (1993). </date><title>Genetic reinforcement learning for neurocontrol problems. </title><journal>Machine Learning, </journal><volume>13:</volume><pages>259-284.</pages>
+
+<meta reference_no="96" cluster_no="34" true_id="857"></meta>
+
+<O>3. </O><authors><author>Whitley</author>, <author>D., S. Dominic</author>, <author>R. Das</author>, <author>C. Anderson</author></authors><date> (1993). </date><title>Genetic reinforcement learning for neurocontrol problems. </title><journal>Machine Learning </journal><volume>13(2/3), </volume><pages>259-284.</pages>
+
+<meta reference_no="97" cluster_no="34" true_id="857"></meta>
+
+<authors><author> Whitley, D.</author>,<author> Dominic, S.</author>,<author> Das, R.</author>, and<author> Anderson, C.</author></authors><date> (1993). </date><title>Genetic Reinforcement Learning for Neurocontrol Problems. </title><journal>Machine Learning, </journal><volume>13:</volume><pages>259-284.</pages>
+
+<meta reference_no="98" cluster_no="34" true_id="857"></meta>
+
+<authors><author>Whitley, D.</author>, <author>S. Dominic</author>, <author>R. Das</author>, <author>C. Anderson</author></authors><date> (1993). </date><title>Genetic reinforcement learning for neurocontrol problems. </title><journal>Machine Learning </journal><volume>13(2/3), </volume><pages>259-284.</pages>
+
+<meta reference_no="99" cluster_no="34" true_id="857"></meta>
+
+<authors><author>Whitley, D.</author>,<author> Dominic, S.</author>,<author> Das, R.</author>, and<author> Anderson, C. W.</author></authors><date> (1993). </date><title>Genetic reinforcement learning for neurocontrol problems. </title><journal>Machine Learning, </journal><volume>13:</volume><pages>259-284.</pages>
+
+<meta reference_no="100" cluster_no="34" true_id="857"></meta>
+
+<O>11. </O><authors><author>Whitley</author>, <author>D., S. Dominic</author>, <author>R. Das</author>, <author>C. Anderson</author></authors><date> (1993). </date><title>Genetic reinforcement learning for neurocontrol problems. </title><journal>Machine Learning </journal><volume>13(2/3), </volume><pages>259-284.</pages>
+
+<meta reference_no="101" cluster_no="35" true_id="794"></meta>
+
+<authors><author>Williams, R. J.</author></authors><date> (1988). </date><title>On the use of backpropagation in associative reinforcement learning. </title><booktitle>In Proceedings of the IEEE International Conference on Neural Networks </booktitle><location>San Diego, California.</location>
+
+<meta reference_no="102" cluster_no="35" true_id="794"></meta>
+
+<authors><author> R. J. Williams</author>.</authors><title> On the use of backpropagation in associative reinforcement learning. </title><booktitle>In IEEE International Conference on Neural Networks, San Diego, </booktitle><volume>volume 2, </volume><pages>pages 263-270, </pages><date>1988.</date>
+
+<meta reference_no="103" cluster_no="36" true_id="852"></meta>
+
+<authors><author>Ok, D.</author>, &<author> Tadepalli, P.</author></authors><date> (1996). </date><title>Auto-exploratory average reward reinforcement learning. </title><booktitle>In Proceedings of AAAI-96.</booktitle>
+
+<meta reference_no="104" cluster_no="37" true_id="850"></meta>
+
+<authors><author>Szepesvari, C. </author>and<author> Littman, M. L.</author></authors><date> (1996). </date><title>Generalized Markov decision processes: Dynamicprogramming and reinforcement-learning algorithms. </title><tech>Technical Report CS-96-11, </tech><institution>Brown University, </institution><location>Providence, RI.</location>
+
+<meta reference_no="105" cluster_no="38" true_id="797"></meta>
+
+<authors><author>Koenig, S. </author>and<author> Simmons, R. G.</author></authors><date> (1996). </date><title>The effect of representation and knowedge on goal-directed exploration with reinforcement learnign algorithm. </title><journal>Machine Learning, </journal><volume>22:</volume><pages>228-250.</pages>
+
+<meta reference_no="106" cluster_no="39" true_id="858"></meta>
+
+<authors><author>Ilg W.</author>, <author>Berns K.</author></authors><date> (1995), </date><title>A learning architecture based on reinforcement learning for adaptive control of the walking machine LAURON. </title><journal>Robotics and Autonomous Systems, </journal><volume>Vol 15, </volume><pages>pp 321-334.</pages>
+
+<meta reference_no="107" cluster_no="40" true_id="897"></meta>
+
+<authors><author> M. L. Littman</author>.</authors><title> Markov games as a framework for multi-agent reinforcement learning. </title><booktitle>In Proc. of Conf. on Machine Learning-1994, </booktitle><pages>pages 157-163, </pages><date>1994.</date>
+
+<meta reference_no="108" cluster_no="40" true_id="897"></meta>
+
+<authors><author> Michael L. Littman</author>.</authors><title> Markov games as a framework for multi-agent reinforcement learning. </title><booktitle>Proceedings of the eleventh International Conference on Machine Learning, </booktitle><pages>pages 157-163, </pages><date>July 1994.</date>
+
+<meta reference_no="109" cluster_no="40" true_id="897"></meta>
+
+<authors><author>Littman, M. L.</author></authors><date> (1994). </date><title>Markov games as a framework for multi-agent reinforcement learning. </title><booktitle>In Proceedings of the Eleventh International Conference on Machine Learning, </booktitle><pages>pages 157-163, </pages><location>San Francisco, CA. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="110" cluster_no="40" true_id="897"></meta>
+
+<authors><author> Littman, M.</author></authors><date> (1994) </date><title>Markov Games as a Framework for Multi-agent Reinforcement Learning. </title><booktitle>Machine Learning: Proceedings of the Eleventh International Conference.</booktitle>
+
+<meta reference_no="111" cluster_no="40" true_id="897"></meta>
+
+<authors><author> Michael L. Littman</author>.</authors><title> Markov games as a framework for multiagent reinforcement learning. </title><booktitle>In Proceedings of the Eleventh International Conference on Machine Learning, </booktitle><pages>pages 157163, </pages><location>San Mateo, CA, 1994. </location><publisher>Morgan Kaufman.</publisher>
+
+<meta reference_no="112" cluster_no="41" true_id="832"></meta>
+
+<authors><author> R. Maclin</author> and <author>J. Shavlik</author>,</authors><title> "Incorporating advice into agents that learn from reinforcements," </title><booktitle>in Proceedings of the Twelfth National Conference on Artificial Intelligence, </booktitle><location>(Seattle, WA), </location><pages>pp. 694-699, </pages><publisher>AAAI/MIT Press, </publisher><date>1994.</date>
+
+<meta reference_no="113" cluster_no="41" true_id="832"></meta>
+
+<authors><author>Maclin, R.</author>, &<author> Shavlik, J.</author></authors><date> (1994). </date><title>Incorporating advice into agents that learn from reinforcements. </title><booktitle>In Proceedings of the Twelfth National Conference on Artificial Intelligence, </booktitle><pages>pp. 694-699 </pages><location>Seattle, WA.</location>
+
+<meta reference_no="114" cluster_no="42" true_id="779"></meta>
+
+<authors><author> T. Robinson</author> and <author>F. Fallside</author>.</authors><title> Dynamic reinforcement driven error propagation networks with application to game playing. </title><booktitle>In Eleventh Annual Conference of the Cognitive Science Society, </booktitle><date>1989.</date>
+
+<meta reference_no="115" cluster_no="42" true_id="779"></meta>
+
+<authors><author> T. Robinson</author> and <author>F. Fallside</author>.</authors><title> Dynamic reinforcement driven error propagation networks with application to game playing. </title><booktitle>In Proceedings of the 11th Conference of the Cognitive Science Society,</booktitle><location> Ann Arbor,</location><pages> pages 836-843, </pages><date>1989.</date>
+
+<meta reference_no="116" cluster_no="43" true_id="765"></meta>
+
+<authors><author> Littman, M. L.</author></authors><title> An optimization-based categorization of reinforcement learning environments. </title><booktitle>In In From Animals to Animats 2: Proceedings of the Second International Conference on Simulation of Adaptive Behavior </booktitle><date>(1992), </date><editor>J.-A. M. H. Roitblat and S. W.</editor>
+
+<meta reference_no="117" cluster_no="43" true_id="765"></meta>
+
+<authors><author> Littman M.</author>,</authors><title> An Optimization-Based Categorization of Reinforcement Learning Environments. </title><booktitle>In: From Animals to Animats 2, Proceedings of the Second International Conference on Simulation of Adaptive Behavior, </booktitle><editor>edited by Meyer J.-A., Roitblat H.L. & Wil</editor>
+
+<meta reference_no="118" cluster_no="44" true_id="894"></meta>
+
+<authors><author> R. A. McCallum</author>.</authors><title> Instance-based utile distinctions for reinforcement learning with hidden state. </title><editor>In A. Prieditis and S. Russell, editors, </editor><booktitle>Machine Learning: Proceedings of the Twelfth International Conference, </booktitle><pages>pages 387-395. </pages><publisher>Morgan Kaufmann Publishers</publisher>
+
+<meta reference_no="119" cluster_no="44" true_id="894"></meta>
+
+<authors><author>McCallum, R. A.</author></authors><date> (1995). </date><title>Instance-based utile distinctions for reinforcement learning with hidden state. </title><editor>In Prieditis, A. and Russell, S., editors, </editor><booktitle>Machine Learning: Proceedings of the Twelfth International Conference, </booktitle><pages>pages 387-395. </pages><publisher>Morgan Kaufmann Publi</publisher>
+
+<meta reference_no="120" cluster_no="44" true_id="894"></meta>
+
+<authors><author> R. Andrew McCallum</author>.</authors><title> Instance-based utile distinctions for reinforcement learning with hidden state. </title><booktitle>In Proceedings of the Twelfth International Conference on Machine Learning, </booktitle><pages>pages 387-395, </pages><location>San Francisco, CA, 1995. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="121" cluster_no="45" true_id="867"></meta>
+
+<authors><author> Roger Ford</author>, <author>Craig Boutilier</author>, and <author>Keiji Kanazawa</author>.</authors><title> Exploiting natural structure in reinforcement learning: Experience in robot soccerplaying,</title><date> 1994.</date><note> Unpublished Manuscript.</note>
+
+<meta reference_no="122" cluster_no="46" true_id="759"></meta>
+
+<authors><author>Chapman, D. </author>and <author>Kaelbing, L. P.</author></authors><date> (1991). </date><title>Learning from delayed reinforcement in a complex domain. </title><tech>Technical report, </tech><institution>Teleos Research.</institution>
+
+<meta reference_no="123" cluster_no="46" true_id="759"></meta>
+
+<O>8. </O><authors><author>D. Chapman</author> and <author>L. P. Kaelbling</author>.</authors><title> Learning from Delayed Reinforcement In a Complex Domain. </title><tech>Technical Report, </tech><institution>Teleos Research, </institution><date>1991.</date>
+
+<meta reference_no="124" cluster_no="47" true_id="803"></meta>
+
+<authors><author>Millan, J. del R.</author>, & <author>C. Torras</author>,</authors><date> 1992. </date><title>A reinforcement connectionist approach to robot path finding in non maze-like environments. </title><journal>Machine Learning , </journal><volume>8, 3-4, </volume><pages>363395.</pages>
+
+<meta reference_no="125" cluster_no="47" true_id="803"></meta>
+
+<authors><author> J. del R. Millan</author>, <author>C. Torras</author>,</authors> <title>"A reinforcement connectionist approach to robot path finding in non-maze-like environments," </title><journal>Machine Learning </journal><volume>8,</volume><pages> pp. 363-395, </pages><date>1992.</date>
+
+<meta reference_no="126" cluster_no="48" true_id="817"></meta>
+
+<authors><author> S. Davies</author>.</authors><title> Multidimensional Triangulation and Interpolation for Reinforcement Learning. </title><booktitle>In Neural Information Processing Systems </booktitle><volume>9, </volume><pages>1996. </pages><publisher>Morgan Kaufmann, </publisher><date>1997.</date>
+
+<meta reference_no="127" cluster_no="49" true_id="763"></meta>
+
+<authors><author>Whitehead, Steven D.</author></authors><date> (1991). </date><title>A study of cooperative mechanisms for faster reinforcement learning. </title><tech>Technical Report 365. </tech><institution>University of Rochester, Computer Science Department.</institution>
+
+<meta reference_no="128" cluster_no="49" true_id="763"></meta>
+
+<authors><author>Whitehead, S. D.</author>,</authors><date> 1991b. </date><title>A study of cooperative mechanisms for faster reinforcement learning. </title><tech>Technical Report CS-365, </tech><institution>University of Rochester, NY.</institution>
+
+<meta reference_no="129" cluster_no="49" true_id="763"></meta>
+
+<O>1. </O><authors><author>S.D. Whitehead</author>,</authors><title> A study of cooperative mechanisms for faster reinforcement learning, </title><tech>TR-365, </tech><institution>Computer Science Dept., University of Rochester, </institution><date>1991.</date>
+
+<meta reference_no="130" cluster_no="49" true_id="763"></meta>
+
+<authors><author>Whitehead,S.D.</author></authors><date> (1991a). </date><title>A study of cooperative mechanisms for faster reinforcement learning. </title><tech>TR 365, </tech><institution>Computer Science Dept., University of Rochester.</institution>
+
+<meta reference_no="131" cluster_no="49" true_id="763"></meta>
+
+<authors><author> Steven D. Whitehead</author> and <author>Dana H. Ballard</author>.</authors><title> A study of cooperative mechanisms for faster reinforcement learning. </title><tech>TR 365, </tech><institution>Computer Science Dept., University of Rochester, </institution><date>Feburary 1991.</date>
+
+<meta reference_no="132" cluster_no="50" true_id="888"></meta>
+
+<authors><author> M. Asada</author>, <author>S. Noda</author>, <author>S. Tawaratumida</author>, and <author>K. Hosoda</author>.</authors><title> Purposive behavior acquisition for a real robot by vision-based reinforcement learning. </title><journal>Machine Learning, </journal><volume>23:</volume><pages>279-303, </pages><date>1996.</date>
+
+<meta reference_no="133" cluster_no="50" true_id="888"></meta>
+
+<authors><author> M. Asada</author>, <author>S. Noda</author>, <author>S. Tawaratumida</author>, and <author>K. Hosoda</author>.</authors><title> Purposive behavior acquisition for a real robot by vision-based reinforcement learning. </title><journal>Machine Learning, </journal><volume>23:</volume><pages>279-303, </pages><date>1996.</date>
+
+<meta reference_no="134" cluster_no="50" true_id="888"></meta>
+
+<authors><author> M. Asada</author>, <author>S. Noda</author>, <author>S. Tawaratumida</author>, and <author> K. Hosoda</author>.</authors><title> Purposive behavior acquisition for a real robot by vision-based reinforcement learning. </title><journal>Machine Learning, </journal><volume>23:</volume><pages>279-303, </pages><date>1996.</date>
+
+<meta reference_no="135" cluster_no="50" true_id="888"></meta>
+
+<O>2. </O><authors><author>Minoru Asada</author>, <author>Shoichi Noda</author>, <author>Sukoya Tawaratumida</author>, and <author>Koh Hosoda</author>.</authors><title> Purposive behavior acquisition for a real robot by vision-based reinforcement learning. </title><journal>Machine Learning, </journal><volume>23:</volume><pages>279-303, </pages><date>1996.</date>
+
+<meta reference_no="136" cluster_no="50" true_id="888"></meta>
+
+<authors><author> M. Asada</author>, <author>S. Noda</author>, <author>S. Tawaratumida</author>, and <author>K. Hosoda</author>.</authors><title> Purposive behavior acquisition for a real robot by visionbased reinforcement learning. </title><journal>Machine Learning, </journal><date>23:279 303, 1996.</date>
+
+<meta reference_no="137" cluster_no="50" true_id="888"></meta>
+
+<authors><author> Minoru Asada</author>, <author>Shoichi Noda</author>, <author>Sukoya Tawaratsumida</author>, and <author>Koh Hosoda</author>.</authors><title> Purposive behav ior acquisition for a real robot by visionbased reinforcement learnin. </title><journal>Machine Learning, </journal><volume>12((2/3)):</volume><pages>279303, </pages><date>May 1996.</date>
+
+<meta reference_no="138" cluster_no="51" true_id="843"></meta>
+
+<authors><author> G. Weiss</author>,</authors><title> Multi-agent reinforcement learning, </title><editor>appears in: L. Steels, ed., </editor><booktitle>The Biology and Technology of Intelligent Autonomous Agents </booktitle><publisher>(Springer, </publisher><location>Berlin, </location><date>1994).</date>
+
+<meta reference_no="139" cluster_no="52" true_id="872"></meta>
+
+<O>6. </O><authors><author>Helen G. Cobb</author></authors><note> (Forthcoming). </note><title>Toward Understanding Learning Biases in a Collective Reinforcement Learner. </title><tech>D.Sc. dissertation, </tech><institution>The George Washington University, </institution><location>Washington, DC.</location>
+
+<meta reference_no="140" cluster_no="53" true_id="806"></meta>
+
+<O>10. </O><authors><author>P. Dayan</author> and <author>G. E. Hinton</author>.</authors><title> Feudal Reinforcement Learning. </title><editor>In S. J. Hanson, J. D Cowan, and C. L. Giles, editors,</editor><booktitle> Advances in Neural Information Processing Systems </booktitle><volume>5. </volume><publisher>Morgan Kaufmann, </publisher><date>1993. </date><O> 36 </O><authors><author>A.W. MOORE</author> AND <author>C.G. ATKESON</author></authors>
+
+<meta reference_no="141" cluster_no="53" true_id="806"></meta>
+
+<authors><author>Dayan, P.</author>, &<author> Hinton, G. E.</author></authors><date> (1993). </date><title>Feudal reinforcement learning. </title><booktitle>Advances in Neural Information Processing Systems, </booktitle><volume>5.</volume>
+
+<meta reference_no="142" cluster_no="53" true_id="806"></meta>
+
+<authors><author>Dayan, P.</author>, &<author> Hinton, G.</author></authors><date> (1993). </date><title>Feudal reinforcement learning. </title><booktitle>In Adv. in Neural Info. Proc. Sys., 5.</booktitle><pages> (pp. 271-278) </pages><publisher>Morgan Kaufmann, </publisher><location>San Francisco, CA.</location>
+
+<meta reference_no="143" cluster_no="53" true_id="806"></meta>
+
+<authors><author>Dayan, P.</author> and<author> Hinton, G.</author></authors><date> (1993). </date><title>Feudal reinforcement learning. </title><editor>In Hanson, S. J., Cowan, J. D., and Giles, C. L., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>5. </volume><publisher>Morgan Kaufmann Publishers, </publisher><location>San Mateo, CA.</location>
+
+<meta reference_no="144" cluster_no="53" true_id="806"></meta>
+
+<authors><author>Dayan, P. </author>and<author> Hinton, G.</author></authors><date> (1993). </date><title>Feudal reinforcement learning. </title><editor>In Lippman, D. S., Moody, J. E., and Touretzky, D. S., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>5, </volume><pages>pages 271-278. </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="145" cluster_no="54" true_id="837"></meta>
+
+<authors><author>Tham, C. K. </author>and<author> Prager, R. W.</author></authors><date> (1993). </date><title>Reinforcement learning methods for multi-linked manipulator obstacle avoidance and control Technischer Bericht, </title><institution>Cambridge University Engineering Department, </institution><location>Trumpington Street, Cambridge CB2 1PZ, UK.</location>
+
+<meta reference_no="146" cluster_no="55" true_id="880"></meta>
+
+<authors><author>Barto, A. G.</author>,<author> Sutton, R. S.</author>, &<author> Brouwer, P. S.</author></authors><date> (1981). </date><title>Associative search network: A reinforcement learning</title>
+
+<meta reference_no="147" cluster_no="56" true_id="831"></meta>
+
+<authors><author>Graham, D. P. W.</author> and <author>D'Eleuterio, G. M. T.</author></authors><date> (1994). </date><title>CMAC Manipulator Control Using a Reinforcement Learned Trajectory Planner </title><editor>In Marinaro, M. and Morasso, P. G.(Hrsg.), </editor><booktitle>Proceedings of the International Conference on Artificial Neural Networks (ICANN-94),</booktitle>
+
+<meta reference_no="148" cluster_no="57" true_id="851"></meta>
+
+<authors><author> Kaelbling, L. P.</author>,<author> Littman, M. L.</author>, and<author> Moore, A. W.</author></authors><title> Reinforcement learning: A survey. </title><journal>Journal of Artificial Intelligence Research </journal><volume>4 </volume><date>(1996).</date>
+
+<meta reference_no="149" cluster_no="57" true_id="851"></meta>
+
+<authors><author>Kaelbling, L. P.</author>,<author> Littman, M. L.</author>, &<author> Moore, A. W.</author></authors><date> (1996). </date><title>Reinforcement Learning: A Survey. </title><journal>Journal of Artificial Intelligence Research, </journal><volume>4, </volume><pages>237-285.</pages>
+
+<meta reference_no="150" cluster_no="57" true_id="851"></meta>
+
+<authors><author> L. P. Kaelbling</author>, <author>M. L. Littman</author>, and <author>A. W. Moore</author>.</authors><title> Reinforcement learning: A survey. </title><journal>Jornal of Artificial Intelligence Research, </journal><volume>4:</volume><pages>237-285, </pages><date>1996.</date>
+
+<meta reference_no="151" cluster_no="57" true_id="851"></meta>
+
+<authors><author> Leslie P. Kaebling</author>, <author>Michael L. Littmann</author>, and <author>Andrew W. Moore</author>.</authors><title> Reinforcement learning: A survey. </title><journal>Journal of Artificial Intelligence Research, </journal><volume>4, </volume><date>1996.</date>
+
+<meta reference_no="152" cluster_no="57" true_id="851"></meta>
+
+<authors><author> Leslie Pack Kaelbling</author>, <author>Michael L. Littman</author>, and <author>Andrew W. Moore</author>.</authors><title> Reinforcement learning: A survey. </title><journal>Journal of Articial Intelligence Research, </journal><volume>4:</volume><pages>237285, </pages><date>May 1996.</date>
+
+<meta reference_no="153" cluster_no="58" true_id="842"></meta>
+
+<authors><author> Gerhard Wei</author>.</authors><title> Distributed reinforcement learning. </title><journal>Robotics and Autonomous Systems, </journal><volume>15:</volume><pages>135142, </pages><date>1995.</date>
+
+<meta reference_no="154" cluster_no="59" true_id="807"></meta>
+
+<authors><author>Bradtke, S. J.</author></authors><date> (1993). </date><title>Reinforcement learing applied to linear quadratic regulation. </title><editor>In: S. J. Hanson, J. D. Cowan, & C. L. Giles (Eds.) </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>5. </volume><location>San Mateo, CA: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="155" cluster_no="59" true_id="807"></meta>
+
+<authors><author> S. J. Bradtke</author>.</authors><title> Reinforcement learning applied to linear quadratic regulation. </title><editor>In S. J. Hanson, J. Cowan, and C. L. Giles, editors, </editor><booktitle>NIPS-5. </booktitle><publisher>Morgan Kaufmann, </publisher><date>1993.</date>
+
+<meta reference_no="156" cluster_no="59" true_id="807"></meta>
+
+<authors><author>Bradtke, S.J.</author></authors><date> (1993). </date><title>Reinforcement learning applied to linear quadratic regulation. </title><booktitle>In: Advances of Neural Information Processing </booktitle><volume>5, </volume><publisher>Morgan Kaufmann, </publisher><pages>pp. 295-302. </pages><editor> Breiman, L., Friedman, J.H., Ohlsen, R.A., Stone, C.J.</editor>
+
+<meta reference_no="157" cluster_no="59" true_id="807"></meta>
+
+<authors><author> S. J. Bradtke</author>.</authors><title> Reinforcement learning applied to linear quadratic regulation. </title><booktitle>In Advances in Neural Information Processing Systems </booktitle><volume>5, </volume><pages>pages 295302, </pages><location>San Mateo, CA, 1993. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="158" cluster_no="59" true_id="807"></meta>
+
+<authors><author>Bradtke, S. J</author></authors><date> (1993). </date><title>Reinforcement learning applied to linear quadratic regulation. </title><booktitle>Proceedings of the Fifth Conference on Neural Information Processing Systems </booktitle><pages>(pp. 295-302). </pages><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="159" cluster_no="59" true_id="807"></meta>
+
+<authors><author>Bradtke, S. J.</author></authors><date> (1993). </date><title>Reinforcement Learning Applied to Linear Quadratic Regulation. </title><booktitle>Proceedings of the 5th annual Conference on Neural Information Processing Systems .</booktitle>
+
+<meta reference_no="160" cluster_no="60" true_id="859"></meta>
+
+<authors><author> A. W. Moore</author> and <author>C. G. Atkeson</author>.</authors><title> Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time. </title><journal>Machine Learning, </journal><volume>13, </volume><date>1993.</date>
+
+<meta reference_no="161" cluster_no="60" true_id="859"></meta>
+
+<authors><author> A. W. Moore</author> and <author>C. G. Atkeson</author>.</authors><title> Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time. </title><journal>Machine Learning, </journal><volume>13, </volume><date>1993.</date>
+
+<meta reference_no="162" cluster_no="60" true_id="859"></meta>
+
+<O>21. </O><authors><author>A. W. Moore</author> and <author>C. G. Atkeson</author>.</authors><title> Prioritized Sweeping: Reinforcement Learning with Less Data and Less Real Time. </title><journal>Machine Learning, </journal><volume>13, </volume><date>1993.</date>
+
+<meta reference_no="163" cluster_no="60" true_id="859"></meta>
+
+<authors><author> A. Moore</author> and <author>C. Atkeson</author>.</authors><title> Prioritized sweeping: Reinforcement learning with less data and less real time. </title><journal>Machine Learning, </journal><volume>13(1):</volume><pages>103-130, </pages><date>1993.</date>
+
+<meta reference_no="164" cluster_no="60" true_id="859"></meta>
+
+<authors><author>Moore, A. </author>and<author> Atkeson, C. G.</author></authors><date> (1993). </date><title>Prioritized sweeping: Reinforcement learning with less data and less time. </title><journal>Machine Learning, </journal><volume>13:</volume><pages>103-130.</pages>
+
+<meta reference_no="165" cluster_no="60" true_id="859"></meta>
+
+<authors><author>Moore, A. W. </author>and<author> Atkeson, C. G.</author></authors><date> (1993). </date><title>Prioritized sweeping: Reinforcement learning with less data and less real time. </title><journal>Machine Learning, </journal><volume>13.</volume>
+
+<meta reference_no="166" cluster_no="61" true_id="800"></meta>
+
+<authors><author>Lin, L.</author></authors><date> (1993). </date><title>Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, Pittsburgh.</institution>
+
+<meta reference_no="167" cluster_no="61" true_id="800"></meta>
+
+<authors><author>Lin, L.</author></authors><date> (1993). </date><title>Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, Pittsburgh.</institution>
+
+<meta reference_no="168" cluster_no="61" true_id="800"></meta>
+
+<authors><author> L.J. Lin</author>.</authors><title> Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, </institution><location>Pittsburgh, </location><date>January 1993.</date>
+
+<meta reference_no="169" cluster_no="61" true_id="800"></meta>
+
+<authors><author> L.-J. Lin</author>.</authors><title> Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, </institution><date>1993.</date>
+
+<meta reference_no="170" cluster_no="61" true_id="800"></meta>
+
+<authors><author> L.-J. Lin</author>.</authors><title> Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, </institution><date>1993.</date>
+
+<meta reference_no="171" cluster_no="61" true_id="800"></meta>
+
+<authors><author> L.-J. Lin</author>.</authors><title> Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>School of Computer Science, Carnegie Mellon University, </institution><date>1993.</date>
+
+<meta reference_no="172" cluster_no="61" true_id="800"></meta>
+
+<authors><author>Lin, L. J.</author></authors><date> (1993). </date><title>Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, </institution><location>Pittsburgh, PA. </location><tech>Technical Report CMU-CS-93-103.</tech>
+
+<meta reference_no="173" cluster_no="61" true_id="800"></meta>
+
+<O>14. </O><authors><author>L-J. Lin</author>,</authors><title> Reinforcement learning for robots using neural networks, </title><tech>Ph.D. Thesis, </tech><institution>Carnegie Mellon University, </institution><location>Pittsburgh, Pennsylvania,</location><date>1993.</date>
+
+<meta reference_no="174" cluster_no="61" true_id="800"></meta>
+
+<authors><author> Long-Ji Lin</author>.</authors><title> Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon, School of Computer Science, </institution><date>January 1993.</date>
+
+<meta reference_no="175" cluster_no="61" true_id="800"></meta>
+
+<authors><author> Long-Ji Lin</author>.</authors><title> Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon, School of Computer Science, </institution><date>January 1993.</date>
+
+<meta reference_no="176" cluster_no="61" true_id="800"></meta>
+
+<authors><author> Long-Ji Lin</author>.</authors><title> Reinforcement Learning for Robots Using Neural Networks. </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, </institution><date>January 1993.</date>
+
+<meta reference_no="177" cluster_no="61" true_id="800"></meta>
+
+<authors><author> Lin L.-J.</author>,</authors> <title>Reinforcement Learning for Robots using Neural Networks, </title><tech>PhD thesis, </tech><institution>Carnegie Mellon University, School of Computer Science, </institution><date>1992.</date>
+
+<meta reference_no="178" cluster_no="62" true_id="835"></meta>
+
+<authors><author> R. J. Williams</author>.</authors><title> Toward a theory of reinforcement-learning connectionist systems. </title><tech>Technical Report NU-CCS-88-3, </tech><institution>College of Comp. Sci., Northeastern University, </institution><location>Boston, MA, </location><date>1988.</date>
+
+<meta reference_no="179" cluster_no="62" true_id="835"></meta>
+
+<authors><author> R. J. Williams</author>.</authors><title> Toward a theory of reinforcement-learning connectionist systems. </title><tech>Technical Report NU-CCS-88-3, </tech><institution>College of Comp. Sci., Northeastern University, </institution><location>Boston, MA, </location><date>1988.</date>
+
+<meta reference_no="180" cluster_no="63" true_id="809"></meta>
+
+<authors><author>Moore, A. W. </author>&<author> Atkeson, C. G.</author></authors><date> (1993). </date><title>Memory-based reinforcement learning: Converging with less data and less real time. </title><editor>In: S. J. Hanson, J. D. Cowan, & C. L. Giles (Eds.) </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>5. </volume><location>San Mateo, CA: </location><publisher>Morgan Kaufma</publisher>
+
+<meta reference_no="181" cluster_no="63" true_id="809"></meta>
+
+<authors><author>Moore, A. W. </author>&<author> Atkeson, C. G.</author>,</authors><date> (1992) </date><title>Memory-based reinforcement learning: Converging with less data and less real time, </title><editor>In: S. J. Hanson, J. D. Cowan, & C. L. Giles (Eds.) </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>5. </volume><location>San Mateo, CA: </location><publisher>Morgan Kaufma</publisher>
+
+<meta reference_no="182" cluster_no="64" true_id="868"></meta>
+
+<authors><author> A.G. Barto</author> and <author>M. Duff</author>.</authors><title> Monte Carlo matrix inversion and reinforcement learning. </title><editor>In D.S.Touretsky, ed., </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>6. </volume><publisher>Morgan Kaufmann, </publisher><date>1994.</date>
+
+<meta reference_no="183" cluster_no="65" true_id="778"></meta>
+
+<authors><author> Heger, Matthias </author></authors><date>1994. </date><title>Consideration of risk in reinforcement learning. </title><booktitle>In Proceedings of the Machine Learning Conference. </booktitle><publisher>To appear.</publisher>
+
+<meta reference_no="184" cluster_no="65" true_id="778"></meta>
+
+<authors><author>Heger, M.</author></authors><date> (1994). </date><title>Consideration of risk in reinforcement learning. </title><booktitle>In Proceedings of the Eleventh International Conference on Machine Learning, </booktitle><pages>pages 105-111, </pages><location>San Francisco, CA. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="185" cluster_no="66" true_id="889"></meta>
+
+<authors><author> M. Asada</author>, <author>E. Uchibe</author>, <author>S. Noda</author>, <author>S. Tawaratsumida</author>, and <author>K. Hosoda</author>.</authors><title> "coordination of multiple behaviors acquired by vision-based reinforcement learning". </title><booktitle>In Proc. of IEEE/RSJ/GI International Conference on Intelligent Robots and Systems</booktitle>
+
+<meta reference_no="186" cluster_no="66" true_id="889"></meta>
+
+<authors><author>M. Asada</author>, <author>E. Uchibe</author>, <author>S. Noda</author>, <author>S. Tawaratsumida</author>, and <author>K. Hosoda</author>.</authors><title> Coordination of multiple behaviors acquired by vision-based reinforcement learning. </title><booktitle>In Proc. of IEEE/RSJ/GI International Conference on Intelligent Robots and Systems 1994 (IROS '94), </booktitle><pages>pages 9</pages>
+
+<meta reference_no="187" cluster_no="66" true_id="889"></meta>
+
+<authors><author>Asada, M.</author>; <author>Uchibe, E.</author>; <author>Noda, S.</author>; <author>Tawaratsumida, S.</author>; and <author>Hosoda, K.</author></authors><date> 1994. </date><title>Coordination of multiple behaviors acquired by vision-based reinforcement learning. </title><booktitle>In Proceedings of IROS-94.</booktitle>
+
+<meta reference_no="188" cluster_no="66" true_id="889"></meta>
+
+<authors><author> Minoru Asada</author>, <author>Eiji Uchibe</author>, <author>Shoichi Noda</author>, <author>Sukoya Tawaratsumida</author>, and <author>Koh Hosoda</author>.</authors><title> Coordination of multiple behaviors acquired by vision-based reinforcement learning. </title><booktitle>In Proc. of IEEE/RSJ/GI International Conference  on Intelligent Robo</booktitle>
+
+<meta reference_no="189" cluster_no="66" true_id="889"></meta>
+
+<authors><author> M. Asada</author>, <author>E. Uchibe</author>, <author>S. Noda</author>, <author>S. Tawaratsumida</author>, and <author>K. Hosoda</author>.</authors><title> Coordination of multiple behaviors acquired by visionbased reinforcement learning. </title><booktitle>In Proc. of IEEE/RSJ/GI International Conference on Intelligent Robots and Systems 1994 (IROS '94), </booktitle><pages>page</pages>
+
+<meta reference_no="190" cluster_no="66" true_id="889"></meta>
+
+<authors><author> M. Asada</author>, <author>E. Uchibe</author>, <author>S. Noda</author>, <author>S. Tawaratsumida</author>, and <author>K. Hosoda</author>.</authors><title> Coordination of multiple behaviors acquired by visionbased reinforcement learning. </title><booktitle>In Proc. of the International Conference on Intelligent Robots and Systems), </booktitle><pages>pages 917924,</pages><date> 1994.</date>
+
+<meta reference_no="191" cluster_no="67" true_id="804"></meta>
+
+<authors><author>Whitehead, S. D.</author>, & <author>D. H. Ballard</author>,</authors><date> 1991. </date><title>Learning to perceive and act by trial and error. </title><booktitle>Machine Learning , </booktitle><volume>7, 1, </volume><pages>4583. </pages><authors><author>Whitehead, S. D.</author>, & <author>L. J. Lin</author>,</authors><note> this volume. </note><title>Reinforcement learning in non-Markov environments.</title>
+
+<meta reference_no="192" cluster_no="68" true_id="772"></meta>
+
+<authors><author> W. Zhang</author> and <author>T. G. Dietterich</author>.</authors><title> A reinforcement learning approach to job-shop scheduling. </title><booktitle>In Proceedings of IJCAI-95, </booktitle><pages>pages 1114-1120, </pages><date>1995.</date>
+
+<meta reference_no="193" cluster_no="68" true_id="772"></meta>
+
+<authors><author>Zhang, W.</author>, and <author>Dietterich, T. G.</author></authors><date> (1995) </date><title>"A Reinforcement Learning Approach to Job Shop Scheduling," </title><booktitle>Proceedings of the IJCAI.</booktitle>
+
+<meta reference_no="194" cluster_no="68" true_id="772"></meta>
+
+<authors><author> W. Zhang</author> and <author>T. Dietterich</author>.</authors><title> A reinforcement learning approach to job-shop scheduling. </title><booktitle>In Proceedings of the 14th International Joint Conference on Artificial Intelligence, </booktitle><date>1995. </date><note>(to appear).</note>
+
+<meta reference_no="195" cluster_no="68" true_id="772"></meta>
+
+<authors><author> W. Zhang</author> and <author>T. Dietterich</author>.</authors><title> A reinforcement learning approach to job-shop scheduling. </title><booktitle>In Proceedings of the 14th International Joint Conference on Artificial Intelligence, </booktitle><date>1995. </date><note>(to appear).</note>
+
+<meta reference_no="196" cluster_no="69" true_id="865"></meta>
+
+<authors><author>Lin, L-J.</author></authors><date> (1993a). </date><title>Hierarchical learning of robot skills by reinforcement. </title><booktitle>Proceedings of</booktitle>
+
+<meta reference_no="197" cluster_no="70" true_id="814"></meta>
+
+<authors><author> R. S. Sutton</author>.</authors><title> Generalization in Reinforcement Learning: Successful Examples Using Sparse Coarse Coding. </title><editor>In D. Touretzky, M. Mozer, and M. Hasselmo, editors, </editor><booktitle>Neural Information Processing Systems </booktitle><volume>8, </volume><date>1996.</date>
+
+<meta reference_no="198" cluster_no="70" true_id="814"></meta>
+
+<authors><author> R. S. Sutton</author>.</authors><title> Generalization in Reinforcement Learning: Successful Examples Using Sparse Coarse Coding. </title><editor>In D. Touretzky, M. Mozer, and M. Hasselmo, editors, </editor><booktitle>Neural Information Processing Systems </booktitle><volume>8, </volume><date>1996.</date>
+
+<meta reference_no="199" cluster_no="70" true_id="814"></meta>
+
+<authors><author> R. S. Sutton</author>.</authors><title> Generalization in reinforcement learning: Successful examples using sparse coarse coding. </title><editor>In D. Touretzky, M. Mozer, and M. Hasselmo, editors, </editor><booktitle>Advances in Neural Information Processing Systems, </booktitle><volume>volume 8. </volume><publisher>MIT Press, </publisher><date>1996.</date>
+
+<meta reference_no="200" cluster_no="70" true_id="814"></meta>
+
+<authors><author> R.S. Sutton</author>.</authors><title> Generalization in reinforcement learning: Successful examples using sparse coarse coding. </title><note>To Appear </note><booktitle>in: Advances in Neural Information Processing Systems </booktitle><volume>8. </volume><publisher>MIT Press, </publisher><date>1996.</date>
+
+<meta reference_no="201" cluster_no="71" true_id="805"></meta>
+
+<authors><author>Schmidhuber, J.</author></authors><date> (1991). </date><title>Reinforcement learning in Markovian and non-Markovian environments. </title><editor>In Lippman, D. S., Moody, J. E., and Touretzky, D. S., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>3, </volume><pages>pages 500-506. </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufmann</publisher>
+
+<meta reference_no="202" cluster_no="71" true_id="805"></meta>
+
+<authors><author>Schmidhuber, J.</author></authors><date> (1991c). </date><title>Reinforcement learning in Markovian and non-Markovian environments. </title><editor>In Lippman, D. S., Moody, J. E., and Touretzky, D. S., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>3, </volume><pages>pages 500-506. </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufman</publisher>
+
+<meta reference_no="203" cluster_no="71" true_id="805"></meta>
+
+<authors><author>Schmidhuber, J.</author></authors><date> (1991). </date><title>Reinforcement learning in Markovian and non-Markovian environments. </title><editor>In Lippman, D. S., Moody, J. E., and Touretzky, D. S., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>3, </volume><pages>pages 500-506. </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufmann</publisher>
+
+<meta reference_no="204" cluster_no="71" true_id="805"></meta>
+
+<authors><author> J. H. Schmidhuber</author>.</authors><title> Reinforcement learning in markovian and non-markovian environments. </title><editor>In D. Touretzky and D. S. Lippman, editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>3, </volume><note>in press. </note><location>San Mateo, CA: </location><publisher>Morgan Kaufmann, </publisher><date>1991.</date>
+
+<meta reference_no="205" cluster_no="71" true_id="805"></meta>
+
+<authors><author> J. Schmidhuber</author>.</authors><title> Reinforcement learning in Markovian and non-Markovian environments. </title><editor>In D. S. Lippman, J. E. Moody, and D. S. Touretzky, editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>3, </volume><pages>pages 500-506. </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufmann, </publisher><location>1991</location>
+
+<meta reference_no="206" cluster_no="72" true_id="871"></meta>
+
+<authors><author>Rescorla, R.A.</author>, & <author>A.R. Wagner</author></authors><date> (1972). </date><title>A theory of Pavlovian conditioning: variations in the effectiveness of reinforcement and non-reinforcement. </title><editor>In: A.H. Black, & W.F. Prokasy (Eds.) </editor><booktitle>Classical conditioning II: current research and theory. </booktitle><location>New York:</location><publisher> Appl</publisher>
+
+<meta reference_no="207" cluster_no="73" true_id="792"></meta>
+
+<O>15. </O><authors><author>L-J. Lin</author>,</authors><title> Self-improving reactive agents based on reinforcement learning, planning and teaching, </title><journal>Machine Learning, </journal><volume>8, </volume><pages>293322, </pages><date>(1992).</date>
+
+<meta reference_no="208" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L-J.</author>,</authors><date> 1992. </date><title>Self-improving reactive agents based on reinforcement learning, planning and teaching. </title><journal>Machine Learning , </journal><volume>8, </volume><pages>3-4, </pages><pages>293322.</pages>
+
+<meta reference_no="209" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin</author>,<author> L-J.</author></authors><date> (1992). </date><title>Self-improving reactive agents based on reinforcement learning, planning and teaching. </title><journal>Machine Learning, </journal><volume>8, 3-4, </volume><date>293322.</date>
+
+<meta reference_no="210" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L.-J.</author></authors><date> (1992). </date><title>Self-improving reactive agents based on reinforcement learning, planning, and teaching. </title><journal>Machine Learning, </journal><volume>8(3):</volume><pages>293-321.</pages>
+
+<meta reference_no="211" cluster_no="73" true_id="792"></meta>
+
+<authors><author> L-J Lin.</author></authors><title> Self-improving reactive agents based on reinforcement learning, planning and teaching. </title><journal>Machine Learning, </journal><volume>8:</volume><pages>293-321, </pages><date>1992.</date>
+
+<meta reference_no="212" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L.</author></authors><date> 1992. </date><title>Self-improving reactive agents based on reinforcement learning, planning, and teaching. </title><journal>Machine Learning </journal><volume>8:</volume><pages>293-321.</pages>
+
+<meta reference_no="213" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L.J.</author></authors><date> (1992). </date><title>Self-improving reactive agents based on reinforcement learning, planning and teaching. </title><journal>In: Machine Learning, </journal><volume>8, </volume><pages>pp. 293-321.</pages>
+
+<meta reference_no="214" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L.</author></authors><date> (1992). </date><title>Self-improving reactive agents based on reinforcement learning, planning, and teaching. </title><journal>Machine Learning, </journal><volume>8, </volume><pages>293-321.</pages>
+
+<meta reference_no="215" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L.</author></authors><date> 1992. </date><title>Self-Improving Reactive Agents Based on Reinforcement Learning, Planning and Teaching. </title><journal>Machine Learning, </journal><volume>8, </volume><pages>293-321.</pages>
+
+<meta reference_no="216" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L.</author></authors><date> (1992). </date><title>Self-improving reactive agents based on reinforcement learning, planning, and teaching. </title><journal>Machine Learning, </journal><volume>8:</volume><pages>293-321.</pages>
+
+<meta reference_no="217" cluster_no="73" true_id="792"></meta>
+
+<authors><author>Lin, L.</author></authors><date> (1992). </date><title>Self-Improving Reactive Agents Based on Reinforcement Learning, Planning and Teaching. </title><journal>Machine Learning, </journal><volume>8, </volume><pages>293-321.</pages>
+
+<meta reference_no="218" cluster_no="73" true_id="792"></meta>
+
+<authors><author> Longji Lin</author>.</authors><title> Self-improving reactive agents based on reinforcement learning, planning and teaching. </title><journal>machine learning, </journal><volume>8:</volume><pages>293-321, </pages><date>1992.</date>
+
+<meta reference_no="219" cluster_no="73" true_id="792"></meta>
+
+<O>18. </O><author>Long-Li Lin </author><date>(1992). </date><title>Self-Improving Reactive Agents Based on Reinforcement Learning, Planning and Teaching. </title><journal>Machine Learning</journal><volume> 8, </volume><pages>pp. 293-321. </pages><location>Boston, MA: </location><publisher>Kluwer Academic.</publisher>
+
+<meta reference_no="220" cluster_no="74" true_id="776"></meta>
+
+<authors><author>Jaakkola, T.</author>, <author>Singh, S. P.</author>, and <author>Jordan, M. I.</author></authors><date> (1995). </date><title>Reinforcement learning algorithm for partially observable Markov decision problems. </title><editor>In Tesauro, G., Touretzky, D. S., and Leen, T. K., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>7, </volume><pages>pag</pages>
+
+<meta reference_no="221" cluster_no="74" true_id="776"></meta>
+
+<authors><author>Jaakkola, T.</author>, <author>Singh, S. P.</author>, and <author>Jordan, M. I.</author></authors><date> (1995). </date><title>Reinforcement learning algorithm for partially observable Markov decision problems. </title><editor>In Tesauro, G., Touretzky, D. S., and Leen, T. K., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>7, </volume><pages>pag</pages>
+
+<meta reference_no="222" cluster_no="74" true_id="776"></meta>
+
+<authors><author>Jaakkola, T.</author>, <author>Singh, S. P.</author>, and <author>Jordan, M. I.</author></authors><date> (1995). </date><title>Reinforcement learning algorithm for partially observable Markov decision problems. </title><editor>In Tesauro, G., Touretzky, D. S., and Leen, T. K., editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>7, </volume><pages>pag</pages>
+
+<meta reference_no="223" cluster_no="74" true_id="776"></meta>
+
+<authors><author> T. Jaakkola</author>, <author>S.P. Singh</author>, and <author>M.I. Jordan</author>.</authors><title> Reinforcement learning algorithm for partially observable Markov decision problems. </title><booktitle>In Advances in Neural Information Processing Systems </booktitle><volume>7. </volume><publisher>Morgan Kaufmann, </publisher><date>1995.</date>
+
+<meta reference_no="224" cluster_no="74" true_id="776"></meta>
+
+<authors><author> T. Jaakkola</author>, <author>S. P. Singh</author>, and <author>M. I. Jordan</author>.</authors><title> Reinforcement learning algorithm for partially observable Markov decision problems. </title><editor>In G. Tesauro, D. S. Touretzky, and T. K. Leen, editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>7, </volume><pages>pages 345-3</pages>
+
+<meta reference_no="225" cluster_no="75" true_id="789"></meta>
+
+<authors><author> H. R. Berenji</author>,</authors><title> Refinement of Approximate Reasoning-Based Controllers by Reinforcement Learning, </title><booktitle>in: Proceedings of the Eighth International Machine Learning Workshop, </booktitle><location>Evanston, IL </location><date>(1991),</date><pages> 475479.</pages>
+
+<meta reference_no="226" cluster_no="75" true_id="789"></meta>
+
+<authors><author>Berenji, H. R.</author></authors><date> (1991). </date><title>Refinement of approximate reasoning-based controllers by reinforcement learning. </title><booktitle>Proceedings of the Eighth International Machine Learning Workshop </booktitle><pages>(pp. 475-479). </pages><location>Evanston, IL: </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="227" cluster_no="76" true_id="892"></meta>
+
+<O>12. </O><authors><author>M. Dorigo</author> and <author>M. Colombetti</author>,</authors><title> The role of the Trainer in Reinforcement Learning, </title><booktitle>Proceedings of the MLT-COLT 94 Workshop on Robot Learning, </booktitle><location>New Brunswick, N.J., </location><pages>37-45,</pages><date> 1994.</date>
+
+<meta reference_no="228" cluster_no="77" true_id="783"></meta>
+
+<authors><author> Mahadevan, S. </author>and <author>J. Connell</author>,</authors><title> Automatic programming of behavior-based robots using reinforcement learning. </title><booktitle>In Proc. of the Ninth National Conference on Artificial Intelligence, </booktitle><date>1991.</date>
+
+<meta reference_no="229" cluster_no="77" true_id="783"></meta>
+
+<authors><author>Mahadevan, S. </author>and<author> J. Connell</author>,</authors><title> Automatic programming of behavior-based robots using reinforcement learning. </title><booktitle>In Proc. of the Ninth National Conference on Artificial Intelligence, </booktitle><date>1991.</date>
+
+<meta reference_no="230" cluster_no="77" true_id="783"></meta>
+
+<authors><author> Mahadevan, S.</author> and <author>J. Connell</author>,</authors><title> Automatic programming of behavior-based robots using reinforcement learning. </title><booktitle>In Proc. of the Ninth National Conference on Artificial Intelligence, </booktitle><date>1991.</date>
+
+<meta reference_no="231" cluster_no="77" true_id="783"></meta>
+
+<authors><author> Mahadevan S.</author> & <author>Connell, J.</author>,</authors> <title>Automatic Programming of Behavior-Based Robots using Reinforcement Learning, </title><booktitle>In: Proceedings of the Ninth National Conference on Artificial Intelligence, </booktitle><publisher>MIT Press, </publisher><date>1991.</date>
+
+<meta reference_no="232" cluster_no="78" true_id="796"></meta>
+
+<O>16. </O><authors><author>S. Koenig</author> and <author>R.G. Simmons</author>.</authors><title> Complexity Analysis of Reinforcement Learning. </title><booktitle>In Proceedings of the Eleventh International Conference on Artificial Intelligence (AAAI-93). </booktitle><publisher>MIT Press, </publisher><date>1993.</date>
+
+<meta reference_no="233" cluster_no="79" true_id="856"></meta>
+
+<authors><author> R. Maclin</author> and <author>J. Shavlik</author>,</authors><title> "Creating advice-taking reinforcement learners," </title><journal>Machine Learning, </journal><volume>vol. 22, </volume><pages>pp. 251281, </pages><date>1995.</date>
+
+<meta reference_no="234" cluster_no="79" true_id="856"></meta>
+
+<authors><author> R. Maclin</author> and <author>J.W. Shavlik</author>.</authors><title> Creating advice-taking reinforcement learners. </title><journal>Machine Learning, </journal><volume>22(1-3),</volume><date> 1996.</date>
+
+<meta reference_no="235" cluster_no="79" true_id="856"></meta>
+
+<authors><author> R. Maclin</author> and <author>Jude W. Shavlik</author>.</authors><title> Creating advicetaking reinforcement learners. </title><journal>Machine Learning, </journal><volume>22(13):</volume><pages>251281,</pages><date> 1996.</date>
+
+<meta reference_no="236" cluster_no="80" true_id="844"></meta>
+
+<authors><author>Ring, M. B.</author></authors><date> (1994). </date><title>Continual Learning in Reinforcement Environments. </title><tech>PhD thesis, </tech><institution>University of Texas at Austin, </institution><location>Austin, Texas 78712.</location>
+
+<meta reference_no="237" cluster_no="80" true_id="844"></meta>
+
+<authors><author>Ring, M. B.</author></authors><date> (1994). </date><title>Continual Learning in Reinforcement Environments. </title><tech>PhD thesis, </tech><institution>University of Texas at Austin, </institution><location>Austin, Texas.</location>
+
+<meta reference_no="238" cluster_no="80" true_id="844"></meta>
+
+<authors><author> M. B. Ring</author>.</authors><title> Continual Learning in Reinforcement Environments. </title><tech>PhD thesis, </tech><institution>University of Texas at Austin, </institution><location>Austin, Texas 78712,</location><date> August 1994.</date>
+
+<meta reference_no="239" cluster_no="81" true_id="780"></meta>
+
+<authors><author> P. W. Munro</author>.</authors><title> A dual back-propagation scheme for scalar reinforcement learning. </title><booktitle>Proceedings of the Ninth Annual Conference of the Cognitive Science Society, </booktitle><location>Seattle, WA, </location><pages>pages 165-176, </pages><date>1987.</date>
+
+<meta reference_no="240" cluster_no="81" true_id="780"></meta>
+
+<authors><author> P. W. Munro</author>.</authors><title> A dual back-propagation scheme for scalar reinforcement learning. </title><booktitle>In Proceedings of the Ninth Annual Conference of the Cognitive Science Society, </booktitle><location>Seattle, WA, </location><date>1987.</date>
+
+<meta reference_no="241" cluster_no="82" true_id="870"></meta>
+
+<authors><author> M. J. Mataric</author>,</authors><title> A Comparative Analysis of Reinforcement Learning Methods, </title><tech>MIT AI Lab Technical Memo no 1322, </tech><date>October 1991.</date>
+
+<meta reference_no="242" cluster_no="83" true_id="840"></meta>
+
+<authors><author>Tham, C.</author></authors><date> (1995). </date><title>Reinforcement learning of multiple tasks using a hierarchical CMAC architecture. </title><journal>Robotics and Autonomous Systems, </journal><volume>15(4):</volume><pages>247-274.</pages>
+
+<meta reference_no="243" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>,<author> Connel, J.</author></authors><date> (1992). </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>In: Artificial Intelligence, </journal><date>vol. 55.</date>
+
+<meta reference_no="244" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>, and<author> Connell, J.</author></authors><date> 1992. </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence </journal><volume>55(2-3):</volume><pages>189-208.</pages>
+
+<meta reference_no="245" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>, and<author> Connell, J.</author></authors><date> 1992. </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence </journal><volume>55(2-3):</volume><pages>189-208.</pages>
+
+<meta reference_no="246" cluster_no="84" true_id="785"></meta>
+
+<O>18. </O><authors><author>S. Mahadevan</author> and <author>J. Connell</author>,</authors><title> Automatic programming of behavior-based robots using reinforcement learning, </title><journal>Artificial Intelligence, </journal><volume>55, 311365, </volume><date>(1992).</date>
+
+<meta reference_no="247" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>, and<author> Connell, J.</author></authors><date> (1992). </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence, </journal><volume>55, 2, </volume><pages>311365.</pages>
+
+<meta reference_no="248" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S. </author>and<author> Connell, J.</author></authors><date> (1992). </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence, </journal><volume>55, 2, </volume><pages>311365.</pages>
+
+<meta reference_no="249" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>, and<author> Connell, J.</author></authors><date> (1992). </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence, </journal><volume>55, </volume><pages>pp.311-365.</pages>
+
+<meta reference_no="250" cluster_no="84" true_id="785"></meta>
+
+<authors><author> S. Mahadevan</author> and <author>J. Connell</author>.</authors><title> Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence, </journal><volume>55:</volume><pages>311-365, </pages><date>1992.</date>
+
+<meta reference_no="251" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S. </author>&<author> Connell, J.</author></authors><date> (1992), </date><title>"Automatic programming of behavior-based robots using reinforcement learning", </title><journal>Artificial Intelligence </journal><volume>55(2-3), </volume><pages>311-365.</pages>
+
+<meta reference_no="252" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S. </author>&<author> Connell, J.</author></authors><date> (1992). </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence, </journal><volume>55:</volume><pages>311-365.</pages>
+
+<meta reference_no="253" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>, &<author> Connell, J.</author></authors><date> (1992). </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence, </journal><volume>55, </volume><pages>311-365.</pages>
+
+<meta reference_no="254" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>, &<author> Connell, J.</author></authors><date> 1992. </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence </journal><volume>55:</volume><pages>311-365.</pages>
+
+<meta reference_no="255" cluster_no="84" true_id="785"></meta>
+
+<authors><author>Mahadevan, S.</author>, & <author>J. Connell</author>,</authors><date> 1992. </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Artificial Intelligence , </journal><volume>55, 2, </volume><pages>311365. </pages><authors><author>Millan, J. del R.</author>,</authors> <note>this volume. </note><title>Reinforcement learning of goal-directed obstacle-avoiding reaction st</title>
+
+<meta reference_no="256" cluster_no="84" true_id="785"></meta>
+
+<O>19. </O><authors><author>S. Mahedevan</author> and <author>J. Connell</author></authors><date> (1991). </date><title>Automatic programming of behavior-based robots using reinforcement learning. </title><journal>Articial Intelligence. </journal><volume>Vol 55, </volume><pages>pp. 311-365. </pages><publisher>Elsevier.</publisher>
+
+<meta reference_no="257" cluster_no="85" true_id="770"></meta>
+
+<authors><author>Krose, B.J.A</author> and <author>J.W.M. van Dam</author></authors><date> (1992). </date><title>Adaptive state space quantisation for reinforcement learning of collision-free navigation, </title><booktitle>IEEE International Conference on Intelligent Robots and System</booktitle>
+
+<meta reference_no="258" cluster_no="86" true_id="799"></meta>
+
+<authors><author> McCallum, R. A.</author></authors><title> Hidden state and reinforcement learning with instance-based state identification. </title><journal>IEEE Transations on Systems, Man and Cybernetics </journal><note>- Part B (Special issue on Learning Autonomous Robots) </note><volume>26, 3 </volume><date>(1996).</date>
+
+<meta reference_no="259" cluster_no="87" true_id="753"></meta>
+
+<authors><author>Schwartz, A.</author></authors><date> (1993). </date><title>A reinforcement learning method for maximizing undiscounted rewards. </title><booktitle>In Proceedings of the Tenth International Conference on Machine Learning, </booktitle><location>San Mateo, CA. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="260" cluster_no="87" true_id="753"></meta>
+
+<authors><author> Schwartz, Anton </author></authors><date>1993. </date><title>A reinforcement learning method for maximizing undiscounted rewards. </title><booktitle>In Proceedings of the Tenth International Conference on Machine Learning, </booktitle><location>Amherst, Massachusetts. </location><publisher>Morgan Kaufmann. </publisher><pages>298305.</pages>
+
+<meta reference_no="261" cluster_no="87" true_id="753"></meta>
+
+<authors><author>Schwartz, A.</author></authors><date> (1993), </date><title>A reinforcement learning method for maximizing undiscounted rewards, </title><editor>in P. Utgoff, ed., </editor><booktitle>"Proceedings of the Tenth International Conference on Machine Learning", </booktitle><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="262" cluster_no="88" true_id="818"></meta>
+
+<authors><author>Whitehead, S.D.</author></authors><date> (1992). </date><title>Reinforcement learning for the adaptive control of perception and action Tech. </title><note>Rep.</note>
+
+<meta reference_no="263" cluster_no="88" true_id="818"></meta>
+
+<authors><author> Steven Whitehead</author>.</authors><title> Reinforcement Learning for the Adaptive Control of Perception and Action. </title><tech>PhD thesis, </tech><institution>Department of Computer Science, University of Rochester, </institution><date>1992.</date>
+
+<meta reference_no="264" cluster_no="88" true_id="818"></meta>
+
+<authors><author>Whitehead, S.</author></authors><date> (1992). </date><title>Reinforcement Learning for the Adaptive Control of Perception and Action. </title><tech>PhD thesis, </tech><institution>University of Rochester.</institution>
+
+<meta reference_no="265" cluster_no="88" true_id="818"></meta>
+
+<authors><author> Steven Whitehead</author>.</authors><title> Reinforcement Learning for the Adaptive Control of Perception and Action. </title><tech>PhD thesis, </tech><institution>Department of Computer</institution>
+
+<meta reference_no="266" cluster_no="89" true_id="751"></meta>
+
+<authors><author> R. Andrew McCallum</author>.</authors><title> Using transitional proximity for faster reinforcement learning. </title><booktitle>In The Proceedings of the Ninth International Machine Learning Conference. </booktitle><publisher>Morgan Kaufmann Publishers, Inc., </publisher><date>1992.</date>
+
+<meta reference_no="267" cluster_no="90" true_id="860"></meta>
+
+<authors><author>Kaelbling, L. P.</author></authors><date> (1993a). </date><title>Associative reinforcement learning: Functions in kDNF. </title><journal> Machine Learning. </journal><note>To appear.</note>
+
+<meta reference_no="268" cluster_no="91" true_id="801"></meta>
+
+<O>23. </O><editor>R.S. Sutton. (ed.), </editor><journal>Machine Learning, </journal><volume>8(3/4), </volume><note>Special Issue on Reinforcement Learning, </note><date>1992.</date>
+
+<meta reference_no="269" cluster_no="92" true_id="845"></meta>
+
+<authors><author> Marvin L. Minsky</author>.</authors><title> Theory of neural-analog reinforcement systems and its application to the brain-model problem. </title><tech>PhD thesis, </tech><institution>Princeton University, </institution><date>1954.</date>
+
+<meta reference_no="270" cluster_no="93" true_id="816"></meta>
+
+<authors><author> G. J. Gordon</author>.</authors><title> Stable fitted reinforcement learning. </title><editor>In D. Touretzky, M. Mozer, and M. Hasselmo, editors, </editor><booktitle>Advances in Neural Information Processing Systems, </booktitle><volume>volume 8. </volume><publisher>MIT Press, </publisher><date>1996.</date>
+
+<meta reference_no="271" cluster_no="94" true_id="786"></meta>
+
+<authors><author> Sridhar Mahadevan</author> and <author>Jonathan Connell</author>.</authors><title> Automatic programming of behavior-based robots using reinforcement learning. </title><tech>Research Report RC 16359, </tech><institution>IBM T.J. Watson Research Center, </institution><date>December 1990.</date>
+
+<meta reference_no="272" cluster_no="94" true_id="786"></meta>
+
+<authors><author> S. Mahadevan</author> and <author>J. Connell.</author></authors><title> Automatic programming of behavior-based robots using reinforcement learning. </title><tech>Technical report, </tech><institution>IBM T. J. Watson Research Center,</institution><location> NY 10598,</location><date> 1990.</date>
+
+<meta reference_no="273" cluster_no="95" true_id="788"></meta>
+
+<authors><author> Lambert Wixson</author>.</authors><title> Scaling reinforcement learning techniques via modularity. </title><booktitle>In Proceedings of the Eight International Workshop on Machine Learning, </booktitle><pages>pages 368-372. </pages><publisher>Morgan Kaufmann, </publisher><date>1991.</date>
+
+<meta reference_no="274" cluster_no="95" true_id="788"></meta>
+
+<authors><author> Lambert E. Wixson</author>,</authors><title> "Scaling Reinforcement Learning Techniques via Modularity," </title><booktitle>In Proceedings of the Eighth International Workshop on Machine Learning, </booktitle><date>June 1991.</date>
+
+<meta reference_no="275" cluster_no="95" true_id="788"></meta>
+
+<authors><author>Wixson, L. E.</author></authors><date> (1991). </date><title>Scaling reinforcement learning techniques via modularity. </title><editor>In Birnbaum, L. A. and Collins, G. C., editors, </editor><booktitle>Machine Learning: Proceedings of the Eighth International Workshop (ML91), </booktitle><pages>pages 368-372. </pages><publisher>Morgan Kaufmann Publishers.</publisher>
+
+<meta reference_no="276" cluster_no="96" true_id="755"></meta>
+
+<O>3. </O><authors><author>R.S. Sutton</author>,</authors> <title>Temporal credit assignment in reinforcement learning, </title><tech>Ph.D. Thesis, </tech><institution>Department of Computer and Information Science, University of Massachussets,</institution><date>1984.</date>
+
+<meta reference_no="277" cluster_no="96" true_id="755"></meta>
+
+<authors><author> Sutton, R.S.</author></authors><title> Temporal credit assignment in reinforcement learning </title><tech>Ph.D. dissertation </tech><note>at </note><institution>University of Massachusets </institution><date>(1984).</date>
+
+<meta reference_no="278" cluster_no="96" true_id="755"></meta>
+
+<O>27. </O><authors><author>R. S. Sutton</author>.</authors><title> Temporal Credit Assignment in Reinforcement Learning. </title><tech>Phd. thesis, </tech><institution>University of Massachusetts, </institution><location>Amherst, </location><date>1984.</date>
+
+<meta reference_no="279" cluster_no="96" true_id="755"></meta>
+
+<authors><author>Sutton, R. S.</author></authors><date> (1984). </date><title>Temporal Credit Assignment in Reinforcement Learning. </title><tech>PhD thesis, </tech><institution>University of Massachusetts, </institution><location>Amherst, Massachusetts.</location>
+
+<meta reference_no="280" cluster_no="96" true_id="755"></meta>
+
+<authors><author>Sutton, R. S.</author></authors><date> (1984). </date><title>Temporal credit assignment in reinforcement learning. </title><tech>PhD thesis, </tech><institution>University of Massachusetts, </institution><location>Amherst.</location>
+
+<meta reference_no="281" cluster_no="96" true_id="755"></meta>
+
+<authors><author> R. S. Sutton</author>.</authors><title> Temporal Credit Assignment in Reinforcement Learning. </title><tech>Phd. thesis, </tech><institution>University of Massachusetts, </institution><location>Amherst, </location><date>1984.</date>
+
+<meta reference_no="282" cluster_no="96" true_id="755"></meta>
+
+<authors><author> R. S. Sutton</author>.</authors><title> Temporal Credit Assignment in Reinforcement Learning. </title><tech>PhD thesis, </tech><institution>University of Massachusetts, Dept. of Comp. and Inf. Sci., </institution><date>1984.</date>
+
+<meta reference_no="283" cluster_no="96" true_id="755"></meta>
+
+<authors><author>Sutton, R.S.</author></authors><date> 1984. </date><title>Temporal credit assignment in reinforcement learning. </title><institution>University of Massachusetts. Departement of Computer and Information Science. </institution><tech>Technical Report 84-2. </tech><location>Amherst, MA.</location>
+
+<meta reference_no="284" cluster_no="96" true_id="755"></meta>
+
+<authors><author>Sutton, R. S.</author></authors><date> (1984). </date><title>Temporal credit assignment in  reinforcement learning. </title><tech>Ph.D. Dissertation, </tech><institution>University of Massachusetts, Amherst </institution><note>(also </note><tech>COINS Technical Report 84-02).</tech>
+
+<meta reference_no="285" cluster_no="96" true_id="755"></meta>
+
+<authors><author>Sutton, R. S.</author></authors><date> (1984). </date><title>Temporal credit assignment in reinforcement learning. </title><tech>Ph.D. Dissertation, </tech><institution>Department of Computer and Information Science, University of Massachusetts, Amherst </institution><note>(also </note><tech>COINS Technical Report 84-02).</tech>
+
+<meta reference_no="286" cluster_no="96" true_id="755"></meta>
+
+<authors><author>Sutton, R. S.</author>,</authors><date> 1984. </date><title>Temporal credit assignment in reinforcement learning. </title><tech>Ph.D. dissertation, </tech><institution>Dept. of computer and information science, University of Massachusetts, </institution><location>Amherst, MA.</location>
+
+<meta reference_no="287" cluster_no="97" true_id="841"></meta>
+
+<authors><author>Gullapalli V.</author></authors><date> (1995), </date><title>Skillful control under uncertainty via direct reinforcement learning. </title><journal>Robotics and Autonomous Systems, </journal><volume>Vol 15, </volume><pages>pp 237-246.</pages>
+
+<meta reference_no="288" cluster_no="98" true_id="790"></meta>
+
+<authors><author> Long Ji Lin</author>.</authors><title> Self-improvment based on reinforcement learning, planning, and teaching. </title><booktitle>In Proceedings of the Eighth International Workshop on Machine Learning, </booktitle><date>1991.</date>
+
+<meta reference_no="289" cluster_no="98" true_id="790"></meta>
+
+<authors><author> Long-Ji Lin</author>.</authors><title> Self-improving based on reinforcement learning, planning, and teaching. </title><booktitle>In Proceedings of the Eighth International Workshop on Machine Learning, </booktitle><location>Evanston, Illinois,</location><date> 1991. </date><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="290" cluster_no="99" true_id="769"></meta>
+
+<authors><author> Jurgen Schmidhuber</author>.</authors><title> A general method for multiagent reinforcement learning in unrestricted envi ronments. </title><booktitle>In Adaptation, Coevolution and Learning in Multiagent Systems: Papers from the 1996 AAAI Spring Symposium, </booktitle><pages>pages 8487, </pages><location>Menlo Park,CA,</location><date> March 199</date>
+
+<meta reference_no="291" cluster_no="100" true_id="787"></meta>
+
+<authors><author> Sridhar Mahadevan</author> and <author>Jonathan Connell</author>.</authors><title> Scaling reinforcement learning to robotics by exploiting the subsumption architecture. </title><booktitle>In Proceedings of Machine Learning Workshop '91, </booktitle><date>July 1991.</date>
+
+<meta reference_no="292" cluster_no="100" true_id="787"></meta>
+
+<authors><author> Sridhar Mahadevan</author> and <author>Jonathan Connell</author>.</authors><title> Scaling reinforcement learning to robotics by exploiting the subsumption architecture. </title><booktitle>In Proceedings of the Eighth International Workshop on Machine Learning, </booktitle><date>1991.</date>
+
+<meta reference_no="293" cluster_no="101" true_id="781"></meta>
+
+<authors><author> Long-Ji Lin</author> and <author>Tom Mitchell</author>.</authors><title> Memory approaches to reinforcement learning in nonmarkovian domains. </title><tech>Technical Report CMU-CS-92138, </tech><institution>School of Computer Science, Carnegie Mellon University, </institution><date>1992.</date>
+
+<meta reference_no="294" cluster_no="101" true_id="781"></meta>
+
+<authors><author> L.-J. Lin</author> and <author>T. Mitchell</author>.</authors><title> Memory approaches to reinforcement learning in nonMarkovian domains. </title><tech>Technical Report CMU-CS-92-138, </tech><institution>Carnegie Mellon University, </institution><date>May 1992.</date>
+
+<meta reference_no="295" cluster_no="102" true_id="808"></meta>
+
+<authors><author>Baird, L.C.</author>, & <author>Klopf, A. H.</author></authors><date> (1993). </date><title>Reinforcement learning with highdimensional, continuous actions Wright-Patterson Air Force Base, OH. </title><tech>(Wright Laboratory technical report WL-TR-93-1147,</tech><note> available from the Defense Technical information Center, Cameron S</note>
+
+<meta reference_no="296" cluster_no="103" true_id="830"></meta>
+
+<authors><author>Storck, J.</author>,<author> Hochreiter, S.</author>, and<author> Schmidhuber, J.</author></authors><date> (1995). </date><title>Reinforcement driven information acquisition in nondeterministic environments. </title><booktitle>In Proceedings of the International Conference on Artificial Neural Networks, </booktitle><volume>volume 2, </volume><pages>pages 159-164. </pages><publisher>EC2 & Cie,</publisher><location> Paris</location>
+
+<meta reference_no="297" cluster_no="104" true_id="863"></meta>
+
+<authors><author> Robert Levinson</author>,</authors><title> General Game-Playing and Reinforcement Learning. </title><tech>UCSC-CRL-9506. </tech><institution>University of California, Santa Cruz.</institution>
+
+<meta reference_no="298" cluster_no="105" true_id="874"></meta>
+
+<authors><author>Chrisman, L.</author></authors><date> (1993), </date><title>Notational conventions for the reinforcement learning workshop at ML93,</title><note> Personal Communication.</note>
+
+<meta reference_no="299" cluster_no="106" true_id="802"></meta>
+
+<authors><author> J. del R. Millan</author>,</authors><title> Building Reactive Path-Finders through Reinforcement Connectionist Learning: Three Issues and An Architecture. </title><booktitle>Proc. 10th European Conf on AI, </booktitle><location>Vienna Austria, </location><date>1992.</date>
+
+<meta reference_no="300" cluster_no="106" true_id="802"></meta>
+
+<authors><author> J. del R. Millan</author>,</authors><title> Building Reactive Path-Finders through Reinforcement Connectionist Learning: Three Issues and An Architecture. </title><booktitle>Proc. 10th European Conf on AI, </booktitle><location>Vienna Austria, </location><date>1992.</date>
+
+<meta reference_no="301" cluster_no="107" true_id="886"></meta>
+
+<authors><author> Minoru Asada</author>, <author>Shoichi Noda</author>, <author>Sukoya Tawaratsumida</author>, and <author>Koh Hosoda</author>.</authors><title> Purposive behavior acquisition on a real robot by visionbased reinforcement learning. </title><booktitle>In Proc. of MLC-COLT (Machine Learning Confernce and Computer Learning Theory)</booktitle><O> W</O>
+
+<meta reference_no="302" cluster_no="107" true_id="886"></meta>
+
+<O>17. </O><authors><author>M. Asada</author>,<author>S. Noda</author>, <author>S. Tawaratsumida</author> and <author>K. Hosoda</author>,</authors><title> Purposive Behavior Acquisition On A Real Robot By A Vision-Based Reinforcement Learning, </title><booktitle>Proceedings of the MLT-COLT 94 Workshop on Robot Learning, </booktitle><location>New Brunswick, N.J., </location><date>1-9, 1994 .</date>
+
+<meta reference_no="303" cluster_no="107" true_id="886"></meta>
+
+<authors><author>Asada, M., S.</author><author> Noda, S.</author><author> Tawaratsumida and K.</author><author> Hosoda</author></authors><date> (1994a). </date><title>"purposive behavior acquisition on a real robot by vision-based reinforcement learning". </title><booktitle>In: Proc. of MLC-COLT (Machine Learning Conference and Computer Learning Theory) Workshop on Robot Learni</booktitle>
+
+<meta reference_no="304" cluster_no="108" true_id="869"></meta>
+
+<authors><author> S. Sathya Keerthi</author> and <author>B. Ravindran</author>.</authors><title> A tutorial survey of reinforcement learning. </title><journal>Sadhana, </journal><volume>19(6):</volume><pages>851-889, </pages><date>1994.</date>
+
+<meta reference_no="305" cluster_no="109" true_id="784"></meta>
+
+<authors><author>Lin, L.J.</author></authors><date> (1991). </date><title>Programming robots using reinforcement learning and teaching. </title><booktitle>In: Proceedings of the AAAI91.</booktitle>
+
+<meta reference_no="306" cluster_no="109" true_id="784"></meta>
+
+<authors><author>Lin, L.J.</author></authors><date> (1991). </date><title>Programming robots using reinforcement learning and teaching. </title><booktitle>In: 9th International Conference on Artificial Intelligence, </booktitle><date>AAA-91.</date>
+
+<meta reference_no="307" cluster_no="109" true_id="784"></meta>
+
+<authors><author> Lin, L.</author>,</authors><title> Programming robots using reinforcement learning and teaching. </title><booktitle>In Proc. of the Ninth National Conference on Artificial Intelligence, </booktitle><date>1991.</date>
+
+<meta reference_no="308" cluster_no="109" true_id="784"></meta>
+
+<authors><author>Lin, L.</author>,</authors><title> Programming robots using reinforcement learning and teaching. </title><booktitle>In Proc. of the Ninth National Conference on Artificial Intelligence, </booktitle><date>1991.</date>
+
+<meta reference_no="309" cluster_no="109" true_id="784"></meta>
+
+<authors><author> Lin, L.</author>,</authors><title> Programming robots using reinforcement learning and teaching. </title><booktitle>In Proc. of the Ninth National Conference on Artificial Intelligence, </booktitle><date>1991.</date>
+
+<meta reference_no="310" cluster_no="109" true_id="784"></meta>
+
+<authors><author>Lin, L.-J.</author></authors><date> (1991). </date><title>Programming Robots Using Reinforcement Learning and Teaching. </title><booktitle>In Proceedings of the Ninth National Conference on Artificial Intelligence. </booktitle><publisher>MIT Press, </publisher><pages>781-786.</pages>
+
+<meta reference_no="311" cluster_no="109" true_id="784"></meta>
+
+<authors><author> Long-Ji Lin</author>.</authors><title> Programming robots using reinforcement learning and teaching. </title><publisher>AAAI, </publisher><date>1991.</date>
+
+<meta reference_no="312" cluster_no="110" true_id="893"></meta>
+
+<authors><author> L. M. Gambardella</author> and <author>M. Dorigo</author>.</authors><title> Ant-Q: A Reinforcement Learning Approach to the Traveling Salesman Problem. </title><booktitle>In Proceedings of the Twelfth Iternational Conference on Machine Learning, </booktitle><pages>pages 252-260. </pages><publisher>Morgan Kaufmann, </publisher><date>1995.</date>
+
+<meta reference_no="313" cluster_no="110" true_id="893"></meta>
+
+<authors><author> L. M. Gambardella</author> and <author>M. Dorigo</author>.</authors><title> Ant-Q: A Reinforcement Learning Approach to the Traveling Salesman Problem. </title><booktitle>In Proceedings of the Twelfth Iternational Conference on Machine Learning, </booktitle><pages>pages 252-260. </pages><publisher>Morgan Kaufmann, </publisher><date>1995.</date>
+
+<meta reference_no="314" cluster_no="110" true_id="893"></meta>
+
+<authors><author>Gambardella, L. M. </author>and <author>Dorigo, M.</author>,</authors><date> 1995, </date><title>Ant-Q: A Reinforcement Learning approach to the traveling salesman problem, </title><booktitle>in: Proceedings of ML-95, Twelfth International Conference on Machine Learning, </booktitle><editor>A. Prieditis and S. Russell (eds.) </editor><publisher>(Morgan Kaufmann, </publisher><location>San</location>
+
+<meta reference_no="315" cluster_no="110" true_id="893"></meta>
+
+<authors><author>Gambardella, L. M. </author>and <author>Dorigo, M.</author>,</authors><date> 1995, </date><title>Ant-Q: A Reinforcement Learning approach to the traveling salesman problem, </title><booktitle>in: Proceedings of ML-95, Twelfth International Conference on Machine Learning, </booktitle><editor>A. Prieditis and S. Russell (eds.) </editor><publisher>(Morgan Kaufmann, </publisher><location>San</location>
+
+<meta reference_no="316" cluster_no="111" true_id="822"></meta>
+
+<authors><author> P. Cichosz</author>,</authors><title> "Truncating Temporal Differences: On the Efficient Implementation of TD(lambda) for Reinforcement Learning", </title><journal>Journal of Artificial Intelligence Research, </journal><volume>no. 2, </volume><pages>pp. 286-318, </pages><date>1995.</date>
+
+<meta reference_no="317" cluster_no="111" true_id="822"></meta>
+
+<authors><author> P. Cichosz</author>.</authors><title> Truncating temporal differences: On the efficient implementation of TD(>=) for reinforcement learning. </title><journal>JAIR, </journal><volume>2:</volume><pages>287-318, </pages><date>1995.</date>
+
+<meta reference_no="318" cluster_no="112" true_id="898"></meta>
+
+<authors><author>Mahadevan, S.</author></authors><date> (1992). </date><title>Enhancing transfer in reinforcement learning by building stochastic models of robot actions. </title><booktitle>In Proceedings of the Ninth International Conference on Machine Learning </booktitle><pages>(pp. 290-299). </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufmann Publishers.</publisher>
+
+<meta reference_no="319" cluster_no="112" true_id="898"></meta>
+
+<authors><author>Mahadevan, S.</author></authors><date> 1992. </date><title>Enhancing transfer in reinforcement learning by building stochastic models of robot actions. </title><booktitle>In Proceedings of the Ninth International Conference on Machine Learning </booktitle><pages>(pp. 290-299). </pages><location>San Mateo, CA: </location><publisher>Morgan Kaufmann Publishers.</publisher>
+
+<meta reference_no="320" cluster_no="112" true_id="898"></meta>
+
+<authors><author> S. Mahadevan</author>.</authors><title> Enhancing Transfer in Reinforcement Learning by Building Stochastic Models of Robot Actions. </title><booktitle>In Machine Learning: Proceedings of the Ninth International Workshop. </booktitle><publisher>Morgan Kaufmann, </publisher><date>June 1992.</date>
+
+<meta reference_no="321" cluster_no="112" true_id="898"></meta>
+
+<authors><author>Mahadevan, S.</author>,</authors><date> 1992. </date><title>Enhancing transfer in reinforcement learning by building stochastic models of robots actions. </title><booktitle>Proceedings of the 9th Conference on Machine Learning, </booktitle><location>Aberdeen, Scotland, </location><pages>290299.</pages>
+
+<meta reference_no="322" cluster_no="113" true_id="828"></meta>
+
+<authors><author> J. H. Schmidhuber</author>.</authors><title> Reinforcement learning with interacting continually running fully recurrent networks. </title><booktitle>In Proc. INNC International Neural Network Conference,</booktitle><location> Paris, </location><volume>volume 2, </volume><pages>pages 817820, </pages><date>1990.</date>
+
+<meta reference_no="323" cluster_no="114" true_id="750"></meta>
+
+<authors><author>Singh, S.</author>,</authors><title> Scaling reinforcement learning algorithms by learning variable temporal resolution models. </title><booktitle>In Proc. of the Ninth International Workshop on Machine Learning, </booktitle><date>1992.</date>
+
+<meta reference_no="324" cluster_no="114" true_id="750"></meta>
+
+<authors><author> Singh, S.</author>,</authors><title> Scaling reinforcement learning algorithms by learning variable temporal resolution models. </title><booktitle>In Proc. of the Ninth International Workshop on Machine Learning, </booktitle><date>1992.</date>
+
+<meta reference_no="325" cluster_no="114" true_id="750"></meta>
+
+<authors><author> Singh, S.</author>,</authors><title> Scaling reinforcement learning algorithms by learning variable temporal resolution models. </title><booktitle>In Proc. of the Ninth International Workshop on Machine Learning, </booktitle><date>1992.</date>
+
+<meta reference_no="326" cluster_no="114" true_id="750"></meta>
+
+<authors><author> Satinder P. Singh</author>.</authors><title> Scaling reinforcement learning algorithms by learning variable temporal resolution models. </title><booktitle>In The Proceedings of the Ninth Internation Machine Learning Conference. </booktitle><publisher>Morgan Kaufmann Publishers, Inc., </publisher><date>1992.</date>
+
+<meta reference_no="327" cluster_no="115" true_id="847"></meta>
+
+<authors><author>Gullapalli, V.</author></authors><date> (1990). </date><title>A stochastic reinforcement learning algorithm for learning real valued functions. </title><journal>Neural Networks </journal><volume>3, </volume><pages>671-692.</pages>
+
+<meta reference_no="328" cluster_no="116" true_id="764"></meta>
+
+<authors><author> Long-Ji Lin</author> and <author>Tom M. Mitchell</author>.</authors><title> Reinforcement learning with hidden states. </title><booktitle>In Proceedings of the Second International Conference on Simulation of Adaptive Behavior: From Animals to Animats, </booktitle><date>1992.</date>
+
+<meta reference_no="329" cluster_no="116" true_id="764"></meta>
+
+<authors><author> Long-Ji Lin</author> and <author>Tom M. Mitchell</author>.</authors><title> Reinforcement learning with hidden states. </title><booktitle>In Proceedings of the Second International Conference on Simulation of Adaptive Behavior: From Animals to Animats, </booktitle><date>1992.</date>
+
+<meta reference_no="330" cluster_no="117" true_id="896"></meta>
+
+<authors><author>Moriarty, D. E.</author>, and <author>Miikkulainen, R.</author></authors><date> (1994a). </date><title>Efficient reinforcement learning through symbiotic evolution. </title><tech>Technical Report AI94-224, </tech><institution>Department of Computer Sciences, The University of Texas at Austin.</institution>
+
+<meta reference_no="331" cluster_no="118" true_id="876"></meta>
+
+<authors><author> W. Zhang</author>.</authors><title> Reinforcement Learning for Job-Shop Scheduling. </title><tech>PhD thesis, </tech><institution>Oregon State University, </institution><date>1996.</date>
+
+<meta reference_no="332" cluster_no="118" true_id="876"></meta>
+
+<authors><author> W. Zhang</author>.</authors><title> Reinforcement Learning for Job-Shop Scheduling. </title><tech>PhD thesis, </tech><institution>Oregon State University, </institution><date>1996.</date>
+
+<meta reference_no="333" cluster_no="119" true_id="762"></meta>
+
+<authors><author> Mark Ring</author>.</authors><title> Two methods for hierarchy learning in reinforcement enviroments. </title><booktitle>In From Animals to Animats 2: Proceedings of the 2nd International Conference on Simulation of Adaptive Behaviour:. </booktitle><publisher>MIT Press, </publisher><date>1992.</date>
+
+<meta reference_no="334" cluster_no="120" true_id="798"></meta>
+
+<authors><author> S. Mahadevan</author>,</authors><title> "Average Reward Reinforcement Learning: Foundations, Algorithms, and Empirical Results", </title><journal>Machine Learning, </journal><note>Special Issue on Reinforcement Learning</note><editor> (edited by Leslie Kaebling), </editor><date>vol. 22, </date><pages>pp. 159-196, </pages><date>1996.</date>
+
+<meta reference_no="335" cluster_no="120" true_id="798"></meta>
+
+<authors><author>Mahadevan, S.</author></authors><date> (1996). </date><title>Average reward reinforcement learning: Foundations, algorithms, and empirical results. </title><journal>Machine Learning, </journal><volume>22(1/2/3):</volume><pages>159-196.</pages>
+
+<meta reference_no="336" cluster_no="121" true_id="881"></meta>
+
+<authors><author> Mance E. Harmon</author>.</authors><title> Reinforcement learning: A tutorial. </title><note>http://eureka1.aa.wpafb.af.mil/rltutorial/.</note>
+
+<meta reference_no="337" cluster_no="122" true_id="891"></meta>
+
+<authors><author> M. Asada</author>, <author>E. Uchibe</author>, <author>S. Noda</author>, <author>S. Tawaratsumida</author>, and <author>K. Hosoda</author>.</authors><title> "A vision-based reinforcement learning for coordination of soccer playing behaviors". </title><booktitle>In Proc. of AAAI-94 Workshop on AI and A-life and Entertainment, </booktitle><pages>pages 16-21, </pages><date>1994.</date>
+
+<meta reference_no="338" cluster_no="123" true_id="866"></meta>
+
+<authors><author>Gullapalli, V.</author>, <author>J. A. Franklin</author> and <author>H. Benbrahim</author></authors><date> (1994). </date><title>Acquiring robot skills via reinforcement learning. </title><journal>IEEE Control Systems Magazine </journal><volume>14(1), </volume><pages>13 - 24.</pages>
+
+<meta reference_no="339" cluster_no="123" true_id="866"></meta>
+
+<authors><author>Gullapalli, V.</author>, <author>J. A. Franklin</author> and <author>H. Benbrahim</author></authors><date> (1994). </date><title>Acquiring robot skills via reinforcement learning. </title><journal>IEEE Control Systems Magazine </journal><volume>14(1), </volume><pages>13 - 24.</pages>
+
+<meta reference_no="340" cluster_no="124" true_id="864"></meta>
+
+<authors><author>Szepesvari, C.</author></authors><date> (1995). </date><title>General framework for reinforcement learning. </title><booktitle>In Proceedings of ICANN'95 Paris.</booktitle>
+
+<meta reference_no="341" cluster_no="125" true_id="827"></meta>
+
+<authors><author>Whitley, D.</author>,<author> Dominic, S. </author>and<author> Das, R.</author></authors><date> (1991). </date><title>Genetic Reinforcement Learning with Multilayer Neural Networks. </title><booktitle>Proceedings of the Fourth International Conference on Genetic Algorithms, </booktitle><pages>pp. 562-569. </pages><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="342" cluster_no="125" true_id="827"></meta>
+
+<authors><author> D. Whitley</author>, <author>S. Dominic</author>, and <author>R. Das</author>.</authors><title> Genetic reinforcement learning with multilayer neural networks. </title><booktitle>In Proceedings of the Fourth International Conference on Genetic Algorithms, </booktitle><pages>pages 562-569. </pages><publisher>Morgan Kaufmann, </publisher><date>1991.</date>
+
+<meta reference_no="343" cluster_no="126" true_id="895"></meta>
+
+<authors><author>Baird, L.C.</author></authors><date> (1995). </date><title>Residual Algorithms: Reinforcement Learning with Function Approximation. </title><editor>In Armand Prieditis & Stuart Russell, eds. </editor><booktitle>Machine Learning: Proceedings of the Twelfth International Conference, </booktitle><date>9-12 July, </date><publisher>Morgan Kaufman Publishers, </publisher><location>San Franc</location>
+
+<meta reference_no="344" cluster_no="126" true_id="895"></meta>
+
+<authors><author>Baird, L. C.</author></authors><date> (1995). </date><title>Residual Algorithms: Reinforcement Learning with Function Approximation.</title><editor> In Armand Prieditis & Stuart Russell, eds. </editor><booktitle>Machine Learning: Proceedings of the Twelfth International Conference, </booktitle><date>9-12 July, </date><publisher>Morgan Kaufman Publishers, </publisher><location>San Fran</location>
+
+<meta reference_no="345" cluster_no="126" true_id="895"></meta>
+
+<authors><author>Baird, L. C.</author></authors><date> (1995) </date><title>"Residual Algorithms: Reinforcement Learning with Function Approximation," </title><editor>in Prieditis & Russell, eds. </editor><booktitle>Machine Learning: Proceedings of the Twelfth International Conference, </booktitle><date>9-12 July, </date><publisher>Morgan Kaufman Publishers, </publisher><location>San Francisco, CA.</location>
+
+<meta reference_no="346" cluster_no="127" true_id="862"></meta>
+
+<authors><author>Harmon, M. E.</author>,<author> Baird, L. C.</author>, &<author> Klopf, A. H.</author></authors><date> (1996). </date><title>Reinforcement learning applied to a differential game. </title><journal>Adaptive Behavior, </journal><volume>4(1), </volume><pages>3-28.</pages>
+
+<meta reference_no="347" cluster_no="128" true_id="812"></meta>
+
+<authors><author>Moore, A. W. </author>&<author> Atkeson, C. G.</author></authors><date> (1995). </date><title>The Parti-game algorithm for variable resolution reinforcement learning in multidimensional state-spaces, </title><journal>Machine Learning, </journal><volume>21.</volume>
+
+<meta reference_no="348" cluster_no="128" true_id="812"></meta>
+
+<authors><author> A. W. Moore</author> and <author>C. G. Atkeson</author>.</authors><title> The Parti-game Algorithm for Variable Resolution Reinforcement Learning in Multidimensional State-spaces. </title><journal>Machine Learning, </journal><volume>21,</volume><date> 1995.</date>
+
+<meta reference_no="349" cluster_no="128" true_id="812"></meta>
+
+<authors><author> A. W. Moore</author> and <author>C. G. Atkeson</author>.</authors><title> The Parti-game Algorithm for Variable  Resolution Reinforcement Learning in Multidimensional State-spaces. </title><journal>Machine Learning, </journal><volume>21, </volume><date>1995.</date>
+
+<meta reference_no="350" cluster_no="128" true_id="812"></meta>
+
+<authors><author>Moore, A. W. </author>and<author> Atkeson, C. G.</author></authors><date> (1995). </date><title>The parti-game algorithm for variable resolution reinforcement learning in multidimensional state-spaces. </title><journal>Machine Learning, </journal><volume>21, </volume><pages>119-223.</pages>
+
+<meta reference_no="351" cluster_no="129" true_id="829"></meta>
+
+<authors><author> M.A. Pokorny</author>,</authors><title> "A Method of Tuning Fuzzy Sets by Reinforcement Learning", </title><tech>Master's Thesis, </tech><institution>Department of Computer Science and Engineering, Univ. of South Florida, </institution><location>Tampa, Fl., </location><date>April 1996.</date>
+
+<meta reference_no="352" cluster_no="130" true_id="833"></meta>
+
+<authors><author>Maclin, R.</author>, &<author> Shavlik, J.</author></authors><date> 1994. </date><title>Incorporating advice into agents that learn from reinforcements. </title><tech>Technical Report 1227, </tech><institution>CS Dept., Univ. of Wisconsin-Madison.</institution>
+
+<meta reference_no="353" cluster_no="131" true_id="849"></meta>
+
+<authors><author> M. Wiering</author> and <author>J. Schmidhuber</author>.</authors><title> HQ-Learning: Discovering Markovian subgoals for non-Markovian reinforcement learning. </title><tech>Technical Report IDSIA-95-96, </tech><location>IDSIA, </location><date>1996.</date>
+
+<meta reference_no="354" cluster_no="131" true_id="849"></meta>
+
+<authors><author>Wiering, M. A. </author>and<author> Schmidhuber, J.</author></authors><date> (1996a). </date><title>HQ-Learning: Discovering Markovian subgoals for non-Markovian reinforcement learning. </title><tech>Technical Report IDSIA-96-96, </tech><institution>IDSIA.</institution>
+
+<meta reference_no="355" cluster_no="132" true_id="795"></meta>
+
+<authors><author> Lonnie Chrisman</author>.</authors><title> Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In AAAI-92, </booktitle><date>1992.</date>
+
+<meta reference_no="356" cluster_no="132" true_id="795"></meta>
+
+<authors><author> Lonnie Chrisman</author>.</authors><title> Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In AAAI-92, </booktitle><date>1992.</date>
+
+<meta reference_no="357" cluster_no="132" true_id="795"></meta>
+
+<authors><author>Chrisman, L.</author></authors><date> (1992). </date><title>Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In Proc. Tenth National Conference on AI (AAAI).</booktitle>
+
+<meta reference_no="358" cluster_no="132" true_id="795"></meta>
+
+<authors><author> L. Chrisman</author>.</authors><title> Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In Proceedings of the Tenth International Conference on Artificial Intelligence, </booktitle><pages>pages 183-188. </pages><publisher>AAAI Press, </publisher><location>San Jose, California, </location><date>1992.</date>
+
+<meta reference_no="359" cluster_no="132" true_id="795"></meta>
+
+<authors><author>Chrisman, L.</author></authors><date> 1992. </date><title>Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In Proceedings of the Tenth National Conference on Artificial Intelligence, </booktitle><pages>183-188. </pages><location>San Jose, California: </location><publisher>AAAI Press.</publisher>
+
+<meta reference_no="360" cluster_no="132" true_id="795"></meta>
+
+<authors><author>Chrisman, L.</author></authors><date> (1992). </date><title>Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In Proceedings of the Tenth International Conference on Artificial Intelligence, </booktitle><pages>pages 183-188. </pages><publisher>AAAI Press, </publisher><location>San Jose, California.</location>
+
+<meta reference_no="361" cluster_no="132" true_id="795"></meta>
+
+<authors><author>Chrisman, L.</author></authors><date> (1992). </date><title>Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In Proceedings of the Tenth International Conference on Artificial Intelligence, </booktitle><pages>pages 183-188. </pages><publisher>AAAI Press, </publisher><location>San Jose, California.</location>
+
+<meta reference_no="362" cluster_no="132" true_id="795"></meta>
+
+<authors><author>Chrisman, L.</author></authors><date> (1992). </date><title>Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In Proceedings of the Tenth International Conference on Artificial Intelligence, </booktitle><pages>pages 183-188. </pages><publisher>AAAI Press, </publisher><location>San Jose, California.</location>
+
+<meta reference_no="363" cluster_no="132" true_id="795"></meta>
+
+<authors><author> Lonnie Chrisman</author>.</authors><title> Reinforcement learning with perceptual aliasing: The perceptual distinctions approach. </title><booktitle>In Proceedings of the Tenth National Conference on Artificial Intelligence, </booktitle><pages>pages 183-188, </pages><location>San Jose, California, 1992. </location><publisher>AAAI Press.</publisher><O>  31</O>
+
+<meta reference_no="364" cluster_no="133" true_id="879"></meta>
+
+<editor> R.S. Sutton, editor.</editor><booktitle> Reinforcement Learning.</booktitle><publisher> Kluwer,</publisher><date> 1992.</date>
+
+<meta reference_no="365" cluster_no="134" true_id="877"></meta>
+
+<authors><author>Williams, R. J.</author>,</authors><date> 1992. </date><title>Simple statistical gradient-following algorithms for connectionist reinforcement learning. </title><booktitle>Machine Learning , </booktitle><volume>8, 3-4,</volume><pages> 229256.</pages>
+
+<meta reference_no="366" cluster_no="134" true_id="877"></meta>
+
+<authors><author>Williams, R.J.</author></authors><date> (1992). </date><title>Simple statistical gradient-following algorithms for connectionist reinforcement learning. </title><booktitle>Machine Learning, </booktitle><volume>8, 3-4, </volume><pages>229256.</pages>
+
+<meta reference_no="367" cluster_no="134" true_id="877"></meta>
+
+<authors><author>Williams, R. J.</author></authors><date> (1992). </date><title>Simple statistical gradientfollowing algorithms for connectionist reinforcement learning. </title><booktitle>Machine Learning, </booktitle><volume>8(3), </volume><pages>229256.</pages>
+
+<meta reference_no="368" cluster_no="135" true_id="813"></meta>
+
+<authors><author> J.A. Boyan</author> and <author>A.W. Moore</author>.</authors><title> Generalization in reinforcement learning: Safely approximating the value  function. </title><booktitle>In Advances in Neural Information Processing Systems </booktitle><volume>7. </volume><publisher>Morgan Kaufmann, </publisher><date>1995.</date>
+
+<meta reference_no="369" cluster_no="135" true_id="813"></meta>
+
+<authors><author>J. A. Boyan</author> and <author>A. W. Moore</author>.</authors><title> Generalization in reinforcement learning: safely approximating the value function. </title><editor>In G. Tesauro and D. Touretzky, editors, </editor><booktitle>Advances in Neural Information Processing Systems, </booktitle><pages>volume 7. </pages><publisher>Morgan Kaufmann, </publisher><date>1995.</date>
+
+<meta reference_no="370" cluster_no="135" true_id="813"></meta>
+
+<authors><author> J. A. Boyan</author> and <author>A. W. Moore</author>.</authors><title> Generalization in reinforcement learning: safely approximating the value function. </title><booktitle>In Advances in Neural Information Processing Systems </booktitle><volume>7, </volume><location>San Mateo, CA, 1995. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="371" cluster_no="135" true_id="813"></meta>
+
+<authors><author> J. A. Boyan</author> and <author>A. W. Moore</author>.</authors><title> Generalization in reinforcement learning: safely approximating the value function. </title><booktitle>In Advances in Neural Information Processing Systems 6, </booktitle><location>San Mateo, CA, 1995. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="372" cluster_no="135" true_id="813"></meta>
+
+<authors><author> J. A. Boyan</author> and <author>A. W. Moore</author>.</authors><title> Generalization in Reinforcement Learning: Safely Approximating the Value Function. </title><booktitle>In Neural Information Processing Systems </booktitle><volume>7, </volume><date>1995.</date>
+
+<meta reference_no="373" cluster_no="135" true_id="813"></meta>
+
+<authors><author> J. A. Boyan</author> and <author>A. W. Moore</author>.</authors><title> Generalization in reinforcement learning: Safely approximating the value function. </title><editor>In G. Tesauro, D. S. Touretzky, and T. K. Leen, editors, </editor><booktitle>Advances in Neural Information Processing Systems </booktitle><volume>7. </volume><publisher>MIT Pres</publisher>
+
+<meta reference_no="374" cluster_no="135" true_id="813"></meta>
+
+<authors><author> J. A. Boyan</author> and <author>A. W. Moore.</author></authors><title> Generalization in reinforcement learning: Safely approximating the value function. </title><editor>In G. Tesauro, D. S. Touretzky, and T. K. Leen, editors, </editor><booktitle>Advances In Neural Information Processing Systems </booktitle><volume>7. </volume><publisher>MIT Pres</publisher>
+
+<meta reference_no="375" cluster_no="136" true_id="875"></meta>
+
+<authors><author> D. Bertsekas.</author></authors><note> Talk</note><date>, 1996. </date><note>Given at the NSF workshop on reinforcement learning.</note>
+
+<meta reference_no="376" cluster_no="137" true_id="821"></meta>
+
+<authors><author>Dorigo M.</author> and <author>L.M. Gambardella</author>,</authors><date> 1995. </date><title>Ant-Q: A Reinforcement Learning Approach to Combinatorial Optimization. </title><tech>Tech. Rep. IRIDIA/95-01, </tech><institution>Universit Libre de Bruxelles, Belgium.</institution>
+
+<meta reference_no="377" cluster_no="138" true_id="767"></meta>
+
+<authors><author> Jieyu Zhao</author> and <author>Juergen Schmidhuber</author>.</authors><title> Incremental selfimprovement for lifelong multi agent reinforcement learning. </title><booktitle>In Fourth International Conference on Simulation of Adaptive Behavior, </booktitle><location>Cape Cod, USA, </location><date>1996.</date>
+
+<meta reference_no="378" cluster_no="138" true_id="767"></meta>
+
+<authors><author>Zhao, J. </author>and <author>Schmidhuber, J.</author></authors><date> (1996). </date><title>Incremental self-improvement for life-time multi-agent reinforcement learning. </title><editor>In Maes, P., Mataric, M., Meyer, J.-A., Pollack, J., and Wilson, S. W., editors, </editor><booktitle>From Animals to Animats 4: Proceedings of the Fourth Inte</booktitle>
+
+<meta reference_no="379" cluster_no="138" true_id="767"></meta>
+
+<authors><author>Zhao, J. </author>and <author>Schmidhuber, J.</author></authors><date> (1996). </date><title>Incremental self-improvement for life-time multi-agent reinforcement learning. </title><editor>In Maes, P., Mataric, M., Meyer, J.-A., Pollack, J., and Wilson, S. W., editors, </editor><booktitle>From Animals to Animats 4: Proceedings of the Fourth Inte</booktitle>
+
+<meta reference_no="380" cluster_no="138" true_id="767"></meta>
+
+<authors><author> J. Zhao</author> and <author>J. Schmidhuber</author>.</authors><title> Incremental self-improvement for life-time multi-agent reinforcement learning. </title><editor>In Pattie Maes, Maja Mataric, Jean-Arcady Meyer, Jordan Pollack, and Stewart W. Wilson, editors, </editor><booktitle>From Animals to Animats 4: Proceedings of the</booktitle>
+
+<meta reference_no="381" cluster_no="138" true_id="767"></meta>
+
+<authors><author> Jieyu Zhao </author><author>Jurgen H. Schmidhuber</author>.</authors><title> Incremental self-improvement for life-time multiagent reinforcement learning. </title><editor>In Pattie Maes, Maja J. Mataric, Jean-Arcady Meyer, Jordan Pollack, and Stewart W. Wilson, editors, </editor><booktitle>From Animals to Animats: Proceedings</booktitle>
+
+<meta reference_no="382" cluster_no="139" true_id="774"></meta>
+
+<authors><author>Dietterich, T. G.</author>, & <author>Flann, N.</author></authors><date> (1995). </date><title>Explanationbased learning and reinforcement learning: A unifed view. </title><booktitle>In Proceedings of Machine Learning Conference.</booktitle>
+
+<meta reference_no="383" cluster_no="140" true_id="834"></meta>
+
+<authors><author>Thrun, S.</author></authors><date> (1992), </date><title>Efficient exploration in reinforcement learning, </title><tech>Technical Report CMU-CS-92-102, </tech><institution>CMU School of Computer Science.</institution>
+
+<meta reference_no="384" cluster_no="140" true_id="834"></meta>
+
+<authors><author>Thrun, S.</author></authors><date> (1992). </date><title>Efficient exploration in reinforcement learning. </title><tech>Technical Report CMU-CS-92102, </tech><institution>Carnegie-Mellon University.</institution>
+
+<meta reference_no="385" cluster_no="140" true_id="834"></meta>
+
+<authors><author> Sebastian B. Thrun</author>.</authors><title> Efficient exploration in reinforcement learning. </title><tech> Technical Report CMU-CS-92-102, </tech><institution>CMU Comp. Sci. Dept., </institution><date>January 1992.</date>
+
+<meta reference_no="386" cluster_no="140" true_id="834"></meta>
+
+<authors><author> Sebastian B. Thrun</author>.</authors><title> Efficient exploration in reinforcement learning. </title><tech>Technical Report CMU-CS92-102, </tech><institution>School of Computer Science, Carnegie Mellon University, </institution><date>1992.</date>
+
+<meta reference_no="387" cluster_no="140" true_id="834"></meta>
+
+<O>8. </O><authors><author>S.B. Thrun</author>,</authors><title> Efficient exploration in reinforcement learning, </title><tech>Technical Report CMUCS-92-102, </tech><institution>Carnegie Mellon University, </institution><location>Pittsburgh, PA 15213, USA, </location><date>1992.</date>
+
+<meta reference_no="388" cluster_no="140" true_id="834"></meta>
+
+<authors><author> S. Thrun</author>.</authors><title> Efficient exploration in reinforcement learning. </title><tech>Technical Report CMUCS-92-102, </tech><institution>Carnegie Mellon University, </institution><date>March 1992.</date>
+
+<meta reference_no="389" cluster_no="141" true_id="754"></meta>
+
+<authors><author> Tan, M.</author></authors><date> 1993. </date><title>Multi-agent reinforcement learning: independent vs. cooperative agents. </title><booktitle>In Proceedings of the Tenth International Conference on Machine Learning, </booktitle><location>Amherst, Massachusetts. </location><publisher>Morgan Kaufmann.</publisher>
+
+<meta reference_no="390" cluster_no="141" true_id="754"></meta>
+
+<authors><author> Ming Tan</author>.</authors><title> Multiagent reinforcement learning: Independent vs. cooperative agents. </title><booktitle>In Proceedings of the Tenth International Conference on Machine Learning, </booktitle><pages>pages 330337, </pages><date>1993.</date>
+
+<meta reference_no="391" cluster_no="142" true_id="882"></meta>
+
+<authors><author> David H. Ackley</author> and <author>Michael L. Littman</author>.</authors><title> Generalization and scaling in reinforcement learning. </title><booktitle>In Touretzky</booktitle>
+
+<meta reference_no="392" cluster_no="143" true_id="873"></meta>
+
+<authors><author> T. W. Sandholm</author> and <author>R. H. Crites</author>.</authors><title> Multiagent reinforcement learning and the iterated prisoner's dilemma. </title><journal>Biosystems Journal, </journal><note>(Submitted), </note><date>1995.</date>
+
+<meta reference_no="393" cluster_no="144" true_id="777"></meta>
+
+<authors><author> Satinder Pal Singh</author>, <author>Tommi Jaakkola</author>, and <author>Michael I. Jordan</author>.</authors><title> Model-free reinforcement learning for non-markovian decision problems. </title><booktitle>In The Proceedings of the Eleventh International Machine Learning Conference. </booktitle><publisher>Morgan Kaufmann Publisher</publisher>
+
+<meta reference_no="394" cluster_no="144" true_id="777"></meta>
+
+<authors><author> Singh, Satinder Pal</author>; <author>Jaakkola, Tommi</author>; and <author>Jordan, Michael I.</author></authors><date> 1994. </date><title>Model-free reinforcement learning for non-markovian decision problems. </title><booktitle>In Proceedings of the Machine Learning Conference. </booktitle><note>To appear.</note>
+
+<meta reference_no="395" cluster_no="144" true_id="777"></meta>
+
+<authors><author> Satinder Pal Singh</author>, <author>Tommi Jaakkola</author>, and <author>Michael I. Jordan</author>.</authors><title> Model-free reinforcement learning for non-Markovian decision problems. </title><booktitle>In Proceedings of the Eleventh International Conference on Machine Learning, </booktitle><pages>pages 284-292, </pages><location>San Francisco, California,</location>
+
+<meta reference_no="396" cluster_no="145" true_id="848"></meta>
+
+<authors><author> Ram, A. </author>and <author>J.C. Santamaria</author>,</authors><title> A multistrategy case-based and reinforcement learning approach to self-improving reactive control systems for autonomous robotic navigation. </title><booktitle>In Proc. of the Second International Workshop on MultiStrategy Learning, </booktitle><date>1993.</date>
+
+<meta reference_no="397" cluster_no="145" true_id="848"></meta>
+
+<authors><author> Ram, A.</author> and <author>J.C. Santamaria</author>,</authors><title> A multistrategy case-based and reinforcement learning approach to self-improving reactive control systems for autonomous robotic navigation. </title><booktitle>In Proc. of the Second International Workshop on MultiStrategy Learning, </booktitle><date>1993.</date>
+
+<meta reference_no="398" cluster_no="146" true_id="791"></meta>
+
+<authors><author>Littman, M. L.</author>, and <author>Boyan, J. A.</author></authors><date> (1993). </date><title>A distributed reinforcement learning scheme for network routing. </title><tech>Technical Report CMU-CS-93-165, </tech><institution>School of Computer Science, Carnegie Mellon University.</institution>
+
+<meta reference_no="399" cluster_no="146" true_id="791"></meta>
+
+<authors><author> M. Littman</author> and <author>J. Boyan</author>.</authors><title> A distributed reinforcement learning scheme for network routing. </title><tech>Technical Report CMU-CS-93-165, </tech><institution>School of Computer Science, Carnegie Mellon University, </institution><date>1993.</date>
+
+<meta reference_no="400" cluster_no="147" true_id="819"></meta>
+
+<authors><author> S. Davies</author>.</authors><title> Applying grid-based interpolation to reinforcement learning. </title><booktitle>In submitted Neural Information Processing Systems</booktitle><volume> 9, </volume><date>1996.</date>
+
+<meta reference_no="401" cluster_no="148" true_id="885"></meta>
+
+<authors><author>Asada, M.</author>, <author>S. Noda</author>, <author>S. Tawaratsumida</author> and <author>K. Hosoda</author></authors><date> (1994b). </date><title>"Vision-based behavior acquisition for a shooting robot by using a reinforcement learning".</title>
+
+<meta reference_no="402" cluster_no="149" true_id="844"></meta>
+
+<authors><author>Ring, M. B.</author></authors><date> (1995). </date><title>Continual Learning in Reinforcement Environments. </title><publisher>R. Oldenbourg Verlag,</publisher><location> Munchen, Wien.</location>
+
+<meta reference_no="403" cluster_no="150" true_id="860"></meta>
+
+<authors><author>Kaelbling, L. P.</author></authors><date> (1993a). </date><title>Associative reinforcement learning: A generate and test algorithm. </title><journal>Machine Learning. </journal><note>To appear.</note>
+
+<meta reference_no="404" cluster_no="151" true_id="878"></meta>
+
+<authors><author> M. Asada</author>, <author>S. Noda</author>, <author>S. Tawaratsumida</author>, and <author>K. Hosoda</author>.</authors><title> Vision-based reinforcement learning for purposive behavior acquisition. </title><booktitle>In Proc. of IEEE Int. Conf. on Robotics and Automation, </booktitle><pages>pages 146-153, </pages><date>1995. </date><O> Figure 7: The robot succeeded i</O>
+
+<meta reference_no="405" cluster_no="151" true_id="878"></meta>
+
+<authors><author>Asada, M., S.</author><author> Noda, S.</author><author> Tawaratsumida</author> and <author>K. Hosoda</author></authors><date> (1995). </date><title>Vision-based reinforcement learning for purposive behavior acquisition. </title><booktitle>In: Proc. of IEEE Int. Conf. on Robotics and Automation. </booktitle><pages>pp. 146-153.</pages>
+
+<meta reference_no="406" cluster_no="152" true_id="825-2"></meta>
+
+<authors><author> Whitehead S. </author>& <author>Ballard D.</author>,</authors><title> Active Perception and Reinforcement Learning, </title><booktitle>In: Proceedings of the Seventh International Conference on Machine Learning, </booktitle><location>Austin, Texas, </location><date>1990.</date>
+
